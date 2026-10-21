@@ -9,6 +9,8 @@
 **Resultado:**
 - 64 mods atualizados pelo Modrinth e 18 pelo ATM10.
 - 1 dependência nova: **Simply Tooltips**, que o Simply Swords 1.70 exige.
+- O Simply Swords 1.70 deixou de trazer o livro *Runic Grimoire*. Por isso o Akashic Tome inicial passa a ter 22 livros, e não mais 23.
+- Instalação pelo packwiz testada do zero: os 380 mods são os mesmos da instância de referência. Só o SCC precisa de download manual (veja o INSTALL.md).
 - Removida a cópia duplicada do **CC: Tweaked** (sai a 1.113.1, fica a 1.120.2).
 - O **Structory: Towers** ficou na 1.0.16. O arquivo da 1.0.17 não é reconhecido como mod válido pelo NeoForge e impedia o jogo de abrir.
 - Não foram atualizados:
