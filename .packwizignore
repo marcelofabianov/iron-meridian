@@ -1,0 +1,9 @@
+# Arquivos do repositório que não fazem parte do modpack
+README.md
+INSTALL.md
+CHANGELOG.md
+LICENSE
+.github/
+.gitignore
+.gitattributes
+docs/

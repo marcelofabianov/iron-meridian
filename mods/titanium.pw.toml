@@ -1,0 +1,13 @@
+name = "Titanium"
+filename = "titanium-1.21-4.0.32.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/8xgyJPGh/titanium-1.21-4.0.32.jar"
+hash-format = "sha512"
+hash = "97fd18109438bb97aa50f598c26e589fde20a396bc9ccf8ce2b1769deb5c9afdfbe279cd77eff179b424d86b9544659d217ac068ac27cdc7c834f2a5f1a0c531"
+
+[update]
+[update.modrinth]
+mod-id = "1Ro7m06l"
+version = "8xgyJPGh"

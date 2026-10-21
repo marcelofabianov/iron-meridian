@@ -1,0 +1,12 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:gems/sapphire": "null",
+  "c:silicon": "refinedstorage:silicon",
+  "c:gems/apatite": "null",
+  "c:dusts/saltpeter": "immersiveengineering:dust_saltpeter",
+  "c:ingots/graphite": "bigreactors:graphite_ingot",
+  "c:gems/ruby": "null",
+  "c:dusts/niter": "null",
+  "c:rubbers": "null",
+  "c:gems/peridot": "null"
+}

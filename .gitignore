@@ -1,0 +1,8 @@
+# Nunca versionar binários de mods ou arquivos do jogo
+*.jar
+*.zip
+!shaderpacks/*.pw.toml
+logs/
+crash-reports/
+saves/
+.cache/

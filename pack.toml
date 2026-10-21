@@ -1,0 +1,13 @@
+name = "Iron Meridian"
+author = "marcelofabianov"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6c70790e4dec848968c1c6298eda73778903a1eeb030fecec66f5c61fe4e3aca"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"

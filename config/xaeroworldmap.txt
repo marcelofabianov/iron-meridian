@@ -1,0 +1,5 @@
+ignoreUpdate:0
+updateNotification:false
+differentiateByServerAddress:true
+debug:false
+globalVersion:1

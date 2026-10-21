@@ -1,0 +1,13 @@
+name = "Infinite Water Block"
+filename = "infinitewaterblock-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BLE1Vhak/versions/VEfCpUCX/infinitewaterblock-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "95935986c0e72bf20afe370efafe3dcd9e587bcd097cd3418f57c2bbef2de32b721bd761b0c1bd52629104a0e4d34ec4dab6f6a86dcbf9dc51dc00d014148abd"
+
+[update]
+[update.modrinth]
+mod-id = "BLE1Vhak"
+version = "VEfCpUCX"

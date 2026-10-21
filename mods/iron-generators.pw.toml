@@ -1,0 +1,13 @@
+name = "Iron Generators"
+filename = "irongenerators-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "036dccfcdf6af34def6c00f0e80e20b3f30af457"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8679261
+project-id = 446489

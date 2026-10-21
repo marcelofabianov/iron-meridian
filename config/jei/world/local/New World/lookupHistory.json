@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"xycraft_world:immortal_aluminum_dark"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"xycraft_world:matte_xychorium_bricks_light"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:light_gray_oven"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

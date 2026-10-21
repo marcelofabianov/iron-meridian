@@ -1,0 +1,18 @@
+#Whether to push water automatically
+autoPush = true
+#Whether the block should accept water input. This will void any water that is inputted.
+acceptWater = false
+#Whether the block should require being powered by redstone to push water
+requireRedstoneToPush = false
+#How much water to push per side per tick
+# Default: 2147483647
+# Range: > 1
+pushAmount = 2147483647
+#How many tanks the block should have (leave it at 1 if you dont know what this does)
+# Default: 1
+# Range: > 1
+tankCount = 1
+#How much water each tank should have (in mb)
+# Default: 2147483647
+# Range: > 1
+amountPerTank = 2147483647

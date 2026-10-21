@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"recipe":"projecte:collector_mk3","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"mekanismgenerators:wind_generator"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:crafting_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ae2:cell_component_1k"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"ae2:network/cells/item_storage_components_cell_4k_part","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"ae2:quartz_glass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"ae2:network/cells/item_storage_components_cell_16k_part","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"ae2:network/cells/item_storage_components_cell_64k_part","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"sophisticatedstorage:oak_limited_barrel_3","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"sophisticatedstorage:stack_upgrade_tier_4"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sophisticatedstorage:basic_to_diamond_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powah:ender_cell_spirited"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

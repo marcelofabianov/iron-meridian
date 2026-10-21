@@ -1,0 +1,26 @@
+[energy_output]
+	# Unit: Forge Energy / Tick
+	iron_generator_output = 20.0
+	stone_generator_output = 5.0
+	gold_generator_output = 40.0
+	diamond_generator_output = 80.0
+	emarald_generator_output = 75.0
+	crystal_generator_output = 100.0
+	obsidian_generator_output = 160.0
+	copper_generator_output = 12.0
+	netherite_generator_output = 640.0
+	allthemodium_generator_output = 1024.0
+	vibranium_generator_output = 4096.0
+	unobtainium_generator_output = 16484.0
+
+[miscellaneous]
+	# Speed increase in decimal units (0.5 = +50%)
+	speed_augment_increase = 0.5
+	# Efficiency increase in decimal units (0.5 = +50%)
+	efficiency_augment_increase = 0.5
+	# Maximal energy multiplier with overdrive augment in decimal units (2 = 200% = +100%)
+	overdrive_augment_max_output = 2.0
+	# Time until explosion in seconds
+	overdrive_max_time = 60.0
+	# If true enables lava after explosion caused by overdrive augment
+	enable_lava_drop_after_explosion = true

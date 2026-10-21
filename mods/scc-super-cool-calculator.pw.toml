@@ -1,0 +1,13 @@
+name = "SCC - Super Cool Calculator"
+filename = "scc-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64d5ae8f5d5fee8290d35fb83e144e2dcb373db7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9252241
+project-id = 1696954
