@@ -23,6 +23,8 @@ const EXTRA_GUIDES = [
   'integrateddynamics:on_the_dynamics_of_integration',
   'livingthings:lexicon',
   'modern_industrialization:guidebook',
+  'mts:mts.handbook_car',
+  'mts:mts.handbook_plane',
   'rftoolsbase:manual',
   'scc:guide',
   'xnet:xnet_manual'
@@ -102,5 +104,16 @@ PlayerEvents.loggedIn(event => {
 
     player.persistentData.putBoolean(GIVEN_FLAG, true)
     console.info(`[Iron Meridian] Akashic Tome entregue a ${player.username} com ${guides.length} livros`)
+
+    // Segunda varrida: remove livros-guia que algum mod entregar depois do tomo
+    event.server.scheduleInTicks(200, () => {
+      let removed = 0
+      for (let i = 0; i < inv.getContainerSize(); i++) {
+        let s = inv.getItem(i)
+        if (String(BuiltInRegistries.ITEM.getKey(s.getItem())) == 'akashictome:tome') continue
+        if (isGuide(s, guideIds)) { inv.setItem(i, ItemStack.EMPTY); removed++ }
+      }
+      if (removed > 0) console.info(`[Iron Meridian] ${removed} livro(s) entregue(s) depois do tomo foram removidos (já estão no tomo)`)
+    })
   })
 })

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.3 — 21/10/2026
+
+- Os manuais do Immersive Vehicles (carros e aviões) passam a ficar dentro do Akashic Tome.
+- O Immersive Vehicles não entrega mais os manuais e o scanner de peças na primeira entrada (`giveManualsOnJoin = false`). O scanner tem receita.
+- O script do tomo faz uma segunda varrida 10 segundos depois da entrega, para remover livros-guia que algum mod entregue atrasado.
+
 ## 1.1.2 — 21/10/2026
 
 - A configuração do Iris (shader ativo) passou a ser só um padrão inicial, via Configured Defaults. Antes, cada atualização do pack desfazia a escolha de shader do jogador.

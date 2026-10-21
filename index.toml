@@ -2942,7 +2942,7 @@ hash = "19a0eea3f0999ccaff8d26769d4157193ae2b7910d7ceb5890b510848e80cf96"
 
 [[files]]
 file = "config/mtsconfig.json"
-hash = "88d632f7f29a365e0f62e8e81b710418e3218f2433c4ad61eda0ed9d82d1a48a"
+hash = "318d3b9609925609104161f742815eddeb39c5b54a12d50e64a42be6a3224d91"
 
 [[files]]
 file = "config/mtsconfigclient.json"
@@ -3878,7 +3878,7 @@ hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "4d56436a2b1d09e59a6b95f8e48b0faee3936a56e9cd0630c5c88cd184d77fb0"
+hash = "43b12d90f74a914b35f6accb9300d185c34f89e0e44b59322bd594cab1ac0509"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
