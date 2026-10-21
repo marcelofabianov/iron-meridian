@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2 — 21/10/2026
+
+- A configuração do Iris (shader ativo) passou a ser só um padrão inicial, via Configured Defaults. Antes, cada atualização do pack desfazia a escolha de shader do jogador.
+- Documentado que, na primeira abertura, o jogo roda sem shader, porque o Colorwheel Patcher ainda está gerando a versão corrigida. Da segunda abertura em diante, o shader é ativado automaticamente.
+
 ## 1.1.1 — 21/10/2026
 
 - Configuração inicial do jogo com escala da interface 2 e brilho máximo, via Configured Defaults (`configureddefaults/options.txt`). Vale só para instalações novas: quem já tem um `options.txt` mantém as próprias configurações.

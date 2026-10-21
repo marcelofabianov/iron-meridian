@@ -11,7 +11,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 
 ## Avisos que aparecem no chat
 
-- **"[Colorwheel] The shader pack ... is not compatible"** na **primeira** abertura: o Colorwheel Patcher gera, nessa primeira abertura, a versão corrigida do shader para as naves do Create Aeronautics. Feche e abra o jogo de novo, e selecione **"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"** em Opções → Vídeo → Shader Packs. Não use o "fallback mode".
+- **Sem shader na primeira abertura.** O Iris tenta carregar o shader corrigido antes de o Colorwheel Patcher criá-lo, e o log mostra *"Pack ... is not valid"*. A partir da segunda abertura, o shader carrega normalmente. Para ativar na hora, selecione *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* em Opções → Vídeo → Shader Packs. Não use o "fallback mode" que o Colorwheel oferece no chat.
 - **"IV HAS DETECTED THAT ENTITY CULLING MOD IS PRESENT"**: o aviso aparece sempre, mas as exceções para os veículos do Immersive Vehicles já estão em `config/entityculling.json`.
 - **"Ender IO is in alpha"** e avisos de versão nova de algum mod: só informativos.
 - **Janela "não está respondendo" no Linux (GNOME)** durante o carregamento: o jogo continua carregando normalmente. Para tirar o aviso, aumente o tempo limite do GNOME com `gsettings set org.gnome.mutter check-alive-timeout 60000`.

@@ -22,7 +22,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 4. **Configure a memória.** Na aba **Java** das configurações da instância, defina a memória máxima entre **10240** e **12288 MB**.
 5. **Abra o jogo.** Na primeira vez, o instalador baixa os 380 mods. Isso demora alguns minutos.
    - **Um mod exige download manual:** o **SCC (Super Cool Calculator)**. O autor não permite que outros programas baixem o arquivo pelo CurseForge. O instalador mostra uma janela com o link. Baixe o [`scc-1.4.7.jar`](https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator/files/9252241), coloque-o em `minecraft/mods/` e abra o jogo de novo. Isso só é necessário uma vez. Todos os outros mods são baixados automaticamente.
-6. **Ative o shader** (opcional). Depois da **segunda** abertura, vá em **Opções → Vídeo → Shader Packs** e selecione **"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"**. Essa é a versão corrigida para as naves do Create Aeronautics, gerada pelo Colorwheel Patcher na primeira abertura.
+6. **Shader.** Na **primeira** abertura, o jogo roda **sem shader**. Nessa abertura, o Colorwheel Patcher gera a versão do Complementary corrigida para as naves do Create Aeronautics. A partir da **segunda** abertura, o shader *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* é ativado automaticamente. Para ativar sem reiniciar, vá em **Opções → Vídeo → Shader Packs**, selecione esse shader e clique em **Aplicar**.
 
 ## Primeiros passos no jogo
 

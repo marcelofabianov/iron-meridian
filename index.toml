@@ -2345,10 +2345,6 @@ file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
-file = "config/iris.properties"
-hash = "4674a7433c5832a2e90723c5cd0a8b7194d6b6de2004ef95442941121d04218b"
-
-[[files]]
 file = "config/irisSearchSettings.toml"
 hash = "ddd184afb9de4d78dd31abc91d725232ad18267b9ae5f8f6d8ff379534f018f8"
 
@@ -3843,6 +3839,10 @@ hash = "f54a722d0440720ddd02cddcc0516104a23dc7bcd992779039cd143ea2525306"
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "configureddefaults/config/iris.properties"
+hash = "4674a7433c5832a2e90723c5cd0a8b7194d6b6de2004ef95442941121d04218b"
 
 [[files]]
 file = "configureddefaults/options.txt"
