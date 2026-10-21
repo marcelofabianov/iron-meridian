@@ -250,7 +250,7 @@ hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "9d2b51bef2fbffeb57bdf447a7e16b09ca523e1fda132780b981c484e4570d53"
+hash = "1ed719d54bd589ea1c2729eb7b7655f0cc8e984fe52574ace96f8b0381be7bf1"
 
 [[files]]
 file = "config/amendments-client-1.toml.bak"

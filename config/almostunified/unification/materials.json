@@ -24,7 +24,16 @@
     "diorite",
     "granite",
     "netherrack",
-    "end_stone"
+    "end_stone",
+    "moon",
+    "mars",
+    "venus",
+    "mercury",
+    "glacio",
+    "depthrock",
+    "shiverstone",
+    "tremblecrust",
+    "dreadrock"
   ],
   "tags": [
     "c:dusts/{material}",
