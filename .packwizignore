@@ -7,3 +7,6 @@ LICENSE
 .gitignore
 .gitattributes
 docs/
+
+# Arquivos gerados pelos mods em tempo de execução
+config/almostunified/debug.json
