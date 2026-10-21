@@ -2486,7 +2486,8 @@ hash = "e137c96ebde2aabbcfab06c4893c14ef2e9369b523a6f10a131b52c68598f741"
 
 [[files]]
 file = "config/jei/client/jei-client.ini"
-hash = "ea28f776fb6bde9bd984237fb59da70b5be7d70104cab02978e20f4c62e0e463"
+hash = "b933abe71fd8394d2f97644fc9a560856b8d0ead2e95327b0f1c342def9c6798"
+preserve = true
 
 [[files]]
 file = "config/jei/client/jei-colors.ini"
@@ -2522,7 +2523,8 @@ hash = "a819a4db88bdb2d795928d91f8a1f853e2205d0d6ec86953c6799af6c9e1393e"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "2271fcfd80edc8983bd5d9ef4a16025074315d4d89617416f397e88ba3ccf321"
+hash = "b6f9109db8468ec5d7b1e5b81337caad9f72bf4e3e95483ec321e4530e967c7a"
+preserve = true
 
 [[files]]
 file = "config/jei/jei-client.ini.bak.1"

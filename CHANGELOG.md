@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.4 — 21/10/2026
+
+- A lista de itens do JEI passa a ocupar todo o espaço livre da tela (`maxColumns` e `maxRows` = 100). Antes eram 9 colunas e 16 linhas.
+- As configurações do JEI (`config/jei/jei-client.ini` e `config/jei/client/jei-client.ini`) ficam marcadas como `preserve`: o que o jogador mudar no jogo não é desfeito pelas atualizações do pack.
+
 ## 1.1.3 — 21/10/2026
 
 - Os manuais do Immersive Vehicles (carros e aviões) passam a ficar dentro do Akashic Tome.
