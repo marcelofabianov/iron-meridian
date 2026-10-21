@@ -3845,6 +3845,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "28002c9eedef5be6963bbbfbe1ff7d51d9537e240279bd1bb76c5ad1debfadaa"
+
+[[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
 

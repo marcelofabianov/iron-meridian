@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.1 — 21/10/2026
+
+- Configuração inicial do jogo com escala da interface 2 e brilho máximo, via Configured Defaults (`configureddefaults/options.txt`). Vale só para instalações novas: quem já tem um `options.txt` mantém as próprias configurações.
+- Removido do índice o `debug.json` gerado pelo Almost Unified, que causava erro de download no packwiz-installer.
+
 ## 1.1.0 — 21/10/2026
 
 **Critério:** cada mod foi atualizado para a versão **estável (release) mais nova** para NeoForge 1.21.1. Versões beta e alpha foram evitadas. Mods que só publicam beta ficaram na versão que já estava no pack. Mods publicados só no CurseForge foram atualizados para a versão que roda no ATM10 com o mesmo NeoForge.
