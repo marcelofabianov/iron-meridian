@@ -8,7 +8,20 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 - Java 21. O Prism baixa automaticamente se você deixar.
 - **Memória:** reserve de **10 a 12 GB** para a instância. O pack tem 380 mods.
 
-## Passo a passo
+## Método rápido: importar a instância pronta ⭐
+
+1. No Prism, clique em **Adicionar instância → Importar**.
+2. Cole o link abaixo e clique em **OK**. Se quiser, troque o nome para "Iron Meridian".
+   ```
+   https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
+   ```
+   A instância já vem configurada: Minecraft 1.21.1, NeoForge 21.1.251, 10 GB de memória, o packwiz-installer-bootstrap e o comando de pré-lançamento.
+3. Abra a instância e siga os itens **5 e 6** do passo a passo manual: download do SCC e shader.
+
+## Passo a passo manual
+
+Use este caminho se preferir montar a instância à mão.
+
 
 1. **Crie a instância.** No Prism, clique em **Adicionar instância → Personalizado**:
    - Versão do Minecraft: **1.21.1**
@@ -26,7 +39,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 
 ## Primeiros passos no jogo
 
-- Você começa com um **Akashic Tome** no slot 1, com todos os livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
+- Você começa com um **Akashic Tome** no slot 1, com os 24 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
 - O **FTB Essentials** libera `/sethome`, `/home`, `/back`, `/spawn` e `/rtp` sem precisar de cheats.
 - O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. Como o K tem várias funções no pack, vale trocar a tecla dele em **Controles**.
 

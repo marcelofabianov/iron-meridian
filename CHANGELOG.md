@@ -2,6 +2,7 @@
 
 ## 1.1.4 — 21/10/2026
 
+- README e INSTALL atualizados: instalação rápida por importação, selo de versão automático e todas as configurações atuais do pack.
 - Almost Unified: a unificação de minérios passa a valer também na **geração do mundo** e no **loot**. Antes, minérios repetidos de mods diferentes (urânio de 5 mods, chumbo, níquel, prata, alumínio, estanho e platina) nasciam todos no mundo. A lista de prioridade foi ampliada para cobrir Oritech, XyCraft, Extreme Reactors e outros. Vale só para chunks gerados depois da atualização.
 - A lista de itens do JEI passa a ocupar toda a altura livre da tela (`maxRows` = 100, antes 16). Continua com 9 colunas.
 - As configurações do JEI (`config/jei/jei-client.ini` e `config/jei/client/jei-client.ini`) ficam marcadas como `preserve`: o que o jogador mudar no jogo não é desfeito pelas atualizações do pack.

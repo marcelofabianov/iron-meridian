@@ -1,9 +1,22 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> Versão atual: **1.1.0** · **380 mods** · distribuído com [packwiz](https://packwiz.infra.link/).
+> **380 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+
+[![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
 **[Como instalar](INSTALL.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
+
+## Instalação rápida (Prism Launcher)
+
+1. No Prism, clique em **Adicionar instância → Importar** e cole o link:
+   ```
+   https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
+   ```
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 380 mods.
+3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
+
+Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
 
 ## Proposta
 
@@ -19,7 +32,8 @@ Além da tecnologia, o pack tem **construção e decoração** (Macaw's, Handcra
 | Magia | Não tem. A única exceção é o Mystical Agriculture com seus addons. |
 | Mundo | Biomas do Regions Unexplored, mais as dimensões Ad Astra (espaço) e The Undergarden |
 | Clima | Estações do ano (Serene Seasons) e temperatura do corpo (Cold Sweat) |
-| Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia |
+| Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia (24) |
+| Minérios | Unificados com o Almost Unified: cada minério e lingote repetido entre mods vira um só, inclusive na geração do mundo |
 
 ## Regras de construção do pack
 
@@ -92,18 +106,21 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 | O quê | Onde | Por quê |
 |---|---|---|
 | NeoForge 21.1.251 | `pack.toml` | O Agritech: Evolved exige a versão 21.1.250 ou mais nova |
-| Shader *ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5* | `shaderpacks/` | É a versão corrigida pelo Colorwheel Patcher para as naves do Create Aeronautics. O Patcher só tem correção para o Complementary 5.6 e 5.6.1. |
+| Shader Complementary Reimagined **r5.6.1** | `shaderpacks/` e `configureddefaults/config/iris.properties` | O pack baixa o shader original. Na primeira abertura, o Colorwheel Patcher gera a versão corrigida para as naves do Create Aeronautics (*"... + Clrwl_1.0.5.zip"*), que é ativada a partir da segunda abertura. O Patcher só tem correção para o Complementary 5.6 e 5.6.1. |
 | Exceções do Entity Culling: `mts:builder_existing`, `mts:builder_rendering`, `mts:builder_seat` | `config/entityculling.json` | Sem elas, o Entity Culling esconde os veículos do Immersive Vehicles |
 | Modelos de sala do Compact Machines | `config/openloader/packs/compactmachines_basic_templates` | Carrega os modelos que já vêm no mod em todos os mundos, inclusive nos novos |
 | Logistics Networks 1.16.3 | `mods/` | A versão 1.13.0 não tinha a classe que o SCC usa para se integrar |
-| Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `givePlayerBookOnJoin` (Advanced Peripherals), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics) | `config/` | Os livros ficam só no Akashic Tome |
+| Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `givePlayerBookOnJoin` (Advanced Peripherals), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics), `giveManualsOnJoin` (Immersive Vehicles) | `config/` | Os livros ficam só no Akashic Tome |
 | Configuração inicial do jogo: escala da interface **2**, brilho **máximo** e shader Complementary com patch | `configureddefaults/options.txt` e `configureddefaults/config/iris.properties` | O Configured Defaults aplica isso na primeira abertura, quando ainda não existe `options.txt`. Depois, você pode mudar nas opções do jogo, e a escolha é mantida. |
-| Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, monta um Akashic Tome com todos os livros-guia (Patchouli e guias próprios), coloca no slot 1 e remove os livros soltos. O tomo é montado pelo codec do jogo. |
+| Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, monta um Akashic Tome com todos os livros-guia (Patchouli e guias próprios, incluindo os manuais do Immersive Vehicles), coloca no slot 1 e remove os livros soltos. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |
 | Lithostitched 1.8.1 | `mods/` | O Regions Unexplored 0.6.3 usa o `lithostitched:holder_set`, que só existe a partir da 1.8.1. Com versões anteriores aparece "Errors in currently selected data packs" ao criar o mundo. |
-| Tempo de "não está respondendo" do GNOME: 60 s | `gsettings org.gnome.mutter check-alive-timeout` | Evita o aviso do sistema enquanto o pack carrega. Para voltar ao padrão, use o valor `5000`. |
+| Unificação de minérios | `config/almostunified/startup.json` e `config/almostunified/unification/materials.json` | Receitas, JEI, **geração do mundo** (`world_gen_unification`) e **loot** (`loot_unification`) unificados. Prioridade: Minecraft, KubeJS, Create, Immersive Engineering, Mekanism, Modern Industrialization, Oritech, XyCraft, Extreme Reactors e outros. |
+| JEI ocupando a altura da tela | `config/jei/jei-client.ini` e `config/jei/client/jei-client.ini` | `maxRows = 100` e `maxColumns = 9`. Os arquivos estão marcados como `preserve`, então o que você mudar nas opções do JEI não é desfeito pelas atualizações. |
 
 ## Sobre este repositório
 
 - O repositório **não contém nenhum arquivo de mod** (`.jar`). Cada mod é referenciado por um arquivo `.pw.toml`, com o link oficial no Modrinth ou no CurseForge e o hash do arquivo. O instalador baixa tudo direto das fontes oficiais.
 - `config/`, `defaultconfigs/` e `kubejs/` guardam as configurações e os scripts próprios do pack. O script mais importante é o que entrega o Akashic Tome no slot 1.
+- `configureddefaults/` guarda **padrões iniciais** (escala da interface, brilho, shader). O Configured Defaults copia esses arquivos só quando eles ainda não existem, então as escolhas do jogador são mantidas.
+- Configurações de preferência marcadas como `preserve` no `index.toml` não são sobrescritas nas atualizações.
 - A licença [MIT](LICENSE) vale só para os arquivos próprios do pack. Cada mod e o shader continuam sob a licença dos respectivos autores.
