@@ -242,7 +242,7 @@ hash = "43733b207b9f0238c7a5bec47f19e8fd5bec80499b286e0ac4994671702dfed9"
 
 [[files]]
 file = "config/almostunified/startup.json"
-hash = "37f013c49586db025c17f9fa6657c6f239e0169ebc97ef682ff114a2ede43c5e"
+hash = "a2b993fce12ea6a2b9bd0e95ba0baa5d4655b5ece58eb32eeee1cbb7bbe03b14"
 
 [[files]]
 file = "config/almostunified/tags.json"
@@ -250,7 +250,7 @@ hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "b017dcbbba88a2c36ec5a73a3792a93d1ff6080245aab513cea62fa5143d3aaf"
+hash = "9d2b51bef2fbffeb57bdf447a7e16b09ca523e1fda132780b981c484e4570d53"
 
 [[files]]
 file = "config/amendments-client-1.toml.bak"
