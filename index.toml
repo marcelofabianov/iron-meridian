@@ -3148,7 +3148,7 @@ hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "a405f8a8989b3812776addf69537318b2b0f8cb79f3bf2051c831567cb0f0d04"
+hash = "ed9c2f2f18c8eaf0712db1c919ff81c27e2f88af55985f4c64d7b5f921df1904"
 preserve = true
 
 [[files]]
