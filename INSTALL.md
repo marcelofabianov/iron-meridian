@@ -15,7 +15,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-   A instância já vem configurada: Minecraft 1.21.1, NeoForge 21.1.251, 10 GB de memória, o packwiz-installer-bootstrap e o comando de pré-lançamento.
+   A instância já vem configurada: Minecraft 1.21.1, NeoForge 21.1.251, 10 GB de memória fixa, ajustes de Java contra travadas, o packwiz-installer-bootstrap e o comando de pré-lançamento.
 3. Abra a instância e siga os itens **5 e 6** do passo a passo manual: download do SCC e shader.
 
 ## Passo a passo manual
@@ -32,7 +32,12 @@ Use este caminho se preferir montar a instância à mão.
    ```
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/marcelofabianov/iron-meridian/main/pack.toml
    ```
-4. **Configure a memória.** Na aba **Java** das configurações da instância, defina a memória máxima entre **10240** e **12288 MB**.
+4. **Configure a memória e o Java.** Na aba **Java** das configurações da instância:
+   - **Memória mínima e máxima iguais**, entre **10240** e **12288 MB**.
+   - Em **Argumentos da JVM**, cole a linha abaixo. São ajustes do coletor de lixo que reduzem travadas durante o jogo:
+     ```
+     -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1
+     ```
 5. **Abra o jogo.** Na primeira vez, o instalador baixa os 382 mods. Isso demora alguns minutos.
    - **Um mod exige download manual:** o **SCC (Super Cool Calculator)**. O autor não permite que outros programas baixem o arquivo pelo CurseForge. O instalador mostra uma janela com o link. Baixe o [`scc-1.4.7.jar`](https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator/files/9252241), coloque-o em `minecraft/mods/` e abra o jogo de novo. Isso só é necessário uma vez. Todos os outros mods são baixados automaticamente.
 6. **Shader.** Na **primeira** abertura, o jogo roda **sem shader**. Nessa abertura, o Colorwheel Patcher gera a versão do Complementary corrigida para as naves do Create Aeronautics. A partir da **segunda** abertura, o shader *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* é ativado automaticamente. Para ativar sem reiniciar, vá em **Opções → Vídeo → Shader Packs**, selecione esse shader e clique em **Aplicar**.

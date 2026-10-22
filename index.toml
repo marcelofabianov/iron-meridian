@@ -2184,7 +2184,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+hash = "14dbbd2263132652c93a8468752461f62db683b5e96970f8aa78593f1f77d514"
 
 [[files]]
 file = "config/modularrouters-client.toml"
