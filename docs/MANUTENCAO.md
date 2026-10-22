@@ -56,18 +56,18 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 
 1. **Confira as regras:** NeoForge 1.21.1, sem magia, sem conflito ou duplicidade, e **versão estável mais nova** (regra 9), mesmo que você tenha o `.jar` de outro pack, como o ATM10.
 2. **Adicione ao pack:**
-   - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`.
+   - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`. As dependências que ele adiciona sozinho vêm da página do Modrinth, que às vezes pede algo que **repete** um mod do pack (por exemplo, o *Iris & Oculus Flywheel Compat* faz o mesmo que o Colorwheel). Confira no `neoforge.mods.toml` do mod se a dependência é mesmo obrigatória antes de aceitar.
    - **CurseForge:** coloque o `.jar` em `mods/` e rode `packwiz curseforge detect`. Ele cria o `.pw.toml` e apaga o `.jar`.
 3. **Veja se o CurseForge permite download automático.** Instale o pack numa instância de teste (seção 6). Se o instalador pedir download manual, acrescente o mod em `scripts/manual-downloads.json` e documente no INSTALL.
 4. **Gere a lista de novo:** `python3 scripts/mods.py sync`, que atualiza o `mods.json` e o `docs/MODS.md`.
-5. **Documente:** destaque no README (se fizer sentido), o total de mods no README e no INSTALL, e uma linha no `PENDENTES.txt`.
+5. **Documente:** destaque no README (se fizer sentido), o total de mods no README e no INSTALL, o resumo de 3 linhas no `docs/GUIA-DOS-MODS.md` (na categoria certa, renumerando) e uma linha no `PENDENTES.txt`.
 
 ## 5. Remover um mod
 
 1. **Veja quem depende dele:** `python3 scripts/mods.py who-needs <modId>`. Se aparecer algum mod em "EXIGEM", **não remova**, ou remova os dois juntos.
 2. Remova: `packwiz remove <nome-do-arquivo-sem-.pw.toml>`.
 3. Apague as configurações dele em `config/`, se houver.
-4. Rode `python3 scripts/mods.py sync`, atualize a documentação e anote no `PENDENTES.txt`.
+4. Rode `python3 scripts/mods.py sync`, atualize a documentação (incluindo o `docs/GUIA-DOS-MODS.md`) e anote no `PENDENTES.txt`.
 
 ## 6. Testar numa instância temporária
 
@@ -76,6 +76,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
    ```bash
    packwiz serve -p 8766 --refresh=false
    ```
+   Depois de adicionar ou remover arquivos, rode `packwiz refresh` e **reinicie o `packwiz serve`**. Sem isso, ele responde 404 para os arquivos novos e o instalador cancela.
 3. **Instale na cópia:**
    ```bash
    java -jar packwiz-installer-bootstrap.jar -g -s client http://localhost:8766/pack.toml

@@ -2,7 +2,7 @@
 
 O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este guia sugere **caminhos** para quem não sabe por onde começar. Escolha uma ou duas rotas que combinem com o seu jogo e misture à vontade.
 
-> **Dica:** o **Akashic Tome** do slot 1 tem os livros-guia de quase todos os mods citados aqui. **Shift + clique direito** abre um livro e **Shift + clique esquerdo no ar** volta ao tomo. No JEI, **R** mostra a receita de um item e **U** mostra onde ele é usado.
+> **Dica:** o **Akashic Tome** do slot 1 tem os livros-guia de quase todos os mods citados aqui. **Shift + clique direito** escolhe o livro, **clique direito no ar** abre o livro escolhido e **Shift + clique esquerdo no ar** volta ao tomo. No JEI, **R** mostra a receita de um item e **U** mostra onde ele é usado.
 
 ---
 
@@ -10,7 +10,7 @@ O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este 
 
 **Sobrevivência**
 - 🍖 **Varie a comida.** O **Spice of Life** dá **corações extras permanentes** a cada marco de alimentos diferentes. O *Food Book* mostra o progresso. **Farmer's Delight** e **Cooking for Blockheads** ajudam muito.
-- 🌡️ **Atenção ao clima.** O **Serene Seasons** muda as estações, e o **Cold Sweat** faz a temperatura importar. No inverno, tenha roupas e uma fonte de calor. No verão, evite desertos sem proteção.
+- 🌡️ **Atenção ao clima.** O **Serene Seasons** muda as estações, e o **Cold Sweat** faz a temperatura importar. No inverno, tenha roupas e uma fonte de calor. No verão, evite desertos sem proteção. O dia dura **30 minutos** e a noite **10** (**Better Days**), e a cama acelera a noite em vez de pulá-la.
 - 🧭 **Comandos úteis, sem cheats** (**FTB Essentials**): `/sethome base`, `/home base`, `/back` (volta ao último lugar ou ao ponto de morte) e `/spawn`.
 - 🗺️ **Xaero's Minimap e World Map** marcam pontos de interesse. **Waystones** permitem viajar rápido entre bases.
 
@@ -61,7 +61,7 @@ Para quem quer **tudo em um terminal** e autocrafting.
 
 ### ⚡ Rota E: Energia
 Para quem quer abastecer tudo.
-1. **Início:** **Generators Galore** e **Iron Generators** (combustível), e painéis do **Solar Flux Reborn**.
+1. **Início:** **Generator Galore** e **Iron Generators** (combustível), e painéis do **Solar Flux Reborn**.
 2. **Meio:** **Powah** (geradores e baterias, com orbe de energização) e **Flux Networks** (energia sem fio entre bases).
 3. **Fim:** **Extreme Reactors** (reatores e turbinas configuráveis), os reatores do Mekanism e o **Dyson Cube Project**.
 

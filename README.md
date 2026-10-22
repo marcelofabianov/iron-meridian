@@ -5,7 +5,7 @@
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
-**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
+**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Guia dos mods](docs/GUIA-DOS-MODS.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
 ## Instalação rápida (Prism Launcher)
 
@@ -51,15 +51,15 @@ Toda mudança no pack segue estas regras:
 
 ## Destaques
 
-A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
+A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de cada mod, por categoria, está no [guia dos mods](docs/GUIA-DOS-MODS.md).
 
 ### Tecnologia e energia
 - **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation
 - **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
 - **Immersive Engineering**, **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
-- **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generators Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
-- **Extended Crafting**, **Hostile Neural Networks**, **Just Dire Things**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus**
+- **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
+- **Extended Crafting**, **Hostile Neural Networks**, **Just Dire Things**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
 
 ### Armazenamento e logística
 - **Applied Energistics 2**: ExtendedAE, Advanced AE, MEGA Cells, Expanded AE, AE2WTLib, AppliedFlux, Applied Mekanistics, ME Requester, Polymorphic Energistics, Soulplied Energistics, Immersive Energistics e outros
@@ -81,6 +81,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 
 ### Veículos e transporte
 - **Create Aeronautics**, **Immersive Vehicles** (com o MTS Official Pack), **Immersive Aircraft**, **Man of Many Planes**, **Iron Jetpacks**, **Waystones**, **Elevator Mod**, **Laser Bridges**
+- No mar: **Create: Deep Seas** (submarinos) e **Small Ships** (navios). Veja *Mar e navegação*, em *Mundo e exploração*.
 
 ### Mundo e exploração
 - **Regions Unexplored** (biomas, com madeiras, flores e plantas novas)
@@ -100,11 +101,11 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 
 ### Qualidade de vida
 - **JEI**, **Jade**, **Xaero's Minimap e World Map**, **Just Enough Resources**, **Akashic Tome**, **Chunky**, **Trade Cycling**, **Easy Villagers**, **Crash Assistant**, **AttributeFix**
-- **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Entity Culling**, **Not Enough Animations**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **ModelFix**, **Cherished Worlds**
+- **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Not Enough Animations**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **Model Gap Fix**, **Cherished Worlds**
 - **Mouse Tweaks**, **Inventory Tweaks Refoxed**, **Inventory Essentials**, **Controlling**, **AppleSkin**, **Gravestone**, **Lootr**, **Comforts**, **Polymorph**, **Simple Backups**
 - **FTB Essentials**: `/sethome`, `/home`, `/back`, `/spawn`, `/rtp` e outros comandos que funcionam sem cheats
 - **Dynamic FPS**, **Enchanting Infuser**, **Shulker Box Tooltip**, **Actually Harvest** (clique direito colhe e replanta)
-- **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Just Universal Keybinds. Já faziam parte do pack: Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
+- **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Universal Keybinds, Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
 
 ### Desempenho e gráficos
 - **Sodium**, **Iris** (shader *Complementary Reimagined r5.6.1 + Clrwl*), **ModernFix**, **FerriteCore**, **ImmediatelyFast**, **Entity Culling**, **AllTheLeaks**, **spark**
@@ -117,7 +118,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 | Shader Complementary Reimagined **r5.6.1** | `shaderpacks/` e `configureddefaults/config/iris.properties` | O pack baixa o shader original. Na primeira abertura, o Colorwheel Patcher gera a versão corrigida para as naves do Create Aeronautics (*"... + Clrwl_1.0.5.zip"*), que é ativada a partir da segunda abertura. O Patcher só tem correção para o Complementary 5.6 e 5.6.1. |
 | Exceções do Entity Culling: `mts:builder_existing`, `mts:builder_rendering`, `mts:builder_seat` | `config/entityculling.json` | Sem elas, o Entity Culling esconde os veículos do Immersive Vehicles |
 | Modelos de sala do Compact Machines | `config/openloader/packs/compactmachines_basic_templates` | Carrega os modelos que já vêm no mod em todos os mundos, inclusive nos novos |
-| Logistics Networks 1.16.3 | `mods/` | A versão 1.13.0 não tinha a classe que o SCC usa para se integrar |
+| Logistics Networks 1.16.3 ou mais nova (hoje 1.17.2) | `mods/` | A versão 1.13.0 não tinha a classe que o SCC usa para se integrar |
 | Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `givePlayerBookOnJoin` (Advanced Peripherals), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics), `giveManualsOnJoin` (Immersive Vehicles) | `config/` | Os livros ficam só no Akashic Tome |
 | Configuração inicial do jogo: escala da interface **2**, brilho **máximo** e shader Complementary com patch | `configureddefaults/options.txt` e `configureddefaults/config/iris.properties` | O Configured Defaults aplica isso na primeira abertura, quando ainda não existe `options.txt`. Depois, você pode mudar nas opções do jogo, e a escolha é mantida. |
 | Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, monta um Akashic Tome com todos os livros-guia (Patchouli e guias próprios, incluindo os manuais do Immersive Vehicles), coloca no slot 1 e remove os livros soltos. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |

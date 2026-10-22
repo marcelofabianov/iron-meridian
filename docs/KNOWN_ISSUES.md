@@ -8,6 +8,8 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Loot tables internas do `mekmm`, `create_connected`, `sfm`, `extendedae` e `createdieselgenerators`: bugs desses próprios mods.
 - Duas receitas do Agritech com Oh The Biomes We've Gone, e a textura do *Infused Farmland*: bugs do próprio Agritech.
 - "no onnxruntime" do Oracle Index: só desliga a busca inteligente do livro-guia.
+- "[GeckoLib] Unable to parse animation: idle/attack/sit": arquivos de animação de alguns mobs têm uma expressão que o GeckoLib não entende. No máximo, uma animação daquele mob não toca.
+- Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
 
 ## Avisos que aparecem no chat
 
@@ -16,5 +18,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - **"Ender IO is in alpha"** e avisos de versão nova de algum mod: só informativos.
 - **Janela "não está respondendo" no Linux (GNOME)** durante o carregamento: o jogo continua carregando normalmente. Para tirar o aviso, aumente o tempo limite do GNOME com `gsettings set org.gnome.mutter check-alive-timeout 60000`.
 - **Bloco ou item com textura roxa e preta.** Pode ser efeito do *dynamic resources* do ModernFix, que carrega modelos sob demanda. Abra uma *issue* informando o bloco ou item. Para desligar enquanto isso, mude `mixin.perf.dynamic_resources` para `false` em `config/modernfix-mixins.properties` e reinicie o jogo.
-- **"[GeckoLib] Unable to parse animation: idle/attack"** no log: um arquivo de animação de um dos mobs dos mods de combate tem uma expressão que o GeckoLib não entende. No máximo, uma animação daquele mob não toca. Não afeta o jogo.
+
+## Problemas ao abrir o jogo
+
 - **Raro: o jogo para na abertura com vários erros "already registered" / "Failed to wait for future Common setup".** É uma falha intermitente de carregamento simultâneo (no log aparece `ConcurrentModificationException` no `SolarFluxResourcePack`). Não é um problema do mundo nem da instalação: feche e abra o jogo de novo.
