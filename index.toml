@@ -4876,6 +4876,11 @@ hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
 metafile = true
 
 [[files]]
+file = "mods/weatherforecast.pw.toml"
+hash = "bacce3462ba37989003500c19f37a790c891583c0fe3ebfcbb00d835526c59e8"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "485906ff55a5d6ad06070abb80663d6adadc3e4b32f8b52240d8596e7aaef9fa"
 metafile = true

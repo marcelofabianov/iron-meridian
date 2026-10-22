@@ -1,0 +1,13 @@
+name = "WeatherForecast"
+filename = "weather_forecast-1.3.0-neoforge-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H2Szwg8v/versions/6tQvX0Wa/weather_forecast-1.3.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "e732aad63bcd098aaea41349368ef49f7b567f95e4959424837b6cb8bfeb60bdfb7bb1e01442b8c3b14b4060c0a2c7692280499f4ac2979b597876c221d2ea39"
+
+[update]
+[update.modrinth]
+mod-id = "H2Szwg8v"
+version = "6tQvX0Wa"
