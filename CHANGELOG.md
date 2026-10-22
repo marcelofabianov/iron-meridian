@@ -1,5 +1,33 @@
 # Changelog
 
+## 1.1.8 — 22/10/2026
+
+### Fauna
+- **Naturalist 2.0.7** entra no lugar do **LivingThings**, que repetia 8 dos animais dele. São 47 animais reais, como veados, ursos, cobras, pássaros e borboletas, com comportamento realista. Os animais do LivingThings que já existiam nos mundos somem.
+- **Critters and Companions 2.7.0**: bichos pequenos e de companhia, como furão, lontra, panda-vermelho, polvo-dumbo e aranha-saltadora, vários domesticáveis.
+- **Spawn 4.0.8**: vida aquática (atum, arenque, peixe-lua, polvo, foca, peixe-boi) e em terra (dodô, hamster, formigas).
+- **Ecologics 2.3.7**: caranguejo-do-coco, esquilo e pinguim, além de coqueiros e madeira de azaleia.
+
+### Ambiente
+- **AmbientSounds 6.3.11**: sons por bioma, hora e altura, como grilos à noite, vento nas montanhas e eco nas cavernas. O volume tem uma categoria própria em Opções → Sons.
+- **Better Days 3.3.6.3**: o **dia dura 30 minutos e a noite 10** (no Minecraft puro, 10 e 10). A cama **acelera o tempo** até amanhecer, em vez de pular a noite.
+
+### Mar e navegação
+- **Create: Deep Seas 3.3.0**: **submarinos com física**, construídos com o Create Aeronautics: tanque de lastro, hélice, leme, sonar, oxigênio a bordo e câmara de descompressão. Também traz velas, âncora, motor de barco e criaturas do abismo.
+- **Small Ships 2.0.2**: navios prontos, com canhões.
+- **When Dungeons Arise: Seven Seas 1.0.4**: navios-estrutura perigosos espalhados pelo oceano. Nascem em chunks novos.
+- **Ocean's Delight 1.0.4**: comidas do mar para o Farmer's Delight.
+
+### Mudanças e atualizações
+- **Removido o Squat Grow**: agachar perto de plantas não faz mais o efeito de farinha de osso.
+- **Trash Cans** atualizado para 1.1.2.
+- O Akashic Tome passa a ter **24 livros**, sem o manual do LivingThings.
+- Testado e **descartado** o Fresh Animations: com ele, aldeões e animais ficavam sem olhos.
+
+### Documentação
+- Novo **[guia dos mods](docs/GUIA-DOS-MODS.md)**: um resumo de 3 linhas de cada um dos **398 mods**, em 16 categorias.
+- Revisão geral de README, INSTALL e guias: nomes corrigidos, uso do Akashic Tome igual em todos e problemas conhecidos reorganizados.
+
 ## 1.1.7 — 22/10/2026
 
 ### Mods novos: desafio
