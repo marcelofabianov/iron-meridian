@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **380 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **381 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 380 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 381 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -32,7 +32,7 @@ Além da tecnologia, o pack tem **construção e decoração** (Macaw's, Handcra
 | Magia | Não tem. A única exceção é o Mystical Agriculture com seus addons. |
 | Mundo | Biomas do Regions Unexplored, mais as dimensões Ad Astra (espaço) e The Undergarden |
 | Clima | Estações do ano (Serene Seasons) e temperatura do corpo (Cold Sweat) |
-| Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia (24) |
+| Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia (25) |
 | Minérios | Unificados com o Almost Unified: cada minério e lingote repetido entre mods vira um só, inclusive na geração do mundo |
 
 ## Regras de construção do pack
@@ -75,6 +75,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 - **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals
 - **Agritech: Evolved**, **Botany Pots** (Mystical e Trees), **Productive Metalworks**, **Infinite Water Block**, **Haven Cobble Generators**
 - **Farmer's Delight**, **Cooking for Blockheads**, **Farming for Blockheads**
+- **Spice of Life: Carrot Edition**: cada alimento diferente que você come conta para ganhar **corações extras permanentes**. O progresso aparece no *Food Book*, que fica no Akashic Tome.
 
 ### Veículos e transporte
 - **Create Aeronautics**, **Immersive Vehicles** (com o MTS Official Pack), **Immersive Aircraft**, **Man of Many Planes**, **Iron Jetpacks**, **Waystones**, **Elevator Mod**, **Laser Bridges**

@@ -3880,7 +3880,7 @@ hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "43b12d90f74a914b35f6accb9300d185c34f89e0e44b59322bd594cab1ac0509"
+hash = "791298ac85eacdd6ef8b9706402b36df608a9951d548b2a1c675e30c3721f432"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -5539,6 +5539,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]

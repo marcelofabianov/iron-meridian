@@ -6,7 +6,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 
 - [Prism Launcher](https://prismlauncher.org/), versão recente
 - Java 21. O Prism baixa automaticamente se você deixar.
-- **Memória:** reserve de **10 a 12 GB** para a instância. O pack tem 380 mods.
+- **Memória:** reserve de **10 a 12 GB** para a instância. O pack tem 381 mods.
 
 ## Método rápido: importar a instância pronta ⭐
 
@@ -33,13 +33,13 @@ Use este caminho se preferir montar a instância à mão.
    "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/marcelofabianov/iron-meridian/main/pack.toml
    ```
 4. **Configure a memória.** Na aba **Java** das configurações da instância, defina a memória máxima entre **10240** e **12288 MB**.
-5. **Abra o jogo.** Na primeira vez, o instalador baixa os 380 mods. Isso demora alguns minutos.
+5. **Abra o jogo.** Na primeira vez, o instalador baixa os 381 mods. Isso demora alguns minutos.
    - **Um mod exige download manual:** o **SCC (Super Cool Calculator)**. O autor não permite que outros programas baixem o arquivo pelo CurseForge. O instalador mostra uma janela com o link. Baixe o [`scc-1.4.7.jar`](https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator/files/9252241), coloque-o em `minecraft/mods/` e abra o jogo de novo. Isso só é necessário uma vez. Todos os outros mods são baixados automaticamente.
 6. **Shader.** Na **primeira** abertura, o jogo roda **sem shader**. Nessa abertura, o Colorwheel Patcher gera a versão do Complementary corrigida para as naves do Create Aeronautics. A partir da **segunda** abertura, o shader *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* é ativado automaticamente. Para ativar sem reiniciar, vá em **Opções → Vídeo → Shader Packs**, selecione esse shader e clique em **Aplicar**.
 
 ## Primeiros passos no jogo
 
-- Você começa com um **Akashic Tome** no slot 1, com os 24 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
+- Você começa com um **Akashic Tome** no slot 1, com os 25 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
 - O **FTB Essentials** libera `/sethome`, `/home`, `/back`, `/spawn` e `/rtp` sem precisar de cheats.
 - O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. Como o K tem várias funções no pack, vale trocar a tecla dele em **Controles**.
 

@@ -27,6 +27,7 @@ const EXTRA_GUIDES = [
   'mts:mts.handbook_plane',
   'rftoolsbase:manual',
   'scc:guide',
+  'solcarrot:food_book',
   'xnet:xnet_manual'
 ]
 
