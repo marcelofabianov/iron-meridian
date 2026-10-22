@@ -3148,7 +3148,8 @@ hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "88d14188d9e0dfab26d20e735f90c00a7717e9655bd457d01aa190ebdf245c88"
+hash = "a405f8a8989b3812776addf69537318b2b0f8cb79f3bf2051c831567cb0f0d04"
+preserve = true
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
@@ -3877,6 +3878,10 @@ hash = "9e16d0d8aa1b5012a324dee66a458396213934919a4ed0d1839906a712beccc1"
 [[files]]
 file = "kubejs/server_scripts/flexible_item_tags.js"
 hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
+
+[[files]]
+file = "kubejs/server_scripts/iron_meridian_hammer.js"
+hash = "17b6aa513fc95e7b2a1b607a145ab7d04b95f04f8113ec20464e8c4315d6f3af"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
