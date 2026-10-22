@@ -79,6 +79,8 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 47 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
 | 48 | **F12** | Ligar/desligar o shader | Iris |
 | 49 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 50 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 51 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
 
 ### Sem tecla, de propósito
 
@@ -353,7 +355,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | C | Clear Crafting Grid into Storage | Tela |
 | Tab | Go to next terminal tab | Tela |
 | Shift + Tab | Go to previous terminal tab | Tela |
-| C | Open first Portable Storage Terminal | Tela |
+| Alt + T | Open first Portable Storage Terminal | Jogo |
 
 ### Inventory Essentials
 
@@ -595,7 +597,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | B | Open Backpack | Jogo |
-| C | Run Inventory Interaction Upgrades | Tela |
+| Shift + X | Run Inventory Interaction Upgrades | Jogo |
 | Alt + Z | Switch Upgrade in the 1st Slot On/Off | Jogo |
 | Alt + X | Switch Upgrade in the 2nd Slot On/Off | Jogo |
 

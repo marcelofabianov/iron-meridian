@@ -68,4 +68,6 @@ key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.craftingGrid:key.keyboard.c:SHIFT
 key_key.oritech.augment_screen:key.keyboard.semicolon
 key_key.smallships.ship_sail:key.keyboard.r:ALT
+key_key.integratedterminals.terminal.portable.open:key.keyboard.t:ALT
+key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.x:SHIFT
 key_key.weather_forecast.toggle:key.keyboard.f6
