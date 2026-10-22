@@ -1,0 +1,6 @@
+{
+  "_comentario": "Mods cujo autor desativou o download por programas de terceiros no CurseForge. Chave: nome no .pw.toml; valor: slug da página no CurseForge.",
+  "mods": {
+    "SCC - Super Cool Calculator": "scc-super-cool-calculator"
+  }
+}

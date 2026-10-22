@@ -139,6 +139,7 @@ python3 scripts/mods.py update --apply  # aplica no pack as que passarem, e atua
 - Antes de aplicar, o script lê os `.jar` novos e **bloqueia** a atualização se ela criar um problema de dependência novo: dependência faltando, versão fora da faixa ou incompatibilidade declarada.
 - `scripts/update-ignore.json` lista os mods que ficam de fora das atualizações, com o motivo de cada um.
 - Os `.jar` lidos ficam em cache em `~/.cache/iron-meridian/jars`. Quando o hash bate, o script reaproveita os arquivos de uma instância já instalada.
+- **Mods de download manual:** o `scripts/manual-mods.py` ajuda a instalar os mods cujo autor bloqueia o download por terceiros (hoje, só o SCC). Ele abre a página oficial, espera o download, confere o hash e copia para a instância. A lista fica em `scripts/manual-downloads.json`, e a versão sai sempre do `.pw.toml`, então acompanha as atualizações sozinha.
 - Depois de um `update --apply`, a regra 6 continua valendo: **teste numa instância** antes de publicar.
 
 ## Sobre este repositório

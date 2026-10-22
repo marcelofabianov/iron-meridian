@@ -40,6 +40,7 @@ Use este caminho se preferir montar a instância à mão.
      ```
 5. **Abra o jogo.** Na primeira vez, o instalador baixa os 383 mods. Isso demora alguns minutos.
    - **Um mod exige download manual:** o **SCC (Super Cool Calculator)**. O autor não permite que outros programas baixem o arquivo pelo CurseForge. O instalador mostra uma janela com o link. Baixe o [`scc-1.4.7.jar`](https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator/files/9252241), coloque-o em `minecraft/mods/` e abra o jogo de novo. Isso só é necessário uma vez. Todos os outros mods são baixados automaticamente.
+     - **Atalho, opcional, se você baixou este repositório e tem Python 3:** rode `python3 scripts/manual-mods.py --instance <pasta minecraft da instância>`. Ele abre a página oficial do arquivo certo, espera o download terminar, **confere o hash** e copia para a pasta `mods`. O download continua sendo feito por você, como o autor exige.
 6. **Shader.** Na **primeira** abertura, o jogo roda **sem shader**. Nessa abertura, o Colorwheel Patcher gera a versão do Complementary corrigida para as naves do Create Aeronautics. A partir da **segunda** abertura, o shader *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* é ativado automaticamente. Para ativar sem reiniciar, vá em **Opções → Vídeo → Shader Packs**, selecione esse shader e clique em **Aplicar**.
 
 ## Primeiros passos no jogo
