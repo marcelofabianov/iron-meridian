@@ -941,6 +941,10 @@ file = "config/create_power_loader-server.toml"
 hash = "1f4b0b0c376b660a33567301e8df9923ef1f10de85c1791c9cd8dc19acd88a65"
 
 [[files]]
+file = "config/create_submarine-client.toml"
+hash = "651fc0b7c19e2793661124f9e690f1c8561d80b320a1828a9a5982c7cf7a362c"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "a3e4db70c22ed9354b54e21de5c1875cddb43432ba4e4f83076a8751a75b7714"
 
