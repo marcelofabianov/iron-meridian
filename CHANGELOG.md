@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.1.9 — 22/10/2026
+
+### Teclas
+- Novo **[mapa de teclas](docs/TECLAS.md)**. As teclas que mais colidiam foram reorganizadas para cada uma fazer **uma coisa** no mundo:
+  - **teclas fáceis** para o uso diário: **Mouse 4** para o Ultimine, **Mouse 5** para o terminal sem fio do SCC, **H** para o ímã, **G** para o Curios, **B** para a mochila, **C** para a calculadora do SCC, **M** para o mapa e **U** para os waypoints;
+  - **Alt + tecla** para armaduras, voo e veículos: **Alt + 1 a 4** para as peças de armadura e **Alt + F** para o voo;
+  - **Shift + tecla** e **F8, F10 e F12** para as ações raras.
+- As teclas do **Simple Voice Chat**, que não serve no singleplayer, e outras ações raras ficam **sem tecla**. Continuam em **Opções → Controles**.
+- O mapa vale para **instalações novas**. Quem já tem o jogo pode ajustar em **Opções → Controles**, seguindo o guia. O guia também explica o **Universal Keybinds**, que guarda as teclas num perfil global.
+
+### Desempenho
+- O shader passa a vir com as **sombras de entidades desligadas** (*Entity Shadows*). Medido com o **spark**, elas ocupavam cerca de **metade do tempo de cada quadro**. Sem elas, o jogo fica bem mais fluido perto de bases e de muitos mobs. Para religar, vá em Configurações do shader → *Performance Settings*.
+
+### Interface
+- O **Xaero's Minimap** mostra a **hora do jogo** embaixo do minimapa. Para ligar numa instalação existente: **Shift + Y → Info Display Manager → Game Time**.
+- O **Create: Deep Seas** não mostra mais a tela de boas-vindas nem os avisos de atualização ao abrir o jogo.
+
+### Removido
+- **Cold Sweat**, a temperatura do corpo. As estações do **Serene Seasons** continuam. Os itens do Cold Sweat que estiverem nos mundos somem.
+
+### Documentação
+- README, guia de comandos, guia de progressão e guia dos mods atualizados (**397 mods**).
+
 ## 1.1.8 — 22/10/2026
 
 ### Fauna
