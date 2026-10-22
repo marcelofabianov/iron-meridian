@@ -371,7 +371,7 @@ Total: **398 mods** (301 do Modrinth e 97 do CurseForge).
 | 363 | Trade Cycling | `trade-cycling-neoforge-1.21.1-1.0.23.jar` | [Modrinth](https://modrinth.com/mod/qpPoAL6m) |
 | 364 | Transfer Labels | `transfer_labels-0.1.9.jar` | [Modrinth](https://modrinth.com/mod/hRrzpz5p) |
 | 365 | Translocators | `Translocators-1.21.1-2.8.0.89.jar` | [Modrinth](https://modrinth.com/mod/WIxTuRkQ) |
-| 366 | Trash Cans | `trashcans-1.1.1-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/4QrnfueM) |
+| 366 | Trash Cans | `trashcans-1.1.2-neoforge-mc1.21.jar` | [Modrinth](https://modrinth.com/mod/4QrnfueM) |
 | 367 | TrashSlot | `trashslot-neoforge-1.21.1-21.1.11.jar` | [CurseForge](https://www.curseforge.com/projects/235577) |
 | 368 | Tree Tap | `treetap-1.21.1-0.4.6.jar` | [CurseForge](https://www.curseforge.com/projects/927874) |
 | 369 | Underground Villages | `UndergroundVillages-neoforge-1.21.1-4.0.3.jar` | [CurseForge](https://www.curseforge.com/projects/606989) |
