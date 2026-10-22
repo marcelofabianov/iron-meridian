@@ -765,30 +765,6 @@ file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
-file = "config/coldsweat/client.toml"
-hash = "728a2814fd5e026a9b9f7025b170e97aeb01171f2880ebf8ee006109ea0d7e3f"
-
-[[files]]
-file = "config/coldsweat/disabled_mods.txt"
-hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
-
-[[files]]
-file = "config/coldsweat/entity.toml"
-hash = "8ac342a2ade0ee7ff4300ea4d030f2783df4c0e5449051ac40340a0a3f43b79a"
-
-[[files]]
-file = "config/coldsweat/item.toml"
-hash = "c1bba83c9b893391e1eafd46ce8f43ef21bd85fbc47faafc55838df3e71bb474"
-
-[[files]]
-file = "config/coldsweat/main.toml"
-hash = "344448a5dc95aeeed5bb76c850f58398bacfa9214626ebc3778fff33323b8c11"
-
-[[files]]
-file = "config/coldsweat/world.toml"
-hash = "592416f7fc10bec2a350906dbf629c346d0218ed92b53d0da1b3c20aee3620ea"
-
-[[files]]
 file = "config/colorfulhearts.toml"
 hash = "6ff8724c389a15ab21f9de6db244c2a7b1a0961f61600b774df9124e0b37ec9f"
 
@@ -3311,11 +3287,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
-metafile = true
-
-[[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "bd6a02eb59cf80b4211704447b6f93bf2070c901cfb1b2929f2fb9a5722f1d59"
 metafile = true
 
 [[files]]

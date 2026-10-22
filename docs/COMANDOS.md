@@ -73,12 +73,11 @@ Gerar os chunks com antecedência **reduz muito o lag** ao explorar, principalme
 
 **Dica:** rode quando for ficar um tempo sem jogar, por exemplo deixando o jogo parado na base. Um raio de 2000 leva vários minutos.
 
-## Estações e temperatura 🔒
+## Estações 🔒
 
 | Comando | O que faz |
 |---|---|
 | `/season get` / `/season set <estação>` | **Serene Seasons:** mostra ou muda a estação, por exemplo `early_spring`, `mid_summer`, `late_autumn` ou `mid_winter` |
-| `/temp` | **Cold Sweat:** consulta e ajusta a temperatura do jogador ou do mundo, para teste. Use **Tab** para ver as opções. |
 
 Para ver a estação **sem cheats**, use o bloco **Season Sensor** ou o calendário do Serene Seasons.
 

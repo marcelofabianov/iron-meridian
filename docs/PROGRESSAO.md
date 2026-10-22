@@ -10,7 +10,7 @@ O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este 
 
 **Sobrevivência**
 - 🍖 **Varie a comida.** O **Spice of Life** dá **corações extras permanentes** a cada marco de alimentos diferentes. O *Food Book* mostra o progresso. **Farmer's Delight** e **Cooking for Blockheads** ajudam muito.
-- 🌡️ **Atenção ao clima.** O **Serene Seasons** muda as estações, e o **Cold Sweat** faz a temperatura importar. No inverno, tenha roupas e uma fonte de calor. No verão, evite desertos sem proteção. O dia dura **30 minutos** e a noite **10** (**Better Days**), e a cama acelera a noite em vez de pulá-la.
+- 🌡️ **Atenção ao clima.** O **Serene Seasons** muda as estações: no inverno a neve cobre o chão e algumas plantações não crescem. O dia dura **30 minutos** e a noite **10** (**Better Days**), e a cama acelera a noite em vez de pulá-la.
 - 🧭 **Comandos úteis, sem cheats** (**FTB Essentials**): `/sethome base`, `/home base`, `/back` (volta ao último lugar ou ao ponto de morte) e `/spawn`.
 - 🗺️ **Xaero's Minimap e World Map** marcam pontos de interesse. **Waystones** permitem viajar rápido entre bases.
 

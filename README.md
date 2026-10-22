@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **398 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **397 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 398 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 397 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -31,7 +31,7 @@ Além da tecnologia, o pack tem **construção e decoração** (Macaw's, Handcra
 | Progressão | Livre (sandbox), sem objetivo final |
 | Magia | Não tem. A única exceção é o Mystical Agriculture com seus addons. |
 | Mundo | Biomas do Regions Unexplored, mais as dimensões Ad Astra (espaço) e The Undergarden |
-| Clima | Estações do ano (Serene Seasons), temperatura do corpo (Cold Sweat) e dia de 30 minutos com noite de 10 (Better Days) |
+| Clima | Estações do ano (Serene Seasons) e dia de 30 minutos com noite de 10 (Better Days) |
 | Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia (24) |
 | Minérios | Unificados com o Almost Unified: cada minério e lingote repetido entre mods vira um só, inclusive na geração do mundo |
 
@@ -91,7 +91,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Mar e navegação:** **Create: Deep Seas** (submarinos com física, feitos com o Create Aeronautics: lastro, hélice, leme, sonar, oxigênio a bordo; além de velas, âncora, motor de barco e criaturas do abismo), **Small Ships** (navios prontos, com canhões), **When Dungeons Arise: Seven Seas** (navios-estrutura perigosos no oceano) e **Ocean's Delight** (comidas do mar para o Farmer's Delight)
 - **Som ambiente:** **AmbientSounds**, com sons por bioma, hora e altura, como grilos à noite, vento nas montanhas e eco nas cavernas
 - **Duração do dia:** **Better Days**, com o dia de **30 minutos** e a noite de **10** (no Minecraft puro são 10 e 10). A cama acelera o tempo até amanhecer, em vez de pular a noite.
-- **Estações e temperatura:** Serene Seasons (com GlitchCore) e Cold Sweat
+- **Estações:** Serene Seasons (com GlitchCore)
 - **Clima:** Simple Weather, com efeitos visuais de chuva, neve e tempestade mais bonitos
 - **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga por uma tecla, que pode ser trocada em Controles.
 - **Combate e desafios:** L_Ender's Cataclysm (chefes), Simply Swords, **Mutant Monsters** (zumbis, esqueletos, creepers e endermen mutantes, cujos drops viram equipamentos únicos), **Born in Chaos** (muitos mobs agressivos novos, estruturas e equipamentos feitos com os drops) e **Aquamirae** (cemitério de navios no oceano congelado, com criaturas do fundo do mar e um chefe)

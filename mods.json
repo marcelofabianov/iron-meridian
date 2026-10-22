@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.8",
+  "pack_version": "1.1.9",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -1934,35 +1934,6 @@
         }
       ],
       "pw_file": "mods/codechicken-lib.pw.toml"
-    },
-    {
-      "name": "Cold Sweat",
-      "source": "modrinth",
-      "project_id": "uXhSmPjd",
-      "version_id": "UGoodVYD",
-      "filename": "ColdSweat-2.4.4.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "0c15037a29301651d644554e55bcba5ce90d71f76d15addd1769e3a823069682ef1efa92338ff880a40d476cd0d7502b9df5743530dc87793949b0a0d62c50ca"
-      },
-      "mod_ids": {
-        "cold_sweat": "2.4.4",
-        "sablecompanion": "1.4.2"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.181,)"
-        },
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.80,)"
-        }
-      ],
-      "pw_file": "mods/cold-sweat.pw.toml"
     },
     {
       "name": "Colorful Hearts",
