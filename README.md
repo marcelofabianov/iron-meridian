@@ -47,6 +47,7 @@ Toda mudança no pack segue estas regras:
 6. **Verificação:** antes de adicionar, conferimos as dependências e a faixa de versão de cada uma. Depois de cada mudança, **testamos a inicialização** e lemos o log (mixins, KubeJS, erros).
 7. **Fontes:** baixamos de preferência do **Modrinth, com o hash conferido**. Se o mod só existe no CurseForge, baixamos de lá e verificamos a integridade do arquivo.
 8. **Pasta limpa:** durante os testes, os mods removidos ou substituídos ficam como `.disabled`. Depois que a mudança é aprovada, são apagados, para a pasta `mods` ter só o que é usado.
+9. **Sempre a versão estável mais nova:** todo mod novo entra na **versão estável (release) mais recente** compatível com NeoForge 1.21.1, consultada no Modrinth e no CurseForge, inclusive quando o arquivo de referência vem de outro pack, como o ATM10. Versões beta e alpha só entram quando o mod não tem nenhuma versão estável.
 
 ## Destaques
 
