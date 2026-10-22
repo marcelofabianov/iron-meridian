@@ -2486,7 +2486,7 @@ hash = "e137c96ebde2aabbcfab06c4893c14ef2e9369b523a6f10a131b52c68598f741"
 
 [[files]]
 file = "config/jei/client/jei-client.ini"
-hash = "408a0df196928f6a1f411219bc015d78e592a1354b8947709b8073b2014131da"
+hash = "6c59d4cf136776b3e6e9223c0207a9d0a74a153111f732886fd0000d91dc32fc"
 preserve = true
 
 [[files]]
@@ -2523,7 +2523,7 @@ hash = "a819a4db88bdb2d795928d91f8a1f853e2205d0d6ec86953c6799af6c9e1393e"
 
 [[files]]
 file = "config/jei/jei-client.ini"
-hash = "1deb366c1c1b7906c0fdc324287874d3857547fb5c5bcd411ed5222d6cc86120"
+hash = "c07eeef91a795fe730c8f6667a84cb5d3cd1cb9ead509163b3c7b6fe38551c67"
 preserve = true
 
 [[files]]
