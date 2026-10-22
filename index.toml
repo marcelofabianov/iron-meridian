@@ -2952,6 +2952,10 @@ file = "configureddefaults/options.txt"
 hash = "11a5a5be9094863ca0cdf5184dca571e7608b3245a91a919c1ae92652969a03d"
 
 [[files]]
+file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
+hash = "5885d14c13a9605ba7afed5a05d2cacb926773eed1395783a7159e2d4a6639b4"
+
+[[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "a86540838f97c5722515f4162cfade927e42f70c27860e4f46c45527df8e2cd6"
 

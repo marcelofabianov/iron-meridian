@@ -86,12 +86,19 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 
 Para quem quiser acrescentar atalhos: **0**, **-**, **=**, **;**, **'**, **Caps Lock**, **Ctrl direito**, **Enter**, **Insert**, **Home**, **End**, **←** e **→**, e o teclado numérico (**6**, **7**, **-**, **\***, **/**, **,** e **Enter**).
 
+## Universal Keybinds: o perfil global de teclas
+
+O pack tem o **Universal Keybinds**, que guarda as teclas num **perfil fora da instância** (`~/.config/JustKeybinds/profiles/default/` no Linux) e o reaplica toda vez que o jogo abre. Isso tem duas consequências:
+
+- Mudanças feitas em **Opções → Controles** são salvas no perfil sozinhas e valem para todas as instâncias que usam o mod.
+- Quem editar o `options.txt` **com o jogo fechado** precisa mudar também o `keybinds.json` do perfil. Senão, na próxima abertura, o mod volta as teclas antigas (e mantém os modificadores novos, o que mistura tudo).
+
 ## Como aplicar numa instância antiga
 
 O mapa entra pelo `configureddefaults/options.txt`, que só é usado quando a instância ainda não tem `options.txt`. Numa instância já instalada:
 
 1. Abra **Opções → Controles → Atalhos do teclado** e ajuste as teclas pela tabela acima (a busca do **Controlling** ajuda a achar cada ação).
-2. Ou, com o jogo fechado, apague o `options.txt` da instância: na próxima abertura ele é recriado com o mapa do pack. **Isso também volta vídeo, som e outras opções ao padrão.**
+2. Ou, com o jogo fechado, apague o `options.txt` da instância: na próxima abertura ele é recriado com o mapa do pack. **Isso também volta vídeo, som e outras opções ao padrão.** Se você já usava o Universal Keybinds, o perfil global dele vai reaplicar as teclas antigas: nesse caso, prefira o caminho 1.
 
 ## Teclas por mod
 
