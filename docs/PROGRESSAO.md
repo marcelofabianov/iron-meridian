@@ -79,7 +79,7 @@ Para quem quer sair da base.
 3. **The Undergarden:** portal de **tijolos de pedra** ativado com o **Catalyst**. Lá há minérios novos: cloggrum, froststeel, utherium e regalium.
 4. **Ad Astra:** **NASA Workbench** → foguete **Tier 1** (aço) → **Lua**. Tiers maiores levam a **Marte**, **Vênus e Mercúrio** e **Glacio**. Leve o **traje espacial** com oxigênio. O guia é a **Astrodux**, que fica no tomo.
 5. **Veículos:** **Immersive Vehicles** (carros e aviões, manuais no tomo), **Immersive Aircraft** e **Iron Jetpacks**.
-6. **Combate:** chefes do **L_Ender's Cataclysm** e armas do **Simply Swords**.
+6. **Combate:** chefes do **L_Ender's Cataclysm**, mutantes do **Mutant Monsters** (os drops viram o *Hulk Hammer*, a *Endersoul Hand* e armaduras), os mobs do **Born in Chaos** e o cemitério de navios do **Aquamirae**, no oceano congelado. As armas do **Simply Swords** ajudam. Com o **Hostile Neural Networks**, dá para automatizar os drops depois.
 
 ---
 

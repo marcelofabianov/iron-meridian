@@ -969,6 +969,39 @@
       "pw_file": "mods/applied-mekanistics.pw.toml"
     },
     {
+      "name": "Aquamirae",
+      "source": "modrinth",
+      "project_id": "k23mNPhZ",
+      "version_id": "lKu7coya",
+      "filename": "aquamirae-neoforge-1.21.1-7.2.13.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "90fe46c41a0f44b1cdc64cf59e4000b7e20af3edbde8695b5c1350fe044123f02f6ba1f2b50f435bd1e12c5587a21be3cf77f078060a2029a943f8da6d9f9395"
+      },
+      "mod_ids": {
+        "aquamirae": "7.2.13"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.150,)"
+        },
+        {
+          "mod_id": "fragmentum",
+          "type": "required",
+          "range": "[5.3.0,)"
+        },
+        {
+          "mod_id": "geckolib",
+          "type": "required",
+          "range": "[4.8.0,)"
+        }
+      ],
+      "pw_file": "mods/aquamirae.pw.toml"
+    },
+    {
       "name": "Architectury API",
       "source": "modrinth",
       "project_id": "lhGA9TYQ",
@@ -1257,6 +1290,39 @@
       },
       "dependencies": [],
       "pw_file": "mods/borderless-window.pw.toml"
+    },
+    {
+      "name": "Born in Chaos",
+      "source": "curseforge",
+      "project_id": "686437",
+      "version_id": "8268280",
+      "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "73704f38ac368c03716f9cc8f537470d3b352fa2"
+      },
+      "mod_ids": {
+        "born_in_chaos_v1": "1.7.6"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.65,)"
+        },
+        {
+          "mod_id": "geckolib",
+          "type": "optional",
+          "range": "[0,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[0,)"
+        }
+      ],
+      "pw_file": "mods/born-in-chaos.pw.toml"
     },
     {
       "name": "Botany Pots - Mystical Agriculture Compat",
@@ -4565,6 +4631,30 @@
         }
       ],
       "pw_file": "mods/flux-networks.pw.toml"
+    },
+    {
+      "name": "Fragmentum",
+      "source": "modrinth",
+      "project_id": "49C5QgTK",
+      "version_id": "kCXNhuIV",
+      "filename": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53"
+      },
+      "mod_ids": {
+        "fragmentum": "5.4.0",
+        "yet_another_config_lib_v3": "3.6.6+1.21.1-neoforge"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[1,)"
+        }
+      ],
+      "pw_file": "mods/fragmentum.pw.toml"
     },
     {
       "name": "FramedBlocks",
@@ -8132,6 +8222,34 @@
         }
       ],
       "pw_file": "mods/mss-moogs-soaring-structures.pw.toml"
+    },
+    {
+      "name": "Mutant Monsters",
+      "source": "modrinth",
+      "project_id": "derP0ten",
+      "version_id": "dauEcrnZ",
+      "filename": "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "4d969c457a01e49a242ebc03112031bd338be08fc4ab36540b222b0a64e72a778a6534ad2be7c5cf72a5a74e1ce58e66e2999957f68c189c868dbc48bef44708"
+      },
+      "mod_ids": {
+        "mutantmonsters": "21.1.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.21,)"
+        },
+        {
+          "mod_id": "puzzleslib",
+          "type": "required",
+          "range": "[21.1.10,)"
+        }
+      ],
+      "pw_file": "mods/mutant-monsters.pw.toml"
     },
     {
       "name": "Mystical Agradditions",
