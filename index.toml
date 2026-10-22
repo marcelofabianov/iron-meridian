@@ -5257,6 +5257,11 @@ hash = "98b082169cc2369af0741a40278c1861600315503fcb2422bc135cad226a136e"
 metafile = true
 
 [[files]]
+file = "mods/ore-hammer.pw.toml"
+hash = "e1ff28d7b9985373cf210bd779809ae4d2dbb99c4627095b6709a74ce94ab5d9"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "dbb2a2fc538df2577ac83d9eb0d7d4a67b15b3e2f1570ac380dacd79f8ddc0a4"
 metafile = true

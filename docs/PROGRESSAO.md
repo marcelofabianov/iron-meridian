@@ -17,6 +17,7 @@ O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este 
 **Primeira base**
 - 🎒 **Sophisticated Backpacks**: mochila logo no início.
 - 📦 **Armazenamento simples:** baús do **Sophisticated Storage** ou gavetas do **Functional Storage**.
+- 🔨 **Ore Hammer**: com 2 blocos de cobre, 1 de ferro, 1 graveto e 1 pepita de ferro, você **dobra o ferro, o cobre e o ouro** desde o primeiro dia. Minério bruto e martelo dão 2 pós, e o bloco de minério com Toque Suave dá 3. Para estanho, chumbo e outros, use o martelo do Immersive Engineering.
 - 🔥 **Iron Furnaces**: fornalhas mais rápidas. **Fast Furnace** e **Fast Workbench** já deixam as vanilla mais leves.
 - 🌱 **Comida e recursos automáticos:** os planters do **Agritech: Evolved**, os **Botany Pots** e o **Infinite Water Block** para água.
 
