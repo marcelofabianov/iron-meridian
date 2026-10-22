@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.1.6 — 22/10/2026
+
+### Desempenho
+- O **ModernFix** passa a usar o *dynamic resources*: modelos e texturas carregam sob demanda. Medido no mesmo PC (Ryzen 5 5600X com RX 6700 XT), a abertura caiu de **86–88 s para cerca de 66–70 s**, e o uso de RAM no menu também diminuiu.
+- O `IronMeridian-Prism.zip` de importação passa a trazer **memória fixa de 10 GB** e **ajustes do coletor de lixo (G1)** do Java, que reduzem travadas durante o jogo. Quem montar a instância à mão encontra os argumentos no INSTALL.
+- Se algum bloco ou item aparecer com textura roxa e preta, veja como desligar o *dynamic resources* em [docs/KNOWN_ISSUES.md](docs/KNOWN_ISSUES.md).
+
+### Limpeza
+- Removidas as configurações de **24 mods** que não fazem mais parte do pack: ProjectE, Ars Nouveau, MineColonies, Twilight Forest, Supplementaries e outros. Os caches do Draconic Evolution e do Brandon's Core também saíram. O pack passou de cerca de 1.350 para **1.152 arquivos**, e as instalações existentes apagam esses arquivos sozinhas.
+
 ## 1.1.5 — 21/10/2026
 
 ### Mods novos
