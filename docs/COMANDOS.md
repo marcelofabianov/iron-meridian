@@ -108,7 +108,7 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | **R** / **U** no JEI | Receita do item / onde o item é usado |
 | **W** sobre um item do Create | Mostra a *ponder*, uma animação que explica o item |
 | **K** | **Keybind Atlas**: mapa visual de todas as teclas |
-| **H** | **WeatherForecast**: mostra ou esconde o painel de previsão do tempo. O H tem outras funções no pack, então vale trocar em Controles. |
+| **F6** | **WeatherForecast**: mostra ou esconde o painel de previsão do tempo. Em instâncias instaladas antes da v1.1.7, a tecla pode estar no **H**, que também abre o *Oracle Index* do Oritech e do MFFS. Troque em **Opções → Controles**. |
 | **Shift + clique direito** no Akashic Tome | Escolhe um livro-guia |
 | **Shift + clique esquerdo no ar** | Volta o livro para o Akashic Tome |
 | Tecla do **FTB Ultimine** (veja em Controles) | Segure para minerar em veio |
