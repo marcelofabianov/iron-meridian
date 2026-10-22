@@ -1,0 +1,5 @@
+{
+  "Cable Tiers": "A versão mais nova no Modrinth aparece como 0.0.0, o que parece erro de publicação. Mantida a 1.21.1-0.6.14.",
+  "Modular Routers": "O Modrinth lista uma versão 'nova' com o mesmo número (13.2.7). Mantida a atual.",
+  "Structory: Towers": "O arquivo da 1.0.17 não é reconhecido como mod válido pelo NeoForge e derruba o carregamento. Mantida a 1.0.16."
+}

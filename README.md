@@ -124,6 +124,23 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 | Unificação de minérios | `config/almostunified/startup.json` e `config/almostunified/unification/materials.json` | Receitas, JEI, **geração do mundo** (`world_gen_unification`) e **loot** (`loot_unification`) unificados. Prioridade: Minecraft, KubeJS, Create, Immersive Engineering, Mekanism, Modern Industrialization, Oritech, XyCraft, Extreme Reactors e outros. |
 | JEI ocupando a altura da tela | `config/jei/jei-client.ini` e `config/jei/client/jei-client.ini` | `maxRows = 100` e `maxColumns = 18`. Os arquivos estão marcados como `preserve`, então o que você mudar nas opções do JEI não é desfeito pelas atualizações. |
 
+## Manutenção dos mods
+
+O `mods.json`, na raiz do repositório, registra cada mod com **origem** (Modrinth ou CurseForge), **versão**, **hash**, os **IDs que ele registra** e as **dependências com a faixa de versão** de cada uma. O packwiz guarda versão e hash, mas não confere se as versões das dependências batem entre si. O script `scripts/mods.py` cobre essa parte:
+
+```bash
+python3 scripts/mods.py sync            # gera o mods.json de novo a partir dos mods/*.pw.toml
+python3 scripts/mods.py check           # lista as versões estáveis mais novas (Modrinth e CurseForge)
+python3 scripts/mods.py update          # simula as atualizações e confere as dependências do conjunto
+python3 scripts/mods.py update --apply  # aplica no pack as que passarem, e atualiza o mods.json
+```
+
+- Só entram versões **estáveis (release)** para NeoForge 1.21.1 (regra 9).
+- Antes de aplicar, o script lê os `.jar` novos e **bloqueia** a atualização se ela criar um problema de dependência novo: dependência faltando, versão fora da faixa ou incompatibilidade declarada.
+- `scripts/update-ignore.json` lista os mods que ficam de fora das atualizações, com o motivo de cada um.
+- Os `.jar` lidos ficam em cache em `~/.cache/iron-meridian/jars`. Quando o hash bate, o script reaproveita os arquivos de uma instância já instalada.
+- Depois de um `update --apply`, a regra 6 continua valendo: **teste numa instância** antes de publicar.
+
 ## Sobre este repositório
 
 - O repositório **não contém nenhum arquivo de mod** (`.jar`). Cada mod é referenciado por um arquivo `.pw.toml`, com o link oficial no Modrinth ou no CurseForge e o hash do arquivo. O instalador baixa tudo direto das fontes oficiais.

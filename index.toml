@@ -857,14 +857,6 @@ file = "config/crash_assistant/config.toml"
 hash = "dba97bedc21418ca81dfeec92bc0772168240acc34055e672f736a39e7686843"
 
 [[files]]
-file = "config/crash_assistant/scripts/log_analysis/example.jexl"
-hash = "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b"
-
-[[files]]
-file = "config/crash_assistant/scripts/startup/example.jexl"
-hash = "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 
