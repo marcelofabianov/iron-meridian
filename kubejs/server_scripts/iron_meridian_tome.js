@@ -21,7 +21,6 @@ const EXTRA_GUIDES = [
   'immersiveengineering:manual',
   'industrialforegoing:book_manual',
   'integrateddynamics:on_the_dynamics_of_integration',
-  'livingthings:lexicon',
   'modern_industrialization:guidebook',
   'mts:mts.handbook_car',
   'mts:mts.handbook_plane',

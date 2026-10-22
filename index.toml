@@ -561,6 +561,10 @@ file = "config/betteranimationscollection-client.toml"
 hash = "607a4b956045c2cec4c1ff2376403445dfdc71655ae967e87595de2a27bfea78"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "2e5527f258a9d2112a9d287d75104843a8b1a66441348ce7a82b94046d9e34af"
+
+[[files]]
 file = "config/betterdeserttemples-neoforge-1_21.toml"
 hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
 
@@ -1963,90 +1967,6 @@ file = "config/little_big_redstone-client.toml"
 hash = "a67d47543fffebb06ffe20d4742ba2aefa36e32d04e4d9c45100ac4b65cd4825"
 
 [[files]]
-file = "config/livingthings/ancient_blaze.json"
-hash = "6ebb3daf5ca152c5dba141349dcd8b789e3162c74a930606d615cf8111f4cc58"
-
-[[files]]
-file = "config/livingthings/baby_ender_dragon.json"
-hash = "e905e42dccaa13eeeadacc05b2e146ab19a10f326610476b1d96291d5f2bc77b"
-
-[[files]]
-file = "config/livingthings/crab.json"
-hash = "5d23a7d056f6d54a042768cffb75f359f9a2dbbab7ab753b900c7ca73530b3f5"
-
-[[files]]
-file = "config/livingthings/elephant.json"
-hash = "1283c7b8a81c4f08cef768fd4ed758536930b03d8163d286eac45b3cd774221c"
-
-[[files]]
-file = "config/livingthings/flamingo.json"
-hash = "c66dfc08bc1c38616c8a9bd86283e368bfb2cd7df901222215ea52ff4688d1f5"
-
-[[files]]
-file = "config/livingthings/giraffe.json"
-hash = "194069ab1ca3fc23c6e9660e9ca6daad99c9ffd94d34db67825b6b35a53e0d61"
-
-[[files]]
-file = "config/livingthings/koala.json"
-hash = "f526fe3b3b5fd1ae825ceb4d43d1fc47b80ad26fcddb6bead444764d0368d7b6"
-
-[[files]]
-file = "config/livingthings/lion.json"
-hash = "682fd5ca4825342c6e510414b9d3cfdf33ac85716d721375ab6c4b186e3ef53b"
-
-[[files]]
-file = "config/livingthings/livingthings.json"
-hash = "b28c313f2632fc458649dfc61d288744f7e07e2ea1f1c22efc9d7cc8c2a505f7"
-
-[[files]]
-file = "config/livingthings/mantaray.json"
-hash = "78063033b576ca9ef7205618f30c5b04952a06e98fe5abea02890a5fa4674aba"
-
-[[files]]
-file = "config/livingthings/monkey.json"
-hash = "65a7068857e8ade76567e22ee852c50dec65272a133736e7c0af1bd50bc3ed10"
-
-[[files]]
-file = "config/livingthings/nether_knight.json"
-hash = "33cedddff83e98b8e157b60422f5b1b6f3ad1bf4a5f997f2f651dc3a7aa0b21e"
-
-[[files]]
-file = "config/livingthings/ostrich.json"
-hash = "f89e4d33a81b921b3a83a41c74ad4449ad70de65104005b28d99938269cab025"
-
-[[files]]
-file = "config/livingthings/owl.json"
-hash = "d543851cb23abf822abbdb4359213f0f001ab14af01036140d7688df52e2cdaf"
-
-[[files]]
-file = "config/livingthings/peacock.json"
-hash = "748a6a43b44f679632c0b740a14f07517fe45652b74415a67603834b1ae63620"
-
-[[files]]
-file = "config/livingthings/penguin.json"
-hash = "ef86d31611f3f14029971e86a795f078d1daea0865b639d7fce275a8fe34d6e4"
-
-[[files]]
-file = "config/livingthings/raccoon.json"
-hash = "52dde5b8837e4a53ce58f565f9fd485e639ccefaa8258390232d1badc0ef8118"
-
-[[files]]
-file = "config/livingthings/seahorse.json"
-hash = "2b6d50b761524fdd184e2b8ee9d7b370d7c8cf6c35fccc22497ffcacdd6dda64"
-
-[[files]]
-file = "config/livingthings/shark.json"
-hash = "420e9cc2366d10cfc9b6e050ef34238cd75be2f230f6c64c197ad45ba5e383ca"
-
-[[files]]
-file = "config/livingthings/shroomie.json"
-hash = "71f87a7d1b899a8aca1ba4c239f56c3071d2c1b1e794b81acb6fb9b88bed3001"
-
-[[files]]
-file = "config/livingthings/snail.json"
-hash = "662954e7ba70c7cceda5e7ae3c0283331530a60a418db38e5d27155fef6ad118"
-
-[[files]]
 file = "config/logistics-network/client-1.toml.bak"
 hash = "077c069f5675d6c8e6f784605c24f80b3429d6e33fc049570fd27782bb44da54"
 
@@ -2772,10 +2692,6 @@ file = "config/spark/tmp/about.txt"
 hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
 
 [[files]]
-file = "config/squatgrow-common.yaml"
-hash = "f3c0651656201c0571d3d30b4213e77c8dac4540af969981f085636ad5855db6"
-
-[[files]]
 file = "config/stepcrafter-client.toml"
 hash = "5d7500625e04ff678713d90194ea9a79eb3e5fec804c2e2128a63cf3d2ea5518"
 
@@ -3069,7 +2985,7 @@ hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "791298ac85eacdd6ef8b9706402b36df608a9951d548b2a1c675e30c3721f432"
+hash = "8e3dda12866646e3592a8bf9d41fe7e2939a352809aea9fe1efbb082a51f7e4b"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -3181,6 +3097,11 @@ hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "1801f6f6bf0bd7eaf33544c0ad137f9162aa35239a030efe29a899f5c28bddfa"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "27bf52b4265eda868c46a325f3a86cec1db5ff24ffb808aed671972d51883792"
 metafile = true
@@ -3258,6 +3179,11 @@ metafile = true
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "a97e9879873319e5f6731e48b430544461a43974029c99b9702a3c8245c88a7d"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "f567df6f58cbb28cd6e28dfa72dde29ed8c787afc6e4694c797b0896fa07c8f6"
 metafile = true
 
 [[files]]
@@ -3541,6 +3467,16 @@ hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "63d1560de24b53cad7052d19c1a44b4eab64ad9f696d01c9f2a72fccd5540557"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
+metafile = true
+
+[[files]]
 file = "mods/cryonicconfig.pw.toml"
 hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
@@ -3628,6 +3564,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "fd3a93c81cbf403798b0769ce1ad9a087f9477cc61979772aa071dca6933e7d5"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "9fe802c6e911ccd7117578a9fd92b0d1e1eb569c56535fadfbeedf8fe8045137"
 metafile = true
 
 [[files]]
@@ -4176,11 +4117,6 @@ hash = "5fee0984ea67bae7cf3e74c01f44d863b6a7e9e2778c2d8f48fe816baeacc952"
 metafile = true
 
 [[files]]
-file = "mods/living-things.pw.toml"
-hash = "4fa801dd5dd4c3760b2deab4816ee1d7d97c9cb82816b451e3975911282cb18f"
-metafile = true
-
-[[files]]
 file = "mods/logistics-network.pw.toml"
 hash = "c1236b9390ca21cffb8843a1675467b7ee1b9dda0bc687bc08405ff8227f4ba6"
 metafile = true
@@ -4423,6 +4359,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-customization.pw.toml"
 hash = "219ff3a5001c0ec619f7cc8ef5eb3aa6a836e3738e734c384c6376efeacfbf21"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "607da40a1b301721af35c07c3ee5eb06f82c2a13722037d0cd7d2584ab2dbe57"
 metafile = true
 
 [[files]]
@@ -4761,13 +4702,13 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-carrot-edition.pw.toml"
-hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
+file = "mods/spawn-mod.pw.toml"
+hash = "51421cfbef7ed7f78ffb7925cfd3e713a8beb8bbd174975b9b745c1e0cc083b2"
 metafile = true
 
 [[files]]
-file = "mods/squat-grow.pw.toml"
-hash = "1768c3fee997b5c1ef404830ccad29832bcc951c4d25e8781a4e58c54d51c803"
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
@@ -4798,6 +4739,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "67e7cf463a4ce267273de5d118da454161c2f59daf5bc2966c6e1723f7871291"
+metafile = true
+
+[[files]]
+file = "mods/teallib.pw.toml"
+hash = "99f89e803723e4684bff03fe6bf7c1dae431e198ed50ef06f624d0d6397568ab"
 metafile = true
 
 [[files]]

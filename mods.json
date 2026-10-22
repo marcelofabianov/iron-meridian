@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.7",
+  "pack_version": "1.1.8",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -739,6 +739,34 @@
       "pw_file": "mods/almostunified.pw.toml"
     },
     {
+      "name": "AmbientSounds",
+      "source": "modrinth",
+      "project_id": "fM515JnW",
+      "version_id": "WGalCQAo",
+      "filename": "AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "1e615137f1e4d4e2cd0f366560922304f6d96ce7a73e9e55bae2572a1f03916efccc633b249026826471162d498a2eecba10b712f20ecfd540cb818915d8e227"
+      },
+      "mod_ids": {
+        "ambientsounds": "6.3.11"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "creativecore",
+          "type": "required",
+          "range": "[2.13.37,)"
+        }
+      ],
+      "pw_file": "mods/ambientsounds.pw.toml"
+    },
+    {
       "name": "Amendments",
       "source": "modrinth",
       "project_id": "6iTJugQR",
@@ -1227,6 +1255,40 @@
         }
       ],
       "pw_file": "mods/better-animations-collection.pw.toml"
+    },
+    {
+      "name": "Better Days",
+      "source": "modrinth",
+      "project_id": "tPLE214j",
+      "version_id": "Ho93yCC3",
+      "filename": "betterdays-1.21.1-3.3.6.3-NEOFORGE.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "0eb11977abb06a0c36764019a9299347480bfc728233a2df4e968b368487626728d546ade45a2edcb0e620485189e440c22fc7a99671888a86367514551ac78d"
+      },
+      "mod_ids": {
+        "betterdays": "3.3.6.3",
+        "whitenoise": "2.2.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[4,)"
+        },
+        {
+          "mod_id": "whitenoise",
+          "type": "required",
+          "range": "[2.2.0,3.0.0)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[4,)"
+        }
+      ],
+      "pw_file": "mods/betterdays.pw.toml"
     },
     {
       "name": "BetterF3",
@@ -3070,6 +3132,67 @@
       "pw_file": "mods/createaddition.pw.toml"
     },
     {
+      "name": "CreativeCore",
+      "source": "modrinth",
+      "project_id": "OsZiaDHq",
+      "version_id": "vRMtFt35",
+      "filename": "CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "864301fa1229511203fc291e9b683db5af3cb4aa4faed0ef1eb54112491b3c97f9b5006b42d41fb2c169f7fc93ad13459f5079c6ffc73dc4b145ee61b7687997"
+      },
+      "mod_ids": {
+        "creativecore": "2.13.51"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        }
+      ],
+      "pw_file": "mods/creativecore.pw.toml"
+    },
+    {
+      "name": "Critters and Companions",
+      "source": "modrinth",
+      "project_id": "Yd4wb5wZ",
+      "version_id": "aeDUpTJS",
+      "filename": "crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "f93bb48b07122d1c93cd931169752814c46f2ed964da987ab5ce654e8f70242c57265c3853bbb357f5fd95c412e775bf7b9a2abeb2a2a0858eae95c8d8ba451d"
+      },
+      "mod_ids": {
+        "crittersandcompanions": "2.7.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "architectury",
+          "type": "required",
+          "range": "[13.0.11,)"
+        },
+        {
+          "mod_id": "geckolib",
+          "type": "required",
+          "range": "[4.9.1,)"
+        },
+        {
+          "mod_id": "yet_another_config_lib_v3",
+          "type": "required",
+          "range": "[3.6.1+1.21,)"
+        }
+      ],
+      "pw_file": "mods/critters-and-companions.pw.toml"
+    },
+    {
       "name": "Cryonic Config",
       "source": "modrinth",
       "project_id": "oEhQIkOs",
@@ -3547,6 +3670,29 @@
         }
       ],
       "pw_file": "mods/easy-villagers.pw.toml"
+    },
+    {
+      "name": "Ecologics",
+      "source": "modrinth",
+      "project_id": "NCKpPR0Z",
+      "version_id": "ihEiqSv4",
+      "filename": "ecologics-1.21.1-2.3.7.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "eb62eb7e7838259c6494d3ee64854f4bd78029dcc39eec434f1e7be3521f73223a8a3bd994623512477132d6c54045576231fd7772161b94602f72bba3003599"
+      },
+      "mod_ids": {
+        "ecologics": "2.3.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.83,)"
+        }
+      ],
+      "pw_file": "mods/ecologics.pw.toml"
     },
     {
       "name": "EdivadLib",
@@ -7085,29 +7231,6 @@
       "pw_file": "mods/little-big-redstone.pw.toml"
     },
     {
-      "name": "LivingThings",
-      "source": "modrinth",
-      "project_id": "UKDLi1GJ",
-      "version_id": "c8AcZP3S",
-      "filename": "livingthings-neoforge-1.21.1-2.3.2.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "05e713f49430488a347a61380da279431dbcc1133754023e071f059e1daf3e53bc9d77dbc274c2257a94d150184316567b0b56752bb32e426728c0ec90f220ff"
-      },
-      "mod_ids": {
-        "livingthings": "1.21.1-2.3.2"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.182,)"
-        }
-      ],
-      "pw_file": "mods/living-things.pw.toml"
-    },
-    {
       "name": "Logistics Network",
       "source": "curseforge",
       "project_id": "1448257",
@@ -8372,6 +8495,34 @@
         }
       ],
       "pw_file": "mods/mystical-customization.pw.toml"
+    },
+    {
+      "name": "Naturalist",
+      "source": "modrinth",
+      "project_id": "F8BQNPWX",
+      "version_id": "9Yn8ig4c",
+      "filename": "naturalist-2.0.7-neoforge-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "5d56ec2d1e5f994c9b63cf7578e9ed1be2cd4f58a055503e32bdd90c80d9802af04d3f6e1eec08394180e196ce32b2c2e71df8ba19d918e77df1694c9007e7e1"
+      },
+      "mod_ids": {
+        "naturalist": "2.0.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.234,)"
+        },
+        {
+          "mod_id": "lambdynlights_api",
+          "type": "optional",
+          "range": "[4.0.0,)"
+        }
+      ],
+      "pw_file": "mods/naturalist.pw.toml"
     },
     {
       "name": "Nature's Compass",
@@ -10446,6 +10597,39 @@
       "pw_file": "mods/spark.pw.toml"
     },
     {
+      "name": "Spawn",
+      "source": "modrinth",
+      "project_id": "rex9wwpz",
+      "version_id": "OgmUYgeL",
+      "filename": "spawn-4.0.8-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "f6db8f8a11d90d973ad4e7041816793a70e298949c4d378cb08a2b78937327c8f2d5c75d1f938a0493adad1a5a1c6fda67949867b7c7b1c56c5d58eda8ae8204"
+      },
+      "mod_ids": {
+        "spawn": "4.0.8-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.234,)"
+        },
+        {
+          "mod_id": "teallib",
+          "type": "required",
+          "range": "[1.3.teal,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "optional",
+          "range": "[2.0.3,3)"
+        }
+      ],
+      "pw_file": "mods/spawn-mod.pw.toml"
+    },
+    {
       "name": "Spice of Life: Carrot Edition",
       "source": "curseforge",
       "project_id": "277616",
@@ -10467,34 +10651,6 @@
         }
       ],
       "pw_file": "mods/spice-of-life-carrot-edition.pw.toml"
-    },
-    {
-      "name": "Squat Grow (Shift / Twerk to grow plants)",
-      "source": "curseforge",
-      "project_id": "515698",
-      "version_id": "8495735",
-      "filename": "squatgrow-neoforge-21.1.4+mc1.21.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "a1ff3e1383186b83609ab03e66ff8fc935cf2562"
-      },
-      "mod_ids": {
-        "squatgrow": "21.1.4+mc1.21.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[2,)"
-        },
-        {
-          "mod_id": "architectury",
-          "type": "required",
-          "range": "[13.0.1,)"
-        }
-      ],
-      "pw_file": "mods/squat-grow.pw.toml"
     },
     {
       "name": "Step Crafter",
@@ -10626,6 +10782,29 @@
         }
       ],
       "pw_file": "mods/supermartijn642s-core-lib.pw.toml"
+    },
+    {
+      "name": "Teal Lib",
+      "source": "modrinth",
+      "project_id": "rLJ1qF79",
+      "version_id": "lZTBRemW",
+      "filename": "teallib-1.3.teal.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "11060adb8aae151879e8e4db4ad5409df1044784fe9e6d6a5f4750ea778317bd37ca9129f39d23e18988b912ab036a9fb3a128761726f927ac23797dd02ed381"
+      },
+      "mod_ids": {
+        "teallib": "1.3.teal"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.234,)"
+        }
+      ],
+      "pw_file": "mods/teallib.pw.toml"
     },
     {
       "name": "Tempad",

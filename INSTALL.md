@@ -6,7 +6,7 @@ O Iron Meridian é distribuído com o [packwiz](https://packwiz.infra.link/). Vo
 
 - [Prism Launcher](https://prismlauncher.org/), versão recente
 - Java 21. O Prism baixa automaticamente se você deixar.
-- **Memória:** reserve de **10 a 12 GB** para a instância. O pack tem 388 mods.
+- **Memória:** reserve de **10 a 12 GB** para a instância. O pack tem 394 mods.
 
 ## Método rápido: importar a instância pronta ⭐
 
@@ -38,7 +38,7 @@ Use este caminho se preferir montar a instância à mão.
      ```
      -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:InitiatingHeapOccupancyPercent=15 -XX:SurvivorRatio=32 -XX:MaxTenuringThreshold=1
      ```
-5. **Abra o jogo.** Na primeira vez, o instalador baixa os 388 mods. Isso demora alguns minutos.
+5. **Abra o jogo.** Na primeira vez, o instalador baixa os 394 mods. Isso demora alguns minutos.
    - **Um mod exige download manual:** o **SCC (Super Cool Calculator)**. O autor não permite que outros programas baixem o arquivo pelo CurseForge. O instalador mostra uma janela com o link. Baixe o [`scc-1.4.7.jar`](https://www.curseforge.com/minecraft/mc-mods/scc-super-cool-calculator/files/9252241), coloque-o em `minecraft/mods/` e abra o jogo de novo. Isso só é necessário uma vez. Todos os outros mods são baixados automaticamente.
      - **Atalho, opcional, se você baixou este repositório e tem Python 3:** rode `python3 scripts/manual-mods.py --instance <pasta minecraft da instância>`. Ele abre a página oficial do arquivo certo, espera o download terminar, **confere o hash** e copia para a pasta `mods`. O download continua sendo feito por você, como o autor exige.
 6. **Shader.** Na **primeira** abertura, o jogo roda **sem shader**. Nessa abertura, o Colorwheel Patcher gera a versão do Complementary corrigida para as naves do Create Aeronautics. A partir da **segunda** abertura, o shader *"ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip"* é ativado automaticamente. Para ativar sem reiniciar, vá em **Opções → Vídeo → Shader Packs**, selecione esse shader e clique em **Aplicar**.
@@ -47,7 +47,7 @@ Use este caminho se preferir montar a instância à mão.
 
 Não sabe por onde começar? Veja o **[Guia de progressão](docs/PROGRESSAO.md)**: ele sugere rotas como Create, indústria pesada, Mekanism, logística, energia, recursos automáticos e exploração, além de metas de endgame.
 
-- Você começa com um **Akashic Tome** no slot 1, com os 25 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
+- Você começa com um **Akashic Tome** no slot 1, com os 24 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
 - O **FTB Essentials** libera `/sethome`, `/home`, `/back`, `/spawn` e `/rtp` sem precisar de cheats. A lista completa está no **[guia de comandos](docs/COMANDOS.md)**.
 - O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. Como o K tem várias funções no pack, vale trocar a tecla dele em **Controles**.
 
