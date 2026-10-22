@@ -1370,7 +1370,7 @@ hash = "60a758a55730a593a2e225989ab1123845bdccea73a7528c2ae3f445a9758e0e"
 
 [[files]]
 file = "config/ftbessentials.snbt"
-hash = "f55ca157708b8b73fe70763ac611b9d3552ffe0eccf57ef0e754bec91ac096d6"
+hash = "6df887a625520c95935eb0457a1e505329f1a218691962d2fbca5e4c8901d790"
 
 [[files]]
 file = "config/ftblibrary-client.snbt"
@@ -3033,7 +3033,7 @@ hash = "28002c9eedef5be6963bbbfbe1ff7d51d9537e240279bd1bb76c5ad1debfadaa"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
+hash = "a86540838f97c5722515f4162cfade927e42f70c27860e4f46c45527df8e2cd6"
 
 [[files]]
 file = "kubejs/README.txt"

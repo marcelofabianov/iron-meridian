@@ -1,13 +1,9 @@
-# Default config file that will be copied to instance's config/ftbessentials.snbt location
-# Copy values you wish to override in here
-# Example:
-# 
-# {
-# 	misc: {
-# 		enderchest: {
-# 			enabled: false
-# 		}
-# 	}
-# }
-
-{ }
+# Iron Meridian: padrões do FTB Essentials para mundos novos
+{
+	teleportation: {
+		home: {
+			# Máximo de casas por jogador (/sethome). Padrão do mod: 1
+			max: 5
+		}
+	}
+}

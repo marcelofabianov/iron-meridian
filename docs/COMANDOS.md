@@ -10,7 +10,7 @@ Comandos úteis **dentro do jogo**. A maioria funciona **sem cheats**. Os que pr
 
 | Comando | O que faz | Observação |
 |---|---|---|
-| `/sethome <nome>` | Salva o lugar atual como "casa" | **O pack permite 1 casa** por jogador. Salvar outra substitui a primeira. |
+| `/sethome <nome>` | Salva o lugar atual como "casa" | Até **5 casas** por jogador, cada uma com um nome, por exemplo `/sethome base` e `/sethome mina` |
 | `/home <nome>` | Volta para a casa | Espera de 10 s entre usos |
 | `/delhome <nome>` | Apaga uma casa | — |
 | `/listhomes` | Lista as suas casas | — |
