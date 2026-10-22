@@ -2641,6 +2641,114 @@
       "pw_file": "mods/create-connected.pw.toml"
     },
     {
+      "name": "Create Deep Seas [BETA]",
+      "source": "modrinth",
+      "project_id": "mva5q4qZ",
+      "version_id": "8CV1LRTl",
+      "filename": "create_submarine-3.3.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "df2cf8242deaf7954f146fd8571000b654f0660e78e52bd1888bdd13aef4ed658dfabd89741e914313d746b0b5b7f78acfd02642f8718b51593bb6ec38b308de"
+      },
+      "mod_ids": {
+        "create_submarine": "3.3.0",
+        "create_abyss": "1.0.0",
+        "create_high_seas": "0.1.1",
+        "fusion": "1.2.12",
+        "sablecompanion": "1.6.0",
+        "lithostitched": "1.4.8"
+      },
+      "dependencies": [
+        {
+          "mod_id": "lithostitched",
+          "type": "optional",
+          "range": "[1.4.8,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[0.5,)"
+        },
+        {
+          "mod_id": "ponder",
+          "type": "required",
+          "range": "[1.0,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.3,)"
+        },
+        {
+          "mod_id": "aeronautics",
+          "type": "required",
+          "range": "[1.3.2,)"
+        },
+        {
+          "mod_id": "simulated",
+          "type": "required",
+          "range": "[1.3.0,)"
+        },
+        {
+          "mod_id": "fusion",
+          "type": "optional",
+          "range": "[1.2.12,)"
+        },
+        {
+          "mod_id": "create_submarine",
+          "type": "required",
+          "range": "[3.3.0,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.3,)"
+        },
+        {
+          "mod_id": "lithostitched",
+          "type": "optional",
+          "range": "[1.4.8,)"
+        },
+        {
+          "mod_id": "create_submarine",
+          "type": "required",
+          "range": "[3.3.0,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.78-beta,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.80,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.64,)"
+        }
+      ],
+      "pw_file": "mods/create-deep-seas.pw.toml"
+    },
+    {
       "name": "Create: Diesel Generators",
       "source": "modrinth",
       "project_id": "ZM3tt6p1",
@@ -8685,6 +8793,29 @@
       "pw_file": "mods/numismatics.pw.toml"
     },
     {
+      "name": "Ocean's Delight",
+      "source": "modrinth",
+      "project_id": "DGiq4ZSW",
+      "version_id": "ja5Qg1xw",
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15"
+      },
+      "mod_ids": {
+        "oceansdelight": "1.0.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.4,)"
+        }
+      ],
+      "pw_file": "mods/oceans-delight.pw.toml"
+    },
+    {
       "name": "Open Loader",
       "source": "modrinth",
       "project_id": "KwWsINvD",
@@ -10281,6 +10412,35 @@
       "pw_file": "mods/simply-tooltips.pw.toml"
     },
     {
+      "name": "Small Ships",
+      "source": "modrinth",
+      "project_id": "rGWEHQrP",
+      "version_id": "2iLK0Wz6",
+      "filename": "smallships-neoforge-1.21.1-2.0.2.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "3ca7ec4a9f6800a5e9f90cb273e8495c5919c2d9a0707160a1d4391fa11c5525e3f76038f877023929d3e3104b3df79e8afc1138de0f7df64530649cb3b76d20"
+      },
+      "mod_ids": {
+        "smallships": "2.0.2",
+        "forgeconfigapiport": "21.1.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        }
+      ],
+      "pw_file": "mods/small-ships.pw.toml"
+    },
+    {
       "name": "Smithing Template Viewer",
       "source": "modrinth",
       "project_id": "oJsYTCP3",
@@ -11362,6 +11522,29 @@
         }
       ],
       "pw_file": "mods/weatherforecast.pw.toml"
+    },
+    {
+      "name": "When Dungeons Arise: Seven Seas",
+      "source": "modrinth",
+      "project_id": "ZsrrjDbP",
+      "version_id": "erk04BGa",
+      "filename": "DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "14c9a833f85e343561547a5efb44a7f275b4e3fa97294ca36628c54b990a3634fb0df1223a127a02b5bdc5b113dfbfca46d76906b0efa3e797f0622cc14d3b50"
+      },
+      "mod_ids": {
+        "dungeons_arise_seven_seas": "1.0.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        }
+      ],
+      "pw_file": "mods/when-dungeons-arise-seven-seas.pw.toml"
     },
     {
       "name": "When Dungeons Arise",

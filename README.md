@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **394 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **398 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 394 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 398 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -87,6 +87,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 - **Estruturas:** YUNG's (9 mods e Extras), Moog's (End, Nether, Soaring, Voyager), When Dungeons Arise, ChoiceTheorem's Overhauled Villages, Structory e Towers, Explorify, Underground Villages
 - **Dimensões:** Ad Astra (foguetes, planetas e metais), The Undergarden (subterrânea, com minérios novos) e Compact Machines
 - **Fauna:** **Naturalist** (47 animais reais, como veados, ursos, cobras e pássaros, com comportamento realista), **Critters and Companions** (bichos pequenos e de companhia, vários domesticáveis, como furão, lontra e panda-vermelho), **Spawn** (peixes e vida marinha, dodô, hamster e formigas) e **Ecologics** (caranguejo-do-coco, esquilo e pinguim, além de coqueiros e madeira de azaleia)
+- **Mar e navegação:** **Create: Deep Seas** (submarinos com física, feitos com o Create Aeronautics: lastro, hélice, leme, sonar, oxigênio a bordo; além de velas, âncora, motor de barco e criaturas do abismo), **Small Ships** (navios prontos, com canhões), **When Dungeons Arise: Seven Seas** (navios-estrutura perigosos no oceano) e **Ocean's Delight** (comidas do mar para o Farmer's Delight)
 - **Som ambiente:** **AmbientSounds**, com sons por bioma, hora e altura, como grilos à noite, vento nas montanhas e eco nas cavernas
 - **Duração do dia:** **Better Days**, com o dia de **30 minutos** e a noite de **10** (no Minecraft puro são 10 e 10). A cama acelera o tempo até amanhecer, em vez de pular a noite.
 - **Estações e temperatura:** Serene Seasons (com GlitchCore) e Cold Sweat

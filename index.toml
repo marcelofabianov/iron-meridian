@@ -3412,6 +3412,11 @@ hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "9a55301a424d2e98adc9a41869c99ee139425a3d05ccfda50e1d45c0d39aae52"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
@@ -4397,6 +4402,11 @@ hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
@@ -4657,6 +4667,11 @@ hash = "bb5dc8ac909aee1955532a65145f7ebfc3a88289610298e821a974fdda5f1822"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "921d02a072ec9644b1557eece1a090f0be59fae479e652b1ba9c5cd16afba8f7"
+metafile = true
+
+[[files]]
 file = "mods/smithing-template-viewer.pw.toml"
 hash = "95a454ef64b7bf3f1e00bd346012389359b14f0ad11521cf76c869b586537495"
 metafile = true
@@ -4844,6 +4859,11 @@ metafile = true
 [[files]]
 file = "mods/weatherforecast.pw.toml"
 hash = "bacce3462ba37989003500c19f37a790c891583c0fe3ebfcbb00d835526c59e8"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "6817acd8f1a98c3e7c00e61507a9178fa9c7398b356f6e92704656a712157dcd"
 metafile = true
 
 [[files]]
