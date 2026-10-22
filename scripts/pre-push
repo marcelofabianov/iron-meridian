@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Bloqueia o push se o pack estiver inconsistente: arquivo do índice fora do git
+# ou pack.toml com hash diferente do index.toml.
+python3 - <<'PY'
+import tomllib, subprocess, hashlib, sys
+idx = tomllib.load(open("index.toml", "rb"))
+tracked = set(subprocess.run(["git", "ls-files"], capture_output=True, text=True).stdout.split("\n"))
+missing = [f["file"] for f in idx["files"] if f["file"] not in tracked]
+pack = tomllib.load(open("pack.toml", "rb"))
+ok_hash = pack["index"]["hash"] == hashlib.sha256(open("index.toml", "rb").read()).hexdigest()
+dirty = subprocess.run(["git", "status", "--porcelain", "pack.toml", "index.toml"], capture_output=True, text=True).stdout.strip()
+if missing or not ok_hash or dirty:
+    print("pre-push: pack inconsistente!")
+    if missing: print("  arquivos no índice fora do git:", missing)
+    if not ok_hash: print("  hash do index.toml não confere com o pack.toml (rode packwiz refresh)")
+    if dirty: print("  pack.toml/index.toml com mudanças não commitadas")
+    sys.exit(1)
+PY

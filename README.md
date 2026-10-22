@@ -5,7 +5,7 @@
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
-**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
+**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
 ## Instalação rápida (Prism Launcher)
 
@@ -126,6 +126,8 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 
 ## Manutenção dos mods
 
+O passo a passo completo, com testes e publicação, está em **[docs/MANUTENCAO.md](docs/MANUTENCAO.md)**.
+
 O `mods.json`, na raiz do repositório, registra cada mod com **origem** (Modrinth ou CurseForge), **versão**, **hash**, os **IDs que ele registra** e as **dependências com a faixa de versão** de cada uma. O packwiz guarda versão e hash, mas não confere se as versões das dependências batem entre si. O script `scripts/mods.py` cobre essa parte:
 
 ```bash
@@ -133,6 +135,8 @@ python3 scripts/mods.py sync            # gera o mods.json de novo a partir dos 
 python3 scripts/mods.py check           # lista as versões estáveis mais novas (Modrinth e CurseForge)
 python3 scripts/mods.py update          # simula as atualizações e confere as dependências do conjunto
 python3 scripts/mods.py update --apply  # aplica no pack as que passarem, e atualiza o mods.json
+python3 scripts/mods.py who-needs <modId>  # quem depende de um mod, antes de remover
+scripts/build-instance-zip.sh           # gera o IronMeridian-Prism.zip da release
 ```
 
 - Só entram versões **estáveis (release)** para NeoForge 1.21.1 (regra 9).

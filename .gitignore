@@ -9,3 +9,6 @@ saves/
 
 # Notas locais
 PENDENTES.txt
+
+# Saída do build-instance-zip.sh
+dist/

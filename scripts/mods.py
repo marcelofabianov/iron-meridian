@@ -10,6 +10,7 @@ Uso:
   python3 scripts/mods.py check                # lista atualizações estáveis disponíveis
   python3 scripts/mods.py update               # simula as atualizações e confere dependências
   python3 scripts/mods.py update --apply       # aplica no pack as que passarem na checagem
+  python3 scripts/mods.py who-needs <modId>    # quem depende de um mod (regra 4, antes de remover)
 
 Opções:
   --instance DIR   pasta mods/ de uma instância para reaproveitar .jar já baixados
@@ -319,6 +320,30 @@ def save_mods_json(entries):
     }
     json.dump(out, open(MODS_JSON, "w"), indent=2, ensure_ascii=False)
     print(f"mods.json salvo com {len(entries)} mods")
+    write_mods_md(entries)
+
+
+def write_mods_md(entries):
+    rows = []
+    for e in entries:
+        if e["source"] == "modrinth":
+            src = f"[Modrinth](https://modrinth.com/mod/{e['project_id']})"
+        elif e["source"] == "curseforge":
+            src = f"[CurseForge](https://www.curseforge.com/projects/{e['project_id']})"
+        else:
+            src = "—"
+        rows.append((e["name"], e["filename"], src))
+    rows.sort(key=lambda r: r[0].lower())
+    mr = sum("Modrinth" in r[2] for r in rows)
+    cf = sum("CurseForge" in r[2] for r in rows)
+    out = ["# Lista de mods do Iron Meridian", "",
+           "Gerada pelo `scripts/mods.py sync` a partir dos arquivos do packwiz (`mods/*.pw.toml`). "
+           "Cada mod continua sob a licença do respectivo autor.", "",
+           f"Total: **{len(rows)} mods** ({mr} do Modrinth e {cf} do CurseForge).", "",
+           "| # | Mod | Arquivo | Fonte |", "|---|---|---|---|"]
+    out += [f"| {i} | {n} | `{f}` | {s} |" for i, (n, f, s) in enumerate(rows, 1)]
+    open(os.path.join(ROOT, "docs", "MODS.md"), "w").write("\n".join(out) + "\n")
+    print("docs/MODS.md atualizado")
 
 
 def load_ignore():
@@ -409,14 +434,31 @@ def cmd_update(a):
     print(f"{len(ups)} mod(s) atualizado(s). Teste numa instância antes de publicar.")
 
 
+def cmd_who_needs(a):
+    if not os.path.exists(MODS_JSON):
+        sys.exit("mods.json não encontrado: rode 'sync' antes.")
+    data = json.load(open(MODS_JSON))["mods"]
+    target = a.target
+    owner = [m["name"] for m in data if target in m["mod_ids"]]
+    print(f"'{target}' é fornecido por: {', '.join(owner) if owner else '(nenhum mod do pack)'}")
+    for kind in ("required", "optional", "incompatible"):
+        users = sorted({m["name"] for m in data for d in m["dependencies"]
+                        if d["mod_id"] == target and d["type"] == kind and target not in m["mod_ids"]})
+        label = {"required": "EXIGEM", "optional": "têm integração opcional com", "incompatible": "declaram incompatibilidade com"}[kind]
+        print(f"  Mods que {label} '{target}': {len(users)}")
+        for u in users:
+            print("    -", u)
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["sync", "check", "update"])
+    ap.add_argument("command", choices=["sync", "check", "update", "who-needs"])
+    ap.add_argument("target", nargs="?", help="modId para o who-needs")
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--only")
     ap.add_argument("--instance", default=DEFAULT_INSTANCE)
     a = ap.parse_args()
-    {"sync": cmd_sync, "check": cmd_check, "update": cmd_update}[a.command](a)
+    {"sync": cmd_sync, "check": cmd_check, "update": cmd_update, "who-needs": cmd_who_needs}[a.command](a)
 
 
 if __name__ == "__main__":
