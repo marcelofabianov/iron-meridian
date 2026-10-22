@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.1.5 — 21/10/2026
+
+### Mods novos
+- **Spice of Life: Carrot Edition 1.16.6**: cada alimento diferente que você come conta para ganhar **corações extras permanentes**. O *Food Book*, que mostra o progresso, entra no Akashic Tome, que passa a ter **25 livros**.
+- **Ore Hammer 2.2.0**: martelo de esmagamento do início do jogo (2 blocos de cobre, 1 de ferro, 1 graveto e 1 pepita de ferro). Minério bruto vira **2 pós**, e o bloco de minério com Toque Suave vira **3 pós**, para ferro, cobre, ouro e o zinco do Create.
+
+### Martelo para os metais dos mods
+- Um script novo (`kubejs/server_scripts/iron_meridian_hammer.js`) estende o martelo do Ore Hammer para **estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina, antimônio, irídio, titânio e tungstênio**, com as mesmas regras: bruto dá 2 pós, minério dá 3. O pó sai pela prioridade do Almost Unified.
+
+### Interface
+- **JEI:** a lista de itens passa a ter **18 colunas**, além da altura total da tela.
+- **Pick Up Notifier:** notificações de itens coletados maiores (escala **7**, antes 4). A configuração fica preservada nas atualizações.
+
+### Documentação
+- Novo **[guia de progressão](docs/PROGRESSAO.md)**, com o começo comum, 7 rotas por estilo de jogo, linha do tempo e metas de endgame.
+- README, INSTALL e lista de mods atualizados (**382 mods**).
+
 ## 1.1.4 — 21/10/2026
 
 ### Unificação de minérios
