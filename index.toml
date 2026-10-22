@@ -4689,6 +4689,11 @@ hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
 metafile = true
 
 [[files]]
+file = "mods/simple-weather.pw.toml"
+hash = "a83ab94ac7b0408f648f0c9c02b905eb4c2dda8f8c01be2fdd588503cc5d8428"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "f11837c4f049aeb3b7ceb086f4c7b1347bfad1826f47722cbdc8b2b38df0067e"
 metafile = true
