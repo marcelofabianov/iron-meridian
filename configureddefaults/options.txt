@@ -26,9 +26,9 @@ key_key.scc.open:key.keyboard.c
 key_key.trade_cycling.cycle_trades:key.keyboard.x
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.mekanism.mode:key.keyboard.n
-key_key.enderio.toggle_magnet:key.keyboard.m
+key_key.enderio.toggle_magnet:key.keyboard.m:SHIFT
 key_key.modern_industrialization.toggle_3x3:key.keyboard.y
-key_key.hostilenetworks.open_deep_learner:key.keyboard.u
+key_key.hostilenetworks.open_deep_learner:key.keyboard.u:SHIFT
 key_key.keybindatlas.open_keyboard:key.keyboard.k
 key_key.immersive_aircraft.mouse_control:key.keyboard.grave.accent
 key_key.mekanism.head_mode:key.keyboard.1:ALT
@@ -61,4 +61,11 @@ key_key.mekanism.key_hud:key.keyboard.f8
 key_key.oracle_index.open:key.keyboard.f10
 key_iris.keybind.toggleShaders:key.keyboard.f12
 key_key.keybindbundles.open_radial_menu:key.keyboard.right.alt
+key_gui.xaero_new_waypoint:key.keyboard.b:SHIFT
+key_gui.xaero_minimap_settings:key.keyboard.y:SHIFT
+key_gui.xaero_enlarge_map:key.keyboard.z:SHIFT
+key_chunkloaders.keys.open_screen:key.keyboard.unknown
+key_key.craftingGrid:key.keyboard.c:SHIFT
+key_key.oritech.augment_screen:key.keyboard.semicolon
+key_key.smallships.ship_sail:key.keyboard.r:ALT
 key_key.weather_forecast.toggle:key.keyboard.f6

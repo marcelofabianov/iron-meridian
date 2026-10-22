@@ -28,9 +28,9 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 8 | **X** | Trocar as ofertas do aldeão | Trade Cycling |
 | 9 | **B** | Abrir a mochila | Sophisticated Backpacks |
 | 10 | **N** | Modo do item (configurador, disassembler…) | Mekanism |
-| 11 | **M** | Ligar/desligar o ímã | Ender IO |
-| 12 | **Y** | Mineração 3x3 | Modern Industrialization |
-| 13 | **U** | Deep Learner | Hostile Neural Networks |
+| 11 | **M** | Abrir o mapa | Xaero's World Map |
+| 12 | **U** | Lista de waypoints | Xaero's Minimap |
+| 13 | **Y** | Mineração 3x3 | Modern Industrialization |
 | 14 | **K** | Mapa do teclado | Keybind Atlas |
 | 15 | **Z** | Zoom | Just Zoom |
 | 16 | **`** | Controle pelo mouse (aviões) | Immersive Aircraft |
@@ -50,28 +50,35 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 25 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
 | 26 | **Alt + V** | Habilidade da arma | L_Ender's Cataclysm |
 | 27 | **Alt + B** | Impulso | Immersive Aircraft |
-| 28 | **Alt + R** | Desmontar | Immersive Aircraft |
+| 28 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
 | 29 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
 | 30 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
 | 31 | **Alt + C** | Configurações | SCC |
 | 32 | **Alt + K** | Detalhes do último pedido | SCC |
 | 33 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
 
-As peças de armadura e os voos dividem a mesma combinação porque você só veste uma peça por vez em cada parte do corpo.
+As peças de armadura, os voos e os veículos dividem a mesma combinação porque você só usa um de cada vez.
 
-### Shift + tecla e teclas de função (ações raras)
+### Shift + tecla e teclas difíceis (ações raras)
 
 | # | Tecla | Ação | Mod |
 |---|---|---|---|
-| 34 | **Shift + V** | Pegar aldeão | Easy Villagers |
-| 35 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 36 | **Shift + G** | Óculos | Advanced Peripherals |
-| 37 | **Shift + H** | HUD da chave | Logistics Networks |
-| 38 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 39 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 40 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 41 | **F12** | Ligar/desligar o shader | Iris |
-| 42 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 34 | **Shift + B** | Novo waypoint | Xaero's Minimap |
+| 35 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
+| 36 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
+| 37 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
+| 38 | **Shift + U** | Deep Learner | Hostile Neural Networks |
+| 39 | **Shift + C** | Grade de crafting num bloco | Translocators |
+| 40 | **Shift + V** | Pegar aldeão | Easy Villagers |
+| 41 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
+| 42 | **Shift + G** | Óculos | Advanced Peripherals |
+| 43 | **Shift + H** | HUD da chave | Logistics Networks |
+| 44 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 45 | **;** | Tela de aumentos | Oritech |
+| 46 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 47 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 48 | **F12** | Ligar/desligar o shader | Iris |
+| 49 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
 
 ### Sem tecla, de propósito
 
@@ -80,7 +87,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - **Simple Voice Chat** (menu, grupo, mutar, desativar, ícones): não tem uso no singleplayer.
 - Salvar e carregar barra de ferramentas (Minecraft), trocar ofertas do Easy Villagers (repete o Trade Cycling), opções do Just Zoom.
 - Depuração de drone do capacete pneumático, recarregar shaders, Kubedex do KubeJS, gravar GIF de tooltip.
-- Rádio do Ad Astra e opções de rota do Create Railways Navigator.
+- Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
 
 ### Teclas livres
 
@@ -102,7 +109,7 @@ O mapa entra pelo `configureddefaults/options.txt`, que só é usado quando a in
 
 ## Teclas por mod
 
-Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica ação que só funciona com uma tela aberta (inventário, JEI, terminal).
+Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só funciona com uma tela aberta (inventário, JEI, terminal).
 
 ### Minecraft
 
@@ -110,11 +117,9 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 |---|---|---|
 | L | Advancements | Jogo |
 | Botão esquerdo do mouse | Attack/Destroy | Jogo |
-| C | Crafting Grid | Tela |
 | ] | Cycle to next target | Jogo |
 | [ | Cycle to previous target | Jogo |
 | Q | Drop Selected Item | Jogo |
-| Z | Enlarge Minimap | Tela |
 | 1 | Hotbar Slot 1 | Jogo |
 | 2 | Hotbar Slot 2 | Jogo |
 | 3 | Hotbar Slot 3 | Jogo |
@@ -127,20 +132,13 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Espaço | Jump | Jogo |
 | Ctrl esquerdo | control | Jogo |
 | Tab | List Players | Jogo |
-| Y | Minimap Settings | Tela |
 | Ctrl + B | Narrator | Jogo |
-| B | New Waypoint | Tela |
 | T | Open Chat | Jogo |
 | / | Open Command | Jogo |
 | P | Open configuration screen | Tela |
 | F1 | Open Manual | Jogo |
-| ] | Open Settings | Tela |
-| U | Open Waypoint Screen | Tela |
-| M | Open World Map | Tela |
 | E | Open/Close Inventory | Tela |
 | Botão do meio do mouse | Pick Block | Jogo |
-| Shift direito | Quick Manual Confirmation | Tela |
-| Numérico add | Quick Waypoint | Tela |
 | Shift esquerdo | Sneak | Jogo |
 | P | Social Interactions Screen | Jogo |
 | Ctrl esquerdo | Sprint | Jogo |
@@ -150,7 +148,6 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | F2 | Take Screenshot | Tela |
 | F11 | Toggle Fullscreen | Tela |
 | F5 | Toggle Perspective | Jogo |
-| \ | Unmount Vehicle | Jogo |
 | Botão direito do mouse | Use Item/Place Block | Jogo |
 | S | Walk Backwards | Jogo |
 | W | Walk Forwards | Jogo |
@@ -198,12 +195,6 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | R | Range | Jogo |
 | G | Settings Menu | Jogo |
 | U | Undo | Jogo |
-
-### Chunk Loaders
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| C | View Chunk Loaders | Tela |
 
 ### Command Keys
 
@@ -283,7 +274,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Tecla | Ação | Onde |
 |---|---|---|
 | G | Staff of Travelling | Jogo |
-| M | Toggle Electromagnet | Jogo |
+| Shift + M | Toggle Electromagnet | Jogo |
 
 ### Equipment Compare
 
@@ -322,7 +313,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 
 | Tecla | Ação | Onde |
 |---|---|---|
-| U | Open Deep Learner Curio | Jogo |
+| Shift + U | Open Deep Learner Curio | Jogo |
 
 ### Immersive Aircraft
 
@@ -378,7 +369,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 |---|---|---|
 | ` | Sort External Inventory | Tela |
 | Botão do meio do mouse | Sort Inventory Under Cursor | Tela |
-| \ | Sort Player Inventory | Tela |
+| \\ | Sort Player Inventory | Tela |
 
 ### Iris Shaders
 
@@ -500,7 +491,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Alt + 1 | Head Mode Switch | Jogo |
 | N | Item Mode Switch | Jogo |
 | Alt + 3 | Legs Mode Switch | Jogo |
-| \ | Module Tweaker | Jogo |
+| \\ | Module Tweaker | Jogo |
 | Shift + N | Show Description | Jogo |
 | Shift esquerdo | Show Details | Jogo |
 | F8 | Show HUD | Jogo |
@@ -536,7 +527,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 
 | Tecla | Ação | Onde |
 |---|---|---|
-| G | Implant Controls [Hold] | Tela |
+| ; | Implant Controls [Hold] | Jogo |
 
 ### Placebo
 
@@ -562,6 +553,12 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Ctrl + X | Clear Crafting Grid matrix to network | Tela |
 | Tab | Focus search bar | Tela |
 
+### RFTools Builder
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| \\ | Unmount Vehicle | Jogo |
+
 ### SCC - Super Cool Calculator
 
 | Tecla | Ação | Onde |
@@ -585,6 +582,13 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Tecla | Ação | Onde |
 |---|---|---|
 | G | Cycle Tooltip Tab | Jogo |
+
+### Small Ships
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| F | cannon barrel enter | Jogo |
+| Alt + R | Toggle Sail | Jogo |
 
 ### Sophisticated Backpacks
 
@@ -623,7 +627,7 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Shift esquerdo | Label Gun Scroll Modifier | Tela |
 | Alt direito (AltGr) | Label Gun Target Manager Modifier | Tela |
 | Ctrl + E | Manager Screen - Open Text Editor | Tela |
-| \ | Text Editor - Accept Intellisense Suggestion | Tela |
+| \\ | Text Editor - Accept Intellisense Suggestion | Tela |
 | Ctrl + E | Title Screen - Open Text Editor | Tela |
 | Ctrl + I | Toggle Container Inspector | Tela |
 | Alt esquerdo | Toggle network tool overlay | Jogo |
@@ -647,6 +651,12 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 |---|---|---|
 | X | Cycle Trades | Jogo |
 
+### Translocators
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| Shift + C | Crafting Grid | Jogo |
+
 ### TrashSlot
 
 | Tecla | Ação | Onde |
@@ -660,6 +670,19 @@ Todas as ações **com tecla** depois do mapa, agrupadas por mod. *Tela* indica 
 | Tecla | Ação | Onde |
 |---|---|---|
 | F6 | Toggle weather HUD | Jogo |
+
+### Xaero's Minimap
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| Shift + Z | Enlarge Minimap | Jogo |
+| Shift + Y | Minimap Settings | Jogo |
+| Shift + B | New Waypoint | Jogo |
+| ] | Open Settings | Jogo |
+| U | Open Waypoint Screen | Jogo |
+| M | Open World Map | Jogo |
+| Shift direito | Quick Manual Confirmation | Jogo |
+| Numérico add | Quick Waypoint | Jogo |
 
 ### XyCraft
 
