@@ -117,7 +117,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md).
 | Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, monta um Akashic Tome com todos os livros-guia (Patchouli e guias próprios, incluindo os manuais do Immersive Vehicles), coloca no slot 1 e remove os livros soltos. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |
 | Lithostitched 1.8.1 | `mods/` | O Regions Unexplored 0.6.3 usa o `lithostitched:holder_set`, que só existe a partir da 1.8.1. Com versões anteriores aparece "Errors in currently selected data packs" ao criar o mundo. |
 | Unificação de minérios | `config/almostunified/startup.json` e `config/almostunified/unification/materials.json` | Receitas, JEI, **geração do mundo** (`world_gen_unification`) e **loot** (`loot_unification`) unificados. Prioridade: Minecraft, KubeJS, Create, Immersive Engineering, Mekanism, Modern Industrialization, Oritech, XyCraft, Extreme Reactors e outros. |
-| JEI ocupando a altura da tela | `config/jei/jei-client.ini` e `config/jei/client/jei-client.ini` | `maxRows = 100` e `maxColumns = 12`. Os arquivos estão marcados como `preserve`, então o que você mudar nas opções do JEI não é desfeito pelas atualizações. |
+| JEI ocupando a altura da tela | `config/jei/jei-client.ini` e `config/jei/client/jei-client.ini` | `maxRows = 100` e `maxColumns = 15`. Os arquivos estão marcados como `preserve`, então o que você mudar nas opções do JEI não é desfeito pelas atualizações. |
 
 ## Sobre este repositório
 
