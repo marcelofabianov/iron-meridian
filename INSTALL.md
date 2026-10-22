@@ -39,6 +39,8 @@ Use este caminho se preferir montar a instância à mão.
 
 ## Primeiros passos no jogo
 
+Não sabe por onde começar? Veja o **[Guia de progressão](docs/PROGRESSAO.md)**: ele sugere rotas como Create, indústria pesada, Mekanism, logística, energia, recursos automáticos e exploração, além de metas de endgame.
+
 - Você começa com um **Akashic Tome** no slot 1, com os 25 livros-guia do pack. Use **Shift + clique direito** para escolher um livro e **Shift + clique esquerdo no ar** para voltar ao tomo.
 - O **FTB Essentials** libera `/sethome`, `/home`, `/back`, `/spawn` e `/rtp` sem precisar de cheats.
 - O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. Como o K tem várias funções no pack, vale trocar a tecla dele em **Controles**.

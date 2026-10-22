@@ -5,7 +5,7 @@
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
-**[Como instalar](INSTALL.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
+**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
 ## Instalação rápida (Prism Launcher)
 
