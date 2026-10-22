@@ -2948,6 +2948,10 @@ file = "configureddefaults/config/iris.properties"
 hash = "4674a7433c5832a2e90723c5cd0a8b7194d6b6de2004ef95442941121d04218b"
 
 [[files]]
+file = "configureddefaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "b4f68cc9c6c2858acf06d56fa30cf051bafff8880fbd645984c98cfc1256b3f1"
 
