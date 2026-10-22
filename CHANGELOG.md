@@ -1,5 +1,30 @@
 # Changelog
 
+## 1.1.7 — 22/10/2026
+
+### Mods novos: desafio
+- **Mutant Monsters v21.1.1**: versões mutantes do zumbi, do esqueleto, do creeper e do enderman. Os drops viram equipamentos únicos, como o *Hulk Hammer*, a *Endersoul Hand* e armaduras.
+- **Born in Chaos 1.7.6**: dezenas de mobs agressivos novos, com estruturas e equipamentos feitos a partir dos drops.
+- **Aquamirae 7.2.13**: cemitério de navios no oceano congelado, com criaturas do fundo do mar e uma chefe, a *Captain Cornelia*. Traz o **Fragmentum 5.4.0** como dependência.
+
+### Mods novos: clima
+- **Simple Weather 1.0.13**: efeitos visuais de chuva, neve e tempestade.
+- **WeatherForecast 1.3.0**: painel com o clima atual e quanto falta para mudar, na tecla **F6**. Em instalações anteriores, a tecla pode estar no **H**, que também abre o *Oracle Index* do Oritech e do MFFS. Troque em **Opções → Controles**.
+
+### Atualizações
+- **21 mods do CurseForge** foram para a versão estável mais nova, entre eles Sophisticated Backpacks e Storage, Integrated Dynamics, Logistics Networks, KubeJS, FTB Library, Expanded AE, Gravestone e Easy Villagers. Os mods do Modrinth já estavam na versão estável mais nova.
+
+### Jogo
+- **SAG Mill (Ender IO):** passa a moer o minério bruto de **antimônio, níquel, platina, prata, tungstênio, zinco, irídio e titânio**, que o Ender IO não cobria. Cada bruto dá 1 pó, mais 80% de chance de outro.
+- **FTB Essentials:** até **5 casas** por jogador, antes era 1.
+
+### Documentação e manutenção
+- Novos guias: **[comandos do jogo](docs/COMANDOS.md)** e **[manutenção do pack](docs/MANUTENCAO.md)**.
+- `mods.json` com versão, hash e dependências de cada mod, e o `scripts/mods.py`, que confere e aplica atualizações estáveis checando as dependências do conjunto.
+- `scripts/manual-mods.py`: ajuda a instalar o **SCC**, que tem download manual. Ele abre a página oficial, confere o hash e copia o arquivo para a pasta `mods`.
+- Nova regra 9 do pack: todo mod entra na **versão estável mais nova** compatível.
+- README, INSTALL, guia de progressão e lista de mods atualizados (**388 mods**).
+
 ## 1.1.6 — 22/10/2026
 
 ### Desempenho
