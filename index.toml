@@ -2945,7 +2945,7 @@ hash = "4674a7433c5832a2e90723c5cd0a8b7194d6b6de2004ef95442941121d04218b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1ca505741abd066d34736b81c51ffd4d10877f5b759e062c918329db595a7cc2"
+hash = "11a5a5be9094863ca0cdf5184dca571e7608b3245a91a919c1ae92652969a03d"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"

@@ -111,6 +111,8 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | **F6** | **WeatherForecast**: mostra ou esconde o painel de previsão do tempo. Em instâncias instaladas antes da v1.1.7, a tecla pode estar no **H**, que também abre o *Oracle Index* do Oritech e do MFFS. Troque em **Opções → Controles**. |
 | **Shift + clique direito** no Akashic Tome | Escolhe um livro-guia. Depois, **clique direito no ar** abre o livro. |
 | **Shift + clique esquerdo no ar** | Volta o livro para o Akashic Tome |
-| Tecla do **FTB Ultimine** (veja em Controles) | Segure para minerar em veio |
+| **Botão lateral do mouse (Mouse 4)** | **FTB Ultimine**: segure para minerar em veio |
+
+O mapa completo de teclas, com as combinações com Alt e Shift e as teclas de cada mod, está em **[TECLAS.md](TECLAS.md)**.
 
 Os comandos podem ter **outros parâmetros**. No jogo, digite `/` e o início do comando, e aperte **Tab** para ver as opções.

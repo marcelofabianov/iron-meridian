@@ -49,7 +49,7 @@ Não sabe por onde começar? Veja o **[Guia de progressão](docs/PROGRESSAO.md)*
 
 - Você começa com um **Akashic Tome** no slot 1, com os 24 livros-guia do pack. Use **Shift + clique direito** para escolher um livro, **clique direito no ar** para abrir e **Shift + clique esquerdo no ar** para voltar ao tomo.
 - O **FTB Essentials** libera `/sethome`, `/home`, `/back`, `/spawn` e `/rtp` sem precisar de cheats. A lista completa está no **[guia de comandos](docs/COMANDOS.md)**.
-- O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. Como o K tem várias funções no pack, vale trocar a tecla dele em **Controles**.
+- O **Keybind Atlas** (tecla **K**) mostra o mapa do teclado. As teclas do pack estão organizadas para não colidirem: veja o **[mapa de teclas](docs/TECLAS.md)**.
 
 ## Atualizações
 
