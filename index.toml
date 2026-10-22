@@ -3072,6 +3072,10 @@ file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "17b6aa513fc95e7b2a1b607a145ab7d04b95f04f8113ec20464e8c4315d6f3af"
 
 [[files]]
+file = "kubejs/server_scripts/iron_meridian_sag.js"
+hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
+
+[[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
 hash = "791298ac85eacdd6ef8b9706402b36df608a9951d548b2a1c675e30c3721f432"
 
