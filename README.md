@@ -93,7 +93,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Duração do dia:** **Better Days**, com o dia de **30 minutos** e a noite de **10** (no Minecraft puro são 10 e 10). A cama acelera o tempo até amanhecer, em vez de pular a noite.
 - **Estações:** Serene Seasons (com GlitchCore)
 - **Clima:** Simple Weather, com efeitos visuais de chuva, neve e tempestade mais bonitos
-- **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga por uma tecla, que pode ser trocada em Controles.
+- **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga com **F6**.
 - **Combate e desafios:** L_Ender's Cataclysm (chefes), Simply Swords, **Mutant Monsters** (zumbis, esqueletos, creepers e endermen mutantes, cujos drops viram equipamentos únicos), **Born in Chaos** (muitos mobs agressivos novos, estruturas e equipamentos feitos com os drops) e **Aquamirae** (cemitério de navios no oceano congelado, com criaturas do fundo do mar e um chefe)
 
 ### Construção e decoração

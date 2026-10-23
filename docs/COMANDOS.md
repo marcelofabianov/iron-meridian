@@ -122,6 +122,12 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | **Shift + clique direito** no Akashic Tome | Escolhe um livro-guia. Depois, **clique direito no ar** abre o livro. |
 | **Shift + clique esquerdo no ar** | Volta o livro para o Akashic Tome |
 | **Botão lateral do mouse (Mouse 4)** | **FTB Ultimine**: segure para minerar em veio |
+| **Mouse 5** | Terminal sem fio do **SCC** |
+| **M** / **Alt + M** | Mapa do **Xaero** / mapa de chunks do **FTB Chunks** |
+| **Shift + B** / **U** | Novo waypoint / lista de waypoints (Xaero) |
+| **B** / **G** / **H** | Mochila / Curios / ímã |
+| **C** | Calculadora do **SCC** (item sob o cursor) |
+| **Shift + clique direito** com as mãos vazias | **Carry On**: pega baús e barris com o conteúdo dentro |
 
 O mapa completo de teclas, com as combinações com Alt e Shift e as teclas de cada mod, está em **[TECLAS.md](TECLAS.md)**.
 

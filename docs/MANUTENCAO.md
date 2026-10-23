@@ -91,7 +91,14 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 
 **Configurações de preferência do jogador** (JEI, notificações e outras) devem ficar com `preserve = true` no `index.toml`. Sem isso, o instalador desfaz o que o jogador mudar. Padrões que só valem na primeira abertura vão em `configureddefaults/`.
 
-## 7. Mods de download manual
+## 7. Teclas e configurações iniciais
+
+- O **mapa de teclas** do pack fica em `configureddefaults/options.txt` (só as linhas `key_`), que é a fonte de verdade, e está documentado em `docs/TECLAS.md`. Ao adicionar um mod com teclas, confira se elas colidem com o mapa e acrescente as linhas lá e no TECLAS.
+- O `configureddefaults/` só vale para **instalações novas**. Para mudar a instância de quem já joga, edite o `options.txt` dela **e** o perfil do Universal Keybinds (`~/.config/JustKeybinds/profiles/default/keybinds.json`), com o jogo fechado.
+- Ids que começam com `gui.` (por exemplo, `gui.xaero_*`) podem ser ações **no mundo**, não de tela. Confira antes de tratar como sem colisão.
+- Configurações de mundo que o pack define, como `config/ftbchunks-world.snbt` (FTB Chunks), são sobrescritas a cada atualização. Para uma mudança só num mundo, use `saves/<mundo>/serverconfig/`.
+
+## 8. Mods de download manual
 
 O autor do **SCC** bloqueia o download automático pelo CurseForge, e o pack respeita essa escolha. Para ajudar quem instala:
 ```bash
@@ -99,7 +106,7 @@ python3 scripts/manual-mods.py --instance <pasta minecraft da instância>
 ```
 O script abre a página oficial do arquivo certo, espera o download, confere o hash e copia para a pasta `mods`. A lista fica em `scripts/manual-downloads.json`, e a versão é lida do `.pw.toml`, então acompanha as atualizações.
 
-## 8. Publicar uma versão
+## 9. Publicar uma versão
 
 1. **Durante o ciclo:** cada mudança vai para o `main`, e quem já instalou recebe na próxima abertura. Anote tudo no `PENDENTES.txt`.
 2. **Ao fechar a versão:**
@@ -118,12 +125,12 @@ O script abre a página oficial do arquivo certo, espera o download, confere o h
 
 O link `releases/latest/download/IronMeridian-Prism.zip` sempre aponta para a release mais nova. Depois de um `git push`, o GitHub pode levar alguns minutos para servir os arquivos novos, por causa do cache do `raw.githubusercontent.com`.
 
-## 9. Problemas comuns
+## 10. Problemas comuns
 
 | Sintoma | Causa provável | O que fazer |
 |---|---|---|
 | Instalador: *"Failed to download … 404"* | Um arquivo do índice não está no git, como um `debug.json` ignorado por um `.gitignore` interno | O hook `pre-push` detecta isso. Coloque o arquivo no `.packwizignore` e rode `packwiz refresh`. |
-| Instalador pede download manual | O autor bloqueou o download por terceiros | Seção 7 |
+| Instalador pede download manual | O autor bloqueou o download por terceiros | Seção 8 |
 | *"Errors in currently selected data packs"* ao criar o mundo | Um mod de geração de mundo exige versão mais nova de uma biblioteca, como o Regions Unexplored com a Lithostitched | Leia o `latest.log`, procure *Unknown registry key* e atualize a biblioteca |
 | *"… is not a valid mod file"* | Arquivo publicado com defeito, como o Structory: Towers 1.0.17 | Volte à versão anterior e acrescente o mod no `update-ignore.json` |
 | Configuração do jogador volta ao padrão a cada abertura | O arquivo está no pack sem `preserve` | Marque `preserve = true` ou mova para `configureddefaults/` |

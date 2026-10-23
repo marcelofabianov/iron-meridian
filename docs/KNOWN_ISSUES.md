@@ -22,3 +22,9 @@ Estes erros aparecem no log, mas não afetam o jogo:
 ## Problemas ao abrir o jogo
 
 - **Raro: o jogo para na abertura com vários erros "already registered" / "Failed to wait for future Common setup".** É uma falha intermitente de carregamento simultâneo (no log aparece `ConcurrentModificationException` no `SolarFluxResourcePack`). Não é um problema do mundo nem da instalação: feche e abra o jogo de novo.
+
+## Teclas e controles
+
+- **Teclas voltam ao que eram depois de editar o `options.txt` à mão.** O **Universal Keybinds** guarda as teclas num perfil global (`~/.config/JustKeybinds/profiles/default/keybinds.json` no Linux) e o reaplica ao abrir o jogo. Mude as teclas em **Opções → Controles** (o mod salva sozinho) ou edite os dois arquivos com o jogo fechado. Veja o [mapa de teclas](TECLAS.md).
+- **Carry On abre o baú em vez de pegar.** As duas mãos precisam estar vazias (inclusive a secundária) e o Shift precisa estar pressionado antes do clique direito. Baús e barris do Sophisticated Storage guardam os itens quando quebrados; os baús e barris comuns do Minecraft, não.
+
