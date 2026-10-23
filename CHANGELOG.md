@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.1.10 — 22/10/2026
+
+### Mods novos
+- **FTB Chunks** 2101.1.22: no mapa de chunks (**Alt + M**), reivindique a área da base e mantenha os chunks carregados (até 25).
+  - Chunks reivindicados ficam protegidos contra **explosões** e **grief de mobs**.
+  - O minimapa dele fica desligado, porque o pack usa o do Xaero.
+  - Máquinas que agem como jogador (Deployer, block breakers, Modular Routers) continuam funcionando dentro dos chunks reivindicados.
+- **Mekanism: Weapons** 4.3: **Meka-Tana**, **Meka-Bow** e **Meka-Gun** (arma a laser), com módulos no estilo da MekaSuit. É um addon não oficial e exige a mesma versão do Mekanism do pack.
+- **Create: Central Kitchen** 2.6.2b: Deployers e braços mecânicos usam a tábua de corte, a panela e a frigideira do Farmer's Delight. É a cozinha automatizada.
+- **Create: Copycats+** 3.0.9: blocos que copiam a textura de qualquer bloco, em formas como degraus, placas finas, cercas e grades.
+- **Immersive Petroleum** 4.5.0: reservatórios de petróleo no subsolo, pumpjack, torre de destilação, diesel e gasolina para os geradores do IE e o Create: Diesel Generators.
+
+### Documentação
+- **Guia de progressão:**
+  - proteger a base (FTB Chunks e Mega Torch), elevadores e teclas do Xaero e do Ultimine;
+  - o **SCC** como rede de armazenamento mais barata;
+  - energia com Stirling, eólica e solar do Mekanism, e o Energizing Orb;
+  - Iron Farm, armadura de Refined Obsidian e uma dica de FPS com o shader.
+- **Guia de comandos:** uma seção nova de **FTB Chunks** e a tabela das teclas principais.
+- **Problemas conhecidos:** uma seção de teclas, com o Universal Keybinds e o Carry On.
+- **Mapa de teclas**, **guia dos mods** e **README** atualizados (**402 mods**).
+
 ## 1.1.9 — 22/10/2026
 
 ### Teclas
