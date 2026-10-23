@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **399 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **402 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 399 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 402 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -54,10 +54,10 @@ Toda mudança no pack segue estas regras:
 A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de cada mod, por categoria, está no [guia dos mods](docs/GUIA-DOS-MODS.md).
 
 ### Tecnologia e energia
-- **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation
+- **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation, **Central Kitchen** (automatiza a cozinha do Farmer's Delight) e **Copycats+** (blocos que copiam a textura de qualquer bloco)
 - **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
-- **Immersive Engineering**, **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
+- **Immersive Engineering** (com **Immersive Petroleum**: petróleo, pumpjack, destilação, diesel e gasolina), **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
 - **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
 - **Extended Crafting**, **Hostile Neural Networks**, **Just Dire Things**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
 

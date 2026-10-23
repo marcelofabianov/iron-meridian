@@ -3364,6 +3364,11 @@ hash = "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
@@ -3391,6 +3396,11 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
 
 [[files]]
@@ -3876,6 +3886,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-energistics.pw.toml"
 hash = "567f997ec5a0531301e048ec41ebc3f0ade57f1fe01ada9f8568954711574012"
+metafile = true
+
+[[files]]
+file = "mods/immersive-petroleum.pw.toml"
+hash = "d5496dcb36c7417e52d568e060077d79e2dac2cb7686be9739941c841a644254"
 metafile = true
 
 [[files]]
