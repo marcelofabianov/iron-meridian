@@ -4214,6 +4214,11 @@ hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-weapons.pw.toml"
+hash = "c8bf00b2a415bbea9ad3884ac0cdc3a876aea22d2d99a8de9c115ed6b104df7c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true

@@ -71,7 +71,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 
 ## 6. Testar numa instância temporária
 
-1. **Copie uma instância** já instalada, sem os mundos, e desligue o comando de pré-lançamento da cópia (`OverrideCommands=false` no `instance.cfg`), para ela não puxar do GitHub.
+1. **Copie uma instância** já instalada, sem os mundos, e deixe o comando de pré-lançamento da cópia **vazio** (`PreLaunchCommand=` no `instance.cfg`), para ela não puxar do GitHub. **Faça isso com o Prism Launcher fechado**: com ele aberto, o Prism grava de volta a configuração que tem na memória, a cópia se atualiza pelo `main` ao abrir e o mod em teste some.
 2. **Sirva o pack local:**
    ```bash
    packwiz serve -p 8766 --refresh=false

@@ -7812,6 +7812,34 @@
       "pw_file": "mods/mekanism-tools.pw.toml"
     },
     {
+      "name": "Mekanism: Weapons",
+      "source": "curseforge",
+      "project_id": "929829",
+      "version_id": "8951656",
+      "filename": "MekanismWeapons-1.21.1-4.3.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "8c921d26a40813eab834d84d020ed85ef6b7b8f6"
+      },
+      "mod_ids": {
+        "mekaweapons": "4.3"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.55,)"
+        },
+        {
+          "mod_id": "mekanism",
+          "type": "required",
+          "range": "10.7.19.85"
+        }
+      ],
+      "pw_file": "mods/mekanism-weapons.pw.toml"
+    },
+    {
       "name": "Mekanism",
       "source": "modrinth",
       "project_id": "Ce6I4WUE",

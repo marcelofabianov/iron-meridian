@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **398 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **399 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 398 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 399 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -95,6 +95,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Clima:** Simple Weather, com efeitos visuais de chuva, neve e tempestade mais bonitos
 - **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga com **F6**.
 - **Combate e desafios:** L_Ender's Cataclysm (chefes), Simply Swords, **Mutant Monsters** (zumbis, esqueletos, creepers e endermen mutantes, cujos drops viram equipamentos únicos), **Born in Chaos** (muitos mobs agressivos novos, estruturas e equipamentos feitos com os drops) e **Aquamirae** (cemitério de navios no oceano congelado, com criaturas do fundo do mar e um chefe)
+- **Armas de tecnologia:** **Mekanism: Weapons** (Meka-Tana, Meka-Bow e Meka-Gun a laser, com módulos como a MekaSuit), além do Revolver e do Railgun do Immersive Engineering, da Minigun do PneumaticCraft e das armas do Draconic Evolution
 
 ### Construção e decoração
 - **Macaw's** (11 mods), **Handcrafted**, **FramedBlocks**, **Factory Blocks**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**
