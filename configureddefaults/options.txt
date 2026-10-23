@@ -71,3 +71,10 @@ key_key.smallships.ship_sail:key.keyboard.r:ALT
 key_key.integratedterminals.terminal.portable.open:key.keyboard.t:ALT
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.x:SHIFT
 key_key.weather_forecast.toggle:key.keyboard.f6
+key_key.ftbchunks.map:key.keyboard.m:ALT
+key_key.ftbchunks.claim_manager:key.keyboard.unknown
+key_key.ftbchunks.add_waypoint:key.keyboard.unknown
+key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
+key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
+key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
+key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown

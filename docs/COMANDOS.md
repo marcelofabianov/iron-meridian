@@ -59,6 +59,17 @@ Comandos úteis **dentro do jogo**. A maioria funciona **sem cheats**. Os que pr
 
 ---
 
+## Proteger e manter a base carregada (FTB Chunks)
+
+| Ação | Como |
+|---|---|
+| Abrir o mapa de chunks | **Alt + M** |
+| Reivindicar chunks | No mapa, **clique esquerdo e arraste** sobre a área. Chunks reivindicados ficam protegidos contra explosões e grief de mobs. |
+| Manter carregados | **Shift + clique esquerdo** nos chunks reivindicados (até 25). Máquinas e farms continuam funcionando com você longe, enquanto o jogo estiver aberto. |
+| Desfazer | **Clique direito** (Shift + clique direito tira só o carregamento) |
+
+Os meteoros do SCC nunca caem em chunks reivindicados.
+
 ## Pré-gerar o mundo 🔒 (Chunky)
 
 Gerar os chunks com antecedência **reduz muito o lag** ao explorar, principalmente voando com o Create Aeronautics.

@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **397 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **398 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 397 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 398 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -104,6 +104,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Not Enough Animations**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **Model Gap Fix**, **Cherished Worlds**
 - **Mouse Tweaks**, **Inventory Tweaks Refoxed**, **Inventory Essentials**, **Controlling**, **AppleSkin**, **Gravestone**, **Lootr**, **Comforts**, **Polymorph**, **Simple Backups**
 - **FTB Essentials**: `/sethome`, `/home`, `/back`, `/spawn`, `/rtp` e outros comandos que funcionam sem cheats
+- **FTB Chunks**: no mapa de chunks (**Alt + M**), reivindique a área da base, que fica protegida contra explosões e grief de mobs, e mantenha os chunks carregados (até 25). O minimapa dele fica desligado, porque o pack usa o do Xaero.
 - **Dynamic FPS**, **Enchanting Infuser**, **Shulker Box Tooltip**, **Actually Harvest** (clique direito colhe e replanta)
 - **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Universal Keybinds, Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
 
@@ -125,6 +126,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 | Martelo para os metais dos mods | `kubejs/server_scripts/iron_meridian_hammer.js` | Estende o martelo do Ore Hammer para 12 metais dos mods, com as mesmas regras (bruto 2 pós, minério 3). O pó sai pela prioridade do Almost Unified. |
 | Desempenho | `config/modernfix-mixins.properties` | O *dynamic resources* do ModernFix carrega modelos e texturas sob demanda. A abertura fica cerca de 20% mais rápida (de 86 para 70 s, num Ryzen 5 5600X com RX 6700 XT) e usa menos RAM. A instância de importação também traz memória fixa e ajustes do coletor de lixo do Java, que reduzem travadas. |
 | SAG Mill para os metais dos mods | `kubejs/server_scripts/iron_meridian_sag.js` | O SAG Mill do Ender IO só mói 8 metais. O script acrescenta antimônio, níquel, platina, prata, tungstênio, zinco, irídio e titânio, com a mesma regra do Ender IO (1 pó garantido + 80% de chance de outro). |
+| FTB Chunks: máquinas que agem como jogador (Deployer, block breakers, Modular Routers) liberadas nos chunks reivindicados | `config/ftbchunks-world.snbt` (`fake_players: "allow"`) | No padrão, o FTB Chunks impede essas máquinas de funcionar dentro dos chunks reivindicados, o que quebraria a automação da base |
 | Até 5 casas por jogador | `config/ftbessentials.snbt` e `defaultconfigs/ftbessentials-server.snbt` | O padrão do FTB Essentials é 1 casa. Com 5, dá para marcar base, mina e outros lugares com `/sethome <nome>`. |
 | Lithostitched 1.8.1 | `mods/` | O Regions Unexplored 0.6.3 usa o `lithostitched:holder_set`, que só existe a partir da 1.8.1. Com versões anteriores aparece "Errors in currently selected data packs" ao criar o mundo. |
 | Unificação de minérios | `config/almostunified/startup.json` e `config/almostunified/unification/materials.json` | Receitas, JEI, **geração do mundo** (`world_gen_unification`) e **loot** (`loot_unification`) unificados. Prioridade: Minecraft, KubeJS, Create, Immersive Engineering, Mekanism, Modern Industrialization, Oritech, XyCraft, Extreme Reactors e outros. |

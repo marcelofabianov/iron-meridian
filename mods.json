@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.9",
+  "pack_version": "1.1.10",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -4963,6 +4963,49 @@
         }
       ],
       "pw_file": "mods/framedblocks.pw.toml"
+    },
+    {
+      "name": "FTB Chunks (NeoForge)",
+      "source": "curseforge",
+      "project_id": "314906",
+      "version_id": "8791113",
+      "filename": "ftb-chunks-neoforge-2101.1.22.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "a53f1bb7965c6954a348d4f321f03d3971ad503f"
+      },
+      "mod_ids": {
+        "ftbchunks": "2101.1.22"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "architectury",
+          "type": "required",
+          "range": "[13.0.8,)"
+        },
+        {
+          "mod_id": "ftblibrary",
+          "type": "required",
+          "range": "[2101.1.34,)"
+        },
+        {
+          "mod_id": "ftbteams",
+          "type": "required",
+          "range": "[2101.1.9,)"
+        },
+        {
+          "mod_id": "ftbbackups3",
+          "type": "optional",
+          "range": "[21.1.3,)"
+        }
+      ],
+      "pw_file": "mods/ftb-chunks-forge.pw.toml"
     },
     {
       "name": "FTB Essentials (Forge & Fabric)",
