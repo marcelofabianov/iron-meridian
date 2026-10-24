@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.10",
+  "pack_version": "1.1.11",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -515,26 +515,26 @@
       "name": "AEInfinityBooster",
       "source": "modrinth",
       "project_id": "VQhDBNs8",
-      "version_id": "qpbQk2Iq",
-      "filename": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar",
+      "version_id": "UsJrmtWe",
+      "filename": "aeinfinitybooster-neoforge-2.1.0+mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "3e09e02562d4764829f9bd106367e550b847407e1edadb9f88cb7f1bf62c3cb2c19ded43aaf3f67a8dfd833b44eb80e34ca06c0d7871e9a9ad1d67ea608057ce"
+        "value": "ae9911f6c3df41ed6101a3720e887c315afdaa6bb8ec93afd32863fe6da220df156184e68645ca8a9fc43d015788d61fcf653c6b013ae891f28b0b8ada77241a"
       },
       "mod_ids": {
-        "aeinfinitybooster": "1.21.1-1.0.0.58"
+        "aeinfinitybooster": "2.1.0"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.122,)"
+          "range": "[21.1,)"
         },
         {
           "mod_id": "ae2",
           "type": "required",
-          "range": "[19.1.2-beta,)"
+          "range": "[19.2.0,)"
         }
       ],
       "pw_file": "mods/aeinfinitybooster.pw.toml"
@@ -2606,6 +2606,39 @@
       "pw_file": "mods/create-aquatic-ambitions.pw.toml"
     },
     {
+      "name": "Create: Bionics",
+      "source": "modrinth",
+      "project_id": "lCwu0vBo",
+      "version_id": "fG2UIEqS",
+      "filename": "createbionics-2.5.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "305bbf8834107c63cafd4c534d5af7896953687801688cadcbbf53858a7351c446e615a670eccb438776e2f824013de5f1793bd6ed56159e5603f069c2abc926"
+      },
+      "mod_ids": {
+        "createbionics": "2.5.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.9,6.1.0)"
+        },
+        {
+          "mod_id": "farmersdelight",
+          "type": "optional",
+          "range": "[1.3.2,)"
+        }
+      ],
+      "pw_file": "mods/create-bionics.pw.toml"
+    },
+    {
       "name": "Create: Central Kitchen",
       "source": "modrinth",
       "project_id": "btq68HMO",
@@ -2941,6 +2974,39 @@
         }
       ],
       "pw_file": "mods/create-enchantment-industry.pw.toml"
+    },
+    {
+      "name": "Create: Mechanical Companion",
+      "source": "modrinth",
+      "project_id": "nJ9B5oz1",
+      "version_id": "6ZRWru4y",
+      "filename": "createmechanicalcompanion-1.9-neoforge-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "3f1af10bba57620549dc6dcbf67bdeb4235fc00fd8cb0073a55d18560eb16be303f2d0b200f3955e985ff4c18df1f4b8214bbe65691dae19eeb6ffbdd670622b"
+      },
+      "mod_ids": {
+        "createmechanicalcompanion": "0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[0.5.1,)"
+        },
+        {
+          "mod_id": "curios",
+          "type": "required",
+          "range": "[9.0.0,)"
+        }
+      ],
+      "pw_file": "mods/create-mechanical-companion.pw.toml"
     },
     {
       "name": "Create: New Age",
@@ -3802,15 +3868,15 @@
       "name": "Easy Villagers",
       "source": "curseforge",
       "project_id": "400514",
-      "version_id": "9265922",
-      "filename": "easy-villagers-neoforge-1.21.1-1.1.48.jar",
+      "version_id": "9289481",
+      "filename": "easy-villagers-neoforge-1.21.1-1.1.49.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "1f9d099b0efe322acb03134b05f4fe2f2ccd61f3"
+        "value": "bb021918037fb2ceba03456948eaa966c7f28d53"
       },
       "mod_ids": {
-        "easy_villagers": "1.21.1-1.1.48"
+        "easy_villagers": "1.21.1-1.1.49"
       },
       "dependencies": [
         {
@@ -5628,15 +5694,15 @@
       "name": "GuideME",
       "source": "modrinth",
       "project_id": "Ck4E7v7R",
-      "version_id": "hFpGwC6q",
-      "filename": "guideme-21.1.19.jar",
+      "version_id": "mUlgxNj8",
+      "filename": "guideme-21.1.20.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "4dfa132e5cfd69a86c958867067f1c5ab39bb69ae35b2a62c24bb9924e9c688f1a4930ab75d335b22378d9f98cd7fceae8d030812b8f90c9aa282de8ea129f5a"
+        "value": "5e87550a56f97a23996b4c2e06a067a985f9dbbb3a79dd07a302fab275ff24637ed875e50eeafce030dd828799d323e50d86cc2509d53011069c895886a1cbdb"
       },
       "mod_ids": {
-        "guideme": "21.1.19"
+        "guideme": "21.1.20"
       },
       "dependencies": [
         {
@@ -7427,15 +7493,15 @@
       "name": "Little Big Redstone",
       "source": "modrinth",
       "project_id": "cdz2XZgU",
-      "version_id": "xF4ahRg1",
-      "filename": "little-big-redstone-1.9.12-1.21.1.jar",
+      "version_id": "ZDF43Iag",
+      "filename": "little-big-redstone-1.9.13-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "8beed796a9d7f5414278853bb4557941c41827e9d5b6e2c097881604afdbf0f82bf603fb7e0057f0505f27ae3794b8bc3f7edd784cabfa55c4ad52f155f2bd91"
+        "value": "c371c1a777cff2509054ede2ccbe3822334093f1be0492e9f07e04d0c8933867b80d76983c33d05824f86bb9437cb2d4ea64e09154fd7db010b56c072234b64a"
       },
       "mod_ids": {
-        "little_big_redstone": "1.9.12-1.21.1"
+        "little_big_redstone": "1.9.13-1.21.1"
       },
       "dependencies": [
         {
@@ -7461,7 +7527,7 @@
         {
           "mod_id": "guideme",
           "type": "required",
-          "range": "[21.1.13, 21.2)"
+          "range": "[21.1.19, 21.2)"
         }
       ],
       "pw_file": "mods/little-big-redstone.pw.toml"
@@ -7926,6 +7992,39 @@
       "pw_file": "mods/mekanism-tools.pw.toml"
     },
     {
+      "name": "Mekanism Turrets",
+      "source": "modrinth",
+      "project_id": "WXVvYlIb",
+      "version_id": "4A7MMnDP",
+      "filename": "mekanism_turrets-2.2.2.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "ce4cf4d9f001d581eabd0a9e0457269d3e98e8dc25722e789eeef32f31180dec7f2b9ae8f95eff312bd44745b4dea3c367b96b16279f073c0120294a17824f27"
+      },
+      "mod_ids": {
+        "mekanism_turrets": "2.2.2"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "mekanism",
+          "type": "required",
+          "range": "[10.7.18,)"
+        },
+        {
+          "mod_id": "geckolib",
+          "type": "required",
+          "range": "[4.8,)"
+        }
+      ],
+      "pw_file": "mods/mekanism-turrets.pw.toml"
+    },
+    {
       "name": "Mekanism: Weapons",
       "source": "curseforge",
       "project_id": "929829",
@@ -8369,15 +8468,15 @@
       "name": "ModernFix",
       "source": "modrinth",
       "project_id": "nmDcB62a",
-      "version_id": "7Jy58lnT",
-      "filename": "modernfix-neoforge-5.27.26+mc1.21.1.jar",
+      "version_id": "ZDZENbHH",
+      "filename": "modernfix-neoforge-5.27.27+mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "37c76fc5bc72cfc1035260f891ffeb45b4f32651d2e490c5eb8c60f3b5686deca3145b32d4fab9036f65f5277b0ac66f4ad3855e52cd973e791b09e9c4b896d8"
+        "value": "af14a35e51f1c5d94139c6225ae641e8b0ded5a8c68eb4806cf28025d6c043455ac289902cd6b854a867320ab845ad619b186d02b8341822faf03f4476dec555"
       },
       "mod_ids": {
-        "modernfix": "5.27.26+mc1.21.1"
+        "modernfix": "5.27.27+mc1.21.1"
       },
       "dependencies": [
         {
@@ -8703,15 +8802,15 @@
       "name": "Mystical Agriculture",
       "source": "modrinth",
       "project_id": "C95ReXie",
-      "version_id": "PLakgT6X",
-      "filename": "MysticalAgriculture-1.21.1-8.0.28.jar",
+      "version_id": "4Wc9oVPI",
+      "filename": "MysticalAgriculture-1.21.1-8.0.29.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "49d8ffe1d3ff51fb778949b480070b041f607b452e56ce8b50fe0ae992fce210a2077d45a550fc5976c2964b6551dd44ed0ccd8ff3b7859b091c546642a09632"
+        "value": "022797a3b0dd2fd88d9ce7a16a1204ef5ae6412127807e414fa760e3b6711924a18ce596142b3819272af6fae84e810d4452c449e86f4e1ea4c6da86ca279d02"
       },
       "mod_ids": {
-        "mysticalagriculture": "8.0.28"
+        "mysticalagriculture": "8.0.29"
       },
       "dependencies": [
         {
@@ -10827,15 +10926,15 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9279428",
-      "filename": "sophisticatedstorage-1.21.1-1.6.8.2196.jar",
+      "version_id": "9296117",
+      "filename": "sophisticatedstorage-1.21.1-1.6.9.2199.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "64a6eff75afc9a99dce979a999e6d1ff21ca7c50"
+        "value": "44cc71db63e1366798278eacf06f3fff5e3306ad"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.8"
+        "sophisticatedstorage": "1.6.9"
       },
       "dependencies": [
         {
@@ -11187,15 +11286,15 @@
       "name": "Tesseract API",
       "source": "modrinth",
       "project_id": "pHNT1iyc",
-      "version_id": "luummThA",
-      "filename": "tesseract-api-neoforge-1.12.18-1.21.1.jar",
+      "version_id": "84xLgpze",
+      "filename": "tesseract-api-neoforge-1.12.19-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "440b1d03d5379d4b098d20e6614359f458ac7b435201f1e64d1b62a3b665aab40bf970c3aadfb00a2bda58a1cc4659983dc6c1cd2a48262d0021152e1a7362e8"
+        "value": "2a81cb0a5ad1c0c5fe5ea1758368e8403a9fba265206d663abe4d89ecdf5c01ec7282d3db61d3c30d3cc548dd0d84e633918afba25f0d46c7d787c361926453b"
       },
       "mod_ids": {
-        "tesseract_api": "1.12.18-1.21.1"
+        "tesseract_api": "1.12.19-1.21.1"
       },
       "dependencies": [
         {
@@ -11206,7 +11305,7 @@
         {
           "mod_id": "modern_industrialization",
           "type": "optional",
-          "range": "[2.5.4-, 2.6-)"
+          "range": "[2.5.11-, 2.6-)"
         },
         {
           "mod_id": "guideme",

@@ -9,6 +9,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Duas receitas do Agritech com Oh The Biomes We've Gone, e a textura do *Infused Farmland*: bugs do próprio Agritech.
 - "no onnxruntime" do Oracle Index: só desliga a busca inteligente do livro-guia.
 - "[GeckoLib] Unable to parse animation: idle/attack/sit": arquivos de animação de alguns mobs têm uma expressão que o GeckoLib não entende. No máximo, uma animação daquele mob não toca.
+- Receitas `createbionics:organ_*` e "has not defined synched data value" do Shark, Stalker, Organ e Golem do Create: Bionics: são partes ainda em desenvolvimento, que o próprio autor deixou desligadas. Só a lista de mobs do JER não consegue mostrá-las.
 - Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
 
 ## Avisos que aparecem no chat
@@ -27,4 +28,5 @@ Estes erros aparecem no log, mas não afetam o jogo:
 
 - **Teclas voltam ao que eram depois de editar o `options.txt` à mão.** O **Universal Keybinds** guarda as teclas num perfil global (`~/.config/JustKeybinds/profiles/default/keybinds.json` no Linux) e o reaplica ao abrir o jogo. Mude as teclas em **Opções → Controles** (o mod salva sozinho) ou edite os dois arquivos com o jogo fechado. Veja o [mapa de teclas](TECLAS.md).
 - **Carry On abre o baú em vez de pegar.** As duas mãos precisam estar vazias (inclusive a secundária) e o Shift precisa estar pressionado antes do clique direito. Baús e barris do Sophisticated Storage guardam os itens quando quebrados; os baús e barris comuns do Minecraft, não.
+- **Não use o Carry On em máquinas grandes do Mekanism**, como a Digital Miner: a máquina pode sumir. Para mudar uma delas de lugar, use a **Configurator** do Mekanism no modo *Wrench* (Shift + clique direito).
 

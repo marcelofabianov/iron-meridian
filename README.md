@@ -1,11 +1,11 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
-> **402 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **405 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
-**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Teclas](docs/TECLAS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Guia dos mods](docs/GUIA-DOS-MODS.md)** · **[Lista de mods](docs/MODS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
+**[Como instalar](INSTALL.md)** · **[Guia de progressão](docs/PROGRESSAO.md)** · **[Comandos](docs/COMANDOS.md)** · **[Teclas](docs/TECLAS.md)** · **[Manutenção](docs/MANUTENCAO.md)** · **[Guia dos mods](docs/GUIA-DOS-MODS.md)** · **[Lista de mods](docs/MODS.md)** · **[Mods removidos](docs/MODS-REMOVIDOS.md)** · **[Changelog](CHANGELOG.md)** · **[Problemas conhecidos](docs/KNOWN_ISSUES.md)**
 
 ## Instalação rápida (Prism Launcher)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 402 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 405 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -54,8 +54,8 @@ Toda mudança no pack segue estas regras:
 A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de cada mod, por categoria, está no [guia dos mods](docs/GUIA-DOS-MODS.md).
 
 ### Tecnologia e energia
-- **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation, **Central Kitchen** (automatiza a cozinha do Farmer's Delight) e **Copycats+** (blocos que copiam a textura de qualquer bloco)
-- **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers
+- **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation, **Central Kitchen** (automatiza a cozinha do Farmer's Delight) **Copycats+** (blocos que copiam a textura de qualquer bloco), **Bionics** (animais robôs que acompanham você, acham minério e carregam itens e fluidos) e **Mechanical Companion** (lobo mecânico com módulos)
+- **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers, **Turrets** (torretas laser e cercas elétricas)
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
 - **Immersive Engineering** (com **Immersive Petroleum**: petróleo, pumpjack, destilação, diesel e gasolina), **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
 - **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**

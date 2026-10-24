@@ -39,6 +39,7 @@ Para quem gosta de máquinas visíveis, engrenagens e contraptions.
 4. **Trens** com o **Steam 'n' Rails** e o **Create Railways Navigator**, para ligar bases e minas.
 5. **Create Ore Excavation**: encontre **veios de minério infinitos** e explore com brocas.
 6. **Create Aeronautics**: **naves e aviões** feitos de contraptions. Use o shader com patch, para as naves aparecerem corretamente.
+7. **Create: Bionics** e **Create: Mechanical Companion**: robôs companheiros. O **Anole** é barato e espanta aranhas; o **Seeker** acha e traz blocos de minério; o **Oxhauler** carrega 6 baús e ara a terra; o **Replete** leva 160 baldes de fluido. O **Lobo Mecânico** luta ao seu lado com módulos de armadura e de ataque.
 
 ### ⚙️ Rota B: Indústria pesada (**Immersive Engineering → Modern Industrialization**)
 Para quem gosta de multiblocos grandes e progressão em eras.
@@ -50,9 +51,11 @@ Para quem gosta de multiblocos grandes e progressão em eras.
 Para quem quer multiplicar o rendimento de minérios e chegar à energia nuclear.
 1. **Câmara de enriquecimento** → **2 lingotes por minério**.
 2. **Câmara de purificação** (oxigênio) → **3×**. **Injeção química** (cloreto de hidrogênio) → **4×**. **Cristalizador químico** → **5×**.
+   - Esses multiplicadores valem para o **bloco de minério**. O minério bruto rende menos (3 brutos → 4 pós na câmara de enriquecimento). Com a **Digital Miner**, ligue o **Silk Touch** para trazer os blocos.
 3. **Mekanism: Generators:** solar, eólico, a gás e, no fim, o **reator de fissão** e o **reator de fusão**.
 4. **Mekanism: MoreMachine** e **Mekanism Lasers** ampliam as máquinas. **Applied Mekanistics** liga o Mekanism ao AE2.
 5. **Armadura de Refined Obsidian** (Mekanism Tools): mais forte que netherite (proteção 31, resistência 20). Precisa de Crusher, Enrichment Chamber, Metallurgic Infuser e Osmium Compressor; os materiais são baratos (6 obsidianas e 3 diamantes para o conjunto).
+6. **Mekanism Turrets**: torretas laser que defendem a base e as fazendas, com cercas elétricas. Aceitam os upgrades de Speed e Energy.
 
 ### 📡 Rota D: Logística e armazenamento
 Para quem quer **tudo em um terminal** e autocrafting.
@@ -76,6 +79,8 @@ Para quem quer abastecer tudo.
 ### 🌾 Rota F: Recursos automáticos
 Para quem prefere **cultivar** recursos em vez de minerar.
 1. **Mystical Agriculture**, em todos os tiers, com **Botany Pots** ou **Agritech: Evolved** para automatizar.
+   - **Cristais por tier:** o pack usa o **Mystical Agriculture Tiered Crystals**, que **desativa o Infusion Crystal comum**. Para subir de tier, cada nível tem o seu cristal: **Prosperity Gemstone** (4 Prosperity Shards + 1 diamante) → **Inferium Gemstone** (+ 2 Inferium) → **Inferium Crystal** (4 Inferium + 4 Prosperity Shards + a gema). Ele converte 4 Inferium em 1 Prudentium. O cristal do tier seguinte gasta o anterior, então faça um extra antes de subir.
+   - O **Infusion Altar** usa **8 pedestais** e é ativado por **sinal de redstone**. Ao colocar o altar, ele mostra onde vão os pedestais.
 2. **Hostile Neural Networks:** simula mobs em modelos de dados e gera drops sem precisar de farm.
 3. **Mob Grinding Utils** e **Industrial Foregoing**, para farms de mobs e processamento.
 4. **Haven Cobble Generators**, para pedregulho infinito.

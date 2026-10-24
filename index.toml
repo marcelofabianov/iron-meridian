@@ -3055,7 +3055,7 @@ metafile = true
 
 [[files]]
 file = "mods/aeinfinitybooster.pw.toml"
-hash = "f7efd7092e12726923d7bde63bdfa648280f3035f4f9f3341047743cbac1b22a"
+hash = "97eb9bc2577a142d8696698c0cf77842abbace3b3817b75bce4f60905928b8cf"
 metafile = true
 
 [[files]]
@@ -3399,6 +3399,11 @@ hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
 metafile = true
 
 [[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
 metafile = true
@@ -3426,6 +3431,11 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "b8ba73d545a0deb9716610ebd1e6fb1cb6c4eae3f234aa7c1e43105eff0d4bc6"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-companion.pw.toml"
+hash = "bb0261a22d16696bcd0b86b937b00dd49a8fe9fd8df08c7ba2818fc74d408004"
 metafile = true
 
 [[files]]
@@ -3565,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
-hash = "fd3a93c81cbf403798b0769ce1ad9a087f9477cc61979772aa071dca6933e7d5"
+hash = "6c96305eaaddf8bb13c9454b7291ee884ebfef4c4b83649a5b99aa7fe1bd95d5"
 metafile = true
 
 [[files]]
@@ -3830,7 +3840,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "bc3920a3fb291a8bc8df9717233e54dd1c909b65528afbe1b617373c7b4b38c0"
+hash = "d897a4efe0291252e8d9f6d1db8c6513074fe4cbfeb27fafc041bc145ca35e24"
 metafile = true
 
 [[files]]
@@ -4125,7 +4135,7 @@ metafile = true
 
 [[files]]
 file = "mods/little-big-redstone.pw.toml"
-hash = "5fee0984ea67bae7cf3e74c01f44d863b6a7e9e2778c2d8f48fe816baeacc952"
+hash = "2ba20c8ffd5d5ce3e9bd3e45797307c98ff8b7451ad626fc8099e484dab9c0c1"
 metafile = true
 
 [[files]]
@@ -4229,6 +4239,11 @@ hash = "efafea92ef966ffe7c3c31209b643a9bbcccb3a8a5a02347b49ff50e015980fe"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-turrets.pw.toml"
+hash = "95f4dda0bdd9f9beb06e09efc040e66ef5b9a558c4372e1ce3cf11ec2fc9391f"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-weapons.pw.toml"
 hash = "c8bf00b2a415bbea9ad3884ac0cdc3a876aea22d2d99a8de9c115ed6b104df7c"
 metafile = true
@@ -4305,7 +4320,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d10fbef1555f5277563b9cbf7683811ac0f38c1af41646e6ce5c3aaa2149425d"
+hash = "ef65836e005bd42a0f40df30a94eba1ad7ee5ed3194b11eafbeadc64edb44252"
 metafile = true
 
 [[files]]
@@ -4370,7 +4385,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "0cba939c32c0b0a5848d329f07a5f523b3833e8d7e876bafcb1e8892fccf56e3"
+hash = "27f1f04ff481189d2c1d725a07c791f2f19e10b5c68a0180a4e61a07e2d5a636"
 metafile = true
 
 [[files]]
@@ -4715,7 +4730,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "9691c9f55d5d13231a6ee9f03359fbfc1f32878c75bb237e57cedab58c0a15cc"
+hash = "0e1b01e2153e21799c09d48a49850c694a83674d63c9f47ec32c288325f45878"
 metafile = true
 
 [[files]]
@@ -4780,7 +4795,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "43438e901b60f6b18a4bafda07eeaa8f17351b088764b7f1eea2a0b43a077c43"
+hash = "40d1b1f68164a2692ce268e2c418897cb8d5ff172bc398bc783ed0ec17366be0"
 metafile = true
 
 [[files]]

@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.1.11 — 24/10/2026
+
+### Mods novos: robôs e defesa
+- **Create: Bionics** 2.5.0: cinco animais robôs do Create, abastecidos com carvão ou blaze cake.
+  - **Anole:** barato, espanta aranhas e insetos.
+  - **Matchbox:** coloca tochas em lugares escuros.
+  - **Seeker:** procura um minério que você entrega a ele e volta com o bloco.
+  - **Oxhauler:** carrega 6 baús, tem mesa de crafting e ara ou colhe com as peças do Create.
+  - **Replete:** leva até 160 baldes de qualquer fluido.
+- **Create: Mechanical Companion** 1.9: o **Lobo Mecânico**, chamado pelo item no espaço da cabeça do Curios, com módulos de armadura e de ataque.
+- **Mekanism Turrets** 2.2.2: **torretas laser** que atiram nos mobs e **cercas elétricas**. Aceitam os upgrades de Speed e Energy do Mekanism.
+
+### Atualizações
+- **8 mods** para a versão estável mais nova: AEInfinityBooster 2.1.0, Easy Villagers 1.1.49, GuideME 21.1.20, Little Big Redstone 1.9.13, ModernFix 5.27.27, Mystical Agriculture 8.0.29, Sophisticated Storage 1.6.9 e Tesseract API 1.12.19.
+- O **AEInfinityBooster 2** passa a manter carregados os chunks dos access points com cartão, e só impulsiona os que têm energia e canal.
+- O **Ecologics** fica na 2.3.7: a 2.3.8 exige uma versão do NeoForge mais nova que a do pack.
+
+### Documentação
+- Nova lista de **[mods removidos](docs/MODS-REMOVIDOS.md)**, com a versão e o motivo de cada saída, e os mods testados e descartados.
+- **Guia de progressão:** os cristais por tier do Mystical Agriculture (o Infusion Crystal comum é desativado pelo *Tiered Crystals*), o Infusion Altar com 8 pedestais e o rendimento maior do bloco de minério no Mekanism.
+- **Problemas conhecidos:** não usar o Carry On em máquinas grandes do Mekanism, e os avisos de log do Create: Bionics.
+- Guia dos mods, lista de mods, README e INSTALL atualizados (**405 mods**).
+
 ## 1.1.10 — 22/10/2026
 
 ### Mods novos

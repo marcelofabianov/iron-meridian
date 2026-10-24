@@ -59,6 +59,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
    - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`. As dependências que ele adiciona sozinho vêm da página do Modrinth, que às vezes pede algo que **repete** um mod do pack (por exemplo, o *Iris & Oculus Flywheel Compat* faz o mesmo que o Colorwheel). Confira no `neoforge.mods.toml` do mod se a dependência é mesmo obrigatória antes de aceitar.
    - **CurseForge:** coloque o `.jar` em `mods/` e rode `packwiz curseforge detect`. Ele cria o `.pw.toml` e apaga o `.jar`.
 3. **Veja se o CurseForge permite download automático.** Instale o pack numa instância de teste (seção 6). Se o instalador pedir download manual, acrescente o mod em `scripts/manual-downloads.json` e documente no INSTALL.
+   - **Licença de distribuição:** leia a página do mod. O **Create: Bionics** só permite o uso em packs que **não estejam no CurseForge**. Se um dia o Iron Meridian for publicado lá, ele precisa sair.
 4. **Gere a lista de novo:** `python3 scripts/mods.py sync`, que atualiza o `mods.json` e o `docs/MODS.md`.
 5. **Documente:** destaque no README (se fizer sentido), o total de mods no README e no INSTALL, o resumo de 3 linhas no `docs/GUIA-DOS-MODS.md` (na categoria certa, renumerando) e uma linha no `PENDENTES.txt`.
 
@@ -68,6 +69,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 2. Remova: `packwiz remove <nome-do-arquivo-sem-.pw.toml>`.
 3. Apague as configurações dele em `config/`, se houver.
 4. Rode `python3 scripts/mods.py sync`, atualize a documentação (incluindo o `docs/GUIA-DOS-MODS.md`) e anote no `PENDENTES.txt`.
+5. Registre o mod em `docs/MODS-REMOVIDOS.md`, com a última versão, a versão em que saiu e o motivo. Mods testados e descartados antes de publicar também vão lá.
 
 ## 6. Testar numa instância temporária
 
