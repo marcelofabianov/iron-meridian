@@ -53,7 +53,7 @@
 	#Scale of the text displayed on the HUD.
 	# Default: 0.6
 	# Range: 0.25 ~ 1.0
-	scale = 0.6
+	scale = 1.0
 	#Reverses the HUD's text alignment and compass rendering to the right side of the screen, and moves the MekaSuit module rendering to the left side. Warning: This may cause subtitles to overlap parts of the HUD such as the compass.
 	reverse = false
 	#Opacity of HUD used by MekaSuit.

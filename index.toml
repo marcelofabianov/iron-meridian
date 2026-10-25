@@ -22,7 +22,7 @@ hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
 
 [[files]]
 file = "config/Mekanism/client.toml"
-hash = "fada41bbe01b940c9e0fcde681855a7fca41f2fda24b17629ae074d2e5ff534e"
+hash = "91b5dfd8631cd21b2e94996ec88466105d9ee2fdfc47e96c818d070a93a5f662"
 
 [[files]]
 file = "config/Mekanism/common.toml"
