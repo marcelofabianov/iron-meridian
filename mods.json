@@ -4,7 +4,7 @@
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
-    "version": "21.1.251"
+    "version": "21.1.265"
   },
   "generated_by": "scripts/mods.py sync",
   "mods": [
@@ -3840,21 +3840,21 @@
       "name": "Ecologics",
       "source": "modrinth",
       "project_id": "NCKpPR0Z",
-      "version_id": "ihEiqSv4",
-      "filename": "ecologics-1.21.1-2.3.7.jar",
+      "version_id": "62SFTuDx",
+      "filename": "ecologics-1.21.1-2.3.8.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "eb62eb7e7838259c6494d3ee64854f4bd78029dcc39eec434f1e7be3521f73223a8a3bd994623512477132d6c54045576231fd7772161b94602f72bba3003599"
+        "value": "995d0a255b7882cf3288c1d174fde923bd88ef0ad02f750e0c2f1b88bae01f721c9a64a02b12b27ba23c4fe968a0297c8a926b2c5da4d69392987a41b686aacf"
       },
       "mod_ids": {
-        "ecologics": "2.3.7"
+        "ecologics": "2.3.8"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.83,)"
+          "range": "[21.1.264,)"
         }
       ],
       "pw_file": "mods/ecologics.pw.toml"

@@ -1,6 +1,6 @@
 # Iron Meridian
 
-> Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.251**, sem magia, para jogar sozinho.
+> Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
 > **399 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
@@ -116,7 +116,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 | O quê | Onde | Por quê |
 |---|---|---|
-| NeoForge 21.1.251 | `pack.toml` | O Agritech: Evolved exige a versão 21.1.250 ou mais nova |
+| NeoForge 21.1.265 | `pack.toml` | Versão estável mais nova. O Ecologics 2.3.8 exige a 21.1.264 ou mais nova, e o Agritech: Evolved, a 21.1.250. |
 | Shader Complementary Reimagined **r5.6.1** | `shaderpacks/` e `configureddefaults/config/iris.properties` | O pack baixa o shader original. Na primeira abertura, o Colorwheel Patcher gera a versão corrigida para as naves do Create Aeronautics (*"... + Clrwl_1.0.5.zip"*), que é ativada a partir da segunda abertura. O Patcher só tem correção para o Complementary 5.6 e 5.6.1. |
 | Exceções do Entity Culling: `mts:builder_existing`, `mts:builder_rendering`, `mts:builder_seat` | `config/entityculling.json` | Sem elas, o Entity Culling esconde os veículos do Immersive Vehicles |
 | Modelos de sala do Compact Machines | `config/openloader/packs/compactmachines_basic_templates` | Carrega os modelos que já vêm no mod em todos os mundos, inclusive nos novos |

@@ -2925,7 +2925,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "69f2fc92d974c27501f9e51b61e46389abee42ff6c1f5f278ec73d0c9dc7ad14"
+hash = "6cb5e881c645856f42e76672d2bfefd18a8101aa8dcf6fc278a0a133cda36ece"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -3562,7 +3562,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecologics.pw.toml"
-hash = "9fe802c6e911ccd7117578a9fd92b0d1e1eb569c56535fadfbeedf8fe8045137"
+hash = "121770c811982041fe105a7517a4951f54fee5d1567697a2f27626f5268a46c4"
 metafile = true
 
 [[files]]

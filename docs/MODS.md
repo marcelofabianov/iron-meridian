@@ -124,7 +124,7 @@ Total: **399 mods** (301 do Modrinth e 98 do CurseForge).
 | 116 | Dyson Cube Project | `dysoncubeproject-1.0.5.jar` | [CurseForge](https://www.curseforge.com/projects/1345066) |
 | 117 | Easy Anvils | `EasyAnvils-v21.1.0-1.21.1-NeoForge.jar` | [Modrinth](https://modrinth.com/mod/OZBR5JT5) |
 | 118 | Easy Villagers | `easy-villagers-neoforge-1.21.1-1.1.49.jar` | [CurseForge](https://www.curseforge.com/projects/400514) |
-| 119 | Ecologics | `ecologics-1.21.1-2.3.7.jar` | [Modrinth](https://modrinth.com/mod/NCKpPR0Z) |
+| 119 | Ecologics | `ecologics-1.21.1-2.3.8.jar` | [Modrinth](https://modrinth.com/mod/NCKpPR0Z) |
 | 120 | EdivadLib | `EdivadLib-1.21-3.0.0.jar` | [Modrinth](https://modrinth.com/mod/a8Jk9kpK) |
 | 121 | ElevatorMod | `elevatorid-neoforge-1.21.1-1.11.4.jar` | [Modrinth](https://modrinth.com/mod/hi2dSXTu) |
 | 122 | Enchanting Infuser | `EnchantingInfuser-v21.1.4-1.21.1-NeoForge.jar` | [Modrinth](https://modrinth.com/mod/ePv85y52) |
