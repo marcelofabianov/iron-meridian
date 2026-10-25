@@ -2849,7 +2849,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "5e791cf5ea31cdcfde2f424ebdcbfa8e1c4a2a3f6a5ef2529bc5792ef1d3b798"
+hash = "0723e0be8b41a64bf59664a61a0935d19b15f0e5dae3754e525db93583a7a961"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -4940,8 +4940,18 @@ hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "4aead38bb5d9ffcb8df8512b0cac7e03a238239fe81f33179126415662cc93bb"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "0cb5fc8c29fb99530cc20e013347558e198a686420aaf996fa03b9e23fa291dd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-exp.pw.toml"
+hash = "fa51b7faa692294bac30bdfdaf07fc415cc9cad44794949fa92e493e8cde33b9"
 metafile = true
 
 [[files]]

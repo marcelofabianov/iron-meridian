@@ -74,6 +74,6 @@ key_key.ftbchunks.waypoint_manager:key.keyboard.unknown
 key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
-resourcePacks:["vanilla","mod_resources","file/Fancy Crops v1.3.zip"]
+resourcePacks:["vanilla","mod_resources","file/Vanilla-Experience-Plus-2.0.zip","file/Fancy Crops v1.3.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip"]
 key_key.aeronautics_curios_compat.remote_use:key.keyboard.unknown
 key_key.mekanismadditions.voice:key.keyboard.unknown

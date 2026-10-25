@@ -111,7 +111,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 ### Desempenho e gráficos
 - **Sodium**, **Iris** (shader *Complementary Reimagined r5.6.1 + Clrwl*), **ModernFix**, **FerriteCore**, **ImmediatelyFast**, **Entity Culling**, **AllTheLeaks**, **spark**, **BadOptimizations**, **CreateBetterFps**, **Alternate Current** (redstone leve) e os mods do Someaddon (**Better Chunk Loading**, **Fast Async World Save**, **Smooth Chunk Save**, **Recipe Essentials**, **Structure Essentials** e **fix GPU memory leak**)
-- **Pacote de textura:** **Fancy Crops** (plantações mais bonitas), ativado por padrão
+- **Pacotes de textura, ativados por padrão:** **Vanilla Experience+** (refina as texturas do Minecraft), **Fancy Crops** (plantações mais bonitas) e **Default Dark Mode** (interface escura)
 
 ## Configurações do pack
 
