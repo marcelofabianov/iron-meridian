@@ -2,19 +2,19 @@
   "mod_priorities": [
     "minecraft",
     "kubejs",
-    "create",
-    "immersiveengineering",
     "mekanism",
+    "mekmm",
+    "create",
     "modern_industrialization",
     "oritech",
     "xycraft_world",
     "bigreactors",
-    "mekmm",
     "createaddition",
     "enderio",
     "ad_astra",
     "mffs",
-    "morered"
+    "morered",
+    "immersiveengineering"
   ],
   "priority_overrides": {},
   "stone_variants": [

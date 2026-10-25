@@ -6,18 +6,18 @@
 const HAMMER = 'ore_hammer:crushing_hammer'
 
 const METALS = {
-  aluminum: 'immersiveengineering:dust_aluminum',
+  aluminum: 'modern_industrialization:aluminum_dust',
   antimony: 'modern_industrialization:antimony_dust',
   iridium: 'modern_industrialization:iridium_dust',
-  lead: 'immersiveengineering:dust_lead',
-  nickel: 'immersiveengineering:dust_nickel',
+  lead: 'mekanism:dust_lead',
+  nickel: 'modern_industrialization:nickel_dust',
   osmium: 'mekanism:dust_osmium',
   platinum: 'modern_industrialization:platinum_dust',
-  silver: 'immersiveengineering:dust_silver',
+  silver: 'mekmm:dust_silver',
   tin: 'mekanism:dust_tin',
   titanium: 'modern_industrialization:titanium_dust',
   tungsten: 'modern_industrialization:tungsten_dust',
-  uranium: 'immersiveengineering:dust_uranium'
+  uranium: 'mekanism:dust_uranium'
 }
 
 ServerEvents.recipes(event => {

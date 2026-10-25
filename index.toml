@@ -230,7 +230,7 @@ hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "1ed719d54bd589ea1c2729eb7b7655f0cc8e984fe52574ace96f8b0381be7bf1"
+hash = "5822acedb27a8c03b1b9b64de615086da56c3d3861163bb7ac3aeb48d8987f97"
 
 [[files]]
 file = "config/amendments-client-1.toml.bak"
@@ -2961,7 +2961,11 @@ hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_hammer.js"
-hash = "17b6aa513fc95e7b2a1b607a145ab7d04b95f04f8113ec20464e8c4315d6f3af"
+hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
+
+[[files]]
+file = "kubejs/server_scripts/iron_meridian_ie_convert.js"
+hash = "f1248ce29ec46cbcd4040fcf28da2158821f1b79b56a140d8eae713bd24eec4e"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
