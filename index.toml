@@ -230,7 +230,7 @@ hash = "3f0d92c8abaf95a68ff79bb2ef9169fd598500070de7e5a616b755f9c5123e6f"
 
 [[files]]
 file = "config/almostunified/unification/materials.json"
-hash = "5822acedb27a8c03b1b9b64de615086da56c3d3861163bb7ac3aeb48d8987f97"
+hash = "64256c75ced80bf206e4e06d93cd6dc4b01a178881f17cd040197a8c2e4853e6"
 
 [[files]]
 file = "config/amendments-client-1.toml.bak"
@@ -387,10 +387,6 @@ hash = "838f25c55c1adc889f5c14b94ddf7434c5eccf521dc8c3c93d46a0804d3f0633"
 [[files]]
 file = "config/attributefix/ftbultimine/max_blocks_modifier.json"
 hash = "838f25c55c1adc889f5c14b94ddf7434c5eccf521dc8c3c93d46a0804d3f0633"
-
-[[files]]
-file = "config/attributefix/justdirethings/phase.json"
-hash = "3c74ea2409bda517d0ff616d2b1e1267866824ef45036dc911ff71032051dd69"
 
 [[files]]
 file = "config/attributefix/minecolonies/mc_mob_damage.json"
@@ -962,7 +958,7 @@ hash = "cf18c79df34368f65795bbe5ab39a58be3c61527c1bb6185ac8a90946bedb272"
 
 [[files]]
 file = "config/cucumber-tags.json"
-hash = "dddf912ed533f926273e6176a85a03e238323edb2e15f592fa7e96fe2bb25629"
+hash = "63fc6d3e521904eb94c26e9184c0350eff3bb06e2e53dbf8c0d24d2cbe4a786b"
 
 [[files]]
 file = "config/cupboard.json"
@@ -1513,18 +1509,6 @@ file = "config/immersive_aircraft.json"
 hash = "00a6bf25869bf05c55b4c970ee4481c1ff71f28a66d025ceadfcbf73db594e95"
 
 [[files]]
-file = "config/immersiveengineering-client.toml"
-hash = "aeb224c318fdb3543240f124cd10e7ea5aaaa7fc922aaecf876ecfbf7468b180"
-
-[[files]]
-file = "config/immersiveengineering-server.toml"
-hash = "224890fd3a08bcfd70ad4ffcd277b13843610006658ddf7e26b5b864f2663e53"
-
-[[files]]
-file = "config/immersiveengineering-startup.toml"
-hash = "db0592dacaddc8d709b9632c9fd4b785622b671fe0dba35009ee198f858f1bb2"
-
-[[files]]
 file = "config/industrialforegoing/client-config.toml"
 hash = "7a1f733e01e21e83ad88c6fe91ae4f3584ce8eda5bdcbbb34d9baa36a54bac00"
 
@@ -1875,14 +1859,6 @@ file = "config/jeresources-common.toml"
 hash = "6f411079b9ae2699015a6838623159d92c9eee0b52614b998abae4037f489fcd"
 
 [[files]]
-file = "config/justdirethings-client.toml"
-hash = "53adbce3b07d37d9d333b2f58593c16bb3546f253a282d090f9409e1aea8311b"
-
-[[files]]
-file = "config/justdirethings-server.toml"
-hash = "1585ad9a8fe3627f4858968de254f17dce69b73607940ca81e99d17a62289fe2"
-
-[[files]]
 file = "config/justenoughbreeding-offsets.json"
 hash = "eac041b52f6f62f54b64495bd5ae3e3fd6f50830594ca614e9606407cd58c126"
 
@@ -1929,10 +1905,6 @@ hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
 [[files]]
 file = "config/laserbridges.json"
 hash = "556957bbafa61aeefc95f038cdd9a20f5449fb0a64cbb1f89c63552101d47f2b"
-
-[[files]]
-file = "config/laserio-common.toml"
-hash = "e9d2d5caac82118c45b2b3cd915318d35999bc3580d96931ccba2a73518e85d7"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -2964,16 +2936,12 @@ file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
 
 [[files]]
-file = "kubejs/server_scripts/iron_meridian_ie_convert.js"
-hash = "f1248ce29ec46cbcd4040fcf28da2158821f1b79b56a140d8eae713bd24eec4e"
-
-[[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
 hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "8e3dda12866646e3592a8bf9d41fe7e2939a352809aea9fe1efbb082a51f7e4b"
+hash = "43d0b951bc7adc9ec8e3d027dac6e564686e24fc71e4ba46f0823ecb8270ba5e"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -3875,16 +3843,6 @@ hash = "60bc5f39269cc9b2f93611526c62a0ce8600dd211c5b683f485e6e921e352686"
 metafile = true
 
 [[files]]
-file = "mods/immersive-energistics.pw.toml"
-hash = "567f997ec5a0531301e048ec41ebc3f0ade57f1fe01ada9f8568954711574012"
-metafile = true
-
-[[files]]
-file = "mods/immersive-petroleum.pw.toml"
-hash = "d5496dcb36c7417e52d568e060077d79e2dac2cb7686be9739941c841a644254"
-metafile = true
-
-[[files]]
 file = "mods/immersive-vehicles-official-content-pack.pw.toml"
 hash = "3dd8cb8ebd8db5946da9bb635ab1e427000435fcf712f1385214e88d9ebd9ae1"
 metafile = true
@@ -3892,11 +3850,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-vehicles.pw.toml"
 hash = "e54cb242884e03c1b2e5971fe010adedbf2e1ae5dc161cf428d82301c6b4b38f"
-metafile = true
-
-[[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
@@ -4010,11 +3963,6 @@ hash = "58333a1b7c35bd5940e63b498cf44da16b1f2464c73d72203d1fed84ccfd352a"
 metafile = true
 
 [[files]]
-file = "mods/just-dire-things.pw.toml"
-hash = "fd6d935a0145a7992c3ba365c66f655c65587c9c812db55adab264144e11ce3f"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-archaeology.pw.toml"
 hash = "9b8fefa5ff234c5fce2b3a3ef0ba230997e09718874f9ce4a6ce471115f2ca95"
 metafile = true
@@ -4092,11 +4040,6 @@ metafile = true
 [[files]]
 file = "mods/laser-bridges-and-doors.pw.toml"
 hash = "2b5a01588ed784a5cb3d2222b8a52e6befd3da08bdde52af752c4786ce92e182"
-metafile = true
-
-[[files]]
-file = "mods/laserio.pw.toml"
-hash = "0d7ce37fd00f170025118f0e3fbeef7f4e7147c332b1a5a4e924950eb5e36bc0"
 metafile = true
 
 [[files]]

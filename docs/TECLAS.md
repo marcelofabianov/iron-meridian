@@ -332,13 +332,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Alt esquerdo | Free look (hold) | Jogo |
 | ` | Toggle mouse steering | Jogo |
 
-### Immersive Engineering
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| S | Magnetic Shield Glove (doubletap) | Jogo |
-| Botão do meio do mouse | Zoom with the Railgun | Jogo |
-
 ### Industrialization Overdrive
 
 | Tecla | Ação | Onde |
@@ -406,12 +399,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Numérico 3 | Show Recipes | Tela |
 | Numérico 4 | Show Uses | Tela |
 | Numérico 2 | Toggle Fluid | Jogo |
-
-### Just Dire Things
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| V | Toggle Tool Abilities | Jogo |
 
 ### Just Enough Items (JEI)
 

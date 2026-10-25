@@ -18,7 +18,6 @@ const EXTRA_GUIDES = [
   'actuallyadditions:booklet',
   'ae2:guide',
   'energymeter:guide',
-  'immersiveengineering:manual',
   'industrialforegoing:book_manual',
   'integrateddynamics:on_the_dynamics_of_integration',
   'modern_industrialization:guidebook',

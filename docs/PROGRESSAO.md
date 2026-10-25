@@ -41,11 +41,10 @@ Para quem gosta de máquinas visíveis, engrenagens e contraptions.
 6. **Create Aeronautics**: **naves e aviões** feitos de contraptions. Use o shader com patch, para as naves aparecerem corretamente.
 7. **Create: Bionics** e **Create: Mechanical Companion**: robôs companheiros. O **Anole** é barato e espanta aranhas; o **Seeker** acha e traz blocos de minério; o **Oxhauler** carrega 6 baús e ara a terra; o **Replete** leva 160 baldes de fluido. O **Lobo Mecânico** luta ao seu lado com módulos de armadura e de ataque.
 
-### ⚙️ Rota B: Indústria pesada (**Immersive Engineering → Modern Industrialization**)
+### ⚙️ Rota B: Indústria pesada (**Modern Industrialization**)
 Para quem gosta de multiblocos grandes e progressão em eras.
-1. **Immersive Engineering:** **forno de coque** (coque e creosoto) → **alto-forno** (**aço**) → moedor e geradores. O manual do IE fica no tomo.
-2. **Modern Industrialization:** começa na **era do vapor** (bronze, caldeiras) e vai para a **era elétrica**, com multiblocos cada vez maiores.
-3. **Extended Industrialization** e **Industrialization Overdrive** ampliam a linha de produção do MI.
+1. **Modern Industrialization:** começa na **era do vapor** (bronze, caldeiras) e vai para a **era elétrica**, com multiblocos cada vez maiores.
+2. **Extended Industrialization** e **Industrialization Overdrive** ampliam a linha de produção do MI.
 
 ### ☢️ Rota C: Processamento avançado (**Mekanism**)
 Para quem quer multiplicar o rendimento de minérios e chegar à energia nuclear.
@@ -66,7 +65,7 @@ Para quem quer **tudo em um terminal** e autocrafting.
    - **Applied Energistics 2:** canais e mais poder. As prensas do Inscriber vêm dos meteoros do AE2 (o *Mysterious Cube* no centro).
 3. **AE2** com addons: **ExtendedAE**, **Advanced AE**, **MEGA Cells**, **AE2WTLib** (terminal sem fio) e **ME Requester**, que mantém estoque automático.
 4. **Autocrafting do SCC:** a calculadora (**C**) monta a árvore da receita; o **Calculation Crafter** faz receitas de mesa e a **Interface** liga as suas máquinas.
-5. **Transporte avançado:** **LaserIO**, **XNet**, **Super Factory Manager** (programável), **Logistics Networks** e **Translocators**.
+5. **Transporte avançado:** **XNet**, **Super Factory Manager** (programável), **Logistics Networks** e **Translocators**.
 6. **Compact Machines:** coloque fábricas inteiras dentro de um bloco.
 
 ### ⚡ Rota E: Energia
@@ -102,7 +101,7 @@ Para quem quer sair da base.
 | Fase | Objetivos sugeridos |
 |---|---|
 | **Início** | Base e mochila, Iron Furnaces, Agritech para comida, primeiras sementes do Mystical Agriculture, Create básico (prensa e moedor) |
-| **Começo do meio** | Aço do IE ou do MI, Mekanism até 3×, rede de armazenamento (SCC, Refined Storage ou AE2), base protegida com o FTB Chunks, Powah, Waystones entre bases |
+| **Começo do meio** | Aço do MI ou do Mekanism, Mekanism até 3×, rede de armazenamento (SCC, Refined Storage ou AE2), base protegida com o FTB Chunks, Powah, Waystones entre bases |
 | **Meio** | Mekanism 5×, AE2 com autocrafting, trens do Create, Undergarden, primeiro foguete do Ad Astra |
 | **Fim** | Reatores (Extreme Reactors, fissão e fusão), Flux Networks, Compact Machines, planetas distantes do Ad Astra |
 | **Endgame** | Veja a seção abaixo |

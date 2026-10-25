@@ -4,7 +4,6 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Loot tables `railways:blocks/track_*`: o Steam 'n' Rails traz trilhos para mods que não estão no pack.
 - Ofertas `farmingforblockheads:market/*`: ofertas do mercado para mods que não estão no pack.
 - "Couldn't load vanilla shader" do Veil: shaders de mods CodeChicken (Draconic, EnderStorage, CB Multipart) e do Mekasuit.
-- "Cannot get config value before config is loaded": o Just Dire Things lê a configuração antes da hora ao iniciar.
 - Loot tables internas do `mekmm`, `create_connected`, `sfm`, `extendedae` e `createdieselgenerators`: bugs desses próprios mods.
 - Duas receitas do Agritech com Oh The Biomes We've Gone, e a textura do *Infused Farmland*: bugs do próprio Agritech.
 - "no onnxruntime" do Oracle Index: só desliga a busca inteligente do livro-guia.

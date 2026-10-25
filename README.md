@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **399 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **394 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,14 +13,14 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 399 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 394 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
 
 ## Proposta
 
-O Iron Meridian é um pack **sandbox de tecnologia**. Não há objetivo final nem quests obrigatórias. Você escolhe quais caminhos de tecnologia seguir e até onde ir: Create com engenharia mecânica e aviação, Mekanism, AE2 e Refined Storage com logística e armazenamento, Modern Industrialization e Immersive Engineering com indústria pesada, e Draconic Evolution no fim do jogo.
+O Iron Meridian é um pack **sandbox de tecnologia**. Não há objetivo final nem quests obrigatórias. Você escolhe quais caminhos de tecnologia seguir e até onde ir: Create com engenharia mecânica e aviação, Mekanism, AE2 e Refined Storage com logística e armazenamento, Modern Industrialization com indústria pesada, e Draconic Evolution no fim do jogo.
 
 Além da tecnologia, o pack tem **construção e decoração** (Macaw's, Handcrafted, FramedBlocks, Factory Blocks) e **exploração**: biomas do Regions Unexplored, as dimensões Ad Astra e Undergarden, e estruturas do YUNG's, Moog's e When Dungeons Arise.
 
@@ -57,16 +57,16 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation, **Central Kitchen** (automatiza a cozinha do Farmer's Delight) **Copycats+** (blocos que copiam a textura de qualquer bloco), **Bionics** (animais robôs que acompanham você, acham minério e carregam itens e fluidos) e **Mechanical Companion** (lobo mecânico com módulos)
 - **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers, **Turrets** (torretas laser e cercas elétricas)
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
-- **Immersive Engineering** (com **Immersive Petroleum**: petróleo, pumpjack, destilação, diesel e gasolina), **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
+- **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
 - **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
-- **Extended Crafting**, **Hostile Neural Networks**, **Just Dire Things**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
+- **Extended Crafting**, **Hostile Neural Networks**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
 
 ### Armazenamento e logística
-- **Applied Energistics 2**: ExtendedAE, Advanced AE, MEGA Cells, Expanded AE, AE2WTLib, AppliedFlux, Applied Mekanistics, ME Requester, Polymorphic Energistics, Soulplied Energistics, Immersive Energistics e outros
+- **Applied Energistics 2**: ExtendedAE, Advanced AE, MEGA Cells, Expanded AE, AE2WTLib, AppliedFlux, Applied Mekanistics, ME Requester, Polymorphic Energistics, Soulplied Energistics e outros
 - **Refined Storage**: Extra Disks, Extra Storage, Cable Tiers, Refined Types, Universal Grid e integrações
 - **SCC (Super Cool Calculator)**: calculadora de receitas e rede de armazenamento com autocrafting
 - **Integrated Dynamics**: Tunnels, Terminals, Crafting, Scripting
-- **RFTools** e **XNet**, **LaserIO**, **Modular Routers**, **Pipez**, **Modern Dynamics**, **Logistics Networks**, **Super Factory Manager**, **Translocators**
+- **RFTools** e **XNet**, **Modular Routers**, **Pipez**, **Modern Dynamics**, **Logistics Networks**, **Super Factory Manager**, **Translocators**
 - **Sophisticated Backpacks e Storage**, **Functional Storage**, **Pocket Storage**, **Ender Storage**, **DimStorage**, **Entangled**
 
 ### Redstone e computação
@@ -95,7 +95,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Clima:** Simple Weather, com efeitos visuais de chuva, neve e tempestade mais bonitos
 - **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga com **F6**.
 - **Combate:** Simply Swords (lanças, katanas, martelos e armas únicas), além das armas e torretas do Mekanism
-- **Armas de tecnologia:** **Mekanism: Weapons** (Meka-Tana, Meka-Bow e Meka-Gun a laser, com módulos como a MekaSuit), além do Revolver e do Railgun do Immersive Engineering, da Minigun do PneumaticCraft e das armas do Draconic Evolution
+- **Armas de tecnologia:** **Mekanism: Weapons** (Meka-Tana, Meka-Bow e Meka-Gun a laser, com módulos como a MekaSuit), além da Minigun do PneumaticCraft e das armas do Draconic Evolution
 
 ### Construção e decoração
 - **Macaw's** (11 mods), **Handcrafted**, **FramedBlocks**, **Factory Blocks**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**

@@ -17,6 +17,11 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 5 | Born in Chaos | `born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Mobs de terror e fantasia, fora do tema tecnológico do pack | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) |
 | 6 | Mutant Monsters | `MutantMonsters-v21.1.1-1.21.1-NeoForge.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Mobs mutantes, fora do tema tecnológico do pack. O **Puzzles Lib** ficou, porque outros mods usam. | [Modrinth](https://modrinth.com/mod/mutant-monsters) |
 | 7 | Aquamirae | `aquamirae-neoforge-1.21.1-7.2.13.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Aventura de fantasia no oceano congelado, fora do tema tecnológico do pack. Saiu com o **Fragmentum** 5.4.0, que só ele usava. | [Modrinth](https://modrinth.com/mod/aquamirae) |
+| 8 | Just Dire Things | `justdirethings-1.5.7.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu por escolha do mantenedor, para enxugar o pack | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-dire-things) |
+| 9 | LaserIO | `laserio-1.9.11.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu por escolha do mantenedor. A logística continua com XNet, Pipez, Modular Routers, Super Factory Manager e outros. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/laserio) |
+| 10 | Immersive Engineering | `ImmersiveEngineering-1.21.1-12.4.2-194.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu por escolha do mantenedor. A indústria pesada continua com o Modern Industrialization. Os pós de alumínio, chumbo, níquel, prata e urânio do martelo passaram para o MI e o Mekanism. | [Modrinth](https://modrinth.com/mod/immersiveengineering) |
+| 11 | Immersive Petroleum | `ImmersivePetroleum-1.21.1-4.5.0-39.jar` | 1.1.10 a 1.1.12 | 1.1.13 | Exigia o Immersive Engineering (regra 4) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum) |
+| 12 | Immersive Energistics | `Immersive-Energistics-1.1.0-beta.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Exigia o Immersive Engineering (regra 4) | [Modrinth](https://modrinth.com/mod/immersive-energistics) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 

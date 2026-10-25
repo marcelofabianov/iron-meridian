@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.12",
+  "pack_version": "1.1.13",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -5939,67 +5939,6 @@
       "pw_file": "mods/immersive-aircraft.pw.toml"
     },
     {
-      "name": "Immersive Energistics",
-      "source": "modrinth",
-      "project_id": "ADAUe1vC",
-      "version_id": "KSggPvkO",
-      "filename": "Immersive-Energistics-1.1.0-beta.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "cbe8971cd3d1f1f66bdaad596b0bba14ffc3ec853c6738731efb4004b40aba8cffafeca8f9ee5f947f7bc48aea1efc1fb9a967ca9a975ac770128f280a49c312"
-      },
-      "mod_ids": {
-        "immeng": "1.1.0-beta"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.51,)"
-        },
-        {
-          "mod_id": "ae2",
-          "type": "required",
-          "range": "[19.0.23-beta,20.0.0)"
-        },
-        {
-          "mod_id": "immersiveengineering",
-          "type": "required",
-          "range": "[12,)"
-        }
-      ],
-      "pw_file": "mods/immersive-energistics.pw.toml"
-    },
-    {
-      "name": "Immersive Petroleum",
-      "source": "curseforge",
-      "project_id": "268250",
-      "version_id": "8420142",
-      "filename": "ImmersivePetroleum-1.21.1-4.5.0-39.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "8509800d74334aea91789091a9d966f1d221a235"
-      },
-      "mod_ids": {
-        "immersivepetroleum": "4.5.0-39"
-      },
-      "dependencies": [
-        {
-          "mod_id": "immersiveengineering",
-          "type": "required",
-          "range": "[1.21.1-12.4.2-194,)"
-        },
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.164,)"
-        }
-      ],
-      "pw_file": "mods/immersive-petroleum.pw.toml"
-    },
-    {
       "name": "Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars",
       "source": "modrinth",
       "project_id": "C7TiPPJz",
@@ -6049,34 +5988,6 @@
         }
       ],
       "pw_file": "mods/immersive-vehicles.pw.toml"
-    },
-    {
-      "name": "Immersive Engineering",
-      "source": "modrinth",
-      "project_id": "tIm2nV03",
-      "version_id": "uNRARSH2",
-      "filename": "ImmersiveEngineering-1.21.1-12.4.2-194.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "862523e84747a8b7eaa65f9b3c337fa832ef9efd0545c27f68e350e01f482c7a1242d0e4bdc2caff3d7eb033508b43a353fcd7150c9b544d0c05765ca2a551b3"
-      },
-      "mod_ids": {
-        "immersiveengineering": "12.4.2-194"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.164,)"
-        },
-        {
-          "mod_id": "jei",
-          "type": "optional",
-          "range": "[19.10.0.126,)"
-        }
-      ],
-      "pw_file": "mods/immersiveengineering.pw.toml"
     },
     {
       "name": "Industrial Foregoing: Souls",
@@ -6823,29 +6734,6 @@
       "pw_file": "mods/jei.pw.toml"
     },
     {
-      "name": "Just Dire Things",
-      "source": "curseforge",
-      "project_id": "1002348",
-      "version_id": "7463040",
-      "filename": "justdirethings-1.5.7.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "f0327d7d2f389020063849200a4128ac9dcb52da"
-      },
-      "mod_ids": {
-        "justdirethings": "1.5.7"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.138,)"
-        }
-      ],
-      "pw_file": "mods/just-dire-things.pw.toml"
-    },
-    {
       "name": "Just Enough Archaeology",
       "source": "curseforge",
       "project_id": "890755",
@@ -7290,34 +7178,6 @@
         }
       ],
       "pw_file": "mods/laser-bridges-and-doors.pw.toml"
-    },
-    {
-      "name": "LaserIO",
-      "source": "curseforge",
-      "project_id": "626839",
-      "version_id": "5730007",
-      "filename": "laserio-1.9.11.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "0545bff65926346c9663fe3c397029561a87400f"
-      },
-      "mod_ids": {
-        "laserio": "1.9.11"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0,)"
-        },
-        {
-          "mod_id": "mekanism",
-          "type": "optional",
-          "range": "[10.7,)"
-        }
-      ],
-      "pw_file": "mods/laserio.pw.toml"
     },
     {
       "name": "Lithostitched",
