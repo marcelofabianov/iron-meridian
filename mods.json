@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.13",
+  "pack_version": "1.1.14",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -1262,29 +1262,6 @@
         }
       ],
       "pw_file": "mods/better-animations-collection.pw.toml"
-    },
-    {
-      "name": "Better chunk loading",
-      "source": "curseforge",
-      "project_id": "899487",
-      "version_id": "6210181",
-      "filename": "betterchunkloading-1.21-5.4.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "848d47200e760cfa566e476257ff863de30d7f8f"
-      },
-      "mod_ids": {
-        "betterchunkloading": "5.4"
-      },
-      "dependencies": [
-        {
-          "mod_id": "cupboard",
-          "type": "required",
-          "range": "[1.21-1.4,)"
-        }
-      ],
-      "pw_file": "mods/better-chunk-loading-forge-fabric.pw.toml"
     },
     {
       "name": "Better Third Person",

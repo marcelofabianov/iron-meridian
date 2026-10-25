@@ -3095,11 +3095,6 @@ hash = "a97e9879873319e5f6731e48b430544461a43974029c99b9702a3c8245c88a7d"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "4cfcccd6c2191de2b0d595d21012371356b0f07f66512567bc6484b4d2f3d98c"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true

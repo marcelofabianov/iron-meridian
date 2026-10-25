@@ -39,6 +39,7 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 27 | Macaw's Stairs | `mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu com os outros mods do Macaw's, por escolha do mantenedor, para focar a construção no tema industrial e futurista | [Modrinth](https://modrinth.com/mod/iP3wH1ha) |
 | 28 | Macaw's Trapdoors | `mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu com os outros mods do Macaw's, por escolha do mantenedor, para focar a construção no tema industrial e futurista | [Modrinth](https://modrinth.com/mod/n2fvCDlM) |
 | 29 | Macaw's Windows | `mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar` | 1.0.0 a 1.1.12 | 1.1.13 | Saiu com os outros mods do Macaw's, por escolha do mantenedor, para focar a construção no tema industrial e futurista | [Modrinth](https://modrinth.com/mod/C7I0BCni) |
+| 30 | Better chunk loading | `betterchunkloading-1.21-5.4.jar` | só no main, depois da 1.1.13 | 1.1.14 | Travou o servidor interno (deadlock no tick: esperava um chunk que não terminava de carregar). Todos os comandos e interações pararam. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 
