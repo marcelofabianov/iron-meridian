@@ -1,5 +1,33 @@
 # Changelog
 
+## 1.1.12 — 25/10/2026
+
+### Atenção: NeoForge novo
+- O pack passa para o **NeoForge 21.1.265** (era 21.1.251).
+- **Quem já tem a instância precisa trocar o NeoForge à mão.** O packwiz atualiza os mods, mas não o carregador. No Prism Launcher: clique com o botão direito na instância → **Editar** → **Versão** → selecione **NeoForge** → **Alterar versão** → **21.1.265**.
+- Sem essa troca, o jogo não abre: o Ecologics 2.3.8 exige a 21.1.264 ou mais nova, e a tela de erro mostra isso.
+- Quem importar o zip desta versão já recebe a 21.1.265.
+- Antes da troca, testamos o pack inteiro com uma cópia de mundo. Na 21.1.265 apareceram os mesmos avisos e erros de log da 21.1.251, sem mixin falho e sem erro no KubeJS.
+
+### Mods removidos: mobs de fantasia
+- **L_Ender's Cataclysm** 3.33, com a **Lionfish-API** 3.1, que só ele usava.
+- **Born in Chaos** 1.7.6.
+- **Mutant Monsters** 21.1.1. O Puzzles Lib fica, porque outros mods usam.
+- **Aquamirae** 7.2.13, com o **Fragmentum** 5.4.0, que só ele usava.
+- Os mobs, itens e blocos desses mods **somem dos mundos** que já existem. As estruturas já geradas ficam, sem os blocos deles.
+- As teclas do Cataclysm (Alt + 1, 2, 4 e V) saíram do mapa de teclas.
+- O pack passa a ter **399 mods**.
+
+### Atualizações
+- **Ecologics** 2.3.7 → 2.3.8, liberado pelo NeoForge novo.
+
+### Ajustes
+- **HUD do Mekanism:** o texto do jetpack e dos outros itens no canto da tela passa da escala 0.6 para **1.0**, o máximo que o mod aceita.
+
+### Documentação
+- **[Mods removidos](docs/MODS-REMOVIDOS.md):** os 4 mods de mobs, com a versão e o motivo.
+- Guia dos mods, progressão, mapa de teclas, lista de mods, README e INSTALL atualizados.
+
 ## 1.1.11 — 24/10/2026
 
 ### Mods novos: robôs e defesa
