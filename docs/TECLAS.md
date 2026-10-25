@@ -41,22 +41,21 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 
 | # | Combinação | Ação | Mods |
 |---|---|---|---|
-| 19 | **Alt + 1** | Habilidade do capacete | MekaSuit, Cataclysm, capacete pneumático (hacking) |
-| 20 | **Alt + 2** | Habilidade do peitoral | MekaSuit, Cataclysm |
+| 19 | **Alt + 1** | Habilidade do capacete | MekaSuit, capacete pneumático (hacking) |
+| 20 | **Alt + 2** | Habilidade do peitoral | MekaSuit |
 | 21 | **Alt + 3** | Habilidade das calças | MekaSuit |
-| 22 | **Alt + 4** | Habilidade das botas | MekaSuit, Cataclysm |
+| 22 | **Alt + 4** | Habilidade das botas | MekaSuit |
 | 23 | **Alt + F** | Ligar/desligar o voo | Iron Jetpacks (motor), traje do Ad Astra, Modern Industrialization |
 | 24 | **Alt + H** | Pairar | Iron Jetpacks |
 | 25 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
-| 26 | **Alt + V** | Habilidade da arma | L_Ender's Cataclysm |
-| 27 | **Alt + B** | Impulso | Immersive Aircraft |
-| 28 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
-| 29 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
-| 30 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
-| 31 | **Alt + C** | Configurações | SCC |
-| 32 | **Alt + K** | Detalhes do último pedido | SCC |
-| 33 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
-| 34 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
+| 26 | **Alt + B** | Impulso | Immersive Aircraft |
+| 27 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
+| 28 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
+| 29 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
+| 30 | **Alt + C** | Configurações | SCC |
+| 31 | **Alt + K** | Detalhes do último pedido | SCC |
+| 32 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
+| 33 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
 
 As peças de armadura, os voos e os veículos dividem a mesma combinação porque você só usa um de cada vez.
 
@@ -64,24 +63,24 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 
 | # | Tecla | Ação | Mod |
 |---|---|---|---|
-| 35 | **Shift + B** | Novo waypoint | Xaero's Minimap |
-| 36 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
-| 37 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
-| 38 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
-| 39 | **Shift + U** | Deep Learner | Hostile Neural Networks |
-| 40 | **Shift + C** | Grade de crafting num bloco | Translocators |
-| 41 | **Shift + V** | Pegar aldeão | Easy Villagers |
-| 42 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 43 | **Shift + G** | Óculos | Advanced Peripherals |
-| 44 | **Shift + H** | HUD da chave | Logistics Networks |
-| 45 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 46 | **;** | Tela de aumentos | Oritech |
-| 47 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 48 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 49 | **F12** | Ligar/desligar o shader | Iris |
-| 50 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
-| 51 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
-| 52 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 34 | **Shift + B** | Novo waypoint | Xaero's Minimap |
+| 35 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
+| 36 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
+| 37 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
+| 38 | **Shift + U** | Deep Learner | Hostile Neural Networks |
+| 39 | **Shift + C** | Grade de crafting num bloco | Translocators |
+| 40 | **Shift + V** | Pegar aldeão | Easy Villagers |
+| 41 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
+| 42 | **Shift + G** | Óculos | Advanced Peripherals |
+| 43 | **Shift + H** | HUD da chave | Logistics Networks |
+| 44 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 45 | **;** | Tela de aumentos | Oritech |
+| 46 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 47 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 48 | **F12** | Ligar/desligar o shader | Iris |
+| 49 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 50 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 51 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
 
 ### Sem tecla, de propósito
 
@@ -466,15 +465,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Alt direito (AltGr) | Open Bundle radial menu | Jogo |
-
-### L_Ender 's Cataclysm
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt + V | Cataclysm Ability | Jogo |
-| Alt + 4 | Cataclysm Boots Ability | Jogo |
-| Alt + 2 | Cataclysm Chestplate Ability | Jogo |
-| Alt + 1 | Cataclysm Helmet Ability | Jogo |
 
 ### Logistics Network
 

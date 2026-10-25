@@ -13,6 +13,10 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 1 | LivingThings | `livingthings-neoforge-1.21.1-2.3.2.jar` | 1.0.0 a 1.1.7 | 1.1.8 | Repetia 8 animais do **Naturalist**, que entrou no lugar | [Modrinth](https://modrinth.com/mod/UKDLi1GJ) |
 | 2 | Squat Grow | `squatgrow-neoforge-21.1.4+mc1.21.1.jar` | 1.1.0 a 1.1.7 | 1.1.8 | Agachar perto de plantas fazia o efeito de farinha de osso, o que não agradou no jogo | [CurseForge](https://www.curseforge.com/projects/515698) |
 | 3 | Cold Sweat | `ColdSweat-2.4.4.jar` | 1.0.0 a 1.1.8 | 1.1.9 | A temperatura do corpo não agradou no jogo. As estações do **Serene Seasons** continuam. | [Modrinth](https://modrinth.com/mod/uXhSmPjd) |
+| 4 | L_Ender's Cataclysm | `L_Ender's Cataclysm 1.21.1-3.33.jar` | 1.0.0 a 1.1.11 | 1.1.12 | Chefes e masmorras de fantasia, fora do tema tecnológico do pack. Saiu com a **Lionfish-API** 3.1, que só ele usava. | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm) |
+| 5 | Born in Chaos | `born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Mobs de terror e fantasia, fora do tema tecnológico do pack | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos) |
+| 6 | Mutant Monsters | `MutantMonsters-v21.1.1-1.21.1-NeoForge.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Mobs mutantes, fora do tema tecnológico do pack. O **Puzzles Lib** ficou, porque outros mods usam. | [Modrinth](https://modrinth.com/mod/mutant-monsters) |
+| 7 | Aquamirae | `aquamirae-neoforge-1.21.1-7.2.13.jar` | 1.1.7 a 1.1.11 | 1.1.12 | Aventura de fantasia no oceano congelado, fora do tema tecnológico do pack. Saiu com o **Fragmentum** 5.4.0, que só ele usava. | [Modrinth](https://modrinth.com/mod/aquamirae) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 

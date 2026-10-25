@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.11",
+  "pack_version": "1.1.12",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -997,39 +997,6 @@
       "pw_file": "mods/applied-mekanistics.pw.toml"
     },
     {
-      "name": "Aquamirae",
-      "source": "modrinth",
-      "project_id": "k23mNPhZ",
-      "version_id": "lKu7coya",
-      "filename": "aquamirae-neoforge-1.21.1-7.2.13.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "90fe46c41a0f44b1cdc64cf59e4000b7e20af3edbde8695b5c1350fe044123f02f6ba1f2b50f435bd1e12c5587a21be3cf77f078060a2029a943f8da6d9f9395"
-      },
-      "mod_ids": {
-        "aquamirae": "7.2.13"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.150,)"
-        },
-        {
-          "mod_id": "fragmentum",
-          "type": "required",
-          "range": "[5.3.0,)"
-        },
-        {
-          "mod_id": "geckolib",
-          "type": "required",
-          "range": "[4.8.0,)"
-        }
-      ],
-      "pw_file": "mods/aquamirae.pw.toml"
-    },
-    {
       "name": "Architectury API",
       "source": "modrinth",
       "project_id": "lhGA9TYQ",
@@ -1352,39 +1319,6 @@
       },
       "dependencies": [],
       "pw_file": "mods/borderless-window.pw.toml"
-    },
-    {
-      "name": "Born in Chaos",
-      "source": "curseforge",
-      "project_id": "686437",
-      "version_id": "8268280",
-      "filename": "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "73704f38ac368c03716f9cc8f537470d3b352fa2"
-      },
-      "mod_ids": {
-        "born_in_chaos_v1": "1.7.6"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.65,)"
-        },
-        {
-          "mod_id": "geckolib",
-          "type": "optional",
-          "range": "[0,)"
-        },
-        {
-          "mod_id": "jei",
-          "type": "optional",
-          "range": "[0,)"
-        }
-      ],
-      "pw_file": "mods/born-in-chaos.pw.toml"
     },
     {
       "name": "Botany Pots - Mystical Agriculture Compat",
@@ -5010,30 +4944,6 @@
       "pw_file": "mods/flux-networks.pw.toml"
     },
     {
-      "name": "Fragmentum",
-      "source": "modrinth",
-      "project_id": "49C5QgTK",
-      "version_id": "kCXNhuIV",
-      "filename": "fragmentum-5.4.0+1.21.1-neoforge.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53"
-      },
-      "mod_ids": {
-        "fragmentum": "5.4.0",
-        "yet_another_config_lib_v3": "3.6.6+1.21.1-neoforge"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[1,)"
-        }
-      ],
-      "pw_file": "mods/fragmentum.pw.toml"
-    },
-    {
       "name": "FramedBlocks",
       "source": "modrinth",
       "project_id": "wbgfS34j",
@@ -7410,62 +7320,6 @@
       "pw_file": "mods/laserio.pw.toml"
     },
     {
-      "name": "L_Ender 's Cataclysm",
-      "source": "curseforge",
-      "project_id": "551586",
-      "version_id": "8706841",
-      "filename": "L_Ender's Cataclysm 1.21.1-3.33.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "5ff39c0eddfa08ea0e921bdcb17da7f32f0b00ce"
-      },
-      "mod_ids": {
-        "cataclysm": "3.33"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.0,)"
-        },
-        {
-          "mod_id": "curios",
-          "type": "required",
-          "range": "[9.2.2+1.21.1,)"
-        },
-        {
-          "mod_id": "lionfishapi",
-          "type": "required",
-          "range": "3.1"
-        }
-      ],
-      "pw_file": "mods/lendercataclysm.pw.toml"
-    },
-    {
-      "name": "Lionfish-API",
-      "source": "modrinth",
-      "project_id": "FoVacERa",
-      "version_id": "fTRMVgyZ",
-      "filename": "lionfishapi-3.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a6969eccf678289bcb77cbb9a937db01fdaf60e57826f9a99893d19cb"
-      },
-      "mod_ids": {
-        "lionfishapi": "3.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.219,)"
-        }
-      ],
-      "pw_file": "mods/lionfish-api.pw.toml"
-    },
-    {
       "name": "Lithostitched",
       "source": "modrinth",
       "project_id": "XaDC71GB",
@@ -8708,34 +8562,6 @@
         }
       ],
       "pw_file": "mods/mss-moogs-soaring-structures.pw.toml"
-    },
-    {
-      "name": "Mutant Monsters",
-      "source": "modrinth",
-      "project_id": "derP0ten",
-      "version_id": "dauEcrnZ",
-      "filename": "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "4d969c457a01e49a242ebc03112031bd338be08fc4ab36540b222b0a64e72a778a6534ad2be7c5cf72a5a74e1ce58e66e2999957f68c189c868dbc48bef44708"
-      },
-      "mod_ids": {
-        "mutantmonsters": "21.1.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.21,)"
-        },
-        {
-          "mod_id": "puzzleslib",
-          "type": "required",
-          "range": "[21.1.10,)"
-        }
-      ],
-      "pw_file": "mods/mutant-monsters.pw.toml"
     },
     {
       "name": "Mystical Agradditions",

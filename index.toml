@@ -741,14 +741,6 @@ file = "config/carryon-common.toml"
 hash = "17b80baf696d0eb38255944ec1427d342f07661d520360d12af3c4a35b823f3d"
 
 [[files]]
-file = "config/cataclysm-client.toml"
-hash = "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
-
-[[files]]
-file = "config/cataclysm-common.toml"
-hash = "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
-
-[[files]]
 file = "config/ccl.cfg"
 hash = "d0accd9879a8d31db8bdb55163dbb1b1668890a4558ac0689f807c6e207d1d99"
 
@@ -3124,11 +3116,6 @@ hash = "bd25db756e368a27d83240e4345e4cc26d0237943ef0ca56603db1de4e0818f3"
 metafile = true
 
 [[files]]
-file = "mods/aquamirae.pw.toml"
-hash = "10dc7afc136128d610ab128437036a531169ed44195386403366336fa831dffb"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
@@ -3191,11 +3178,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-window.pw.toml"
 hash = "c15cf68301be3c07cd25295759f1e1a59aae0823894e07b30f4394cf1f990e8e"
-metafile = true
-
-[[files]]
-file = "mods/born-in-chaos.pw.toml"
-hash = "4a7d85fc2f67432dad21dd3b316a557ff73d1b4992a54cc1e0877d2ae0c8207a"
 metafile = true
 
 [[files]]
@@ -3739,11 +3721,6 @@ hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
 metafile = true
 
 [[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "e937517aca4968decca4550ea9f436bcf371892fb6bd9dcd0d6b06d0beb350a4"
-metafile = true
-
-[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "6d937e4bbf525c3d446fb1fc37cc9909a5a5cbecbd4f4451872bf94dbc06d986"
 metafile = true
@@ -4119,16 +4096,6 @@ hash = "0d7ce37fd00f170025118f0e3fbeef7f4e7147c332b1a5a4e924950eb5e36bc0"
 metafile = true
 
 [[files]]
-file = "mods/lendercataclysm.pw.toml"
-hash = "b21e4c7a4bbf9d8acadfe5d0e2dc8d250a17740b2516a28a906c30edec0149b0"
-metafile = true
-
-[[files]]
-file = "mods/lionfish-api.pw.toml"
-hash = "64acab1580ca6edd8b1dd185e914aeee7aa551a88a7cd7f0f9370a82aaadfef6"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "c0611d8448bc043f372a008a435e14aa238ba8fca52fd1d79634424576ea9e12"
 metafile = true
@@ -4366,11 +4333,6 @@ metafile = true
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
 hash = "ec031be91f9ae72994f066978921c8e5185b73497113087b6624eaa712b72737"
-metafile = true
-
-[[files]]
-file = "mods/mutant-monsters.pw.toml"
-hash = "e672245ac368cb42b521a0be668fed61a5b5129d25eec7b8db7722e8f49e2292"
 metafile = true
 
 [[files]]
