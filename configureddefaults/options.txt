@@ -76,3 +76,4 @@ key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 resourcePacks:["vanilla","mod_resources","file/Fancy Crops v1.3.zip"]
 key_key.aeronautics_curios_compat.remote_use:key.keyboard.unknown
+key_key.mekanismadditions.voice:key.keyboard.unknown

@@ -92,6 +92,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
 - Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
+- Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
 
 ### Teclas livres
 

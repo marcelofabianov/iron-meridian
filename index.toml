@@ -2849,7 +2849,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "d6957dcff7d055b1230e142aaba28427aca344f2fa960c37c4d740705bcc8397"
+hash = "5e791cf5ea31cdcfde2f424ebdcbfa8e1c4a2a3f6a5ef2529bc5792ef1d3b798"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -4115,6 +4115,11 @@ hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "086e5173f9d4dd76196a67e6604b5787b5f17312a6c3db49b1651fe2d972fe16"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
@@ -4867,6 +4872,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/ytones.pw.toml"
+hash = "a9500998bcbb3d6fc7871a53f641cb0447a40ad30f18fbf7c7b3a63543972ad4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Ytones"
+filename = "Ytones-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wTFALvR2/versions/GRcaWOfO/Ytones-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "cfe07c1ccab55dba7f780780b0efa891b2021545b1d811c22f238183a79c37df50faa64bc02c050b8f0a8a05daf26de9931924bbe6ea7d5507dc99500c73bb2e"
+
+[update]
+[update.modrinth]
+mod-id = "wTFALvR2"
+version = "GRcaWOfO"
