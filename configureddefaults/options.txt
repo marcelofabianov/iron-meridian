@@ -17,7 +17,7 @@ key_key.ad_astra.open_radio:key.keyboard.unknown
 key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.unknown
 key_key.squatgrow.toggle:key.keyboard.unknown
 key_key.ftbultimine:key.mouse.4
-key_key.scc.wireless:key.mouse.5
+key_key.scc.wireless:key.keyboard.2:ALT
 key_key.toolbelt.open:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.g
 key_simplemagnets.keys.toggle:key.keyboard.h
@@ -33,7 +33,7 @@ key_key.keybindatlas.open_keyboard:key.keyboard.k
 key_key.immersive_aircraft.mouse_control:key.keyboard.grave.accent
 key_key.mekanism.head_mode:key.keyboard.1:ALT
 key_pneumaticcraft.helmet.hack:key.keyboard.1:ALT
-key_key.mekanism.chest_mode:key.keyboard.2:ALT
+key_key.mekanism.chest_mode:key.mouse.5
 key_key.mekanism.legs_mode:key.keyboard.3:ALT
 key_key.mekanism.feet_mode:key.keyboard.4:ALT
 key_keybind.ironjetpacks.engine:key.keyboard.f:ALT

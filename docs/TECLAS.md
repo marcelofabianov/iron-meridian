@@ -19,7 +19,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | # | Tecla | Ação | Mod |
 |---|---|---|---|
 | 1 | **Mouse 4** | Minerar em veio (segurar) | FTB Ultimine |
-| 2 | **Mouse 5** | Terminal sem fio | SCC |
+| 2 | **Mouse 5** | Modo do peito: jetpack e peitoral da MekaSuit | Mekanism |
 | 3 | **R** | Trocar ferramenta | Tool Belt |
 | 4 | **G** | Inventário de acessórios | Curios |
 | 5 | **H** | Ligar/desligar o ímã | Simple Magnets |
@@ -42,7 +42,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | # | Combinação | Ação | Mods |
 |---|---|---|---|
 | 19 | **Alt + 1** | Habilidade do capacete | MekaSuit, capacete pneumático (hacking) |
-| 20 | **Alt + 2** | Habilidade do peitoral | MekaSuit |
+| 20 | **Alt + 2** | Terminal sem fio | SCC |
 | 21 | **Alt + 3** | Habilidade das calças | MekaSuit |
 | 22 | **Alt + 4** | Habilidade das botas | MekaSuit |
 | 23 | **Alt + F** | Ligar/desligar o voo | Iron Jetpacks (motor), traje do Ad Astra, Modern Industrialization |
@@ -475,7 +475,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Ctrl esquerdo | Boost | Jogo |
-| Alt + 2 | Chest Mode Switch | Jogo |
+| Mouse 5 | Chest Mode Switch | Jogo |
 | Alt + 4 | Feet Mode Switch | Jogo |
 | Alt + 1 | Head Mode Switch | Jogo |
 | N | Item Mode Switch | Jogo |
@@ -554,7 +554,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | Alt + K | Details of the last finished order | Jogo |
 | C | Open calculator (item under cursor) | Jogo |
-| Mouse 5 | Open wireless terminal | Jogo |
+| Alt + 2 | Open wireless terminal | Jogo |
 | Alt + C | SCC settings | Jogo |
 | Alt + G | Stellar Pocket (tap: put away, hold: pick) | Jogo |
 | Alt + Delete | Throw item into black hole (terminal) | Jogo |

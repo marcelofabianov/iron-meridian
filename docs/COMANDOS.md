@@ -122,7 +122,8 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | **Shift + clique direito** no Akashic Tome | Escolhe um livro-guia. Depois, **clique direito no ar** abre o livro. |
 | **Shift + clique esquerdo no ar** | Volta o livro para o Akashic Tome |
 | **Botão lateral do mouse (Mouse 4)** | **FTB Ultimine**: segure para minerar em veio |
-| **Mouse 5** | Terminal sem fio do **SCC** |
+| **Alt + 2** | Terminal sem fio do **SCC** |
+| **Mouse 5** | Modo do jetpack e do peitoral da MekaSuit (**Mekanism**) |
 | **M** / **Alt + M** | Mapa do **Xaero** / mapa de chunks do **FTB Chunks** |
 | **Shift + B** / **U** | Novo waypoint / lista de waypoints (Xaero) |
 | **B** / **G** / **H** | Mochila / Curios / ímã |
