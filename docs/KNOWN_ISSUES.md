@@ -9,6 +9,9 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - "no onnxruntime" do Oracle Index: só desliga a busca inteligente do livro-guia.
 - "[GeckoLib] Unable to parse animation: idle/attack/sit": arquivos de animação de alguns mobs têm uma expressão que o GeckoLib não entende. No máximo, uma animação daquele mob não toca.
 - Receitas `createbionics:organ_*` e "has not defined synched data value" do Shark, Stalker, Organ e Golem do Create: Bionics: são partes ainda em desenvolvimento, que o próprio autor deixou desligadas. Só a lista de mobs do JER não consegue mostrá-las.
+- Receita `createdeco:placard` do Create Deco: o Create já tem a própria placa, e a receita do Create Deco não carrega. Use a do Create.
+- "@ModifyConstant conflict" do Create Stuff 'N Additions x Sable Compat e "@Redirect conflict" do Recipe Essentials: o NeoForge pula só aquele ajuste, porque outro mod já mexe no mesmo ponto.
+- "Non-unique structure_set salt" do Structure Essentials: só avisa que dois conjuntos de estruturas podem se sobrepor.
 - Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
 
 ## Avisos que aparecem no chat

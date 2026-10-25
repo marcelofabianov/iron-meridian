@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **394 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **423 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 394 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 423 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -110,7 +110,8 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Interface e teclas:** Reese's Sodium Options, BetterF3, Equipment Compare, Configured Defaults, Command Keys (comandos em teclas), Keybind Atlas (mapa do teclado), Universal Keybinds, Controlling, Searchables, KeybindsPurger e KeyBind Bundles.
 
 ### Desempenho e gráficos
-- **Sodium**, **Iris** (shader *Complementary Reimagined r5.6.1 + Clrwl*), **ModernFix**, **FerriteCore**, **ImmediatelyFast**, **Entity Culling**, **AllTheLeaks**, **spark**
+- **Sodium**, **Iris** (shader *Complementary Reimagined r5.6.1 + Clrwl*), **ModernFix**, **FerriteCore**, **ImmediatelyFast**, **Entity Culling**, **AllTheLeaks**, **spark**, **BadOptimizations**, **CreateBetterFps**, **Alternate Current** (redstone leve) e os mods do Someaddon (**Better Chunk Loading**, **Fast Async World Save**, **Smooth Chunk Save**, **Recipe Essentials**, **Structure Essentials** e **fix GPU memory leak**)
+- **Pacote de textura:** **Fancy Crops** (plantações mais bonitas), ativado por padrão
 
 ## Configurações do pack
 

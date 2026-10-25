@@ -90,6 +90,8 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Salvar e carregar barra de ferramentas (Minecraft), trocar ofertas do Easy Villagers (repete o Trade Cycling), opções do Just Zoom.
 - Depuração de drone do capacete pneumático, recarregar shaders, Kubedex do KubeJS, gravar GIF de tooltip.
 - Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
+- Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
+- Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 
 ### Teclas livres
 
@@ -197,6 +199,12 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | R | Range | Jogo |
 | G | Settings Menu | Jogo |
 | U | Undo | Jogo |
+
+### Climbable Ropes for Create Aeronautics
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| Alt esquerdo | Lock Rope Camera | Jogo |
 
 ### Command Keys
 

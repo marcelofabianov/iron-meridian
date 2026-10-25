@@ -739,6 +739,29 @@
       "pw_file": "mods/almostunified.pw.toml"
     },
     {
+      "name": "Alternate Current",
+      "source": "modrinth",
+      "project_id": "r0v8vy1s",
+      "version_id": "PCNyL6v4",
+      "filename": "alternate_current-mc1.21-1.9.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "e7715d92987ad902f316ae657558a58e647b4f076d6962e6ac5b6bdb802755f1a37c2380b69002ce930b29dc02fe96989d41818462f7bc236c4ad709b0842480"
+      },
+      "mod_ids": {
+        "alternate_current": "1.9.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.0-beta,)"
+        }
+      ],
+      "pw_file": "mods/alternate-current.pw.toml"
+    },
+    {
       "name": "AmbientSounds",
       "source": "modrinth",
       "project_id": "fM515JnW",
@@ -1093,6 +1116,23 @@
       "pw_file": "mods/bad-wither-no-cookie.pw.toml"
     },
     {
+      "name": "BadOptimizations",
+      "source": "modrinth",
+      "project_id": "g96Z4WVZ",
+      "version_id": "S2qthD5S",
+      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac"
+      },
+      "mod_ids": {
+        "badoptimizations": "2.4.1"
+      },
+      "dependencies": [],
+      "pw_file": "mods/badoptimizations.pw.toml"
+    },
+    {
       "name": "Balm",
       "source": "modrinth",
       "project_id": "MBAkmtvl",
@@ -1222,6 +1262,52 @@
         }
       ],
       "pw_file": "mods/better-animations-collection.pw.toml"
+    },
+    {
+      "name": "Better chunk loading",
+      "source": "curseforge",
+      "project_id": "899487",
+      "version_id": "6210181",
+      "filename": "betterchunkloading-1.21-5.4.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "848d47200e760cfa566e476257ff863de30d7f8f"
+      },
+      "mod_ids": {
+        "betterchunkloading": "5.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/better-chunk-loading-forge-fabric.pw.toml"
+    },
+    {
+      "name": "Better Third Person",
+      "source": "modrinth",
+      "project_id": "G1s2WpNo",
+      "version_id": "aG5y4JUQ",
+      "filename": "BetterThirdPerson-neoforge-1.9.0.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "053acb813940aac69578810558056942966f2f0a24006a3a5de545c82888f8190b3bdc27a2401d0f70200dc4c927c0f84a45bf17821fb94fb9b886d633644619"
+      },
+      "mod_ids": {
+        "betterthirdperson": "1.9.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0,)"
+        }
+      ],
+      "pw_file": "mods/better-third-person.pw.toml"
     },
     {
       "name": "Better Days",
@@ -2136,6 +2222,39 @@
       "pw_file": "mods/configured-defaults.pw.toml"
     },
     {
+      "name": "Configured",
+      "source": "curseforge",
+      "project_id": "457570",
+      "version_id": "7276577",
+      "filename": "configured-neoforge-1.21.1-2.6.3.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "e977d86eec39d49295df4e2c4265d6710ae065e8"
+      },
+      "mod_ids": {
+        "configured": "2.6.3"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.211,)"
+        },
+        {
+          "mod_id": "framework",
+          "type": "optional",
+          "range": "[0.13.5,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[19.25.0.322,)"
+        }
+      ],
+      "pw_file": "mods/configured.pw.toml"
+    },
+    {
       "name": "Connected Glass",
       "source": "modrinth",
       "project_id": "DghO0R02",
@@ -2406,6 +2525,216 @@
       "pw_file": "mods/crash-assistant.pw.toml"
     },
     {
+      "name": "Create Aeronautics: Automated Logistics",
+      "source": "modrinth",
+      "project_id": "73ZXeRfx",
+      "version_id": "ESwTkggq",
+      "filename": "create_aeronautics_automated_logistics-0.7.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "7a3e7e2942bf076e545dc7abf258b0e014244bf14aae84134f31d4e27b8d50da525ff41d23eaebcd24483c6f1206f269931038b18e7be04606fccc6c752ef103"
+      },
+      "mod_ids": {
+        "create_aeronautics_automated_logistics": "0.7.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.229,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.10,)"
+        },
+        {
+          "mod_id": "aeronautics_bundled",
+          "type": "required",
+          "range": "[1.3.0,)"
+        },
+        {
+          "mod_id": "ftbteams",
+          "type": "optional",
+          "range": "[0,)"
+        },
+        {
+          "mod_id": "ftbchunks",
+          "type": "optional",
+          "range": "[0,)"
+        },
+        {
+          "mod_id": "journeymap",
+          "type": "optional",
+          "range": "[0,)"
+        }
+      ],
+      "pw_file": "mods/create-aeronautics-automated-logistics.pw.toml"
+    },
+    {
+      "name": "Climbable Ropes for Create Aeronautics",
+      "source": "modrinth",
+      "project_id": "jImqv1M5",
+      "version_id": "TTGedLb3",
+      "filename": "climbable_ropes-2.2.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "ec8055e9b54a747aaabbf8a6a1f8c3df92d24015aa113669b3f4a166e89c3aa49815d7bd5f7b500581cc7ec8764a11daad7c21cbc03628f6a3d5791b4b19dde3"
+      },
+      "mod_ids": {
+        "climbable_ropes": "2.2.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.228,)"
+        },
+        {
+          "mod_id": "simulated",
+          "type": "required",
+          "range": "[1.3.0,1.4.0)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.0,3.0.0)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.10,)"
+        },
+        {
+          "mod_id": "entity_model_features",
+          "type": "optional",
+          "range": "[1,)"
+        }
+      ],
+      "pw_file": "mods/create-aeronautics-climbable-rope.pw.toml"
+    },
+    {
+      "name": "Create Aeronautics: FTB Chunks",
+      "source": "curseforge",
+      "project_id": "1530014",
+      "version_id": "8420412",
+      "filename": "create_aeronautics_ftb_chunks-1.21.1-NeoForge-1.1.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "4b25f74489787d7a8a89966071c29018ed893d86"
+      },
+      "mod_ids": {
+        "create_aeronautics_ftb_chunks": "1.1.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "ftbchunks",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "ftbteams",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.3,)"
+        }
+      ],
+      "pw_file": "mods/create-aeronautics-ftb-chunks.pw.toml"
+    },
+    {
+      "name": "Create Aeronautics: Mekanism Compatibility",
+      "source": "modrinth",
+      "project_id": "4TghD0jp",
+      "version_id": "fmumFNcF",
+      "filename": "create_mekanism_compat-0.1.21.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "d4b95d140c8a8f8ddb8ef51f038381fe75fdd765e689450ef380005ca0439f0d50131e9c43d1a3eca27e71fb6303883dd6d4e511ee59b256d2191557bcaf8a20"
+      },
+      "mod_ids": {
+        "create_mekanism_compat": "0.1.21"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.228,)"
+        },
+        {
+          "mod_id": "mekanism",
+          "type": "required",
+          "range": "[10.7.19,)"
+        },
+        {
+          "mod_id": "mekanismgenerators",
+          "type": "optional",
+          "range": "[10.7.19,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[1.2.2,)"
+        }
+      ],
+      "pw_file": "mods/create-aeronautics-mekanism-compatibility.pw.toml"
+    },
+    {
+      "name": "Create Aeronautics x Curios API Compat",
+      "source": "curseforge",
+      "project_id": "1532334",
+      "version_id": "9076258",
+      "filename": "createaeronauticscurios-neoforge-1.21.1-2.3.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "cb04ac36f4b542a072c860297dfe8b273228a41c"
+      },
+      "mod_ids": {
+        "aeronautics_curios_compat": "2.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "curios",
+          "type": "required",
+          "range": "[9.0.0,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "aeronautics",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "simulated",
+          "type": "required",
+          "range": "*"
+        }
+      ],
+      "pw_file": "mods/create-aeronautics-x-curios-api-compat.pw.toml"
+    },
+    {
       "name": "Create Aeronautics",
       "source": "modrinth",
       "project_id": "oWaK0Q19",
@@ -2500,6 +2829,34 @@
         }
       ],
       "pw_file": "mods/create-aeronautics.pw.toml"
+    },
+    {
+      "name": "Create: Applied Kinetics",
+      "source": "modrinth",
+      "project_id": "mYGTCuZY",
+      "version_id": "Sk7TlTkT",
+      "filename": "createappliedkinetics-1.5.4-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "1542a8395c91ff8de610206484c3a7acd2b0519854bc3a07e13a0d1230917e4f60a10cc3178de4bd01df733dca05d0a1ccdbf9f855c3252297cf0bbfb23a37ff"
+      },
+      "mod_ids": {
+        "createappliedkinetics": "1.5.4-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.133,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[0.5.1.e,)"
+        }
+      ],
+      "pw_file": "mods/create-applied-kinetics.pw.toml"
     },
     {
       "name": "Create: Aquatic Ambitions",
@@ -2631,6 +2988,34 @@
       "pw_file": "mods/create-central-kitchen.pw.toml"
     },
     {
+      "name": "Create: Configurable Machine Outputs",
+      "source": "modrinth",
+      "project_id": "pd8eLyMu",
+      "version_id": "ycFZHTiY",
+      "filename": "createcmo-1.3.0-create-6.0.x-neoforge-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "7703d9925113d494b4b78620935d684e37c9bae6ba1c1cc985199f51dd5c0df4066510873fabc72fcd26ddbd51b3641b8a6eddc71b3a22b656548107b7528c1b"
+      },
+      "mod_ids": {
+        "createcmo": "1.3.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[0.6.0,)"
+        }
+      ],
+      "pw_file": "mods/create-configurable-crushing-wheel.pw.toml"
+    },
+    {
       "name": "Create: Connected",
       "source": "curseforge",
       "project_id": "947914",
@@ -2663,6 +3048,34 @@
         }
       ],
       "pw_file": "mods/create-connected.pw.toml"
+    },
+    {
+      "name": "Create Deco",
+      "source": "modrinth",
+      "project_id": "sMvUb4Rb",
+      "version_id": "qrcMVoBD",
+      "filename": "createdeco-2.1.3.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "c536662f9d47ad57a37419165ded14835b23ad6c3e82a920298ecd7ee074244b0b6062ef9cc7ea4501ddd35919a840faccd7fc64e43eb8df31e12076681c3c0d"
+      },
+      "mod_ids": {
+        "createdeco": "2.1.3"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.209,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.7,6.1.0)"
+        }
+      ],
+      "pw_file": "mods/create-deco.pw.toml"
     },
     {
       "name": "Create Deep Seas [BETA]",
@@ -2846,6 +3259,44 @@
       "pw_file": "mods/create-dragons-plus.pw.toml"
     },
     {
+      "name": "Create Encased",
+      "source": "modrinth",
+      "project_id": "hSSqdyU1",
+      "version_id": "RrwdLx9S",
+      "filename": "Create Encased-1.21.1-1.10.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "eea8426ec62e437bd313966b7b7363d96a8a64bd511949a06bc71a134bbce2834c7057b000f91ca8d791525e0de7b095232b5d91510796472897a6a0bd371590"
+      },
+      "mod_ids": {
+        "createcasing": "1.10.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.10,)"
+        },
+        {
+          "mod_id": "kubejs",
+          "type": "optional",
+          "range": "[2101,)"
+        },
+        {
+          "mod_id": "sliceanddice",
+          "type": "optional",
+          "range": "[4.3.0,)"
+        }
+      ],
+      "pw_file": "mods/create-encased.pw.toml"
+    },
+    {
       "name": "Create: Enchantment Industry",
       "source": "modrinth",
       "project_id": "JWGBpFUP",
@@ -2943,6 +3394,39 @@
       "pw_file": "mods/create-mechanical-companion.pw.toml"
     },
     {
+      "name": "Create Mechanical Extruder",
+      "source": "modrinth",
+      "project_id": "hGAlcCDJ",
+      "version_id": "fFDOEXAA",
+      "filename": "create_mechanical_extruder-1.21.1-2.2.2-6.0.10.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "efeb01312cb00800cc11e7765759b31058719e6a7c62744b453d242c4da7b75091b68eef2f489054a1244244a63672a46f4822a580eb8d8c64045a189e671827"
+      },
+      "mod_ids": {
+        "create_mechanical_extruder": "1.21.1-2.2.1-6.0.10"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.219,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.10,6.1.0)"
+        },
+        {
+          "mod_id": "mechanicals",
+          "type": "required",
+          "range": "[1.1.2,1.2.0)"
+        }
+      ],
+      "pw_file": "mods/create-mechanical-extruder.pw.toml"
+    },
+    {
       "name": "Create: New Age",
       "source": "modrinth",
       "project_id": "FTeXqI9v",
@@ -3023,6 +3507,34 @@
         }
       ],
       "pw_file": "mods/create-ore-excavation.pw.toml"
+    },
+    {
+      "name": "Create: Pattern Schematics",
+      "source": "modrinth",
+      "project_id": "cpqKG67r",
+      "version_id": "VSJhIkG2",
+      "filename": "create_pattern_schematics-2.0.10.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "c55e7d708aab59990ea123b32b5ecca3cdd8a0409e441257e87ac2bc414c15a4976ed06fb4aea3f4c216c4951f519295bb111c896642fd80520bcfc9227e24ee"
+      },
+      "mod_ids": {
+        "create_pattern_schematics": "2.0.10"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.0,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.1,6.1.0)"
+        }
+      ],
+      "pw_file": "mods/create-pattern-schematics.pw.toml"
     },
     {
       "name": "Create: Power Loader",
@@ -3156,6 +3668,39 @@
         }
       ],
       "pw_file": "mods/create-stuff-additions.pw.toml"
+    },
+    {
+      "name": "Create Stuff 'N Additions x Sable & Aeronautics Compat",
+      "source": "modrinth",
+      "project_id": "gsAqDfOu",
+      "version_id": "iGTmXDCM",
+      "filename": "sable_sa_compat-1.0.4.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "f0b4ecbaaaa1886e392901fc6e131873536af04b51c3dc43b67bcd276f32dcaed07ea9cb19767f62e0d1e91e5b7af6cdb90a8e8e825fea2dc3b1ed885ec957f4"
+      },
+      "mod_ids": {
+        "sable_sa_compat": "1.0.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.228,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.5,)"
+        },
+        {
+          "mod_id": "create_sa",
+          "type": "required",
+          "range": "[2.1.4,)"
+        }
+      ],
+      "pw_file": "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
     },
     {
       "name": "Create",
@@ -3295,6 +3840,39 @@
         }
       ],
       "pw_file": "mods/createaddition.pw.toml"
+    },
+    {
+      "name": "CreateBetterFps",
+      "source": "modrinth",
+      "project_id": "lMYIHZNH",
+      "version_id": "dxmPYimo",
+      "filename": "createbetterfps-1.21.1-1.1.5.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "d98deec79eefb8e0c8ddda7def8a46f4c66402a213da5242f8ff029f43b844e68914fa31af3c8aed646d131ee9bfac3a63032df399b1f76cc99b5c312f32df24"
+      },
+      "mod_ids": {
+        "createbetterfps": "1.1.5"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "sodium",
+          "type": "required",
+          "range": "[0.6.9,)"
+        },
+        {
+          "mod_id": "iris",
+          "type": "optional",
+          "range": "[1.8.8,)"
+        }
+      ],
+      "pw_file": "mods/createbetterfps.pw.toml"
     },
     {
       "name": "CreativeCore",
@@ -4776,6 +5354,29 @@
       "pw_file": "mods/farming-for-blockheads.pw.toml"
     },
     {
+      "name": "Fast Async World Save[Forge/Neo/Fabric]",
+      "source": "curseforge",
+      "project_id": "951499",
+      "version_id": "6935204",
+      "filename": "fastasyncworldsave-1.21-2.6.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "87e019715314631f2c8288cf7c73a52a61b2d61b"
+      },
+      "mod_ids": {
+        "fastasyncworldsave": "2.6"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/fast-async-world-save-forge-fabric.pw.toml"
+    },
+    {
       "name": "FastFurnace",
       "source": "curseforge",
       "project_id": "299540",
@@ -4881,6 +5482,29 @@
         }
       ],
       "pw_file": "mods/ferrite-core.pw.toml"
+    },
+    {
+      "name": "fix GPU memory leak",
+      "source": "curseforge",
+      "project_id": "882495",
+      "version_id": "5513549",
+      "filename": "gpumemleakfix-1.21-1.8.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "1894d2f0dd0c275aea0f1a6265ebd5715569c208"
+      },
+      "mod_ids": {
+        "gpumemleakfix": "1.8"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/fix-gpu-memory-leak.pw.toml"
     },
     {
       "name": "FlickerFix",
@@ -6983,6 +7607,34 @@
       "pw_file": "mods/keybindspurger.pw.toml"
     },
     {
+      "name": "KleeSlabs",
+      "source": "modrinth",
+      "project_id": "7uh75ruZ",
+      "version_id": "p2xTwdDd",
+      "filename": "kleeslabs-neoforge-1.21.1-21.1.11.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "d0294689ed20082d04fc88d8a2fda7ec08211f51b9358ed4feff14a13604d36a9cbc35ca7470cbb0fb3b4e6ea08a9567190120e6bafac08f543c2791a673adc9"
+      },
+      "mod_ids": {
+        "kleeslabs": "21.1.11"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21-beta,)"
+        },
+        {
+          "mod_id": "balm",
+          "type": "required",
+          "range": "[21.0.39,)"
+        }
+      ],
+      "pw_file": "mods/kleeslabs.pw.toml"
+    },
+    {
       "name": "Konkrete",
       "source": "modrinth",
       "project_id": "J81TRJWm",
@@ -7612,6 +8264,66 @@
         }
       ],
       "pw_file": "mods/measurements.pw.toml"
+    },
+    {
+      "name": "Mechanicals Lib",
+      "source": "modrinth",
+      "project_id": "ProvjTA7",
+      "version_id": "GBSlpwLT",
+      "filename": "mechanicals-1.21.1-1.1.6.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "84bfcd2cbd061eb1516fc2adbca0e599a38372b80ef9f5713de70be48d072243b1c5cb84c13177c35f333b6bcf16aa1f70dbd0964ed18e14c2bff733c531c6bc"
+      },
+      "mod_ids": {
+        "mechanicals": "1.1.6",
+        "flywheel": "1.0.6",
+        "ponder": "1.0.82+mc1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.219,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[19.25.0.322,)"
+        },
+        {
+          "mod_id": "kubejs",
+          "type": "optional",
+          "range": "[2101.7.2-build.348,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.66,)"
+        },
+        {
+          "mod_id": "embeddium",
+          "type": "optional",
+          "range": "[0.3.25,)"
+        },
+        {
+          "mod_id": "sodium",
+          "type": "optional",
+          "range": "[0.6.0-beta.2,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.206,)"
+        },
+        {
+          "mod_id": "flywheel",
+          "type": "required",
+          "range": "[1.0.0,2.0)"
+        }
+      ],
+      "pw_file": "mods/mechanicals-lib.pw.toml"
     },
     {
       "name": "MEGA Cells",
@@ -9402,6 +10114,29 @@
       "pw_file": "mods/rebind-narrator.pw.toml"
     },
     {
+      "name": "Recipe Essentials",
+      "source": "curseforge",
+      "project_id": "907856",
+      "version_id": "8463998",
+      "filename": "recipeessentials-1.21.1-4.7.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "77c1796d445683b237b7391fe277388cd2ea0ee7"
+      },
+      "mod_ids": {
+        "recipeessentials": "4.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/recipe-essentials-forge-fabric.pw.toml"
+    },
+    {
       "name": "Redstone Pen",
       "source": "modrinth",
       "project_id": "DwE83ioX",
@@ -10405,6 +11140,29 @@
       "pw_file": "mods/smithing-template-viewer.pw.toml"
     },
     {
+      "name": "Server Performance - Smooth Chunk Save",
+      "source": "curseforge",
+      "project_id": "582327",
+      "version_id": "9255092",
+      "filename": "smoothchunk-1.21-4.4.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "b6c0da613301b9bfa4487bac9743f66c5a9e2711"
+      },
+      "mod_ids": {
+        "smoothchunk": "4.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/smooth-chunk-save.pw.toml"
+    },
+    {
       "name": "Sodium",
       "source": "modrinth",
       "project_id": "AANobbMI",
@@ -10609,6 +11367,77 @@
       "pw_file": "mods/sophisticated-core.pw.toml"
     },
     {
+      "name": "Sophisticated Storage Create Integration",
+      "source": "modrinth",
+      "project_id": "MJ0hdevs",
+      "version_id": "xePmjcI1",
+      "filename": "sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "b11bcf02333f4957141711a5c5e93d2d1c6a950e3a8bf031db3357c07de92f4de9496a39c90c65027cb9aec75312c3cd15cb607269bf5f80399469edfc77c749"
+      },
+      "mod_ids": {
+        "sophisticatedstoragecreateintegration": "0.1.23"
+      },
+      "dependencies": [
+        {
+          "mod_id": "sophisticatedstorage",
+          "type": "required",
+          "range": "[1.6.3,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.7,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[19.32.0.359,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.229,)"
+        }
+      ],
+      "pw_file": "mods/sophisticated-storage-create-integration.pw.toml"
+    },
+    {
+      "name": "Sophisticated Storage in Motion",
+      "source": "modrinth",
+      "project_id": "6vtFbyaJ",
+      "version_id": "cl7WRCnV",
+      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.36.381.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "8504c8f0e2179c8860f126fa1a52cafd7f929531ea95d447e1f58f78bd123e2f9aacb7116156fa0f67ec878f7d108eeba8941115cf8b5cb864447b4df1e69b55"
+      },
+      "mod_ids": {
+        "sophisticatedstorageinmotion": "0.10.36"
+      },
+      "dependencies": [
+        {
+          "mod_id": "sophisticatedstorage",
+          "type": "required",
+          "range": "[1.6.3,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[19.9.0,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.229,)"
+        }
+      ],
+      "pw_file": "mods/sophisticated-storage-in-motion.pw.toml"
+    },
+    {
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
@@ -10809,6 +11638,29 @@
       },
       "dependencies": [],
       "pw_file": "mods/structory.pw.toml"
+    },
+    {
+      "name": "Structure Essentials",
+      "source": "curseforge",
+      "project_id": "832882",
+      "version_id": "9278578",
+      "filename": "structureessentials-1.21.1-5.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "03ec260f12627af514e0cf4644e03cb1975aab18"
+      },
+      "mod_ids": {
+        "structureessentials": "5.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "cupboard",
+          "type": "required",
+          "range": "[1.21-1.4,)"
+        }
+      ],
+      "pw_file": "mods/structure-essentials-forge-fabric.pw.toml"
     },
     {
       "name": "Super Factory Manager",
@@ -11414,6 +12266,39 @@
       "pw_file": "mods/utilitarian.pw.toml"
     },
     {
+      "name": "Waystones: Sable (Create Aeronautics Addon)",
+      "source": "modrinth",
+      "project_id": "BxhPGfcK",
+      "version_id": "Wot8Pf4C",
+      "filename": "waystonessable-1.0.7.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "20b677c77baf5fd33cccf1ac2bf80220d7162d30ca33dc04516285690f8fac9392a4789b57545b5fd20014213a1f55812ad6e2efd3518a2ba77a9a54bc6ab51a"
+      },
+      "mod_ids": {
+        "waystonessable": "1.0.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "waystones",
+          "type": "required",
+          "range": "[21.1.39,)"
+        },
+        {
+          "mod_id": "sable",
+          "type": "required",
+          "range": "[2.0.3,)"
+        }
+      ],
+      "pw_file": "mods/waystones-sable.pw.toml"
+    },
+    {
       "name": "Waystones",
       "source": "modrinth",
       "project_id": "LOpKHB2A",
@@ -11825,6 +12710,29 @@
       },
       "dependencies": [],
       "pw_file": "mods/yacl.pw.toml"
+    },
+    {
+      "name": "Yeetus Experimentus",
+      "source": "modrinth",
+      "project_id": "HaaH232J",
+      "version_id": "Pp0TjcvD",
+      "filename": "yeetusexperimentus-neoforge-87.0.0.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "cc2dc46dcaa0424c820cb7931fd2ceb3826669934189c011fd1ebd5692cdf7652c725034abec2828bfea2238c9615d6f9c36e3e01e21fc9eb44551eb51e06fe3"
+      },
+      "mod_ids": {
+        "yeetusexperimentus": "87.0.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        }
+      ],
+      "pw_file": "mods/yeetus-experimentus.pw.toml"
     },
     {
       "name": "YUNG's API",
