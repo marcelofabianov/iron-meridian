@@ -299,12 +299,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Botão do meio do mouse | Set Amount | Jogo |
 | P | View Pattern | Jogo |
 
-### FramedBlocks
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| F9 | Update culling cache | Tela |
-
 ### FTB Chunks
 
 | Tecla | Ação | Onde |

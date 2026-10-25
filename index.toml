@@ -653,42 +653,6 @@ file = "config/borderlesswindow-client.toml"
 hash = "5b33a640bd2f0b0d9e49b04b2efdbf5acd6a17ab3e9c7c186f4cb2dc91536c03"
 
 [[files]]
-file = "config/botanypots-mysticalagriculture/general.json"
-hash = "9074823da37e5b960d85c2d960776a084a02dd1dc2be075abb85aed60e2f4c5b"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagradditions/6.json"
-hash = "844acd80144fd0fe6a31c5866b49d750f0edd062b67b630e83a62500a74033d8"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/1.json"
-hash = "cb516382e714c1c7d3aec7915f497eea7f14e9f0825847e478c0eda28c9a0602"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/2.json"
-hash = "8796be097ce8f23759af70ef2149c3429c3e5048e95f78632918a75e44ba47d0"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/3.json"
-hash = "af6b481086b03cf1066a71749c68ce0086f8c0cb066f03de8fdd7bf87816619f"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/4.json"
-hash = "a8281dbc07dd806b177d3d3388d14bb02e550f22562c1e68502968936a88ca76"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/5.json"
-hash = "22bf3d726d6a2eb4074b1ec859fd87fccea588bd9448c91a24a03ec37e186001"
-
-[[files]]
-file = "config/botanypots-mysticalagriculture/tiers/mysticalagriculture/elemental.json"
-hash = "cb516382e714c1c7d3aec7915f497eea7f14e9f0825847e478c0eda28c9a0602"
-
-[[files]]
-file = "config/botanypots.json"
-hash = "4c2c8d447ff50ed3de32aaff6d16fc4cdbca4b4d9cb090b0c9795be1c327f124"
-
-[[files]]
 file = "config/brandon3055/BrandonsCore.cfg"
 hash = "1d56ce851586b9e31b0bc40ceacce9a5f05d6568d40d05fbc6c7608d3001a7bb"
 
@@ -795,10 +759,6 @@ hash = "b2ac513701f0ea74d070be82d95b68687c9b1a7f39a1d82e48b6ad66aaff8529"
 [[files]]
 file = "config/constructionstick-startup.toml"
 hash = "c0632f39120a140ac916a7ad9a6e3c48e9a5e61bfa59d685e271404fa71fd8f2"
-
-[[files]]
-file = "config/cookingforblockheads-common.toml"
-hash = "d676304d60b0e1a95f88ca65c1a2ce968a3051d0df2b572d964b9836ad379494"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -1331,14 +1291,6 @@ hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
 [[files]]
 file = "config/fml.toml"
 hash = "e72a5f2aceb2270d47a98be782d68c4f451a0ac838a3f98de4ce6a592f796349"
-
-[[files]]
-file = "config/framedblocks-client.toml"
-hash = "e44f042e65fb198f6681fddcd30cf29b2a567ff61b77a7518eb28a5345b8d6ab"
-
-[[files]]
-file = "config/framedblocks-server.toml"
-hash = "60a758a55730a593a2e225989ab1123845bdccea73a7528c2ae3f445a9758e0e"
 
 [[files]]
 file = "config/ftbchunks-world.snbt"
@@ -3173,21 +3125,6 @@ hash = "c15cf68301be3c07cd25295759f1e1a59aae0823894e07b30f4394cf1f990e8e"
 metafile = true
 
 [[files]]
-file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
-hash = "5c2fa4f520f5c30212e22ef41fdd7d562363a3c17e16214c42faec6662db5bf8"
-metafile = true
-
-[[files]]
-file = "mods/botany-pots.pw.toml"
-hash = "da045434a9f317ecfef588e409566b6679c76eed01ddc3a0652edce203113a68"
-metafile = true
-
-[[files]]
-file = "mods/botany-trees.pw.toml"
-hash = "75ee5511e4bb37c0f13486e2a550bea43dcf630f38201b4c61a1ae284cbccf94"
-metafile = true
-
-[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
 metafile = true
@@ -3335,11 +3272,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
-metafile = true
-
-[[files]]
-file = "mods/cooking-for-blockheads.pw.toml"
-hash = "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730"
 metafile = true
 
 [[files]]
@@ -3793,11 +3725,6 @@ hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
 metafile = true
 
 [[files]]
-file = "mods/framedblocks.pw.toml"
-hash = "6d937e4bbf525c3d446fb1fc37cc9909a5a5cbecbd4f4451872bf94dbc06d986"
-metafile = true
-
-[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "670df7985eec05c6a339d90ebbcfda0e5f1f5c63846ac65a441412f123471e14"
 metafile = true
@@ -3895,11 +3822,6 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "ca5542cea7e2a08fd55f2f92740951fcbca7c8ae977a536726ac87ade44f5d79"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -4165,61 +4087,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
-metafile = true
-
-[[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "b00f8b696187f092a939b7bbbf2ad2f249665776465bac594e2d0f4f37d36dc4"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "ea28bcac23c070998d1f7df5dcbf248831c33f59067eaf2fd125adfa07c5722c"
-metafile = true
-
-[[files]]
-file = "mods/macaws-furniture.pw.toml"
-hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
-metafile = true
-
-[[files]]
-file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "87366a5d82152829103539d930ad9c0e8edbd5a917f65657db76f718f5296927"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paintings.pw.toml"
-hash = "643d332b262b72f86f806cc1410b4354803a07b6012c1210f06d2ca231cccd30"
-metafile = true
-
-[[files]]
-file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "e04b1ac906167721ae2696ec837be362e6d6da252e8bc5c0bac29974fbae0461"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "b5f1c37740051774214d8dd035df9bac68ddd4d8c71ed8949fdaabd5949829de"
-metafile = true
-
-[[files]]
-file = "mods/macaws-stairs.pw.toml"
-hash = "abae13cbccdb8789a929cc4d2f9fc38f93ef6bb9082a87f931fcef1b1695cbe6"
-metafile = true
-
-[[files]]
-file = "mods/macaws-trapdoors.pw.toml"
-hash = "4a1f84dbcd179fa481a4d0e5f45da24415158d373117348d4438eaceff4f5fcc"
-metafile = true
-
-[[files]]
-file = "mods/macaws-windows.pw.toml"
-hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]

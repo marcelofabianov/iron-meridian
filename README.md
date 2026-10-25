@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **423 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **406 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 423 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 406 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -22,7 +22,7 @@ Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
 
 O Iron Meridian é um pack **sandbox de tecnologia**. Não há objetivo final nem quests obrigatórias. Você escolhe quais caminhos de tecnologia seguir e até onde ir: Create com engenharia mecânica e aviação, Mekanism, AE2 e Refined Storage com logística e armazenamento, Modern Industrialization com indústria pesada, e Draconic Evolution no fim do jogo.
 
-Além da tecnologia, o pack tem **construção e decoração** (Macaw's, Handcrafted, FramedBlocks, Factory Blocks) e **exploração**: biomas do Regions Unexplored, as dimensões Ad Astra e Undergarden, e estruturas do YUNG's, Moog's e When Dungeons Arise.
+Além da tecnologia, o pack tem **construção e decoração** (Factory Blocks, Create Deco, Copycats+) e **exploração**: biomas do Regions Unexplored, as dimensões Ad Astra e Undergarden, e estruturas do YUNG's, Moog's e When Dungeons Arise.
 
 | Item | Definição |
 |---|---|
@@ -74,9 +74,9 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 ### Agricultura e recursos
 - **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals
-- **Agritech: Evolved**, **Botany Pots** (Mystical e Trees), **Productive Metalworks**, **Infinite Water Block**, **Haven Cobble Generators**
+- **Agritech: Evolved**, **Productive Metalworks**, **Infinite Water Block**, **Haven Cobble Generators**
 - **Ore Hammer**: martelo do início do jogo. Minério bruto vira **2 pós**, e o bloco de minério pego com Toque Suave vira **3 pós**. Vale para ferro, cobre, ouro e o zinco do Create e, por um script do pack, também para estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina, antimônio, irídio, titânio e tungstênio.
-- **Farmer's Delight**, **Cooking for Blockheads**, **Farming for Blockheads**
+- **Farmer's Delight**, **Farming for Blockheads**
 - **Spice of Life: Carrot Edition**: cada alimento diferente que você come conta para ganhar **corações extras permanentes**. O progresso aparece no *Food Book*, que fica no Akashic Tome.
 
 ### Veículos e transporte
@@ -98,7 +98,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Armas de tecnologia:** **Mekanism: Weapons** (Meka-Tana, Meka-Bow e Meka-Gun a laser, com módulos como a MekaSuit), além da Minigun do PneumaticCraft e das armas do Draconic Evolution
 
 ### Construção e decoração
-- **Macaw's** (11 mods), **Handcrafted**, **FramedBlocks**, **Factory Blocks**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**
+- **Factory Blocks**, **Create Deco**, **Create Encased**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**
 
 ### Qualidade de vida
 - **JEI**, **Jade**, **Xaero's Minimap e World Map**, **Just Enough Resources**, **Akashic Tome**, **Chunky**, **Trade Cycling**, **Easy Villagers**, **Crash Assistant**, **AttributeFix**

@@ -9,7 +9,7 @@ O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este 
 ## 1. Primeiros dias (comum a todas as rotas)
 
 **Sobrevivência**
-- 🍖 **Varie a comida.** O **Spice of Life** dá **corações extras permanentes** a cada marco de alimentos diferentes. O *Food Book* mostra o progresso. **Farmer's Delight** e **Cooking for Blockheads** ajudam muito.
+- 🍖 **Varie a comida.** O **Spice of Life** dá **corações extras permanentes** a cada marco de alimentos diferentes. O *Food Book* mostra o progresso. O **Farmer's Delight** ajuda muito.
 - 🌡️ **Atenção ao clima.** O **Serene Seasons** muda as estações: no inverno a neve cobre o chão e algumas plantações não crescem. O dia dura **30 minutos** e a noite **10** (**Better Days**), e a cama acelera a noite em vez de pulá-la.
 - 🧭 **Comandos úteis, sem cheats** (**FTB Essentials**): `/sethome base`, `/home base`, `/back` (volta ao último lugar ou ao ponto de morte) e `/spawn`.
 - 🗺️ **Xaero's Minimap e World Map** (**M** abre o mapa, **Shift + B** cria um waypoint, **U** lista os waypoints) marcam pontos de interesse, e a hora do jogo aparece embaixo do minimapa. **Waystones** permitem viajar rápido entre bases.
@@ -22,7 +22,7 @@ O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este 
 - 📦 **Armazenamento simples:** baús do **Sophisticated Storage** ou gavetas do **Functional Storage**.
 - 🔨 **Ore Hammer**: com 2 blocos de cobre, 1 de ferro, 1 graveto e 1 pepita de ferro, você **dobra os minérios** desde o primeiro dia. Minério bruto e martelo dão 2 pós, e o bloco de minério com Toque Suave dá 3. Funciona com ferro, cobre, ouro e zinco, e também com os metais dos mods: estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina e outros. Para fundir sem desperdício, use o **carvão pequeno** do Utilitarian: 1 carvão vira 8 pedaços, e cada pedaço funde 1 item.
 - 🔥 **Iron Furnaces**: fornalhas mais rápidas. **Fast Furnace** e **Fast Workbench** já deixam as vanilla mais leves.
-- 🌱 **Comida e recursos automáticos:** os planters do **Agritech: Evolved**, os **Botany Pots** e o **Infinite Water Block** para água.
+- 🌱 **Comida e recursos automáticos:** os planters do **Agritech: Evolved** e o **Infinite Water Block** para água (também abastece máquinas, como o Electrolytic Separator).
 
 **Primeiros recursos mágicos-agrícolas** (a única exceção à regra "sem magia")
 - 🌾 **Mystical Agriculture:** colete **essência de inferium** quebrando o minério. Ela é a base das sementes que produzem recursos (ferro, cobre, carvão…). Os tiers sobem de *inferium → prudentium → tertium → imperium → supremium*, e o **Mystical Agradditions** acrescenta o *insanium*.
@@ -77,7 +77,7 @@ Para quem quer abastecer tudo.
 
 ### 🌾 Rota F: Recursos automáticos
 Para quem prefere **cultivar** recursos em vez de minerar.
-1. **Mystical Agriculture**, em todos os tiers, com **Botany Pots** ou **Agritech: Evolved** para automatizar.
+1. **Mystical Agriculture**, em todos os tiers, com os planters do **Agritech: Evolved** para automatizar.
    - **Cristais por tier:** o pack usa o **Mystical Agriculture Tiered Crystals**, que **desativa o Infusion Crystal comum**. Para subir de tier, cada nível tem o seu cristal: **Prosperity Gemstone** (4 Prosperity Shards + 1 diamante) → **Inferium Gemstone** (+ 2 Inferium) → **Inferium Crystal** (4 Inferium + 4 Prosperity Shards + a gema). Ele converte 4 Inferium em 1 Prudentium. O cristal do tier seguinte gasta o anterior, então faça um extra antes de subir.
    - O **Infusion Altar** usa **8 pedestais** e é ativado por **sinal de redstone**. Ao colocar o altar, ele mostra onde vão os pedestais.
 2. **Hostile Neural Networks:** simula mobs em modelos de dados e gera drops sem precisar de farm.
