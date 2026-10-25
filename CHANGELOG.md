@@ -1,5 +1,56 @@
 # Changelog
 
+## 1.1.13 — 25/10/2026
+
+### Atenção: itens e blocos que somem dos mundos
+- Os mods removidos levam junto os blocos e itens deles. Antes de atualizar um mundo antigo, confira os baús.
+- **Immersive Engineering:** lingotes, pós, minérios e o manual do IE. Os minérios do IE no subsolo viram ar.
+- **Cooking for Blockheads:** a pia. Para água infinita, use o **Infinite Water Block** (3 obsidianas em cima, balde de água + gelo compactado + balde de água no meio, 3 obsidianas embaixo). Ele empurra água sozinho para a máquina ao lado.
+
+### Minérios padronizados no Mekanism
+- O **Almost Unified** passa a dar prioridade ao **Mekanism**, depois ao Mekanism: More Machines, Create, Modern Industrialization, Oritech e XyCraft.
+- Sempre que o Mekanism tem o material, os minérios, lingotes e pós dele são os padrões: nas receitas, no JEI, no loot e nos chunks novos.
+- Chumbo, estanho e urânio ficam com o Mekanism. A prata fica com o Mekanism: More Machines. Níquel e platina ficam com o MI, e o alumínio usa o minério do XyCraft e o lingote do MI.
+- O martelo do Ore Hammer acompanha a prioridade nova.
+
+### Mods novos: desempenho
+- **Alternate Current** (redstone mais leve), **BadOptimizations**, **CreateBetterFps** (até 50% mais FPS no Create com shader).
+- Do autor Someaddon: **Better Chunk Loading**, **Fast Async World Save**, **Smooth Chunk Save**, **fix GPU memory leak**, **Recipe Essentials** e **Structure Essentials**.
+
+### Mods novos: qualidade de vida
+- **Configured** (configurações de todos os mods dentro do jogo), **KleeSlabs** (quebra só metade da laje dupla), **Yeetus Experimentus** (sem o aviso de configurações experimentais) e **Better Third Person**.
+- **Create: Configurable Machine Outputs** e **Create: Pattern Schematics**.
+
+### Mods novos: Create Aeronautics, Sable e Sophisticated
+- **Create Aeronautics: Mekanism Compatibility**: máquinas, cabos e teleporter do Mekanism funcionando nas naves.
+- **Create Aeronautics: FTB Chunks** (na 1.1.1, porque a 1.2.0 exige outra versão do Sable), **Create Aeronautics x Curios API Compat**, **Create Stuff 'N Additions x Sable Compat** e **Waystones: Sable**.
+- **Climbable Ropes** e **Create Aeronautics: Automated Logistics** (rotas automáticas para naves de carga).
+- **Sophisticated Storage Create Integration** e **Sophisticated Storage in Motion**.
+
+### Mods novos: Create e construção
+- **Create Mechanical Extruder** (com a Mechanicals Lib), **Create: Applied Kinetics**, **Create Encased** e **Create Deco**.
+- **Ytones** (blocos futuristas) e **Mekanism Additions** (plástico colorido, Glow Panels e balões; traz versões bebês de alguns mobs hostis, que podem ser desligadas na configuração).
+
+### Pacotes de textura, ativados por padrão
+- **Vanilla Experience+**, **Fancy Crops** e **Default Dark Mode** (interface escura), nessa ordem de baixo para cima. Funcionam com o shader.
+- Valem para instalações novas. Em uma instância que já existe, ative em Opções → Pacotes de recursos.
+
+### Mods removidos
+- **Immersive Engineering**, com o **Immersive Petroleum** e o **Immersive Energistics**, que o exigiam.
+- **Just Dire Things** e **LaserIO**.
+- Os 11 mods do **Macaw's**, **Handcrafted**, **FramedBlocks** e **Cooking for Blockheads**: a construção passa a focar o tema industrial e futurista.
+- **Botany Pots**, com o **Botany Pots - Mystical Agriculture Compat** e o **Botany Trees**. A automação do Mystical fica com os planters do Agritech: Evolved.
+- O pack passa de 399 para **408 mods**.
+
+### Teclas
+- Ficaram sem tecla, para não repetir as do mapa: o typewriter remoto do Curios Compat (vinha no Y do MI) e a voz do Mekanism Additions (vinha no U do Building Gadgets).
+- A trava de câmera da corda (Climbable Ropes) fica no Alt esquerdo.
+
+### Documentação
+- **[Mods removidos](docs/MODS-REMOVIDOS.md):** os mods que saíram nesta versão, com o motivo.
+- **Problemas conhecidos:** avisos de log dos mods novos e do ImmediatelyFast com o Default Dark Mode.
+- Guia dos mods, progressão (rota de indústria pesada só com o MI), mapa de teclas, problemas conhecidos, mods removidos, README e INSTALL atualizados.
+
 ## 1.1.12 — 25/10/2026
 
 ### Atenção: NeoForge novo
