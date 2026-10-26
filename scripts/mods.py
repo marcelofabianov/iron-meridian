@@ -230,6 +230,9 @@ def dep_problems(entries):
                     out.add(f"FALTA: {d['owner']} exige {m} {r}")
                 elif m != "minecraft" and not in_range(prov[m], r):
                     out.add(f"VERSÃO: {d['owner']} exige {m} {r}, o pack tem {prov[m]}")
+            elif d["type"] == "optional" and r and m in prov and m != "minecraft" and not in_range(prov[m], r):
+                # O NeoForge também barra o carregamento quando um mod opcional presente está fora da faixa.
+                out.add(f"VERSÃO: {d['owner']} aceita {m} {r} (opcional), o pack tem {prov[m]}")
             elif d["type"] == "incompatible" and m in prov and in_range(prov[m], r or "[0,)"):
                 out.add(f"INCOMPATÍVEL: {d['owner']} com {m} {r}")
     return out

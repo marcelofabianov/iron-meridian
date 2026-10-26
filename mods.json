@@ -793,15 +793,15 @@
       "name": "Amendments",
       "source": "modrinth",
       "project_id": "6iTJugQR",
-      "version_id": "FofnjBi7",
-      "filename": "amendments-1.21-2.2.0-neoforge.jar",
+      "version_id": "OLV6Q846",
+      "filename": "amendments-1.21-2.2.2-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "0766a8c6c00a67c879f102f93f21b985c2969cf286cc323579040d033a465e473d1c06f71bd4ca1184dc3052dbdb27bbee9529b1fa722829377d658583df34a4"
+        "value": "1e10793368d1fd532cbcce5795d4c5590c469eb5b79ce93f98f5158e54667ee685e3492e73712cc5bd9481fed3aa426a8d8ecd7885c15fca40742ca97c8b283e"
       },
       "mod_ids": {
-        "amendments": "1.21-2.2.0"
+        "amendments": "1.21-2.2.2"
       },
       "dependencies": [
         {
@@ -5781,15 +5781,15 @@
       "name": "Fzzy Config",
       "source": "modrinth",
       "project_id": "hYykXjDp",
-      "version_id": "uG7oHgw6",
-      "filename": "fzzy_config-0.7.7+1.21+neoforge.jar",
+      "version_id": "jRuOkBAG",
+      "filename": "fzzy_config-0.7.7+fix1+1.21+neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ef03b411b0e1b241a9952e1a8fdac61979665953eb5f28116aac06530964e7378eb20a78594a47ba4d942c74dfa20d550c292014b5de8e63c42b882a33aef5a5"
+        "value": "7ea074ac2bee3471a213ed6e55d3beafded16631ea517ecbc6711324f6af82b697c9d391aaadcefff67eda13d5dcc2bfb5011373c73a7015761060b6d89cf15c"
       },
       "mod_ids": {
-        "fzzy_config": "0.7.7+1.21+neoforge"
+        "fzzy_config": "0.7.7+fix1+1.21+neoforge"
       },
       "dependencies": [
         {
@@ -7179,15 +7179,15 @@
       "name": "Just Enough Resources (JER)",
       "source": "modrinth",
       "project_id": "uEfK2CXF",
-      "version_id": "TgNFki8j",
-      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar",
+      "version_id": "A2G7NFcD",
+      "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "9a4f8c32e65d5f9451edcf1a584b22b9f590dab2cfb3efb68ef2b4c042d8ff39dcfdaddba0a9d615c7af4ecfa1cefda417c8972d7dcb54e574837ec81d6939b0"
+        "value": "2625d3ba42c0ab7ee52443c35cfc4cf256dc089e4fa8bfde5cdbb3f72621abf081d3718d9fda68d375921f618b719fddaa25a01ebf3229e19543d491094f8e5e"
       },
       "mod_ids": {
-        "jeresources": "1.6.0.17"
+        "jeresources": "1.6.0.57"
       },
       "dependencies": [
         {
@@ -7225,15 +7225,15 @@
       "name": "Just Zoom",
       "source": "modrinth",
       "project_id": "iAiqcykM",
-      "version_id": "c9bc4pyu",
-      "filename": "justzoom_neoforge_3.0.1_MC_1.21.1.jar",
+      "version_id": "Ha3713r0",
+      "filename": "justzoom_neoforge_3.1.0_MC_1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "0a7cc9cc49237558ec8de742576084767a7204f42d9598ee173fc9fc941282072820823b71bf1fe56f355ccc6d416586906eb42759a64538256147d038f6656a"
+        "value": "4e673b1dadfb4c84cf0ad113b4199d8c9ef8677fbc4fc27e403cc2b0ab481e261d8d4b46383ce845c7063bfdc0aba3f87008b36cb9c5ec2edd272984b0ea6b17"
       },
       "mod_ids": {
-        "justzoom": "3.0.1"
+        "justzoom": "3.1.0"
       },
       "dependencies": [
         {
@@ -10879,21 +10879,21 @@
       "name": "Sophisticated Backpacks",
       "source": "curseforge",
       "project_id": "422301",
-      "version_id": "9271144",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.14.2222.jar",
+      "version_id": "9323241",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "6857b30c6d4600758564eac6d903570e076f0f79"
+        "value": "0aaf0396936537df5a3fce8905fb162a93cac11d"
       },
       "mod_ids": {
-        "sophisticatedbackpacks": "3.26.14"
+        "sophisticatedbackpacks": "3.26.15"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.15,)"
+          "range": "[1.5.18,)"
         },
         {
           "mod_id": "neoforge",
@@ -10907,15 +10907,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9279274",
-      "filename": "sophisticatedcore-1.21.1-1.5.17.2426.jar",
+      "version_id": "9323125",
+      "filename": "sophisticatedcore-1.21.1-1.5.18.2431.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "f83c21763ae821577ca25a2696c26ea65dfc54e8"
+        "value": "77c351a31872abc8e3f54928250e56cb2b5dc632"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.17"
+        "sophisticatedcore": "1.5.18"
       },
       "dependencies": [
         {

@@ -2,5 +2,6 @@
   "Cable Tiers": "A versão mais nova no Modrinth aparece como 0.0.0, o que parece erro de publicação. Mantida a 1.21.1-0.6.14.",
   "Modular Routers": "O Modrinth lista uma versão 'nova' com o mesmo número (13.2.7). Mantida a atual.",
   "Structory: Towers": "O arquivo da 1.0.17 não é reconhecido como mod válido pelo NeoForge e derruba o carregamento. Mantida a 1.0.16.",
-  "Create Aeronautics: FTB Chunks": "A 1.2.0 exige o Sable exatamente 2.0.5, e o pack tem a 2.0.6. Mantida a 1.1.1, que aceita qualquer Sable."
+  "Create Aeronautics: FTB Chunks": "A 1.2.0 exige o Sable exatamente 2.0.5, e o pack tem a 2.0.6. Mantida a 1.1.1, que aceita qualquer Sable.",
+  "Building Gadgets": "A 21.1.1 sai da faixa que o Logistics Networks aceita (buildinggadgets2 [1.3.8, 1.4)), e o NeoForge não carrega o jogo. Mantida a 1.3.9."
 }

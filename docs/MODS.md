@@ -28,7 +28,7 @@ Total: **407 mods** (305 do Modrinth e 102 do CurseForge).
 | 20 | Almost Unified | `almostunified-neoforge-1.21.1-1.4.2.jar` | [Modrinth](https://modrinth.com/mod/sdaSaQEz) |
 | 21 | Alternate Current | `alternate_current-mc1.21-1.9.0.jar` | [Modrinth](https://modrinth.com/mod/r0v8vy1s) |
 | 22 | AmbientSounds | `AmbientSounds_NEOFORGE_v6.3.11_mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/fM515JnW) |
-| 23 | Amendments | `amendments-1.21-2.2.0-neoforge.jar` | [Modrinth](https://modrinth.com/mod/6iTJugQR) |
+| 23 | Amendments | `amendments-1.21-2.2.2-neoforge.jar` | [Modrinth](https://modrinth.com/mod/6iTJugQR) |
 | 24 | Aperture Innovations - Portal Gun | `aperture_innovations-neoforge-2.1.1.jar` | [Modrinth](https://modrinth.com/mod/GsmkmPdY) |
 | 25 | AppleSkin | `appleskin-neoforge-mc1.21-3.0.9.jar` | [Modrinth](https://modrinth.com/mod/EsAfCjCV) |
 | 26 | Applied Energistics 2 | `appliedenergistics2-19.2.18.jar` | [Modrinth](https://modrinth.com/mod/XxWD5pD3) |
@@ -181,7 +181,7 @@ Total: **407 mods** (305 do Modrinth e 102 do CurseForge).
 | 173 | Fuel Goes Here | `fuelgoeshere-1.21.1-1.2.0.jar` | [Modrinth](https://modrinth.com/mod/Nw1znDUQ) |
 | 174 | Functional Storage | `functionalstorage-1.21.1-1.5.8.jar` | [CurseForge](https://www.curseforge.com/projects/556861) |
 | 175 | Fusion (Connected Textures) | `fusion-1.3.16-neoforge-mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/p19vrgc2) |
-| 176 | Fzzy Config | `fzzy_config-0.7.7+1.21+neoforge.jar` | [Modrinth](https://modrinth.com/mod/hYykXjDp) |
+| 176 | Fzzy Config | `fzzy_config-0.7.7+fix1+1.21+neoforge.jar` | [Modrinth](https://modrinth.com/mod/hYykXjDp) |
 | 177 | Geckolib | `geckolib-neoforge-1.21.1-4.9.3.jar` | [Modrinth](https://modrinth.com/mod/8BmcQJ2H) |
 | 178 | Generator Galore | `generatorgalore-1.21.1-1.7.0.jar` | [CurseForge](https://www.curseforge.com/projects/691049) |
 | 179 | Get It Together, Drops! | `getittogetherdrops-neoforge-1.21.5-1.4.jar` | [Modrinth](https://modrinth.com/mod/T0OUgf8P) |
@@ -226,8 +226,8 @@ Total: **407 mods** (305 do Modrinth e 102 do CurseForge).
 | 218 | Just Enough Items (JEI) | `jei-1.21.1-neoforge-19.64.0.455.jar` | [Modrinth](https://modrinth.com/mod/u6dRKJwZ) |
 | 219 | Just Enough Mekanism Multiblocks | `JustEnoughMekanismMultiblocks-1.21.1-7.21.jar` | [Modrinth](https://modrinth.com/mod/kRaE85yQ) |
 | 220 | Just Enough Professions (JEP) | `JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar` | [CurseForge](https://www.curseforge.com/projects/417645) |
-| 221 | Just Enough Resources (JER) | `JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar` | [Modrinth](https://modrinth.com/mod/uEfK2CXF) |
-| 222 | Just Zoom | `justzoom_neoforge_3.0.1_MC_1.21.1.jar` | [Modrinth](https://modrinth.com/mod/iAiqcykM) |
+| 221 | Just Enough Resources (JER) | `JustEnoughResources-NeoForge-1.21.1-1.6.0.57.jar` | [Modrinth](https://modrinth.com/mod/uEfK2CXF) |
+| 222 | Just Zoom | `justzoom_neoforge_3.1.0_MC_1.21.1.jar` | [Modrinth](https://modrinth.com/mod/iAiqcykM) |
 | 223 | Keybind Atlas | `KeybindAtlas-v2.0.0-mc1.21.1-neoforge.jar` | [Modrinth](https://modrinth.com/mod/fokFjwwh) |
 | 224 | KeyBind Bundles | `keybindbundles-1.4.0.jar` | [CurseForge](https://www.curseforge.com/projects/1172594) |
 | 225 | KeybindsPurger | `KeybindsPurger-1.4.0-neoforge-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/iaH7LvLy) |
@@ -347,9 +347,9 @@ Total: **407 mods** (305 do Modrinth e 102 do CurseForge).
 | 339 | Smithing Template Viewer | `smithingtemplateviewer-1.0.4.jar` | [Modrinth](https://modrinth.com/mod/oJsYTCP3) |
 | 340 | Sodium | `sodium-neoforge-0.8.13+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | 341 | Solar Flux Reborn | `SolarFluxReborn-1.21.1-21.1.8.jar` | [Modrinth](https://modrinth.com/mod/4QG5lev4) |
-| 342 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.14.2222.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
+| 342 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.15.2227.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
 | 343 | Sophisticated Backpacks Create Integration | `sophisticatedbackpackscreateintegration-1.21.1-0.2.3.194.jar` | [CurseForge](https://www.curseforge.com/projects/1238567) |
-| 344 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.17.2426.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
+| 344 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.18.2431.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
 | 345 | Sophisticated Storage | `sophisticatedstorage-1.21.1-1.6.9.2199.jar` | [CurseForge](https://www.curseforge.com/projects/619320) |
 | 346 | Sophisticated Storage Create Integration | `sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.jar` | [Modrinth](https://modrinth.com/mod/MJ0hdevs) |
 | 347 | Sophisticated Storage in Motion | `sophisticatedstorageinmotion-1.21.1-0.10.36.381.jar` | [Modrinth](https://modrinth.com/mod/6vtFbyaJ) |
