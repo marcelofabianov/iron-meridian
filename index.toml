@@ -806,7 +806,7 @@ hash = "0253f9d40e828b0226d6efb2441cc4379e312688dfa1eef55d48871d17cf83a2"
 
 [[files]]
 file = "config/create_connected-common.toml"
-hash = "0c352f9d7c4bcf09d676222a1cd1cba8689b0dd1ca0847ff90427bae620a5ec6"
+hash = "83f8f71eb2131617faffa7d0211703b97814010815ed60e6f356b25e971d0d34"
 
 [[files]]
 file = "config/create_connected-server.toml"
@@ -2886,6 +2886,10 @@ hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
+
+[[files]]
+file = "kubejs/server_scripts/iron_meridian_recipe_conflicts.js"
+hash = "c25e5f3e2c91815127a8f43ef1ba72b145517290b9938978b467cdc91e6d9d83"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
