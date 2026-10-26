@@ -2888,10 +2888,6 @@ file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
 
 [[files]]
-file = "kubejs/server_scripts/iron_meridian_recipe_conflicts.js"
-hash = "4e8126771791923f226058241215c0cf1aa18bfc630041b73a3f12621fe75e61"
-
-[[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
 hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
 
