@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.1.14 — 26/10/2026
+
+### Correção: travamento do servidor
+- Removido o **Better Chunk Loading**. Num mundo novo, ele travava o servidor interno: barris, máquinas e o Jade paravam de responder, e o jogo não conseguia salvar ao sair. O carregamento de chunks pelo mapa do FTB Chunks e pelos Chunk Loaders continua igual.
+
+### Receitas que colidiam
+Uma varredura em todas as receitas de mesa (com as tags expandidas) achou receitas com os mesmos ingredientes e resultados diferentes. As que atrapalhavam mudaram:
+- **Create Deco:** **Iron Support**, **Copper Support** e **Iron Sheet Metal** passam para o **cortador de pedras** (1 lingote ou 1 chapa dá 1). Elas colidiam com a Iron Gear, a Iron Large Plate e o Copper Wire.
+- **Create: Diesel Generators:** o **Chip Wood Block** passa a usar **9 wood chips (3×3)**, porque o 2×2 é a Cardboard Box do Mekanism. O **Oil Barrel** ganha um **balde** embaixo, porque a receita antiga era a do Item Silo do Create Connected.
+- **DimStorage:** o **Dim Wall** troca a ender pearl por **obsidiana**, porque a receita antiga era a do Range Upgrade do SCC.
+- **Create Stuff 'N Additions:** o **Small Filling Tank** e o **Vault Component** passam para o **cortador de pedras**, a partir do Fluid Tank e do Item Vault do Create.
+- **Actually Additions:** sai o **Tiny Coal** dele, que repetia o do Utilitarian.
+- **Create Connected:** os **copycats** dele ficam desligados, porque o **Copycats+** já tem todos. Os copycats antigos do Create Connected são convertidos sozinhos para os do Copycats+.
+- As colisões que sobraram são entre materiais equivalentes ou de uso raro. O seletor do **Polymorph** na mesa resolve quando aparecerem.
+
+### Teclas
+- **Mouse 5:** troca o modo do **jetpack** e do peitoral da MekaSuit (era Alt + 2).
+- **Alt + 2:** abre o **terminal sem fio do SCC** (era o Mouse 5).
+- **Alt + C:** abre a **calculadora do SCC** (era o C). O C sozinho disparava enquanto se digitava em caixas de texto, como as do Flux Networks.
+- As **configurações do SCC** ficam sem tecla e abrem pelo botão na barra do terminal do SCC (ou F7 dentro dele).
+- Valem para instalações novas. Em uma instância que já existe, troque em Opções → Controles.
+
+### Atualizações
+- **6 mods** para a versão estável mais nova: Amendments 2.2.2, Fzzy Config 0.7.7+fix1, Just Enough Resources 1.6.0.57, Just Zoom 3.1.0, Sophisticated Backpacks 3.26.15 e Sophisticated Core 1.5.18.
+- O **Building Gadgets 2** fica na 1.3.9: a 21.1.1 sai da faixa que o Logistics Networks aceita, e o jogo não abria.
+- O pack passa a ter **407 mods**.
+
+### Documentação
+- Mapa de teclas, guia de comandos, mods removidos, guia dos mods, README e INSTALL atualizados.
+
 ## 1.1.13 — 25/10/2026
 
 ### Atenção: itens e blocos que somem dos mundos
