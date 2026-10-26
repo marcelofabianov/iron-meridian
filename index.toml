@@ -2849,7 +2849,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "996404fac6bdcd6dbb4c5a0acea874b475703c998f83d071dd2f4aa0820493eb"
+hash = "95a610f0f1b44713b842b776832c46a96eb136f56dd2a6fef5c2c921d6ef319e"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -2886,6 +2886,10 @@ hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
+
+[[files]]
+file = "kubejs/server_scripts/iron_meridian_recipe_conflicts.js"
+hash = "4e8126771791923f226058241215c0cf1aa18bfc630041b73a3f12621fe75e61"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"

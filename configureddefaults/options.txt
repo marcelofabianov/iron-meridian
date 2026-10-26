@@ -22,7 +22,7 @@ key_key.toolbelt.open:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.g
 key_simplemagnets.keys.toggle:key.keyboard.h
 key_crafting_on_a_stick.key.open_curios:key.keyboard.v
-key_key.scc.open:key.keyboard.c
+key_key.scc.open:key.keyboard.c:ALT
 key_key.trade_cycling.cycle_trades:key.keyboard.x
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.mekanism.mode:key.keyboard.n
@@ -45,7 +45,7 @@ key_key.immersive_aircraft.boost:key.keyboard.b:ALT
 key_key.immersive_aircraft.dismount:key.keyboard.r:ALT
 key_pneumaticcraft.armor.options:key.keyboard.u:ALT
 key_key.scc.pocket:key.keyboard.g:ALT
-key_key.scc.settings:key.keyboard.c:ALT
+key_key.scc.settings:key.keyboard.unknown
 key_key.scc.job_details:key.keyboard.k:ALT
 key_key.easy_villagers.pick_up:key.keyboard.v:SHIFT
 key_key.toolbelt.slot:key.keyboard.r:SHIFT

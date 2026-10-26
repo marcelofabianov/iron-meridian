@@ -24,38 +24,37 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 4 | **G** | Inventário de acessórios | Curios |
 | 5 | **H** | Ligar/desligar o ímã | Simple Magnets |
 | 6 | **V** | Mesa de crafting portátil | Crafting on a Stick |
-| 7 | **C** | Calculadora (item sob o cursor) | SCC |
-| 8 | **X** | Trocar as ofertas do aldeão | Trade Cycling |
-| 9 | **B** | Abrir a mochila | Sophisticated Backpacks |
-| 10 | **N** | Modo do item (configurador, disassembler…) | Mekanism |
-| 11 | **M** | Abrir o mapa | Xaero's World Map |
-| 12 | **U** | Lista de waypoints | Xaero's Minimap |
-| 13 | **Y** | Mineração 3x3 | Modern Industrialization |
-| 14 | **K** | Mapa do teclado | Keybind Atlas |
-| 15 | **Z** | Zoom | Just Zoom |
-| 16 | **`** | Controle pelo mouse (aviões) | Immersive Aircraft |
-| 17 | **F6** | Previsão do tempo | WeatherForecast |
-| 18 | **F7** | Overlay de luz (onde mobs nascem) | More Overlays |
+| 7 | **X** | Trocar as ofertas do aldeão | Trade Cycling |
+| 8 | **B** | Abrir a mochila | Sophisticated Backpacks |
+| 9 | **N** | Modo do item (configurador, disassembler…) | Mekanism |
+| 10 | **M** | Abrir o mapa | Xaero's World Map |
+| 11 | **U** | Lista de waypoints | Xaero's Minimap |
+| 12 | **Y** | Mineração 3x3 | Modern Industrialization |
+| 13 | **K** | Mapa do teclado | Keybind Atlas |
+| 14 | **Z** | Zoom | Just Zoom |
+| 15 | **`** | Controle pelo mouse (aviões) | Immersive Aircraft |
+| 16 | **F6** | Previsão do tempo | WeatherForecast |
+| 17 | **F7** | Overlay de luz (onde mobs nascem) | More Overlays |
 
 ### Alt + tecla (armaduras, voo e veículos)
 
 | # | Combinação | Ação | Mods |
 |---|---|---|---|
-| 19 | **Alt + 1** | Habilidade do capacete | MekaSuit, capacete pneumático (hacking) |
-| 20 | **Alt + 2** | Terminal sem fio | SCC |
-| 21 | **Alt + 3** | Habilidade das calças | MekaSuit |
-| 22 | **Alt + 4** | Habilidade das botas | MekaSuit |
-| 23 | **Alt + F** | Ligar/desligar o voo | Iron Jetpacks (motor), traje do Ad Astra, Modern Industrialization |
-| 24 | **Alt + H** | Pairar | Iron Jetpacks |
-| 25 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
-| 26 | **Alt + B** | Impulso | Immersive Aircraft |
-| 27 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
-| 28 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
-| 29 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
-| 30 | **Alt + C** | Configurações | SCC |
-| 31 | **Alt + K** | Detalhes do último pedido | SCC |
-| 32 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
-| 33 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
+| 18 | **Alt + 1** | Habilidade do capacete | MekaSuit, capacete pneumático (hacking) |
+| 19 | **Alt + 2** | Terminal sem fio | SCC |
+| 20 | **Alt + 3** | Habilidade das calças | MekaSuit |
+| 21 | **Alt + 4** | Habilidade das botas | MekaSuit |
+| 22 | **Alt + F** | Ligar/desligar o voo | Iron Jetpacks (motor), traje do Ad Astra, Modern Industrialization |
+| 23 | **Alt + H** | Pairar | Iron Jetpacks |
+| 24 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
+| 25 | **Alt + B** | Impulso | Immersive Aircraft |
+| 26 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
+| 27 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
+| 28 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
+| 29 | **Alt + C** | Calculadora (item sob o cursor). Com o Alt, a tecla não atrapalha a digitação em caixas de texto, como as do Flux Networks. | SCC |
+| 30 | **Alt + K** | Detalhes do último pedido | SCC |
+| 31 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
+| 32 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
 
 As peças de armadura, os voos e os veículos dividem a mesma combinação porque você só usa um de cada vez.
 
@@ -63,24 +62,24 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 
 | # | Tecla | Ação | Mod |
 |---|---|---|---|
-| 34 | **Shift + B** | Novo waypoint | Xaero's Minimap |
-| 35 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
-| 36 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
-| 37 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
-| 38 | **Shift + U** | Deep Learner | Hostile Neural Networks |
-| 39 | **Shift + C** | Grade de crafting num bloco | Translocators |
-| 40 | **Shift + V** | Pegar aldeão | Easy Villagers |
-| 41 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 42 | **Shift + G** | Óculos | Advanced Peripherals |
-| 43 | **Shift + H** | HUD da chave | Logistics Networks |
-| 44 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 45 | **;** | Tela de aumentos | Oritech |
-| 46 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 47 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 48 | **F12** | Ligar/desligar o shader | Iris |
-| 49 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
-| 50 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
-| 51 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 33 | **Shift + B** | Novo waypoint | Xaero's Minimap |
+| 34 | **Shift + Y** | Configurações do minimapa | Xaero's Minimap |
+| 35 | **Shift + Z** | Ampliar o minimapa | Xaero's Minimap |
+| 36 | **Shift + M** | Ligar/desligar o ímã | Ender IO |
+| 37 | **Shift + U** | Deep Learner | Hostile Neural Networks |
+| 38 | **Shift + C** | Grade de crafting num bloco | Translocators |
+| 39 | **Shift + V** | Pegar aldeão | Easy Villagers |
+| 40 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
+| 41 | **Shift + G** | Óculos | Advanced Peripherals |
+| 42 | **Shift + H** | HUD da chave | Logistics Networks |
+| 43 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 44 | **;** | Tela de aumentos | Oritech |
+| 45 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 46 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 47 | **F12** | Ligar/desligar o shader | Iris |
+| 48 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
 
 ### Sem tecla, de propósito
 
@@ -92,6 +91,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
 - Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
+- Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
 
 ### Teclas livres
@@ -553,9 +553,8 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Alt + K | Details of the last finished order | Jogo |
-| C | Open calculator (item under cursor) | Jogo |
+| Alt + C | Open calculator (item under cursor) | Jogo |
 | Alt + 2 | Open wireless terminal | Jogo |
-| Alt + C | SCC settings | Jogo |
 | Alt + G | Stellar Pocket (tap: put away, hold: pick) | Jogo |
 | Alt + Delete | Throw item into black hole (terminal) | Jogo |
 | V | Wrench menu (hold) | Jogo |
