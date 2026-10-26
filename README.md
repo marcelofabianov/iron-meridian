@@ -74,7 +74,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 ### Agricultura e recursos
 - **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals
-- **Agritech: Evolved**, **Productive Metalworks**, **Infinite Water Block**, **Haven Cobble Generators**
+- **Agritech: Evolved**, **Productive Metalworks**, **Infinite Water Block**, **Cobblegen Galore**
 - **Ore Hammer**: martelo do início do jogo. Minério bruto vira **2 pós**, e o bloco de minério pego com Toque Suave vira **3 pós**. Vale para ferro, cobre, ouro e o zinco do Create e, por um script do pack, também para estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina, antimônio, irídio, titânio e tungstênio.
 - **Farmer's Delight**, **Farming for Blockheads**
 - **Spice of Life: Carrot Edition**: cada alimento diferente que você come conta para ganhar **corações extras permanentes**. O progresso aparece no *Food Book*, que fica no Akashic Tome.

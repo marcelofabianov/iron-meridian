@@ -1441,10 +1441,6 @@ file = "config/hammerlib/tags/modded/solarflux.json"
 hash = "62a9b58bb4a06953a965ef98ab57a39b83b837300862b421cf5ca292f868f13b"
 
 [[files]]
-file = "config/havencobblegens-common.toml"
-hash = "e10d94a990d292ba4fadebb39e2bfd8662911093e1df34602f1226a6aec836c5"
-
-[[files]]
 file = "config/heyberryshutup-common.toml"
 hash = "2f1db0e113c60c85b221b203fb5b6a785a349ff137bc8a8fd9377ecc7f284df6"
 
@@ -3199,6 +3195,11 @@ hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
 metafile = true
 
 [[files]]
+file = "mods/cobblegen-galore.pw.toml"
+hash = "8ee8facb80c02593751f4cb8eddd681868be2b725791ebf1c35060be4fa7efaa"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
 metafile = true
@@ -3821,11 +3822,6 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "ca5542cea7e2a08fd55f2f92740951fcbca7c8ae977a536726ac87ade44f5d79"
-metafile = true
-
-[[files]]
-file = "mods/haven-cobble-generators.pw.toml"
-hash = "fb5a635f60a332e0dd1291b20260454d254dbc7014f07caa85538961f551a8ca"
 metafile = true
 
 [[files]]

@@ -43,30 +43,30 @@ Resumo em 3 linhas de cada um dos **407 mods** do pack, separados por categoria.
    - Adiciona computadores e tartarugas programáveis em Lua.
    - Permite automatizar mineração, monitores, redes e controle de redstone.
    - Outros mods dependem dele: Advanced Peripherals, More Red x CC:Tweaked Compat.
-5. **Draconic Evolution** · [página](https://modrinth.com/mod/draconic-evolution)
+5. **Cobblegen Galore** · [página](https://www.curseforge.com/minecraft/mc-mods/cobblegen-galore)
+   - Geradores de blocos em 7 tiers (de Stone a Netherite): coloque um bloco de cada lado (por exemplo, água e lava) e ele gera blocos sem energia.
+   - Gera pedregulho e pedras do Minecraft, netherrack, basalto (Blue Ice + lava), obsidiana (gasta a lava), as pedras do Create, o skystone do AE2 e o kivi do XyCraft.
+   - Os tiers mais altos são mais rápidos. Veja as combinações no JEI, na categoria Block Generator.
+6. **Draconic Evolution** · [página](https://modrinth.com/mod/draconic-evolution)
    - Mod de tecnologia de fim de jogo focado em poder e equipamentos avançados.
    - Traz minério de Draconium, núcleo de energia, fusão de itens, armaduras e ferramentas Draconic.
    - Fica para o fim da progressão, quando a base já gera muita energia.
-6. **Ender IO** · [página](https://modrinth.com/mod/enderio)
+7. **Ender IO** · [página](https://modrinth.com/mod/enderio)
    - Mod de tecnologia completo com máquinas, condutos, ferramentas e armaduras.
    - Inclui moedor SAG, fundidora de ligas, capacitores e condutos compactos para itens, fluidos e energia.
    - Os condutos que compartilham o mesmo bloco ajudam a organizar fábricas compactas.
-7. **Extended Crafting** · [página](https://modrinth.com/mod/extended-crafting)
+8. **Extended Crafting** · [página](https://modrinth.com/mod/extended-crafting)
    - Adiciona novas formas de fabricação e mesas maiores.
    - Inclui mesas de fabricação em níveis, fabricação por combinação e compressor.
    - Muitas receitas de fim de jogo, como as de Mystical Agriculture, passam por essas mesas.
-8. **Extended Industrialization** · [página](https://modrinth.com/mod/extended-industrialization)
+9. **Extended Industrialization** · [página](https://modrinth.com/mod/extended-industrialization)
    - Addon que amplia o conteúdo do Modern Industrialization.
    - Adiciona novas máquinas, geradores e itens que se encaixam na progressão do MI.
    - Use junto com o guia do MI para ver onde cada máquina entra.
-9. **Gravitational Modulating Additional Unit** · [página](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit)
+10. **Gravitational Modulating Additional Unit** · [página](https://www.curseforge.com/minecraft/mc-mods/gravitational-modulating-additional-unit)
    - Addon de tecnologia que adiciona funções extras.
    - Expande recursos ligados à unidade de modulação gravitacional.
    - Confira as receitas no JEI para ver o que ele acrescenta ao pack.
-10. **Haven Cobble Generators** · [página](https://www.curseforge.com/minecraft/mc-mods/haven-cobble-generators)
-   - Geradores de pedregulho automáticos em vários níveis.
-   - Cada nível produz pedregulho mais rápido, incluindo uma versão criativa.
-   - Fonte prática de pedra para processamento e construção.
 11. **Hostile Neural Networks** · [página](https://modrinth.com/mod/hostile-neural-networks)
    - Simula mobs para gerar drops sem precisar matá-los de verdade.
    - Modelos de dados treinados alimentam câmaras de simulação e fabricadores de loot.
@@ -763,14 +763,14 @@ Resumo em 3 linhas de cada um dos **407 mods** do pack, separados por categoria.
 
 ## Combate e desafios
 
-179. **Mekanism: Weapons** · [página](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons)
-   - Addon não oficial do Mekanism com armas de alta tecnologia no estilo da MekaSuit.
-   - Meka-Tana (katana que teletransporta), Meka-Bow e Meka-Gun (arma a laser), com módulos de dano e outros.
-   - Usa energia e se melhora na Modification Station; exige a mesma versão do Mekanism do pack.
-180. **Mekanism Turrets** · [página](https://modrinth.com/mod/mekanism-turrets)
+179. **Mekanism Turrets** · [página](https://modrinth.com/mod/mekanism-turrets)
    - Torretas laser do Mekanism que atiram nos mobs, com alvos configuráveis, e cercas elétricas.
    - Usam energia e aceitam os upgrades de Speed e Energy do Mekanism.
    - Boas para proteger a base e as fazendas à noite.
+180. **Mekanism: Weapons** · [página](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons)
+   - Addon não oficial do Mekanism com armas de alta tecnologia no estilo da MekaSuit.
+   - Meka-Tana (katana que teletransporta), Meka-Bow e Meka-Gun (arma a laser), com módulos de dano e outros.
+   - Usa energia e se melhora na Modification Station; exige a mesma versão do Mekanism do pack.
 181. **Simply Swords** · [página](https://modrinth.com/mod/simply-swords)
    - Adiciona várias armas novas, como lanças, glaives, katanas, rapieiras e martelos.
    - Inclui armas únicas com habilidades especiais encontradas no mundo.
@@ -947,14 +947,14 @@ Resumo em 3 linhas de cada um dos **407 mods** do pack, separados por categoria.
    - Bússola que localiza estruturas em qualquer lugar do mundo.
    - Escolha o tipo de estrutura na interface e a bússola aponta para a mais próxima.
    - Útil para achar vilas, ruínas e estruturas de outros mods sem vagar às cegas.
-222. **FTB Essentials (Forge & Fabric)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
-   - Comandos utilitários essenciais como home, back, spawn e teletransporte.
-   - Adiciona comandos de conveniência para movimentação e gestão do jogador.
-   - No singleplayer ajuda a voltar à base ou ao ponto de morte rapidamente.
-223. **FTB Chunks** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
+222. **FTB Chunks** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
    - Permite reivindicar chunks e mantê-los sempre carregados, direto por um mapa.
    - Chunks reivindicados ficam protegidos contra explosões e grief de mobs; até 25 podem ficar carregados.
    - Abra com Alt + M. O minimapa dele fica desligado, porque o pack usa o do Xaero.
+223. **FTB Essentials (Forge & Fabric)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+   - Comandos utilitários essenciais como home, back, spawn e teletransporte.
+   - Adiciona comandos de conveniência para movimentação e gestão do jogador.
+   - No singleplayer ajuda a voltar à base ou ao ponto de morte rapidamente.
 224. **FTB Filter System** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system)
    - Sistema de filtragem de itens da FTB com editor gráfico.
    - Permite montar filtros por item, tag, mod e outras regras em uma interface amigável.

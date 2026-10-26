@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.14",
+  "pack_version": "1.1.15",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -1799,6 +1799,29 @@
         }
       ],
       "pw_file": "mods/clumps.pw.toml"
+    },
+    {
+      "name": "Cobblegen Galore",
+      "source": "curseforge",
+      "project_id": "1108467",
+      "version_id": "8523192",
+      "filename": "cobblegengalore-1.21.1-0.2.9.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "d08c1d93e7918eebed6e405d0680d11d33c80bf6"
+      },
+      "mod_ids": {
+        "cobblegengalore": "1.21.1-0.2.9"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.0-beta,)"
+        }
+      ],
+      "pw_file": "mods/cobblegen-galore.pw.toml"
     },
     {
       "name": "CodeChicken Lib",
@@ -6026,49 +6049,6 @@
         }
       ],
       "pw_file": "mods/hammer-lib.pw.toml"
-    },
-    {
-      "name": "Haven Cobble Generators",
-      "source": "curseforge",
-      "project_id": "1038627",
-      "version_id": "7523357",
-      "filename": "HavenCobbleGenerators-NeoForge-1.21.1-1.1.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "796bd370801551f4068f45dfbdadea133efa7709"
-      },
-      "mod_ids": {
-        "havencobblegens": "1.1.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.0-beta,)"
-        },
-        {
-          "mod_id": "jei",
-          "type": "optional",
-          "range": "[19.19,)"
-        },
-        {
-          "mod_id": "roughlyenoughitems",
-          "type": "optional",
-          "range": "[16.0.788,)"
-        },
-        {
-          "mod_id": "jade",
-          "type": "optional",
-          "range": "[11.7.0,)"
-        },
-        {
-          "mod_id": "theoneprobe",
-          "type": "optional",
-          "range": "[1.21_neo-12.0.7,)"
-        }
-      ],
-      "pw_file": "mods/haven-cobble-generators.pw.toml"
     },
     {
       "name": "Hey Berry! SHUT UP",

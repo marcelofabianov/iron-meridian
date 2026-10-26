@@ -82,7 +82,7 @@ Para quem prefere **cultivar** recursos em vez de minerar.
    - O **Infusion Altar** usa **8 pedestais** e é ativado por **sinal de redstone**. Ao colocar o altar, ele mostra onde vão os pedestais.
 2. **Hostile Neural Networks:** simula mobs em modelos de dados e gera drops sem precisar de farm.
 3. **Mob Grinding Utils** e **Industrial Foregoing**, para farms de mobs e processamento.
-4. **Haven Cobble Generators**, para pedregulho infinito.
+4. **Cobblegen Galore**, para pedregulho infinito e outras pedras (as do Create, basalto, netherrack, skystone).
 5. **Iron Farm** do Easy Villagers: com 1 aldeão dentro, gera 1 golem a cada 4 minutos (3 a 5 lingotes de ferro). Um funil embaixo leva o ferro para a rede.
 
 ### 🧭 Rota G: Exploração e dimensões
