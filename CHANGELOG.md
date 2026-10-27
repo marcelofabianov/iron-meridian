@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.1.15 — 27/10/2026
+
+### Troca de mods
+- **Cobblegen Galore** no lugar do **Haven Cobble Generators**. Faz o mesmo e gera mais tipos de bloco: pedras do Create, skystone, kivi, basalto, netherrack e obsidiana. Os geradores do Haven somem de mundos antigos, então troque-os antes de atualizar.
+
+### Aldeões
+- Removido o **Trade Cycling**. Ele repetia o botão **Cycle Trades** que o **Easy Villagers** já tem, os dois botões ficavam no mesmo canto, e o do Trade Cycling não funcionava com aldeões dentro do **Trader**.
+- A tecla **X** passa para o Cycle Trades do Easy Villagers. Vale para instalações novas. Em uma instância que já existe, troque em Opções → Controles.
+- Lembrete: só dá para trocar as ofertas de aldeões **novatos que ainda não negociaram**.
+
+### Outros
+- O pack passa a ter **406 mods**.
+- Guia dos mods, mapa de teclas, mods removidos, README e INSTALL atualizados.
+
 ## 1.1.14 — 26/10/2026
 
 ### Correção: travamento do servidor
