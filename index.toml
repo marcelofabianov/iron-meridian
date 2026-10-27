@@ -2636,10 +2636,6 @@ file = "config/torchmaster.toml"
 hash = "4765c6a67959c7a4c0e5366eb28b13f4188577d8e54bde7d07b0adc9f92bb3ad"
 
 [[files]]
-file = "config/trade_cycling-client.toml"
-hash = "e726057fef1900ca57dd93128503c7cf735c707323450ebe1fd2fe40f749c7b2"
-
-[[files]]
 file = "config/transfer_labels/transfer_labels.toml"
 hash = "783a015912f4636e13d3e2f4865022a0e8dab61becfb838fbd9429b9b3e085ae"
 
@@ -2845,7 +2841,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "95a610f0f1b44713b842b776832c46a96eb136f56dd2a6fef5c2c921d6ef319e"
+hash = "c6c383949eca2ba48faaa8efe30fb8956e01834fccd7f8f2546f62ca89157d52"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -4737,11 +4733,6 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "08aa1a2574bde997cb575648a6ff67b630b68f3783849579b8399ffb3a3829dc"
-metafile = true
-
-[[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "b2dcebb6846f2835104715e6baf93a54fb6e606f2731b2fbfa35c3dd22c01874"
 metafile = true
 
 [[files]]

@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **407 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **406 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 407 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 406 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -101,7 +101,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Ytones** (blocos futuristas), **Mekanism Additions** (plástico colorido e painéis de luz), **Factory Blocks**, **Create Deco**, **Create Encased**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**
 
 ### Qualidade de vida
-- **JEI**, **Jade**, **Xaero's Minimap e World Map**, **Just Enough Resources**, **Akashic Tome**, **Chunky**, **Trade Cycling**, **Easy Villagers**, **Crash Assistant**, **AttributeFix**
+- **JEI**, **Jade**, **Xaero's Minimap e World Map**, **Just Enough Resources**, **Akashic Tome**, **Chunky**, **Easy Villagers**, **Crash Assistant**, **AttributeFix**
 - **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Not Enough Animations**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **Model Gap Fix**, **Cherished Worlds**
 - **Mouse Tweaks**, **Inventory Tweaks Refoxed**, **Inventory Essentials**, **Controlling**, **AppleSkin**, **Gravestone**, **Lootr**, **Comforts**, **Polymorph**, **Simple Backups**
 - **FTB Essentials**: `/sethome`, `/home`, `/back`, `/spawn`, `/rtp` e outros comandos que funcionam sem cheats

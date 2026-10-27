@@ -11547,29 +11547,6 @@
       "pw_file": "mods/torchmaster.pw.toml"
     },
     {
-      "name": "Trade Cycling",
-      "source": "modrinth",
-      "project_id": "qpPoAL6m",
-      "version_id": "9dxmi65z",
-      "filename": "trade-cycling-neoforge-1.21.1-1.0.23.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "0a9b440da43f6946299fe69627969e5403a79a3d7b5ce8da3effde905d3acb179da4c2d86d32f2eeda33df2574cc908323c4f884e1e762956bbfd66d153a48bc"
-      },
-      "mod_ids": {
-        "trade_cycling": "1.21.1-1.0.23"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.0-beta,)"
-        }
-      ],
-      "pw_file": "mods/trade-cycling.pw.toml"
-    },
-    {
       "name": "Transfer Labels",
       "source": "modrinth",
       "project_id": "hRrzpz5p",

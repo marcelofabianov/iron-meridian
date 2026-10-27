@@ -7,7 +7,7 @@ key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.easy_villagers.cycle_trades:key.keyboard.unknown
+key_key.easy_villagers.cycle_trades:key.keyboard.x
 key_justzoom.keybinds.keybind.open_options:key.keyboard.unknown
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
@@ -23,7 +23,6 @@ key_key.curios.open.desc:key.keyboard.g
 key_simplemagnets.keys.toggle:key.keyboard.h
 key_crafting_on_a_stick.key.open_curios:key.keyboard.v
 key_key.scc.open:key.keyboard.c:ALT
-key_key.trade_cycling.cycle_trades:key.keyboard.x
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.mekanism.mode:key.keyboard.n
 key_key.enderio.toggle_magnet:key.keyboard.m:SHIFT

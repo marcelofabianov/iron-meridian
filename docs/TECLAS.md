@@ -24,7 +24,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 4 | **G** | Inventário de acessórios | Curios |
 | 5 | **H** | Ligar/desligar o ímã | Simple Magnets |
 | 6 | **V** | Mesa de crafting portátil | Crafting on a Stick |
-| 7 | **X** | Trocar as ofertas do aldeão | Trade Cycling |
+| 7 | **X** | Trocar as ofertas do aldeão | Easy Villagers |
 | 8 | **B** | Abrir a mochila | Sophisticated Backpacks |
 | 9 | **N** | Modo do item (configurador, disassembler…) | Mekanism |
 | 10 | **M** | Abrir o mapa | Xaero's World Map |
@@ -86,7 +86,7 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 
 - **Simple Voice Chat** (menu, grupo, mutar, desativar, ícones): não tem uso no singleplayer.
-- Salvar e carregar barra de ferramentas (Minecraft), trocar ofertas do Easy Villagers (repete o Trade Cycling), opções do Just Zoom.
+- Salvar e carregar barra de ferramentas (Minecraft), opções do Just Zoom.
 - Depuração de drone do capacete pneumático, recarregar shaders, Kubedex do KubeJS, gravar GIF de tooltip.
 - Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
 - Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
@@ -278,6 +278,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 
 | Tecla | Ação | Onde |
 |---|---|---|
+| X | Cycle Trades | Jogo |
 | Shift + V | Pick Up | Jogo |
 
 ### Ender IO
@@ -632,12 +633,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | Shift + R | Open Belt Slot Inventory | Jogo |
 | R | Swap Tool | Jogo |
-
-### Trade Cycling
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| X | Cycle Trades | Jogo |
 
 ### Translocators
 
