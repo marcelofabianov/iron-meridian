@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.16 — em preparação
+## 1.1.16 — 30/10/2026
 
 ### Mods novos
 - **Punchy!**: as mãos aparecem em primeira pessoa, mesmo vazias, com animações para ferramentas, armas e itens. **I** inspeciona o item na mão, e **Shift + F8** abre o menu do mod.
