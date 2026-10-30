@@ -51,7 +51,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 26 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
 | 27 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
 | 28 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
-| 29 | **Alt + C** | Calculadora (item sob o cursor). Com o Alt, a tecla não atrapalha a digitação em caixas de texto, como as do Flux Networks. | SCC |
+| 29 | **F4** | Calculadora (item sob o cursor). Fica numa tecla que não se digita: dentro das telas o SCC ignora o Alt, e o C abria a calculadora no meio de caixas de texto (Flux Networks, Logistics Network). | SCC |
 | 30 | **Alt + K** | Detalhes do último pedido | SCC |
 | 31 | **Alt + Delete** | Jogar item no buraco negro (terminal) | SCC |
 | 32 | **Alt + M** | Mapa de chunks: reivindicar e manter carregados | FTB Chunks |
@@ -80,6 +80,7 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 48 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
 | 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
 | 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 51 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
 
 ### Sem tecla, de propósito
 
@@ -93,6 +94,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
+- Ajuste fino de animações do Punchy! (eixos, alvos, aumentar/diminuir, salvar): é ferramenta de quem cria animações e vinha no **R**, no **F6**, no **F7**, nas setas e no teclado numérico.
 
 ### Teclas livres
 
@@ -536,6 +538,13 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Alt + 1 | Pneumatic Helmet Hacking | Jogo |
 | Espaço | Pneumatic Jet Boots Thrust | Jogo |
 
+### Punchy!
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| I | Inspecionar o item na mão | Jogo |
+| Shift + F8 | Open Punchy Menu | Jogo |
+
 ### Refined Storage
 
 | Tecla | Ação | Onde |
@@ -554,7 +563,7 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Alt + K | Details of the last finished order | Jogo |
-| Alt + C | Open calculator (item under cursor) | Jogo |
+| F4 | Open calculator (item under cursor) | Jogo |
 | Alt + 2 | Open wireless terminal | Jogo |
 | Alt + G | Stellar Pocket (tap: put away, hold: pick) | Jogo |
 | Alt + Delete | Throw item into black hole (terminal) | Jogo |

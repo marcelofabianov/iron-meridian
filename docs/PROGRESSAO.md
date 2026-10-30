@@ -63,8 +63,8 @@ Para quem quer **tudo em um terminal** e autocrafting.
    - **SCC (Super Cool Calculator):** a mais barata para começar, só com itens do Minecraft (ferro, redstone, vidro, baús e 2 diamantes). O **Storage Connector** liga os baús e barris que você já tem, e a **Network Antenna** com o **Wireless Crafting Terminal** dá acesso de qualquer lugar.
    - **Refined Storage:** precisa de processadores próprios.
    - **Applied Energistics 2:** canais e mais poder. As prensas do Inscriber vêm dos meteoros do AE2 (o *Mysterious Cube* no centro).
-3. **AE2** com addons: **ExtendedAE**, **Advanced AE**, **MEGA Cells**, **AE2WTLib** (terminal sem fio) e **ME Requester**, que mantém estoque automático.
-4. **Autocrafting do SCC:** a calculadora (**C**) monta a árvore da receita; o **Calculation Crafter** faz receitas de mesa e a **Interface** liga as suas máquinas.
+3. **AE2** com addons: **ExtendedAE**, **Advanced AE**, **MEGA Cells**, **AE2WTLib** (terminal sem fio) e **ME Requester**, que mantém estoque automático. O **Recursive AE2 Pattern Provider** gera sozinho os padrões intermediários de receitas longas, e o **Growth Accelerator Tiers** acelera os cristais de certus.
+4. **Autocrafting do SCC:** a calculadora (**F4**, com o cursor sobre o item) monta a árvore da receita; o **Calculation Crafter** faz receitas de mesa e a **Interface** liga as suas máquinas.
 5. **Transporte avançado:** **XNet**, **Super Factory Manager** (programável), **Logistics Networks** e **Translocators**.
 6. **Compact Machines:** coloque fábricas inteiras dentro de um bloco.
 
@@ -77,22 +77,23 @@ Para quem quer abastecer tudo.
 
 ### 🌾 Rota F: Recursos automáticos
 Para quem prefere **cultivar** recursos em vez de minerar.
-1. **Mystical Agriculture**, em todos os tiers, com os planters do **Agritech: Evolved** para automatizar.
+1. **Mystical Agriculture**, em todos os tiers, com os planters do **Agritech: Evolved** ou as máquinas do **Mystical Automation** para automatizar.
    - **Cristais por tier:** o pack usa o **Mystical Agriculture Tiered Crystals**, que **desativa o Infusion Crystal comum**. Para subir de tier, cada nível tem o seu cristal: **Prosperity Gemstone** (4 Prosperity Shards + 1 diamante) → **Inferium Gemstone** (+ 2 Inferium) → **Inferium Crystal** (4 Inferium + 4 Prosperity Shards + a gema). Ele converte 4 Inferium em 1 Prudentium. O cristal do tier seguinte gasta o anterior, então faça um extra antes de subir.
    - O **Infusion Altar** usa **8 pedestais** e é ativado por **sinal de redstone**. Ao colocar o altar, ele mostra onde vão os pedestais.
 2. **Hostile Neural Networks:** simula mobs em modelos de dados e gera drops sem precisar de farm.
 3. **Mob Grinding Utils** e **Industrial Foregoing**, para farms de mobs e processamento.
 4. **Cobblegen Galore**, para pedregulho infinito e outras pedras (as do Create, basalto, netherrack, skystone).
 5. **Iron Farm** do Easy Villagers: com 1 aldeão dentro, gera 1 golem a cada 4 minutos (3 a 5 lingotes de ferro). Um funil embaixo leva o ferro para a rede.
+6. **Replication:** no fim do jogo, escaneie um item e replique-o a partir de matéria, que vem de desmontar outros itens.
 
 ### 🧭 Rota G: Exploração e dimensões
 Para quem quer sair da base.
-1. **Estruturas:** **YUNG's**, **Moog's**, **When Dungeons Arise**, **ChoiceTheorem's Overhauled Villages** e outras. O **Lootr** dá loot separado por jogador, e o **Explorer's Compass** e o **Nature's Compass** localizam estruturas e biomas.
+1. **Estruturas:** **YUNG's**, **Moog's**, **When Dungeons Arise**, **ChoiceTheorem's Overhauled Villages** e outras. O **Lootr** dá loot separado por jogador, o **Explorer's Compass** e o **Nature's Compass** localizam estruturas e biomas, e o **Scannable Reforged** mostra minérios e baús através das paredes.
 2. **Regions Unexplored:** biomas com madeiras e plantas novas. A fauna vem do **Naturalist**, do **Critters and Companions**, do **Spawn** e do **Ecologics**.
 3. **The Undergarden:** portal de **tijolos de pedra** ativado com o **Catalyst**. Lá há minérios novos: cloggrum, froststeel, utherium e regalium.
 4. **Ad Astra:** **NASA Workbench** → foguete **Tier 1** (aço) → **Lua**. Tiers maiores levam a **Marte**, **Vênus e Mercúrio** e **Glacio**. Leve o **traje espacial** com oxigênio. O guia é a **Astrodux**, que fica no tomo.
 5. **Veículos:** **Immersive Vehicles** (carros e aviões, manuais no tomo), **Immersive Aircraft** e **Iron Jetpacks**. No mar, **Small Ships** para navegar rápido e, mais adiante, um **submarino** do **Create: Deep Seas** para explorar o fundo do oceano e os navios do **Seven Seas**.
-6. **Combate:** as armas do **Simply Swords** e do **Mekanism: Weapons**, e as torretas do **Mekanism Turrets** para proteger a base. Com o **Hostile Neural Networks**, dá para automatizar os drops dos mobs depois.
+6. **Combate:** as armas do **Simply Swords** e do **Mekanism: Weapons**, e as torretas do **Mekanism Turrets** para proteger a base. O **Training Dummy** e os números de dano do **Floating Damage Indicators** ajudam a comparar armas. Com o **Hostile Neural Networks**, dá para automatizar os drops dos mobs depois.
 
 ---
 
@@ -123,7 +124,7 @@ Para quem quer sair da base.
 ## 5. Dicas finais
 
 - **Minérios unificados:** o **Almost Unified** unifica minérios e lingotes repetidos entre mods. Qualquer lingote de cobre, chumbo ou aço serve para as receitas, e o JEI mostra só uma versão.
-- **Ao travar numa receita**, use **R** e **U** no JEI. A calculadora do **SCC** mostra a árvore completa da receita.
+- **Ao travar numa receita**, use **R** e **U** no JEI. A calculadora do **SCC** (**F4**) mostra a árvore completa da receita.
 - **Teclas:** o **[mapa de teclas](TECLAS.md)** lista as teclas do pack, organizadas para não colidirem. O **Keybind Atlas** (K) mostra o teclado, e com o **Controlling** você busca qualquer tecla por nome ou mod.
 - **FPS com shader:** o pack já vem com as **sombras de entidades desligadas** no Complementary, o que mais pesava. Se o FPS cair, baixe também a *Shadow Distance* nas configurações do shader.
 - **Sugestões e problemas:** abra uma *issue* no [repositório](https://github.com/marcelofabianov/iron-meridian/issues).

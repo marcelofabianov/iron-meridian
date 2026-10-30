@@ -87,3 +87,4 @@ Foram testados numa instância temporária, mas nunca chegaram a uma versão pub
 2. **KeybindsGalore**: com 41 teclas compartilhadas no pack, abria o menu circular em quase toda tecla.
 3. **Fresh Animations**, com Entity Model Features e Entity Texture Features: aldeões e animais ficavam sem olhos.
 4. **Iris & Oculus Flywheel Compat**: entrou sozinho como dependência do Create: Deep Seas, mas faz o mesmo que o **Colorwheel**.
+5. **Collapsible Groups (JEI/EMI)** 1.4.4: o mixin `MixinIngredientListOverlay` não acha o construtor no JEI 19.64, e o JEI não inicia ao entrar no mundo. Testado no ciclo 1.1.16.

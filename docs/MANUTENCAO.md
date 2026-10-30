@@ -48,6 +48,7 @@ python3 scripts/mods.py update --apply   # 3. aplica no pack (.pw.toml, índice 
 - O `update` **bloqueia** a aplicação se alguma atualização criar um problema de dependência novo: dependência faltando, versão fora da faixa ou incompatibilidade.
 - `--only <nome>` limita a um mod, por exemplo `--only sophisticated`.
 - Para deixar um mod **de fora** das atualizações, coloque o nome e o motivo em `scripts/update-ignore.json`.
+- O `check` compara só com a **mesma fonte** do `.pw.toml`. Se um mod parou de ser atualizado no Modrinth e continua no CurseForge (foi o caso do **ExtendedAE**, parado na 2.2.35 no Modrinth com a 2.2.42 no CurseForge), ele não avisa. Quando um mod pedir uma versão mais nova que a da fonte, troque a fonte com `packwiz remove` e `packwiz curseforge detect`.
 - **Não use `packwiz curseforge add -y` nem `packwiz update --all` para atualizar.** Eles trocam a origem das dependências (Modrinth → CurseForge) e duplicam entradas.
 
 Depois de aplicar, **teste** (seção 6) antes do `git push`.
@@ -55,6 +56,7 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 ## 4. Adicionar um mod novo
 
 1. **Confira as regras:** NeoForge 1.21.1, sem magia, sem conflito ou duplicidade, e **versão estável mais nova** (regra 9), mesmo que você tenha o `.jar` de outro pack, como o ATM10.
+   - Veja antes se o mod não está em `docs/MODS-REMOVIDOS.md`. Mods que já saíram por escolha ou por problema não voltam sem um motivo novo.
 2. **Adicione ao pack:**
    - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`. As dependências que ele adiciona sozinho vêm da página do Modrinth, que às vezes pede algo que **repete** um mod do pack (por exemplo, o *Iris & Oculus Flywheel Compat* faz o mesmo que o Colorwheel). Confira no `neoforge.mods.toml` do mod se a dependência é mesmo obrigatória antes de aceitar.
    - **CurseForge:** coloque o `.jar` em `mods/` e rode `packwiz curseforge detect`. Ele cria o `.pw.toml` e apaga o `.jar`.
@@ -89,7 +91,12 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
    - se nenhum mixin falhou (`Mixin apply ... failed` no `logs/latest.log`);
    - se o KubeJS carregou com 0 erros (`logs/kubejs/server.log`);
    - se mundos novos e existentes carregam.
-5. Apague a cópia.
+   - Para testar um mundo existente, copie também um mundo para a pasta `saves` da cópia e abra direto nele:
+     ```bash
+     prismlauncher --launch <instância> --world <mundo>
+     ```
+   - Compare as linhas de erro com o `latest.log` de uma instância que já funciona. Só as linhas novas importam, e a maioria das que já existem está no [KNOWN_ISSUES](KNOWN_ISSUES.md).
+5. Apague a cópia e pare o `packwiz serve`.
 
 **Configurações de preferência do jogador** (JEI, notificações e outras) devem ficar com `preserve = true` no `index.toml`. Sem isso, o instalador desfaz o que o jogador mudar. Padrões que só valem na primeira abertura vão em `configureddefaults/`.
 

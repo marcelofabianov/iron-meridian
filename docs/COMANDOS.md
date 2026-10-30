@@ -127,7 +127,8 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | **M** / **Alt + M** | Mapa do **Xaero** / mapa de chunks do **FTB Chunks** |
 | **Shift + B** / **U** | Novo waypoint / lista de waypoints (Xaero) |
 | **B** / **G** / **H** | Mochila / Curios / ímã |
-| **Alt + C** | Calculadora do **SCC** (item sob o cursor) |
+| **F4** | Calculadora do **SCC** (item sob o cursor) |
+| **I** / **Shift + F8** | **Punchy!**: inspeciona o item na mão / abre o menu das animações |
 | **Shift + clique direito** com as mãos vazias | **Carry On**: pega baús e barris com o conteúdo dentro |
 
 O mapa completo de teclas, com as combinações com Alt e Shift e as teclas de cada mod, está em **[TECLAS.md](TECLAS.md)**.

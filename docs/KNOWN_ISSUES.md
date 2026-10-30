@@ -13,6 +13,8 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - "@ModifyConstant conflict" do Create Stuff 'N Additions x Sable Compat e "@Redirect conflict" do Recipe Essentials: o NeoForge pula só aquele ajuste, porque outro mod já mexe no mesmo ponto.
 - "Non-unique structure_set salt" do Structure Essentials: só avisa que dois conjuntos de estruturas podem se sobrepor.
 - Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
+- "Invalid path in pack: replication:textures/block/printer - Copy.png" do Replication: uma textura com nome inválido dentro do próprio mod, que o jogo ignora.
+- "Registering Runtime: jei:neoforge_gui is running and has taken 5 seconds so far" do JEI: só avisa que o JEI está demorando para montar a lista. Ele termina logo depois.
 
 ## Avisos que aparecem no chat
 
@@ -26,6 +28,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 ## Problemas ao abrir o jogo
 
 - **Raro: o jogo para na abertura com vários erros "already registered" / "Failed to wait for future Common setup".** É uma falha intermitente de carregamento simultâneo (no log aparece `ConcurrentModificationException` no `SolarFluxResourcePack`). Não é um problema do mundo nem da instalação: feche e abra o jogo de novo.
+- **Raro: janela "Failed to initialize the mod loading system and display… trouble handing off the window".** A tela de carregamento do NeoForge não conseguiu passar a janela para o jogo. Feche a mensagem e abra o jogo de novo. Se repetir, procure no `logs/latest.log` uma linha *"Unsupported installed optional dependencies"* ou *"Missing or unsupported"*, que indica um mod em versão errada.
 
 ## Teclas e controles
 

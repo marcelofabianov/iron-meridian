@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **406 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **418 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 406 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 418 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -57,12 +57,12 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Create** e addons: Aeronautics (inclui Simulated e Offroad), Steam 'n' Rails, Railways Navigator, Connected, Dragons Plus, Enchantment Industry, Crafts & Additions, New Age, Diesel Generators, Power Loader, Hypertube, Aquatic Ambitions, Numismatics, Bells & Whistles, Stuff & Additions, Ore Excavation, **Central Kitchen** (automatiza a cozinha do Farmer's Delight) **Copycats+** (blocos que copiam a textura de qualquer bloco), **Bionics** (animais robôs que acompanham você, acham minério e carregam itens e fluidos) e **Mechanical Companion** (lobo mecânico com módulos)
 - **Mekanism**: Generators, Tools, MoreMachine, Lasers, Mekanistic Routers, **Turrets** (torretas laser e cercas elétricas)
 - **Modern Industrialization**: Extended Industrialization, Industrialization Overdrive, Tesseract API
-- **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech**, **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
+- **Ender IO** (com Modded Conduits), **Industrial Foregoing** (Souls e MIFA), **Oritech** (com Oritech Things), **Powah**, **PneumaticCraft: Repressurized**, **Actually Additions**, **XyCraft**
 - **Extreme Reactors**, **Draconic Evolution**, **Solar Flux Reborn**, **Generator Galore**, **Iron Generators**, **Flux Networks**, **Dyson Cube Project**
-- **Extended Crafting**, **Hostile Neural Networks**, **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
+- **Extended Crafting**, **Hostile Neural Networks**, **Replication** (replicação de matéria), **Scannable Reforged** (scanner de minérios), **Mining Gadgets**, **Building Gadgets 2**, **QuarryPlus** (Additional Enchanted Miner)
 
 ### Armazenamento e logística
-- **Applied Energistics 2**: ExtendedAE, Advanced AE, MEGA Cells, Expanded AE, AE2WTLib, AppliedFlux, Applied Mekanistics, ME Requester, Polymorphic Energistics, Soulplied Energistics e outros
+- **Applied Energistics 2**: ExtendedAE, Advanced AE, MEGA Cells, Expanded AE, AE2WTLib, AppliedFlux, Applied Mekanistics, ME Requester, Polymorphic Energistics, Soulplied Energistics, Applied Oritech, Recursive AE2 Pattern Provider, Growth Accelerator Tiers e outros
 - **Refined Storage**: Extra Disks, Extra Storage, Cable Tiers, Refined Types, Universal Grid e integrações
 - **SCC (Super Cool Calculator)**: calculadora de receitas e rede de armazenamento com autocrafting
 - **Integrated Dynamics**: Tunnels, Terminals, Crafting, Scripting
@@ -73,7 +73,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **CC: Tweaked** e **Advanced Peripherals**, **More Red** (com compatibilidade CC), **Little Big Redstone**, **Redstone Pen**
 
 ### Agricultura e recursos
-- **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals
+- **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals, Mystical Automation
 - **Agritech: Evolved**, **Productive Metalworks**, **Infinite Water Block**, **Cobblegen Galore**
 - **Ore Hammer**: martelo do início do jogo. Minério bruto vira **2 pós**, e o bloco de minério pego com Toque Suave vira **3 pós**. Vale para ferro, cobre, ouro e o zinco do Create e, por um script do pack, também para estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina, antimônio, irídio, titânio e tungstênio.
 - **Farmer's Delight**, **Farming for Blockheads**
@@ -85,7 +85,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 ### Mundo e exploração
 - **Regions Unexplored** (biomas, com madeiras, flores e plantas novas)
-- **Estruturas:** YUNG's (9 mods e Extras), Moog's (End, Nether, Soaring, Voyager), When Dungeons Arise, ChoiceTheorem's Overhauled Villages, Structory e Towers, Explorify, Underground Villages
+- **Estruturas:** YUNG's (9 mods e Extras), Moog's (End, Nether, Soaring, Voyager), When Dungeons Arise, ChoiceTheorem's Overhauled Villages, Structory e Towers, Explorify, Underground Villages; o **Structurify** ajusta a frequência e a distância de cada uma
 - **Dimensões:** Ad Astra (foguetes, planetas e metais), The Undergarden (subterrânea, com minérios novos) e Compact Machines
 - **Fauna:** **Naturalist** (47 animais reais, como veados, ursos, cobras e pássaros, com comportamento realista), **Critters and Companions** (bichos pequenos e de companhia, vários domesticáveis, como furão, lontra e panda-vermelho), **Spawn** (peixes e vida marinha, dodô, hamster e formigas) e **Ecologics** (caranguejo-do-coco, esquilo e pinguim, além de coqueiros e madeira de azaleia)
 - **Mar e navegação:** **Create: Deep Seas** (submarinos com física, feitos com o Create Aeronautics: lastro, hélice, leme, sonar, oxigênio a bordo; além de velas, âncora, motor de barco e criaturas do abismo), **Small Ships** (navios prontos, com canhões), **When Dungeons Arise: Seven Seas** (navios-estrutura perigosos no oceano) e **Ocean's Delight** (comidas do mar para o Farmer's Delight)
@@ -94,15 +94,15 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Estações:** Serene Seasons (com GlitchCore)
 - **Clima:** Simple Weather, com efeitos visuais de chuva, neve e tempestade mais bonitos
 - **Previsão do tempo:** WeatherForecast, um pequeno painel na tela com o clima atual e o tempo até a próxima mudança. Liga e desliga com **F6**.
-- **Combate:** Simply Swords (lanças, katanas, martelos e armas únicas), além das armas e torretas do Mekanism
+- **Combate:** Simply Swords (lanças, katanas, martelos e armas únicas), além das armas e torretas do Mekanism. O **Training Dummy** serve para testar armas e armaduras.
 - **Armas de tecnologia:** **Mekanism: Weapons** (Meka-Tana, Meka-Bow e Meka-Gun a laser, com módulos como a MekaSuit), além da Minigun do PneumaticCraft e das armas do Draconic Evolution
 
 ### Construção e decoração
-- **Ytones** (blocos futuristas), **Mekanism Additions** (plástico colorido e painéis de luz), **Factory Blocks**, **Create Deco**, **Create Encased**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**
+- **Ytones** (blocos futuristas), **Mekanism Additions** (plástico colorido e painéis de luz), **Factory Blocks**, **Create Deco**, **Create Encased**, **Additional Lights**, **Connected Glass**, **Amendments**, **Universal Sawmill**, **Armor Poser** (poses dos armor stands)
 
 ### Qualidade de vida
 - **JEI**, **Jade**, **Xaero's Minimap e World Map**, **Just Enough Resources**, **Akashic Tome**, **Chunky**, **Easy Villagers**, **Crash Assistant**, **AttributeFix**
-- **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Not Enough Animations**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **Model Gap Fix**, **Cherished Worlds**
+- **Pick Up Notifier**, **Easy Anvils**, **Durability Tooltip**, **Not Enough Animations**, **Punchy!**, **Floating Damage Indicators**, **NetherPortalFix**, **Colorful Hearts**, **Overloaded Armor Bar**, **Bad Wither No Cookie**, **Hey Berry Shut Up**, **Model Gap Fix**, **Cherished Worlds**
 - **Mouse Tweaks**, **Inventory Tweaks Refoxed**, **Inventory Essentials**, **Controlling**, **AppleSkin**, **Gravestone**, **Lootr**, **Comforts**, **Polymorph**, **Simple Backups**
 - **FTB Essentials**: `/sethome`, `/home`, `/back`, `/spawn`, `/rtp` e outros comandos que funcionam sem cheats
 - **FTB Chunks**: no mapa de chunks (**Alt + M**), reivindique a área da base, que fica protegida contra explosões e grief de mobs, e mantenha os chunks carregados (até 25). O minimapa dele fica desligado, porque o pack usa o do Xaero.

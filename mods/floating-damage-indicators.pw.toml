@@ -1,0 +1,13 @@
+name = "Floating Damage Indicators"
+filename = "fdi-neoforge-3.7.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KjuuviMx/versions/4wa1g1Wx/fdi-neoforge-3.7.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "29c9e510e3988f819b93e0b4abfdd0d9c52c67637c0b0dca08e1cc03de67089c648f180e342812edd5970b90b110dc9c7cc285d761dea3b07146916b1037fcd1"
+
+[update]
+[update.modrinth]
+mod-id = "KjuuviMx"
+version = "4wa1g1Wx"

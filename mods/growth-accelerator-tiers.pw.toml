@@ -1,0 +1,13 @@
+name = "Growth Accelerator Tiers"
+filename = "growthacceleratortiers-2.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "355ffb2af8a07f1f58f2647a85a7994380266a13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9212851
+project-id = 1316818

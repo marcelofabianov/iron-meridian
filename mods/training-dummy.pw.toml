@@ -1,0 +1,13 @@
+name = "Training Dummy"
+filename = "trainingdummy-1.9.0+mc21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "054a3cc219cd139c161673e1d6cf41e542031357"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9201477
+project-id = 1650278

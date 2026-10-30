@@ -1,5 +1,36 @@
 # Changelog
 
+## 1.1.16 — em preparação
+
+### Mods novos
+- **Punchy!**: as mãos aparecem em primeira pessoa, mesmo vazias, com animações para ferramentas, armas e itens. **I** inspeciona o item na mão, e **Shift + F8** abre o menu do mod.
+- **Floating Damage Indicators**: números de dano flutuam sobre o mob atingido, com cores por tipo de dano, e também aparece o dano que você recebe.
+- **Training Dummy**: boneco de treino para testar armas e armaduras.
+- **Replication**: replica itens a partir de matéria (usa o Titanium).
+- **Scannable Reforged**: scanner portátil de minérios, fluidos, baús e mobs.
+- **Oritech Things** e **Applied Oritech**: extras para o Oritech e a integração dele com o AE2.
+- **Recursive AE2 Pattern Provider** e **Growth Accelerator Tiers**: geração automática de padrões intermediários e níveis novos do Growth Accelerator do AE2.
+- **Mystical Automation**: máquinas para automatizar o Mystical Agriculture.
+- **Structurify**: ajusta a frequência, a distância e os biomas de cada estrutura.
+- **Armor Poser**: tela para posicionar os armor stands.
+
+### Atualizações
+- **18 mods** para a versão estável mais nova: AllTheLeaks 1.1.14, Amendments 2.2.5, Create Encased 1.10.0-fix1, CreativeCore 2.13.52, Deimos 2.8, FTB Chunks 2101.1.23, FTB Library 2101.1.39, FTB XMod Compat 21.1.14, GuideME 21.1.22, Keybind Atlas 2.1.1, KotlinLangForge 2.17.0, PneumaticCraft: Repressurized 8.2.24, Puzzles Lib 21.1.66, Sophisticated Backpacks 3.26.18, Sophisticated Core 1.5.21, Sophisticated Storage 1.6.11, Sophisticated Storage in Motion 0.10.37 e SuperMartijn642's Core Lib 1.1.26.
+- **ExtendedAE** 2.2.35 → **2.2.42**. A fonte passa a ser o CurseForge, porque o Modrinth parou na 2.2.35, e o Applied Oritech pede a 2.2.36 ou mais nova.
+
+### Teclas
+- **F4:** abre a **calculadora do SCC** (era Alt + C). Dentro das telas, o SCC ignora o Alt, e o C abria a calculadora enquanto se digitava nos campos do Logistics Network e do Flux Networks.
+- **Punchy!:** o menu fica em **Shift + F8**, porque o F8 é o HUD do Mekanism. As 14 teclas de ajuste fino de animação ficam sem tecla, porque batiam com o R, o F6, o F7, as setas e o teclado numérico.
+- Valem para instalações novas. Em uma instância que já existe, troque em Opções → Controles.
+
+### Testados e descartados
+- **Collapsible Groups**: incompatível com o JEI 19.64, que não iniciava ao entrar no mundo.
+- **Ender IO: Evolution**: exigiria mais um addon não oficial, o Ender IO: Conduit Optimizer.
+
+### Outros
+- O pack passa a ter **418 mods**.
+- Guia dos mods, lista de mods, mapa de teclas, guia de comandos, mods removidos, README e INSTALL atualizados.
+
 ## 1.1.15 — 27/10/2026
 
 ### Troca de mods

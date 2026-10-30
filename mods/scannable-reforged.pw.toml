@@ -1,0 +1,13 @@
+name = "Scannable Reforged"
+filename = "ScannableReforged-MC1.21.1-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7339c7fd5b08edad256581eda3a1bc36b8053e1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8229499
+project-id = 1565741

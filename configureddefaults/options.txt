@@ -22,7 +22,7 @@ key_key.toolbelt.open:key.keyboard.r
 key_key.curios.open.desc:key.keyboard.g
 key_simplemagnets.keys.toggle:key.keyboard.h
 key_crafting_on_a_stick.key.open_curios:key.keyboard.v
-key_key.scc.open:key.keyboard.c:ALT
+key_key.scc.open:key.keyboard.f4
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.mekanism.mode:key.keyboard.n
 key_key.enderio.toggle_magnet:key.keyboard.m:SHIFT
@@ -76,3 +76,18 @@ key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 resourcePacks:["vanilla","mod_resources","file/Vanilla-Experience-Plus-2.0.zip","file/Fancy Crops v1.3.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip"]
 key_key.aeronautics_curios_compat.remote_use:key.keyboard.unknown
 key_key.mekanismadditions.voice:key.keyboard.unknown
+key_key.punchy.tuning.axis_x:key.keyboard.unknown
+key_key.punchy.tuning.axis_y:key.keyboard.unknown
+key_key.punchy.tuning.axis_z:key.keyboard.unknown
+key_key.punchy.tuning.toggle_mode:key.keyboard.unknown
+key_key.punchy.tuning.target_arm_right:key.keyboard.unknown
+key_key.punchy.tuning.target_arm_left:key.keyboard.unknown
+key_key.punchy.tuning.target_item_right:key.keyboard.unknown
+key_key.punchy.tuning.target_item_left:key.keyboard.unknown
+key_key.punchy.tuning.increase:key.keyboard.unknown
+key_key.punchy.tuning.decrease:key.keyboard.unknown
+key_key.punchy.tuning.reset:key.keyboard.unknown
+key_key.punchy.tuning.print:key.keyboard.unknown
+key_key.punchy.tuning.save_session:key.keyboard.unknown
+key_key.punchy.tuning.toggle_pivot:key.keyboard.unknown
+key_key.punchy.open_main_menu:key.keyboard.f8:SHIFT

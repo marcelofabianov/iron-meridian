@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.15",
+  "pack_version": "1.1.16",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -641,15 +641,15 @@
       "name": "AllTheLeaks (Memory Leak Fix)",
       "source": "curseforge",
       "project_id": "1091339",
-      "version_id": "8943912",
-      "filename": "alltheleaks-1.1.13+1.21.1-neoforge.jar",
+      "version_id": "9360134",
+      "filename": "alltheleaks-1.1.14-1.21.1-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "ea11d23e0f8c48544a269dc7c56f6593cb1cafe2"
+        "value": "9466eee51e9af6d3dd65d1dc164cd8ea98df1fcc"
       },
       "mod_ids": {
-        "alltheleaks": "1.1.13+1.21.1-neoforge"
+        "alltheleaks": "1.1.14+1.21.1-neoforge"
       },
       "dependencies": [
         {
@@ -793,15 +793,15 @@
       "name": "Amendments",
       "source": "modrinth",
       "project_id": "6iTJugQR",
-      "version_id": "OLV6Q846",
-      "filename": "amendments-1.21-2.2.2-neoforge.jar",
+      "version_id": "Fjkt65h2",
+      "filename": "amendments-1.21-2.2.5-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "1e10793368d1fd532cbcce5795d4c5590c469eb5b79ce93f98f5158e54667ee685e3492e73712cc5bd9481fed3aa426a8d8ecd7885c15fca40742ca97c8b283e"
+        "value": "21bee4729e0e761e746344fb58e79f15adf4d84097027bdf7e45d1d2ed3f09e644cdf8f694b16be63b059f0db6330590ccb18457f813778f09c2b6eb00ae3076"
       },
       "mod_ids": {
-        "amendments": "1.21-2.2.2"
+        "amendments": "1.21-2.2.5"
       },
       "dependencies": [
         {
@@ -1020,6 +1020,49 @@
       "pw_file": "mods/applied-mekanistics.pw.toml"
     },
     {
+      "name": "Applied Oritech",
+      "source": "curseforge",
+      "project_id": "1686167",
+      "version_id": "8944224",
+      "filename": "applied_oritech-1.0.4+1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "31b39d0440b77dc6b59a9090586cd8e52944c196"
+      },
+      "mod_ids": {
+        "applied_oritech": "1.0.4+1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        },
+        {
+          "mod_id": "oritech",
+          "type": "required",
+          "range": "[1.2.12,)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "required",
+          "range": "[19.2.0,)"
+        },
+        {
+          "mod_id": "extendedae",
+          "type": "optional",
+          "range": "[1.21-2.2.36-neoforge,)"
+        },
+        {
+          "mod_id": "appmek",
+          "type": "optional",
+          "range": "[1.6.3,)"
+        }
+      ],
+      "pw_file": "mods/applied-oritech.pw.toml"
+    },
+    {
       "name": "Architectury API",
       "source": "modrinth",
       "project_id": "lhGA9TYQ",
@@ -1041,6 +1084,29 @@
         }
       ],
       "pw_file": "mods/architectury-api.pw.toml"
+    },
+    {
+      "name": "Armor Poser",
+      "source": "modrinth",
+      "project_id": "PFwYNrHb",
+      "version_id": "KlLmtvb1",
+      "filename": "ArmorPoser-neoforge-1.21.1-6.2.4.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "7ec92a95f818795f515b8ff8b41fba670936a5b420c72b5d7eb74a8879d0afc805c54c57c9a22dc5fc053b4f898231724df443c93d22cfd85cfcf4133a11ee6c"
+      },
+      "mod_ids": {
+        "armorposer": "6.2.4"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.143,)"
+        }
+      ],
+      "pw_file": "mods/armor-poser.pw.toml"
     },
     {
       "name": "Athena",
@@ -3125,15 +3191,15 @@
       "name": "Create Encased",
       "source": "modrinth",
       "project_id": "hSSqdyU1",
-      "version_id": "RrwdLx9S",
-      "filename": "Create Encased-1.21.1-1.10.0.jar",
+      "version_id": "pld6Eng9",
+      "filename": "Create Encased-1.21.1-1.10.0-fix1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "eea8426ec62e437bd313966b7b7363d96a8a64bd511949a06bc71a134bbce2834c7057b000f91ca8d791525e0de7b095232b5d91510796472897a6a0bd371590"
+        "value": "b6b35dd0c7a8d332f3a5a98404c65c7b95b08c1cb09b18eafae3b7d303c04090fbcf6a2247273c214ef6c263c43524e17ca5bf0f865657495501a07e18174e02"
       },
       "mod_ids": {
-        "createcasing": "1.10.0"
+        "createcasing": "1.10.0-fix1"
       },
       "dependencies": [
         {
@@ -3741,15 +3807,15 @@
       "name": "CreativeCore",
       "source": "modrinth",
       "project_id": "OsZiaDHq",
-      "version_id": "vRMtFt35",
-      "filename": "CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar",
+      "version_id": "JS0K93bG",
+      "filename": "CreativeCore_NEOFORGE_v2.13.52_mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "864301fa1229511203fc291e9b683db5af3cb4aa4faed0ef1eb54112491b3c97f9b5006b42d41fb2c169f7fc93ad13459f5079c6ffc73dc4b145ee61b7687997"
+        "value": "4c4e6ba154875ad5b944a7ccbf9a0b298c43382c35f00bbde61876d4d03115b43678a463b90cc134ebb766615e144217588f4a10fab8eb0a485adbe07b5d102c"
       },
       "mod_ids": {
-        "creativecore": "2.13.51"
+        "creativecore": "2.13.52"
       },
       "dependencies": [
         {
@@ -3985,15 +4051,15 @@
       "name": "Deimos",
       "source": "modrinth",
       "project_id": "WQaxNzFg",
-      "version_id": "COaBPCdu",
-      "filename": "deimos-1.21.1-neoforge-2.7.jar",
+      "version_id": "N3YOb3xt",
+      "filename": "deimos-1.21.1-neoforge-2.8.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "a70fc4dfe594d10367961b227e4b22e1c69173287f012837130d177b6393b2b7e7293b73d1fd4f0345639ed9f0c8090f875177bad2138b787597faf47ec16e8d"
+        "value": "91da94cf88e77695ff2724bb109f69a0ef3672376eeafd052cab8a4898a03748d3b468a48354f06595a4a8f798eeb05c27f8048064124632ba983bea0bce06b9"
       },
       "mod_ids": {
-        "deimos": "2.7"
+        "deimos": "2.8"
       },
       "dependencies": [
         {
@@ -4703,6 +4769,70 @@
       "pw_file": "mods/equipment-compare.pw.toml"
     },
     {
+      "name": "ExtendedAE",
+      "source": "curseforge",
+      "project_id": "892005",
+      "version_id": "9305327",
+      "filename": "ExtendedAE-1.21-2.2.42-neoforge.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "dc4c1e06d3b844261744896bf0173ec6780d565d"
+      },
+      "mod_ids": {
+        "extendedae": "1.21-2.2.42-neoforge",
+        "ae2wtlib_api": "19.2.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.194,)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "required",
+          "range": "[19.2.8,)"
+        },
+        {
+          "mod_id": "guideme",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "glodium",
+          "type": "required",
+          "range": "[1.21-2.0-neoforge,)"
+        },
+        {
+          "mod_id": "ae2wtlib_api",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "ae2wtlib",
+          "type": "optional",
+          "range": "[19.2.0,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "required",
+          "range": "[19.1.2-beta,20.0.0)"
+        },
+        {
+          "mod_id": "ae2wtlib",
+          "type": "incompatible",
+          "range": "(,19.1.0-alpha)"
+        }
+      ],
+      "pw_file": "mods/ex-pattern-provider.pw.toml"
+    },
+    {
       "name": "Expanded AE",
       "source": "curseforge",
       "project_id": "1213351",
@@ -4811,70 +4941,6 @@
       },
       "dependencies": [],
       "pw_file": "mods/explorify.pw.toml"
-    },
-    {
-      "name": "Extended AE",
-      "source": "modrinth",
-      "project_id": "JiOqfoFM",
-      "version_id": "bC302UUP",
-      "filename": "ExtendedAE-1.21-2.2.35-neoforge.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "e5b76a50802087d999bf6c113bc635e8ade9f20e06f4d3276a144f4eaa3090fc3b6c67b9b6a1f7d0d036e48e69f601114a0cc92c5a8d45953f895718f806348c"
-      },
-      "mod_ids": {
-        "extendedae": "1.21-2.2.35-neoforge",
-        "ae2wtlib_api": "19.2.0"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.194,)"
-        },
-        {
-          "mod_id": "ae2",
-          "type": "required",
-          "range": "[19.2.8,)"
-        },
-        {
-          "mod_id": "guideme",
-          "type": "required",
-          "range": "*"
-        },
-        {
-          "mod_id": "glodium",
-          "type": "required",
-          "range": "[1.21-2.0-neoforge,)"
-        },
-        {
-          "mod_id": "ae2wtlib_api",
-          "type": "required",
-          "range": "*"
-        },
-        {
-          "mod_id": "ae2wtlib",
-          "type": "optional",
-          "range": "[19.2.0,)"
-        },
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "*"
-        },
-        {
-          "mod_id": "ae2",
-          "type": "required",
-          "range": "[19.1.2-beta,20.0.0)"
-        },
-        {
-          "mod_id": "ae2wtlib",
-          "type": "incompatible",
-          "range": "(,19.1.0-alpha)"
-        }
-      ],
-      "pw_file": "mods/extended-ae.pw.toml"
     },
     {
       "name": "Extended Crafting",
@@ -5393,6 +5459,29 @@
       "pw_file": "mods/flickerfix.pw.toml"
     },
     {
+      "name": "Floating Damage Indicators",
+      "source": "modrinth",
+      "project_id": "KjuuviMx",
+      "version_id": "4wa1g1Wx",
+      "filename": "fdi-neoforge-3.7.4+mc1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "29c9e510e3988f819b93e0b4abfdd0d9c52c67637c0b0dca08e1cc03de67089c648f180e342812edd5970b90b110dc9c7cc285d761dea3b07146916b1037fcd1"
+      },
+      "mod_ids": {
+        "floatingdamageindicators": "3.7.4+mc1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        }
+      ],
+      "pw_file": "mods/floating-damage-indicators.pw.toml"
+    },
+    {
       "name": "Flux Networks",
       "source": "curseforge",
       "project_id": "248020",
@@ -5434,15 +5523,15 @@
       "name": "FTB Chunks (NeoForge)",
       "source": "curseforge",
       "project_id": "314906",
-      "version_id": "8791113",
-      "filename": "ftb-chunks-neoforge-2101.1.22.jar",
+      "version_id": "9374151",
+      "filename": "ftb-chunks-neoforge-2101.1.23.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "a53f1bb7965c6954a348d4f321f03d3971ad503f"
+        "value": "a99a51ef8e413af26ee32c4d33a11526fccdd1d1"
       },
       "mod_ids": {
-        "ftbchunks": "2101.1.22"
+        "ftbchunks": "2101.1.23"
       },
       "dependencies": [
         {
@@ -5453,12 +5542,12 @@
         {
           "mod_id": "architectury",
           "type": "required",
-          "range": "[13.0.8,)"
+          "range": "[13.0.11,)"
         },
         {
           "mod_id": "ftblibrary",
           "type": "required",
-          "range": "[2101.1.34,)"
+          "range": "[2101.1.39,)"
         },
         {
           "mod_id": "ftbteams",
@@ -5558,15 +5647,15 @@
       "name": "FTB Library (NeoForge)",
       "source": "curseforge",
       "project_id": "404465",
-      "version_id": "9008089",
-      "filename": "ftb-library-neoforge-2101.1.37.jar",
+      "version_id": "9350706",
+      "filename": "ftb-library-neoforge-2101.1.39.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "b6e503587afcd678ec257e4abdc6362ff18c2fef"
+        "value": "ff852d99ade215fb892369687d0634ecf0bca6ae"
       },
       "mod_ids": {
-        "ftblibrary": "2101.1.37"
+        "ftblibrary": "2101.1.39"
       },
       "dependencies": [
         {
@@ -5577,7 +5666,12 @@
         {
           "mod_id": "architectury",
           "type": "required",
-          "range": "[13.0.6,)"
+          "range": "[13.0.11,)"
+        },
+        {
+          "mod_id": "ftbxmodcompat",
+          "type": "optional",
+          "range": "[21.1.14,)"
         }
       ],
       "pw_file": "mods/ftb-library-forge.pw.toml"
@@ -5657,15 +5751,15 @@
       "name": "FTB XMod Compat",
       "source": "curseforge",
       "project_id": "889915",
-      "version_id": "9267870",
-      "filename": "ftb-xmod-compat-neoforge-21.1.13.jar",
+      "version_id": "9344504",
+      "filename": "ftb-xmod-compat-neoforge-21.1.14.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "e4a88bb2eae8f98c6d25ca861175aa515e705d28"
+        "value": "8dc3db7b8aa93eabac54237c5d53bfea15f92ba5"
       },
       "mod_ids": {
-        "ftbxmodcompat": "21.1.13"
+        "ftbxmodcompat": "21.1.14"
       },
       "dependencies": [
         {
@@ -5681,7 +5775,7 @@
         {
           "mod_id": "ftblibrary",
           "type": "required",
-          "range": "[2101.1.34,)"
+          "range": "[2101.1.38,)"
         },
         {
           "mod_id": "ftbquests",
@@ -5697,6 +5791,11 @@
           "mod_id": "ftbranks",
           "type": "optional",
           "range": "[2101.1.2,)"
+        },
+        {
+          "mod_id": "ftbeconomy",
+          "type": "optional",
+          "range": "[21.1.1-SNAPSHOT,)"
         },
         {
           "mod_id": "jei",
@@ -6005,18 +6104,46 @@
       "pw_file": "mods/gravitational-modulating-additional-unit.pw.toml"
     },
     {
+      "name": "Growth Accelerator Tiers",
+      "source": "curseforge",
+      "project_id": "1316818",
+      "version_id": "9212851",
+      "filename": "growthacceleratortiers-2.0.1+1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "355ffb2af8a07f1f58f2647a85a7994380266a13"
+      },
+      "mod_ids": {
+        "growthacceleratortiers": "2.0.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.250,)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "required",
+          "range": "[19.2.17,)"
+        }
+      ],
+      "pw_file": "mods/growth-accelerator-tiers.pw.toml"
+    },
+    {
       "name": "GuideME",
       "source": "modrinth",
       "project_id": "Ck4E7v7R",
-      "version_id": "mUlgxNj8",
-      "filename": "guideme-21.1.20.jar",
+      "version_id": "QeYKsstN",
+      "filename": "guideme-21.1.22.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "5e87550a56f97a23996b4c2e06a067a985f9dbbb3a79dd07a302fab275ff24637ed875e50eeafce030dd828799d323e50d86cc2509d53011069c895886a1cbdb"
+        "value": "2a7b29143c1bef18375f221c337c6e744d04b79bc3cc10cadac46b7d6bb217ad78c51a3c33cd802b221cc7b38ff04a3f7064bd63d292e53bf9f3e09047eeda24"
       },
       "mod_ids": {
-        "guideme": "21.1.20"
+        "guideme": "21.1.22"
       },
       "dependencies": [
         {
@@ -7256,15 +7383,15 @@
       "name": "Keybind Atlas",
       "source": "modrinth",
       "project_id": "fokFjwwh",
-      "version_id": "zT1hSwL5",
-      "filename": "KeybindAtlas-v2.0.0-mc1.21.1-neoforge.jar",
+      "version_id": "EVcbkSpX",
+      "filename": "KeybindAtlas-v2.1.1-mc1.21.1-neoforge.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "8fd5133a820202fc73ec02a49fcfa1981c0cb21b871b278c25a75c9da5b203d34d16912f8ed3475fb515470c54a0218114bf77c4311e13bcc63d2349376988f9"
+        "value": "41aff64521288192af39fa08b8fa276f7fce0c78faa924dd0a9b130c5d0ce7c8be84c21639b8a57d1e5730a5e06322247c4bc5dc22b5ce0b7fc7e62ff856a764"
       },
       "mod_ids": {
-        "keybindatlas": "2.0.0"
+        "keybindatlas": "2.1.1"
       },
       "dependencies": [
         {
@@ -7387,15 +7514,15 @@
       "name": "KotlinLangForge",
       "source": "modrinth",
       "project_id": "1vrSzlao",
-      "version_id": "CSuMh1dl",
-      "filename": "KotlinLangForge-2.16.0-k2.4.21-3.0+neoforge.jar",
+      "version_id": "fIh9AP9s",
+      "filename": "KotlinLangForge-2.17.0-k2.4.21-3.0+neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ad3d9d986c794c1859759b92aed9ee7d37c32597e581244defe0f4965deba8d84a6f48b92fd58d346c66ce76eedc7a80bf2600dea80499bafa196196c4d12419"
+        "value": "b16acdc0caf602db502b92dab043162e9250c4c62a8a69a79300558023650f559cd3360fdfe798e50fb09584b7428140a1cd4d277c21ddfbda36e57cfb3b736b"
       },
       "mod_ids": {
-        "klf": "2.16.0-k2.4.21-3.0+neoforge"
+        "klf": "2.17.0-k2.4.21-3.0+neoforge"
       },
       "dependencies": [],
       "pw_file": "mods/kotlin-lang-forge.pw.toml"
@@ -8770,6 +8897,39 @@
       "pw_file": "mods/mystical-agriculture.pw.toml"
     },
     {
+      "name": "Mystical Automation",
+      "source": "modrinth",
+      "project_id": "wtZsRhqk",
+      "version_id": "HdlBF75n",
+      "filename": "MysticalAutomation-1.21.1-1.0.8.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "5f00c98e399b3b99fd5fb1db4e89b4ee48d61d4eeeb9cfe3adb23e58f51e603ad58e884b6dde9c7ff2c8baec82c3a668ad50553a8c421798fb6e1ad10e784189"
+      },
+      "mod_ids": {
+        "mysticalautomation": "1.0.8"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.0-beta,)"
+        },
+        {
+          "mod_id": "cucumber",
+          "type": "required",
+          "range": "[8.0.16,)"
+        },
+        {
+          "mod_id": "mysticalagriculture",
+          "type": "required",
+          "range": "[8.0.19,)"
+        }
+      ],
+      "pw_file": "mods/mystical-automation.pw.toml"
+    },
+    {
       "name": "Mystical Customization",
       "source": "modrinth",
       "project_id": "lNK9A4rh",
@@ -9093,6 +9253,34 @@
       "pw_file": "mods/ore-hammer.pw.toml"
     },
     {
+      "name": "Oritech Things",
+      "source": "modrinth",
+      "project_id": "C7tBAibK",
+      "version_id": "Ol9VrRCt",
+      "filename": "oritechthings-0.0.48.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "a6276ba6e9e57c63d97ba520f37e798cf3c32e08ecbf418c27dc26c2a9b4b0cdc90302244a4ead09d81c56ca65946ca0a69a527c6d571cd63c63c201b881544f"
+      },
+      "mod_ids": {
+        "oritechthings": "0.0.48"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "oritech",
+          "type": "required",
+          "range": "[1.2.0,)"
+        }
+      ],
+      "pw_file": "mods/oritech-things.pw.toml"
+    },
+    {
       "name": "Oritech",
       "source": "modrinth",
       "project_id": "4sYI62kA",
@@ -9285,15 +9473,15 @@
       "name": "PneumaticCraft: Repressurized",
       "source": "modrinth",
       "project_id": "ncAcdgk7",
-      "version_id": "TNzeuLH3",
-      "filename": "pneumaticcraft-repressurized-8.2.23+mc1.21.1.jar",
+      "version_id": "C6xCLJPt",
+      "filename": "pneumaticcraft-repressurized-8.2.24+mc1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "1863243c4e76ecdef60c541e332808df48f50e01d7f75f5b1bd52e38f086925aa715a199775cf885746e3869cfc78ee5ac463fd33a1ac55cccab5394d19e2bfa"
+        "value": "e5610fba9678de94866ca7d934d748c4a7bdca1f199e4cdd6b983947014a9cadeaa837db16491e5496844041b0b2cadbf68f48c37e5cf25d09f6262014328f45"
       },
       "mod_ids": {
-        "pneumaticcraft": "8.2.23"
+        "pneumaticcraft": "8.2.24"
       },
       "dependencies": [
         {
@@ -9572,18 +9760,41 @@
       "pw_file": "mods/productive-metalworks.pw.toml"
     },
     {
+      "name": "Punchy!",
+      "source": "modrinth",
+      "project_id": "8aoMKplv",
+      "version_id": "83nCNSX4",
+      "filename": "punchy-3.0-neoforge-1.21.1-birthday.jar",
+      "side": "client",
+      "hash": {
+        "format": "sha512",
+        "value": "524eedc82561e50fd0e48a36e97e274b200f7843be5f41e0e3351522ed0ad8e8176b2872afd0a9a5ce11349725304d71e6efde2793e5786957a6de5fb5d968f0"
+      },
+      "mod_ids": {
+        "punchy": "3.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.229,)"
+        }
+      ],
+      "pw_file": "mods/punchy-fpa.pw.toml"
+    },
+    {
       "name": "Puzzles Lib",
       "source": "modrinth",
       "project_id": "QAGBst4M",
-      "version_id": "kiX1lfse",
-      "filename": "puzzleslib-v21.1.65-mc1.21.1+neoforge.jar",
+      "version_id": "kmN5PWk9",
+      "filename": "puzzleslib-v21.1.66-mc1.21.1+neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "9ed93c75df6f61e83945944a036304a974a3e09eab34acbe9edbb499a575396dbc789ddc2a81174168a77113b09eef2cdfcb493728f73c6081da3f27630bdea2"
+        "value": "d265016586d39d7e0ac63b064fcad6fd64df79ce885ae81aa1d7a51ba32b4c6849c4b3021b563667eb392599512fe193adfa52b40d99a101ab411dd0b5c5d484"
       },
       "mod_ids": {
-        "puzzleslib": "21.1.65"
+        "puzzleslib": "21.1.66"
       },
       "dependencies": [
         {
@@ -9680,6 +9891,59 @@
         }
       ],
       "pw_file": "mods/recipe-essentials-forge-fabric.pw.toml"
+    },
+    {
+      "name": "Recursive AE2 Pattern Provider",
+      "source": "curseforge",
+      "project_id": "1337787",
+      "version_id": "9345159",
+      "filename": "recursiveae2patternprovider-1.0.14.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "7f977eabc12c891389203a586e7cc0b96ff954b3"
+      },
+      "mod_ids": {
+        "recursiveae2patternprovider": "1.0.14"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.238,)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "required",
+          "range": "[19.0.0,)"
+        },
+        {
+          "mod_id": "guideme",
+          "type": "optional",
+          "range": "[21.0.0,)"
+        },
+        {
+          "mod_id": "wcwt",
+          "type": "optional",
+          "range": ""
+        },
+        {
+          "mod_id": "extendedae",
+          "type": "optional",
+          "range": ""
+        },
+        {
+          "mod_id": "advanced_ae",
+          "type": "optional",
+          "range": ""
+        },
+        {
+          "mod_id": "extendedae_plus",
+          "type": "optional",
+          "range": ""
+        }
+      ],
+      "pw_file": "mods/recursive-ae2-pattern-provider.pw.toml"
     },
     {
       "name": "Redstone Pen",
@@ -9924,6 +10188,29 @@
         }
       ],
       "pw_file": "mods/regions-unexplored.pw.toml"
+    },
+    {
+      "name": "Replication",
+      "source": "curseforge",
+      "project_id": "638351",
+      "version_id": "7662870",
+      "filename": "Replication-1.21.1-1.2.7.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "bb433ec94394e960ba26fc2e7fd5537fcb7fbe50"
+      },
+      "mod_ids": {
+        "replication": "1.21.1-1.2.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "titanium",
+          "type": "required",
+          "range": "[4.0.32,)"
+        }
+      ],
+      "pw_file": "mods/replication.pw.toml"
     },
     {
       "name": "Resourceful Config",
@@ -10247,6 +10534,34 @@
       "mod_ids": {},
       "dependencies": [],
       "pw_file": "mods/scalable-cats-force.pw.toml"
+    },
+    {
+      "name": "Scannable Reforged",
+      "source": "curseforge",
+      "project_id": "1565741",
+      "version_id": "8229499",
+      "filename": "ScannableReforged-MC1.21.1-neoforge-1.1.2.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "7339c7fd5b08edad256581eda3a1bc36b8053e1e"
+      },
+      "mod_ids": {
+        "scannable": "1.1.2"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "architectury",
+          "type": "required",
+          "range": "[13.0.8,)"
+        }
+      ],
+      "pw_file": "mods/scannable-reforged.pw.toml"
     },
     {
       "name": "SCC - Super Cool Calculator",
@@ -10859,21 +11174,21 @@
       "name": "Sophisticated Backpacks",
       "source": "curseforge",
       "project_id": "422301",
-      "version_id": "9323241",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.15.2227.jar",
+      "version_id": "9373555",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.18.2235.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "0aaf0396936537df5a3fce8905fb162a93cac11d"
+        "value": "5acbe7c23a88337376587aa8bd9109bd49c326b2"
       },
       "mod_ids": {
-        "sophisticatedbackpacks": "3.26.15"
+        "sophisticatedbackpacks": "3.26.18"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.18,)"
+          "range": "[1.5.21,)"
         },
         {
           "mod_id": "neoforge",
@@ -10887,15 +11202,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9323125",
-      "filename": "sophisticatedcore-1.21.1-1.5.18.2431.jar",
+      "version_id": "9373462",
+      "filename": "sophisticatedcore-1.21.1-1.5.21.2439.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "77c351a31872abc8e3f54928250e56cb2b5dc632"
+        "value": "e3755e15ab7a1603bc13ed3e077c77bf9c48011c"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.18"
+        "sophisticatedcore": "1.5.21"
       },
       "dependencies": [
         {
@@ -10953,21 +11268,21 @@
       "name": "Sophisticated Storage in Motion",
       "source": "modrinth",
       "project_id": "6vtFbyaJ",
-      "version_id": "cl7WRCnV",
-      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.36.381.jar",
+      "version_id": "4jzMvbSf",
+      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.37.390.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "8504c8f0e2179c8860f126fa1a52cafd7f929531ea95d447e1f58f78bd123e2f9aacb7116156fa0f67ec878f7d108eeba8941115cf8b5cb864447b4df1e69b55"
+        "value": "d5a9a00249d4213442bd76591a7e1f480f12442ace07480fb7d66542d866c39b0f17c7aa398de067f4afe712c68130cabf06be3828438c1447ec8452e1cd1e3d"
       },
       "mod_ids": {
-        "sophisticatedstorageinmotion": "0.10.36"
+        "sophisticatedstorageinmotion": "0.10.37"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedstorage",
           "type": "required",
-          "range": "[1.6.3,)"
+          "range": "[1.6.11,)"
         },
         {
           "mod_id": "jei",
@@ -10986,21 +11301,21 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9296117",
-      "filename": "sophisticatedstorage-1.21.1-1.6.9.2199.jar",
+      "version_id": "9373854",
+      "filename": "sophisticatedstorage-1.21.1-1.6.11.2211.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "44cc71db63e1366798278eacf06f3fff5e3306ad"
+        "value": "3e4aa60db0157b45bb967aa5fc956ffa81e5859e"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.9"
+        "sophisticatedstorage": "1.6.11"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.12,)"
+          "range": "[1.5.21,)"
         },
         {
           "mod_id": "jei",
@@ -11208,6 +11523,34 @@
       "pw_file": "mods/structure-essentials-forge-fabric.pw.toml"
     },
     {
+      "name": "Structurify - Structure Control",
+      "source": "modrinth",
+      "project_id": "yz7AM2zx",
+      "version_id": "KDqZzIc2",
+      "filename": "structurify-neoforge-2.0.43+mc1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "2a7ee8d9776c9d9557b0de931d9680e3b99b79b0648799f0314a97e2a10067e05fe0ae8a7059cb53a68e1786e057d2d37dcd6bbaaca6f688f22ebb31b057d2e5"
+      },
+      "mod_ids": {
+        "structurify": "2.0.43"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "*"
+        },
+        {
+          "mod_id": "yet_another_config_lib_v3",
+          "type": "required",
+          "range": "[3.8.1+1.21.1,)"
+        }
+      ],
+      "pw_file": "mods/structurify.pw.toml"
+    },
+    {
       "name": "Super Factory Manager",
       "source": "modrinth",
       "project_id": "aecUorJQ",
@@ -11262,15 +11605,15 @@
       "name": "SuperMartijn642's Core Lib",
       "source": "modrinth",
       "project_id": "rOUBggPv",
-      "version_id": "OG6Edgmm",
-      "filename": "supermartijn642corelib-1.1.25-neoforge-mc1.21.jar",
+      "version_id": "HGyYs7Z4",
+      "filename": "supermartijn642corelib-1.1.26-neoforge-mc1.21.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "c9c4f22ed1657da646331f519e5d40495cc7e92a6683800691823dfcaf858973c8f202285322c095ebeca245c6a512aa8edf83a97c8a65be0080f9b176f5c2e2"
+        "value": "fa430e835175fe46a11fc2e2cf9a670cddd325ad6960245378b0adbdbfc9f45756e09e3a5f1a29b9f7c5be6f3a3498af13fd36d3bd5a4cca4549bf0040311bc7"
       },
       "mod_ids": {
-        "supermartijn642corelib": "1.1.25"
+        "supermartijn642corelib": "1.1.26"
       },
       "dependencies": [
         {
@@ -11545,6 +11888,34 @@
         }
       ],
       "pw_file": "mods/torchmaster.pw.toml"
+    },
+    {
+      "name": "Training Dummy",
+      "source": "curseforge",
+      "project_id": "1650278",
+      "version_id": "9201477",
+      "filename": "trainingdummy-1.9.0+mc21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "054a3cc219cd139c161673e1d6cf41e542031357"
+      },
+      "mod_ids": {
+        "trainingdummy": "1.9.0+mc21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.244,)"
+        },
+        {
+          "mod_id": "curios",
+          "type": "optional",
+          "range": "[0,)"
+        }
+      ],
+      "pw_file": "mods/training-dummy.pw.toml"
     },
     {
       "name": "Transfer Labels",
