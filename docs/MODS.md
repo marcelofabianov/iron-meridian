@@ -214,7 +214,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 206 | Industrialization Overdrive | `industrialization_overdrive-1.14.0+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/FjBGB4sU) |
 | 207 | Infinite Water Block | `infinitewaterblock-1.0-SNAPSHOT.jar` | [Modrinth](https://modrinth.com/mod/BLE1Vhak) |
 | 208 | Integrated Crafting | `integratedcrafting-1.21.1-neoforge-1.8.1.jar` | [CurseForge](https://www.curseforge.com/projects/287357) |
-| 209 | Integrated Dynamics | `integrateddynamics-1.21.1-neoforge-1.38.1.jar` | [CurseForge](https://www.curseforge.com/projects/236307) |
+| 209 | Integrated Dynamics | `integrateddynamics-1.21.1-neoforge-1.38.2.jar` | [CurseForge](https://www.curseforge.com/projects/236307) |
 | 210 | Integrated Scripting | `integratedscripting-1.21.1-neoforge-1.0.27.jar` | [CurseForge](https://www.curseforge.com/projects/889785) |
 | 211 | Integrated Terminals | `integratedterminals-1.21.1-neoforge-1.11.1.jar` | [CurseForge](https://www.curseforge.com/projects/295910) |
 | 212 | Integrated Tunnels | `integratedtunnels-1.21.1-neoforge-1.13.0.jar` | [CurseForge](https://www.curseforge.com/projects/251389) |
@@ -317,7 +317,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 309 | Prickle | `prickle-neoforge-1.21.1-21.1.11.jar` | [Modrinth](https://modrinth.com/mod/aaRl8GiW) |
 | 310 | Prism | `Prism-1.21.1-neoforge-1.0.11.jar` | [Modrinth](https://modrinth.com/mod/1OE8wbN0) |
 | 311 | Productive Metalworks | `productivemetalworks-1.21.1-1.15.1.jar` | [CurseForge](https://www.curseforge.com/projects/1184570) |
-| 312 | Punchy! | `punchy-3.0-neoforge-1.21.1-birthday.jar` | [Modrinth](https://modrinth.com/mod/8aoMKplv) |
+| 312 | Punchy! | `punchy-3.0a-neoforge-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/8aoMKplv) |
 | 313 | Puzzles Lib | `puzzleslib-v21.1.66-mc1.21.1+neoforge.jar` | [Modrinth](https://modrinth.com/mod/QAGBst4M) |
 | 314 | Pylons | `pylons-1.21.1-5.4.2.jar` | [Modrinth](https://modrinth.com/mod/A82glthi) |
 | 315 | Ranged Pumps | `rangedpumps-1.3.0.jar` | [CurseForge](https://www.curseforge.com/projects/247496) |
@@ -362,12 +362,12 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 354 | Smithing Template Viewer | `smithingtemplateviewer-1.0.4.jar` | [Modrinth](https://modrinth.com/mod/oJsYTCP3) |
 | 355 | Sodium | `sodium-neoforge-0.8.13+mc1.21.1.jar` | [Modrinth](https://modrinth.com/mod/AANobbMI) |
 | 356 | Solar Flux Reborn | `SolarFluxReborn-1.21.1-21.1.8.jar` | [Modrinth](https://modrinth.com/mod/4QG5lev4) |
-| 357 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.18.2235.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
+| 357 | Sophisticated Backpacks | `sophisticatedbackpacks-1.21.1-3.26.19.2243.jar` | [CurseForge](https://www.curseforge.com/projects/422301) |
 | 358 | Sophisticated Backpacks Create Integration | `sophisticatedbackpackscreateintegration-1.21.1-0.2.3.194.jar` | [CurseForge](https://www.curseforge.com/projects/1238567) |
-| 359 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.21.2439.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
-| 360 | Sophisticated Storage | `sophisticatedstorage-1.21.1-1.6.11.2211.jar` | [CurseForge](https://www.curseforge.com/projects/619320) |
+| 359 | Sophisticated Core | `sophisticatedcore-1.21.1-1.5.23.2446.jar` | [CurseForge](https://www.curseforge.com/projects/618298) |
+| 360 | Sophisticated Storage | `sophisticatedstorage-1.21.1-1.6.13.2216.jar` | [CurseForge](https://www.curseforge.com/projects/619320) |
 | 361 | Sophisticated Storage Create Integration | `sophisticatedstoragecreateintegration-1.21.1-0.1.23.246.jar` | [Modrinth](https://modrinth.com/mod/MJ0hdevs) |
-| 362 | Sophisticated Storage in Motion | `sophisticatedstorageinmotion-1.21.1-0.10.37.390.jar` | [Modrinth](https://modrinth.com/mod/6vtFbyaJ) |
+| 362 | Sophisticated Storage in Motion | `sophisticatedstorageinmotion-1.21.1-0.10.38.395.jar` | [Modrinth](https://modrinth.com/mod/6vtFbyaJ) |
 | 363 | Soulplied Energistics | `soulplied_energistics-1.0.3.jar` | [CurseForge](https://www.curseforge.com/projects/1143614) |
 | 364 | spark | `spark-1.10.124-neoforge.jar` | [Modrinth](https://modrinth.com/mod/l6YH9Als) |
 | 365 | Spawn | `spawn-4.0.8-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/rex9wwpz) |

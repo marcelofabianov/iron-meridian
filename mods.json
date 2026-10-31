@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.18",
+  "pack_version": "1.1.19",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -6740,15 +6740,15 @@
       "name": "Integrated Dynamics",
       "source": "curseforge",
       "project_id": "236307",
-      "version_id": "9219622",
-      "filename": "integrateddynamics-1.21.1-neoforge-1.38.1.jar",
+      "version_id": "9385193",
+      "filename": "integrateddynamics-1.21.1-neoforge-1.38.2.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "be8d94d0b148c1e4cebe9f01441197563c79137d"
+        "value": "1a77cf34678dcdb3a11ab9695af6ce588e6fc600"
       },
       "mod_ids": {
-        "integrateddynamics": "1.38.1",
+        "integrateddynamics": "1.38.2",
         "integrateddynamicscompat": "1.0.0"
       },
       "dependencies": [
@@ -6770,7 +6770,7 @@
         {
           "mod_id": "cyclopscore",
           "type": "required",
-          "range": "[1.26.0,)"
+          "range": "[1.30.0,)"
         },
         {
           "mod_id": "neoforge",
@@ -6780,7 +6780,7 @@
         {
           "mod_id": "integrateddynamics",
           "type": "required",
-          "range": "[1.33.4,)"
+          "range": "[1.38.1,)"
         }
       ],
       "pw_file": "mods/integrated-dynamics.pw.toml"
@@ -9929,15 +9929,15 @@
       "name": "Punchy!",
       "source": "modrinth",
       "project_id": "8aoMKplv",
-      "version_id": "83nCNSX4",
-      "filename": "punchy-3.0-neoforge-1.21.1-birthday.jar",
+      "version_id": "Sw1uwm7G",
+      "filename": "punchy-3.0a-neoforge-1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "524eedc82561e50fd0e48a36e97e274b200f7843be5f41e0e3351522ed0ad8e8176b2872afd0a9a5ce11349725304d71e6efde2793e5786957a6de5fb5d968f0"
+        "value": "fc522f271245c70e0f93420df8c1c067e3945a4e9e601a47b90c7ed717e7250d7ebeb8aa88504e5e101a2c35cf5bd2e7accaa86da947c1a4c841b7d107581e87"
       },
       "mod_ids": {
-        "punchy": "3.0"
+        "punchy": "3.0a"
       },
       "dependencies": [
         {
@@ -11340,21 +11340,21 @@
       "name": "Sophisticated Backpacks",
       "source": "curseforge",
       "project_id": "422301",
-      "version_id": "9373555",
-      "filename": "sophisticatedbackpacks-1.21.1-3.26.18.2235.jar",
+      "version_id": "9385446",
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.19.2243.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "5acbe7c23a88337376587aa8bd9109bd49c326b2"
+        "value": "a6401f9e46fa41385dfdc1d550bdafd8d5758480"
       },
       "mod_ids": {
-        "sophisticatedbackpacks": "3.26.18"
+        "sophisticatedbackpacks": "3.26.19"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.21,)"
+          "range": "[1.5.23,)"
         },
         {
           "mod_id": "neoforge",
@@ -11368,15 +11368,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9373462",
-      "filename": "sophisticatedcore-1.21.1-1.5.21.2439.jar",
+      "version_id": "9385313",
+      "filename": "sophisticatedcore-1.21.1-1.5.23.2446.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "e3755e15ab7a1603bc13ed3e077c77bf9c48011c"
+        "value": "bcac56c7b5ca2795923982de590eaf0c73468ae8"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.21"
+        "sophisticatedcore": "1.5.23"
       },
       "dependencies": [
         {
@@ -11434,21 +11434,21 @@
       "name": "Sophisticated Storage in Motion",
       "source": "modrinth",
       "project_id": "6vtFbyaJ",
-      "version_id": "4jzMvbSf",
-      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.37.390.jar",
+      "version_id": "rI1VsVeC",
+      "filename": "sophisticatedstorageinmotion-1.21.1-0.10.38.395.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "d5a9a00249d4213442bd76591a7e1f480f12442ace07480fb7d66542d866c39b0f17c7aa398de067f4afe712c68130cabf06be3828438c1447ec8452e1cd1e3d"
+        "value": "86371d2312f0ba105acb7f851b54e4a3a4c9c556cb0b5b5a44178adbbcc03c46f4132786cdd363d45effaac665f3ca19030c55d509d61e68a4a8c79fd1b27c87"
       },
       "mod_ids": {
-        "sophisticatedstorageinmotion": "0.10.37"
+        "sophisticatedstorageinmotion": "0.10.38"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedstorage",
           "type": "required",
-          "range": "[1.6.11,)"
+          "range": "[1.6.13,)"
         },
         {
           "mod_id": "jei",
@@ -11467,21 +11467,21 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9373854",
-      "filename": "sophisticatedstorage-1.21.1-1.6.11.2211.jar",
+      "version_id": "9385611",
+      "filename": "sophisticatedstorage-1.21.1-1.6.13.2216.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "3e4aa60db0157b45bb967aa5fc956ffa81e5859e"
+        "value": "d826985029b8eab3fd31448334fe7b3626a010fa"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.11"
+        "sophisticatedstorage": "1.6.13"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.21,)"
+          "range": "[1.5.23,)"
         },
         {
           "mod_id": "jei",
