@@ -2,7 +2,7 @@
 
 O Iron Meridian é **sandbox**: não há quests nem objetivo obrigatório. Este guia sugere **caminhos** para quem não sabe por onde começar. Escolha uma ou duas rotas que combinem com o seu jogo e misture à vontade.
 
-> **Dica:** o **Akashic Tome** do slot 1 tem os livros-guia de quase todos os mods citados aqui. **Shift + clique direito** escolhe o livro, **clique direito no ar** abre o livro escolhido e **Shift + clique esquerdo no ar** volta ao tomo. No JEI, **R** mostra a receita de um item e **U** mostra onde ele é usado.
+> **Dica:** o **Akashic Tome** do slot 2 tem os livros-guia de quase todos os mods citados aqui. **Shift + clique direito** escolhe o livro, **clique direito no ar** abre o livro escolhido e **Shift + clique esquerdo no ar** volta ao tomo. No JEI, **R** mostra a receita de um item e **U** mostra onde ele é usado.
 
 ---
 

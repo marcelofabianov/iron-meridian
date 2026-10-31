@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.18 — em preparação
+
+### Início do jogo
+- **Livro de boas-vindas** no slot 1 da barra: um agradecimento por jogar o pack e o link do GitHub (clicável). O **Akashic Tome** com os livros-guia passa para o slot 2.
+- Quem já jogava recebe o livro uma vez, no inventário, sem mudar a barra.
+
 ## 1.1.17 — 31/10/2026
 
 ### Mods novos

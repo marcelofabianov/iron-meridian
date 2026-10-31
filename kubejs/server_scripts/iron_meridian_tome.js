@@ -1,6 +1,7 @@
-// Iron Meridian: entrega um Akashic Tome já preenchido com todos os livros-guia do pack
-// no slot 1 (hotbar) na primeira entrada do jogador no mundo, e remove os demais livros-guia
-// que algum mod ainda entregar ao entrar.
+// Iron Meridian: na primeira entrada do jogador no mundo, entrega o livro de boas-vindas do pack
+// no slot 1 (hotbar) e um Akashic Tome já preenchido com todos os livros-guia no slot 2, e remove
+// os demais livros-guia que algum mod ainda entregar ao entrar. Quem já tinha recebido o tomo
+// antes do livro existir recebe só o livro, no inventário.
 
 const ResourceLocation = Java.loadClass('net.minecraft.resources.ResourceLocation')
 const BuiltInRegistries = Java.loadClass('net.minecraft.core.registries.BuiltInRegistries')
@@ -12,6 +13,7 @@ const TomeRegistries = Java.loadClass('vazkii.akashictome.Registries')
 const ToolContentComponent = Java.loadClass('vazkii.akashictome.data_components.ToolContentComponent')
 const JsonOps = Java.loadClass('com.mojang.serialization.JsonOps')
 const JsonObject = Java.loadClass('com.google.gson.JsonObject')
+const JsonArray = Java.loadClass('com.google.gson.JsonArray')
 
 // Livros-guia que não são do Patchouli (itens próprios de cada mod)
 const EXTRA_GUIDES = [
@@ -30,6 +32,48 @@ const EXTRA_GUIDES = [
 ]
 
 const GIVEN_FLAG = 'iron_meridian_tome_given'
+const WELCOME_FLAG = 'iron_meridian_welcome_given'
+const REPO_URL = 'https://github.com/marcelofabianov/iron-meridian'
+
+// Página do livro de boas-vindas, em texto JSON do Minecraft
+const WELCOME_PAGES = [
+  {
+    text: '', extra: [
+      { text: 'Iron Meridian\n\n', bold: true, color: 'dark_blue' },
+      { text: 'Obrigado por jogar nosso modpack! Ele foi criado para entregar uma boa experiência para quem gosta de tecnologia e construção.\n\n' },
+      { text: 'Desejamos um ótimo jogo!\n\n', bold: true },
+      {
+        text: 'Mais informações no GitHub', color: 'blue', underlined: true,
+        clickEvent: { action: 'open_url', value: REPO_URL },
+        hoverEvent: { action: 'show_text', contents: 'github.com/marcelofabianov/iron-meridian' }
+      }
+    ]
+  }
+]
+
+function buildWelcomeBook(ops) {
+  let pages = new JsonArray()
+  WELCOME_PAGES.forEach(page => {
+    let entry = new JsonObject()
+    // O livro escrito guarda cada página como texto JSON em string (formato "flat" do 1.21.1)
+    entry.addProperty('raw', JSON.stringify(page))
+    pages.add(entry)
+  })
+  let content = new JsonObject()
+  let title = new JsonObject()
+  title.addProperty('raw', 'Bem-vindo ao Iron Meridian')
+  content.add('title', title)
+  content.addProperty('author', 'Iron Meridian')
+  content.add('pages', pages)
+  content.addProperty('resolved', true)
+  let components = new JsonObject()
+  components.add('minecraft:written_book_content', content)
+  let bookJson = new JsonObject()
+  bookJson.addProperty('id', 'minecraft:written_book')
+  bookJson.addProperty('count', 1)
+  bookJson.add('components', components)
+  return ItemStack.CODEC.parse(ops, bookJson).getOrThrow()
+}
 
 function buildGuideStacks() {
   let stacks = []
@@ -70,11 +114,22 @@ function isGuide(stack, guideIds) {
 
 PlayerEvents.loggedIn(event => {
   let player = event.player
-  if (player.persistentData.getBoolean(GIVEN_FLAG)) return
+  let data = player.persistentData
+  if (data.getBoolean(GIVEN_FLAG) && data.getBoolean(WELCOME_FLAG)) return
 
   // Espera os outros mods entregarem seus itens de entrada antes de organizar o inventário
   event.server.scheduleInTicks(40, () => {
-    if (player.persistentData.getBoolean(GIVEN_FLAG)) return
+    let ops = event.server.registryAccess().createSerializationContext(JsonOps.INSTANCE)
+
+    // Jogador de antes do livro de boas-vindas: já tem o tomo, recebe só o livro
+    if (data.getBoolean(GIVEN_FLAG)) {
+      if (data.getBoolean(WELCOME_FLAG)) return
+      player.give(buildWelcomeBook(ops))
+      data.putBoolean(WELCOME_FLAG, true)
+      console.info(`[Iron Meridian] Livro de boas-vindas entregue a ${player.username}`)
+      return
+    }
+
     let guides = buildGuideStacks()
     let guideIds = {}
     guides.forEach(s => { guideIds[String(BuiltInRegistries.ITEM.getKey(s.getItem()))] = true })
@@ -87,7 +142,6 @@ PlayerEvents.loggedIn(event => {
     let list = new ArrayList()
     guides.forEach(s => list.add(s))
     // Monta o tomo pelo codec do jogo, como se fosse um item salvo
-    let ops = event.server.registryAccess().createSerializationContext(JsonOps.INSTANCE)
     let content = ToolContentComponent.CODEC.encodeStart(ops, new ToolContentComponent(list)).getOrThrow()
     let components = new JsonObject()
     components.add('akashictome:tool_content', content)
@@ -97,12 +151,15 @@ PlayerEvents.loggedIn(event => {
     tomeJson.add('components', components)
     let tome = ItemStack.CODEC.parse(ops, tomeJson).getOrThrow()
 
-    let first = inv.getItem(0)
-    inv.setItem(0, tome)
-    if (!first.isEmpty()) player.give(first)
+    // Slot 1: livro de boas-vindas; slot 2: o tomo. O que estava nesses slots vai para o inventário.
+    let displaced = [inv.getItem(0), inv.getItem(1)]
+    inv.setItem(0, buildWelcomeBook(ops))
+    inv.setItem(1, tome)
+    displaced.forEach(s => { if (!s.isEmpty()) player.give(s) })
 
-    player.persistentData.putBoolean(GIVEN_FLAG, true)
-    console.info(`[Iron Meridian] Akashic Tome entregue a ${player.username} com ${guides.length} livros`)
+    data.putBoolean(GIVEN_FLAG, true)
+    data.putBoolean(WELCOME_FLAG, true)
+    console.info(`[Iron Meridian] Livro de boas-vindas e Akashic Tome entregues a ${player.username} com ${guides.length} livros`)
 
     // Segunda varrida: remove livros-guia que algum mod entregar depois do tomo
     event.server.scheduleInTicks(200, () => {

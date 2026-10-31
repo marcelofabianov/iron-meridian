@@ -32,7 +32,7 @@ Além da tecnologia, o pack tem **construção e decoração** (Ytones, Mekanism
 | Magia | Não tem. A única exceção é o Mystical Agriculture com seus addons. |
 | Mundo | Biomas do Regions Unexplored, mais as dimensões Ad Astra (espaço) e The Undergarden |
 | Clima | Estações do ano (Serene Seasons) e dia de 30 minutos com noite de 10 (Better Days) |
-| Início | O personagem começa com um Akashic Tome no slot 1, já com todos os livros-guia (24) |
+| Início | O personagem começa com o **livro de boas-vindas** do pack no slot 1 e um Akashic Tome no slot 2, já com todos os livros-guia (21) |
 | Minérios | Unificados com o Almost Unified: cada minério e lingote repetido entre mods vira um só, inclusive na geração do mundo |
 
 ## Regras de construção do pack
@@ -124,7 +124,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 | Logistics Networks 1.16.3 ou mais nova (hoje 1.17.2) | `mods/` | A versão 1.13.0 não tinha a classe que o SCC usa para se integrar |
 | Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `givePlayerBookOnJoin` (Advanced Peripherals), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics), `giveManualsOnJoin` (Immersive Vehicles) | `config/` | Os livros ficam só no Akashic Tome |
 | Configuração inicial do jogo: escala da interface **2**, brilho **máximo**, shader Complementary com patch, **sombras de entidades desligadas** no shader (o maior custo de FPS medido com o spark), o [mapa de teclas](docs/TECLAS.md) e a **hora do jogo** embaixo do minimapa do Xaero | `configureddefaults/options.txt`, `configureddefaults/config/iris.properties`, `configureddefaults/config/xaero/` e `configureddefaults/shaderpacks/` | O Configured Defaults aplica isso na primeira abertura, quando ainda não existe `options.txt`. Depois, você pode mudar nas opções do jogo, e a escolha é mantida. |
-| Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, monta um Akashic Tome com todos os livros-guia (Patchouli e guias próprios, incluindo os manuais do Immersive Vehicles), coloca no slot 1 e remove os livros soltos. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |
+| Livro de boas-vindas e Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, coloca no slot 1 o livro de boas-vindas (agradecimento e o link do GitHub) e no slot 2 um Akashic Tome com todos os livros-guia (Patchouli e guias próprios, incluindo os manuais do Immersive Vehicles), e remove os livros soltos. Quem já tinha recebido o tomo recebe só o livro, no inventário. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |
 | Martelo para os metais dos mods | `kubejs/server_scripts/iron_meridian_hammer.js` | Estende o martelo do Ore Hammer para 12 metais dos mods, com as mesmas regras (bruto 2 pós, minério 3). O pó sai pela prioridade do Almost Unified. |
 | Desempenho | `config/modernfix-mixins.properties` | O *dynamic resources* do ModernFix carrega modelos e texturas sob demanda. A abertura fica cerca de 20% mais rápida (de 86 para 70 s, num Ryzen 5 5600X com RX 6700 XT) e usa menos RAM. A instância de importação também traz memória fixa e ajustes do coletor de lixo do Java, que reduzem travadas. |
 | SAG Mill para os metais dos mods | `kubejs/server_scripts/iron_meridian_sag.js` | O SAG Mill do Ender IO só mói 8 metais. O script acrescenta antimônio, níquel, platina, prata, tungstênio, zinco, irídio e titânio, com a mesma regra do Ender IO (1 pó garantido + 80% de chance de outro). |
@@ -159,7 +159,7 @@ scripts/build-instance-zip.sh           # gera o IronMeridian-Prism.zip da relea
 ## Sobre este repositório
 
 - O repositório **não contém nenhum arquivo de mod** (`.jar`). Cada mod é referenciado por um arquivo `.pw.toml`, com o link oficial no Modrinth ou no CurseForge e o hash do arquivo. O instalador baixa tudo direto das fontes oficiais.
-- `config/`, `defaultconfigs/` e `kubejs/` guardam as configurações e os scripts próprios do pack. O script mais importante é o que entrega o Akashic Tome no slot 1.
+- `config/`, `defaultconfigs/` e `kubejs/` guardam as configurações e os scripts próprios do pack. O script mais importante é o que entrega o livro de boas-vindas no slot 1 e o Akashic Tome no slot 2.
 - `configureddefaults/` guarda **padrões iniciais** (escala da interface, brilho, shader). O Configured Defaults copia esses arquivos só quando eles ainda não existem, então as escolhas do jogador são mantidas.
 - Configurações de preferência marcadas como `preserve` no `index.toml` não são sobrescritas nas atualizações.
 - A licença [MIT](LICENSE) vale só para os arquivos próprios do pack. Cada mod e o shader continuam sob a licença dos respectivos autores.

@@ -2893,7 +2893,7 @@ hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "43d0b951bc7adc9ec8e3d027dac6e564686e24fc71e4ba46f0823ecb8270ba5e"
+hash = "022adc2ed9371a9d7e550ebed228991b6c3b656f4c47213b280fa47c5617567b"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
