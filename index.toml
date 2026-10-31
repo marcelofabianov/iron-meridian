@@ -1401,6 +1401,10 @@ file = "config/generatorgalore/generator/potion.json"
 hash = "31c768259ea01ac70a207082e7fd4a14860a47bc8f8a807b743380e71008deb1"
 
 [[files]]
+file = "config/geore-common.toml"
+hash = "48e6bdc317b60c66a4758a79bfc1ac31a1c2c0dabad6040a85bbbe494592458a"
+
+[[files]]
 file = "config/getittogetherdrops-server.toml"
 hash = "3cb23de518cf455b3c811d651405513ce61cac1529caf104fb4c0a7e1d908f2e"
 
@@ -3491,6 +3495,11 @@ hash = "b2059d79bf6e41281a26b5b75a8f0cb20804079fe49a22042a26aa5ce28ba7f5"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "967f07450374c5c9664d8f554b057140c5848deb3218e172408efda72c98415c"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "55f8f5c6152e6c0ceb79d38ca741910665754d1ce0755234b09318923e586e43"
 metafile = true
@@ -3798,6 +3807,11 @@ metafile = true
 [[files]]
 file = "mods/generatorgalore.pw.toml"
 hash = "38502a360abc2c530e0d94ca075e72fa5b8cd7157ac1018412f63609a6bba96d"
+metafile = true
+
+[[files]]
+file = "mods/geore.pw.toml"
+hash = "bf90ae558dfad45339aa547697c17f8edf1b64e8eb401cc5892c0fcb833e00e3"
 metafile = true
 
 [[files]]
@@ -4838,6 +4852,11 @@ metafile = true
 [[files]]
 file = "mods/utilitarian.pw.toml"
 hash = "273085ae95f4c7f12c96b54a25c385220b88172a1ccf85ae95c5765b049c06bc"
+metafile = true
+
+[[files]]
+file = "mods/veggies-delight.pw.toml"
+hash = "03787f92417875e7e43a959a9eb07c2c20edbddaa7cbda50205f2c388f8b8c81"
 metafile = true
 
 [[files]]

@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.1.17 — em preparação
+
+### Mods novos
+- **Cultural Delights**: milho, abacate, berinjela, pepino, feijão e canela, com as comidas, para o Farmer's Delight.
+- **Veggies Delight**: pimentão, brócolis, couve-flor, alho, batata-doce, nabo e abobrinha, também para o Farmer's Delight.
+- **GeOre**: geodos de minérios. Os blocos budding de dentro fazem crescer cristais que viram lingotes ou gemas no forno. Além dos geodos vanilla, o pack liga os de **zinco, uraninita, black quartz, alumínio, chumbo, níquel, ósmio, platina, prata, estanho, tungstênio e urânio**, que vêm desligados por padrão. Só aparecem em chunks novos.
+
+### Outros
+- O pack passa a ter **421 mods**.
+- Guia dos mods, lista de mods, guia de progressão, README e INSTALL atualizados.
+
 ## 1.1.16 — 30/10/2026
 
 ### Mods novos

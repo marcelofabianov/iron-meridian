@@ -1,6 +1,6 @@
 # Guia dos mods do Iron Meridian
 
-Resumo em 3 linhas de cada um dos **418 mods** do pack, separados por categoria. A numeração é contínua entre as categorias.
+Resumo em 3 linhas de cada um dos **421 mods** do pack, separados por categoria. A numeração é contínua entre as categorias.
 
 - Versões, arquivos e links de download: [lista de mods](MODS.md).
 - Por onde começar no jogo: [guia de progressão](PROGRESSAO.md).
@@ -619,1129 +619,1141 @@ Resumo em 3 linhas de cada um dos **418 mods** do pack, separados por categoria.
    - Mod de automação agrícola com plantadores, máquinas e módulos.
    - Inclui plantadores que cultivam sozinhos e geração de energia ligada à fazenda.
    - Bom para automatizar colheitas de forma compacta com energia FE.
-146. **Farmer's Delight** · [página](https://modrinth.com/mod/farmers-delight)
+146. **Cultural Delights** · [página](https://modrinth.com/mod/cultural-delights)
+   - Addon do Farmer's Delight com plantas e comidas de várias culturas.
+   - Adiciona milho, abacate, berinjela, pepino, feijão e canela, com as plantas selvagens e as receitas.
+   - Não repete nenhuma planta do Farmer's Delight.
+147. **Farmer's Delight** · [página](https://modrinth.com/mod/farmers-delight)
    - Expansão aconchegante de agricultura e culinária.
    - Adiciona panela, tábua de corte, frigideira e novos cultivos como tomate, repolho, cebola e arroz.
    - Fornece comidas mais nutritivas e úteis para longas sessões de construção.
-147. **Farming for Blockheads** · [página](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
+148. **Farming for Blockheads** · [página](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads)
    - Utilidades de agricultura com mercado, caixa de envio e irrigadores.
    - Inclui mercado configurável para comprar sementes e mudas, além de irrigadores e cochos.
    - Ajuda a conseguir sementes difíceis e acelerar plantações.
-148. **Mystical Agradditions** · [página](https://modrinth.com/mod/mystical-agradditions)
+149. **Mystical Agradditions** · [página](https://modrinth.com/mod/mystical-agradditions)
    - Addon do Mystical Agriculture com sementes de tier 6.
    - Adiciona novas culturas, paxels e outros itens.
    - Use para avançar além do tier 5 nas fazendas de recursos.
-149. **Mystical Agriculture** · [página](https://modrinth.com/mod/mystical-agriculture)
+150. **Mystical Agriculture** · [página](https://modrinth.com/mod/mystical-agriculture)
    - Adiciona sementes que produzem recursos: minérios, materiais e drops de mobs.
    - As essências sobem de tier: inferium, prudentium, tertium, imperium e supremium.
    - A única exceção de magia do pack; base de Agradditions, Tiered Crystals e Mystical Customization.
-150. **Mystical Agriculture Tiered Crystals** · [página](https://modrinth.com/mod/mystical-agriculture-tiered-crystals)
+151. **Mystical Agriculture Tiered Crystals** · [página](https://modrinth.com/mod/mystical-agriculture-tiered-crystals)
    - Addon do Mystical Agriculture que adiciona cristais em tiers.
    - Os cristais seguem a progressão de tiers do Mystical Agriculture.
    - Confira no JEI as receitas e o uso de cada cristal.
-151. **Mystical Automation** · [página](https://modrinth.com/mod/mystical-automation)
+152. **Mystical Automation** · [página](https://modrinth.com/mod/mystical-automation)
    - Máquinas para automatizar o Mystical Agriculture.
    - Planta, colhe e processa as sementes de essência sem trabalho manual.
    - Addon do Mystical Agriculture, a exceção à regra da magia.
-152. **Mystical Customization** · [página](https://modrinth.com/mod/mystical-customization)
+153. **Mystical Customization** · [página](https://modrinth.com/mod/mystical-customization)
    - Permite adicionar e editar culturas do Mystical Agriculture.
    - Usado pelo pack para criar sementes de recursos de outros mods.
    - O jogador não interage com ele diretamente; vê o resultado nas novas sementes.
-153. **Ocean's Delight** · [página](https://modrinth.com/mod/oceans-delight)
+154. **Ocean's Delight** · [página](https://modrinth.com/mod/oceans-delight)
    - Addon do Farmer's Delight focado em comidas do oceano.
    - Adiciona pratos e ingredientes vindos de criaturas e plantas marinhas.
    - Combine com pesca e exploração marinha para variar a alimentação.
-154. **Spice of Life: Carrot Edition** · [página](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
+155. **Spice of Life: Carrot Edition** · [página](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
    - Recompensa o jogador por experimentar comidas diferentes.
    - Comer novos alimentos concede corações extras em marcos definidos.
    - Incentiva variar a dieta e explorar as fazendas e receitas do pack.
-155. **Tree Tap** · [página](https://www.curseforge.com/minecraft/mc-mods/treetap)
+156. **Tree Tap** · [página](https://www.curseforge.com/minecraft/mc-mods/treetap)
    - Adiciona uma torneira para extrair recursos de troncos de árvores.
    - Coloque a torneira no tronco para coletar o que a árvore produz ao longo do tempo.
    - Fonte passiva e simples de recursos vindos das árvores.
+157. **Veggies Delight** · [página](https://modrinth.com/mod/veggies-delight)
+   - Addon do Farmer's Delight com 7 verduras: pimentão, brócolis, couve-flor, alho, batata-doce, nabo e abobrinha.
+   - As plantas aparecem selvagens em biomas diferentes, e há depósitos novos nas vilas.
+   - Complementa o Cultural Delights sem repetir plantas.
 
 ## Mundo, biomas e estruturas
 
-156. **ChoiceTheorem's Overhauled Village** · [página](https://modrinth.com/mod/ct-overhaul-village)
+158. **ChoiceTheorem's Overhauled Village** · [página](https://modrinth.com/mod/ct-overhaul-village)
    - Melhora e cria novas vilas e postos de saqueadores.
    - As estruturas se integram melhor ao terreno e aos biomas.
    - Vilas mais completas ajudam no comércio com aldeões no início.
-157. **Explorify** · [página](https://modrinth.com/mod/explorify)
+159. **Explorify** · [página](https://modrinth.com/mod/explorify)
    - Coleção de novas estruturas no estilo vanilla.
    - Adiciona construções simples para encontrar durante a exploração.
    - Dá motivos para explorar sem fugir do visual do jogo base.
-158. **MES - Moog's End Structures** · [página](https://modrinth.com/mod/mes-moogs-end-structures)
+160. **GeOre** · [página](https://www.curseforge.com/minecraft/mc-mods/geore)
+   - Geodos de minérios, como o de ametista: blocos budding fazem crescer cristais de ferro, cobre, ouro, diamante, estanho, ósmio e outros.
+   - Os blocos budding não saem do lugar, então a fazenda fica onde o geodo foi achado.
+   - Cada shard vira 1 lingote ou gema no forno ou no alto-forno; os geodos só nascem em chunks novos.
+161. **MES - Moog's End Structures** · [página](https://modrinth.com/mod/mes-moogs-end-structures)
    - Adiciona estruturas no estilo vanilla espalhadas pelo End.
    - Traz construções com loot e criaturas para dar vida à dimensão.
    - Dá mais motivos para explorar o End além das cidades vanilla.
-159. **MNS - Moog's Nether Structures** · [página](https://modrinth.com/mod/mns-moogs-nether-structures)
+162. **MNS - Moog's Nether Structures** · [página](https://modrinth.com/mod/mns-moogs-nether-structures)
    - Adiciona várias estruturas feitas com blocos vanilla no Nether.
    - Inclui construções com loot e inimigos para explorar.
    - Deixe o Nether mais interessante durante a busca por recursos.
-160. **MSS - Moog's Soaring Structures** · [página](https://modrinth.com/mod/mss-moogs-soaring-structures)
+163. **MSS - Moog's Soaring Structures** · [página](https://modrinth.com/mod/mss-moogs-soaring-structures)
    - Adiciona ilhas flutuantes no estilo vanilla.
    - As ilhas têm loot, mobs e masmorras para explorar.
    - Bom destino para exploração com aeronaves e elytra.
-161. **MVS - Moog's Voyager Structures** · [página](https://modrinth.com/mod/moogs-voyager-structures)
+164. **MVS - Moog's Voyager Structures** · [página](https://modrinth.com/mod/moogs-voyager-structures)
    - Adiciona mais de 130 estruturas no estilo vanilla ao mundo.
    - Inclui masmorras, construções com loot e inimigos para enfrentar.
    - Torna a exploração do Overworld mais variada.
-162. **Regions Unexplored** · [página](https://modrinth.com/mod/regions-unexplored)
+165. **Regions Unexplored** · [página](https://modrinth.com/mod/regions-unexplored)
    - Adiciona dezenas de novos biomas ao Overworld e ao Nether.
    - Traz novas árvores, plantas e blocos de madeira para construção.
    - Os novos tipos de madeira e flores ampliam bastante as opções de decoração.
-163. **Structory** · [página](https://modrinth.com/mod/structory)
+166. **Structory** · [página](https://modrinth.com/mod/structory)
    - Adiciona estruturas atmosféricas com leve lore pelo mundo.
    - Traz ruínas, construções abandonadas e pontos de interesse variados.
    - Dá motivo extra para explorar e inspiração para construções.
-164. **Structory: Towers** · [página](https://modrinth.com/mod/structory-towers)
+167. **Structory: Towers** · [página](https://modrinth.com/mod/structory-towers)
    - Adiciona torres temáticas de acordo com o bioma.
    - Funciona sozinho ou como complemento do Structory.
    - As torres servem como marcos visuais e pontos de exploração.
-165. **Structurify** · [página](https://modrinth.com/mod/structurify)
+168. **Structurify** · [página](https://modrinth.com/mod/structurify)
    - Controla a frequência, a distância e os biomas de cada estrutura por uma tela de configuração.
    - Ajuda a equilibrar os muitos mods de estruturas do pack.
    - Usa o YACL, já presente no pack.
-166. **Underground Villages** · [página](https://www.curseforge.com/minecraft/mc-mods/underground-villages)
+169. **Underground Villages** · [página](https://www.curseforge.com/minecraft/mc-mods/underground-villages)
    - Adiciona vilas subterrâneas ao mundo.
    - As vilas aparecem em cavernas, com aldeões e construções próprias.
    - Boa surpresa durante a mineração e fonte de trocas no subsolo.
-167. **When Dungeons Arise** · [página](https://modrinth.com/mod/when-dungeons-arise)
+170. **When Dungeons Arise** · [página](https://modrinth.com/mod/when-dungeons-arise)
    - Adiciona grandes masmorras e estruturas no estilo roguelike.
    - Estruturas elaboradas e hostis com inimigos e saques.
    - Explore bem equipado; servem como desafio e fonte de recursos.
-168. **When Dungeons Arise: Seven Seas** · [página](https://modrinth.com/mod/when-dungeons-arise-seven-seas)
+171. **When Dungeons Arise: Seven Seas** · [página](https://modrinth.com/mod/when-dungeons-arise-seven-seas)
    - Expansão do When Dungeons Arise com embarcações nos oceanos.
    - Adiciona navios e estruturas marítimas hostis com saques.
    - Use barcos ou navios para chegar até elas em segurança.
-169. **XyCraft: World** · [página](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)
+172. **XyCraft: World** · [página](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)
    - Geração de mundo do XyCraft com novos minérios e recursos.
    - Adiciona cristais e blocos decorativos com visual sci-fi.
    - Outros mods dependem dele: XyCraft: Machines, XyCraft: Override.
-170. **YUNG's Better Desert Temples** · [página](https://modrinth.com/mod/yungs-better-desert-temples)
+173. **YUNG's Better Desert Temples** · [página](https://modrinth.com/mod/yungs-better-desert-temples)
    - Redesenho completo dos templos do deserto.
    - Templos maiores, com salas, armadilhas e quebra-cabeças.
    - Explore com cuidado; as armadilhas são mais perigosas.
-171. **YUNG's Better Dungeons** · [página](https://modrinth.com/mod/yungs-better-dungeons)
+174. **YUNG's Better Dungeons** · [página](https://modrinth.com/mod/yungs-better-dungeons)
    - Redesenho completo das masmorras do Minecraft.
    - Adiciona vários tipos de masmorras mais elaboradas, inclusive catacumbas.
    - Boa fonte de saque e de spawners no início do jogo.
-172. **YUNG's Better End Island** · [página](https://modrinth.com/mod/yungs-better-end-island)
+175. **YUNG's Better End Island** · [página](https://modrinth.com/mod/yungs-better-end-island)
    - Reformula a ilha principal do End onde ocorre a luta contra o dragão.
    - A arena ganha uma aparência nova e mais imponente.
    - Altera o visual da luta sem mudar a progressão do End.
-173. **YUNG's Better Jungle Temples** · [página](https://modrinth.com/mod/yungs-better-jungle-temples)
+176. **YUNG's Better Jungle Temples** · [página](https://modrinth.com/mod/yungs-better-jungle-temples)
    - Redesenho completo dos templos da selva.
    - Templos maiores, com armadilhas e quebra-cabeças.
    - Vale explorar para obter saques extras na selva.
-174. **YUNG's Better Mineshafts** · [página](https://modrinth.com/mod/yungs-better-mineshafts)
+177. **YUNG's Better Mineshafts** · [página](https://modrinth.com/mod/yungs-better-mineshafts)
    - Reformula as minas abandonadas do Minecraft.
    - Minas mais variadas, com visual adaptado ao bioma.
    - Os trilhos e madeira encontrados ajudam no início do jogo.
-175. **YUNG's Better Nether Fortresses** · [página](https://modrinth.com/mod/yungs-better-nether-fortresses)
+178. **YUNG's Better Nether Fortresses** · [página](https://modrinth.com/mod/yungs-better-nether-fortresses)
    - Redesenho completo das fortalezas do Nether.
    - Fortalezas maiores e mais detalhadas com novas áreas.
    - Prepare-se bem antes de entrar; continuam sendo perigosas.
-176. **YUNG's Better Ocean Monuments** · [página](https://modrinth.com/mod/yungs-better-ocean-monuments)
+179. **YUNG's Better Ocean Monuments** · [página](https://modrinth.com/mod/yungs-better-ocean-monuments)
    - Redesenho completo dos monumentos oceânicos.
    - Monumentos com novas salas, desafios e saques.
    - Leve equipamento de respiração aquática antes de explorar.
-177. **YUNG's Better Strongholds** · [página](https://modrinth.com/mod/yungs-better-strongholds)
+180. **YUNG's Better Strongholds** · [página](https://modrinth.com/mod/yungs-better-strongholds)
    - Redesenho completo das fortalezas (strongholds).
    - Fortalezas maiores, com salas variadas e mais saque.
    - Continuam levando ao portal do End, mas com mais exploração.
-178. **YUNG's Better Witch Huts** · [página](https://modrinth.com/mod/yungs-better-witch-huts)
+181. **YUNG's Better Witch Huts** · [página](https://modrinth.com/mod/yungs-better-witch-huts)
    - Reformula as cabanas de bruxa nos pântanos.
    - As cabanas ganham visual novo e mais detalhado.
    - Mudança apenas estrutural; serve como ponto de exploração.
-179. **YUNG's Extras** · [página](https://modrinth.com/mod/yungs-extras)
+182. **YUNG's Extras** · [página](https://modrinth.com/mod/yungs-extras)
    - Adiciona estruturas e elementos extras no estilo vanilla.
    - Pequenas estruturas e detalhes espalhados pelo mundo.
    - Enriquece a exploração sem pesar na progressão.
 
 ## Dimensões e espaço
 
-180. **Ad Astra** · [página](https://modrinth.com/mod/ad-astra)
+183. **Ad Astra** · [página](https://modrinth.com/mod/ad-astra)
    - Mod de exploração espacial com foguetes e viagem a outros planetas.
    - Inclui Lua, Marte, Mercúrio, Vênus e Glacio, com trajes, oxigênio e máquinas próprias.
    - Prepare combustível e traje espacial antes de decolar; é o eixo de espaço do pack.
-181. **Compact Machines** · [página](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
+184. **Compact Machines** · [página](https://www.curseforge.com/minecraft/mc-mods/compact-machines)
    - Adiciona salas pequenas dentro de blocos.
    - Construa máquinas e automações dentro de um único bloco compacto.
    - Ótimo para organizar a base e economizar espaço.
-182. **The Undergarden** · [página](https://modrinth.com/mod/the-undergarden)
+185. **The Undergarden** · [página](https://modrinth.com/mod/the-undergarden)
    - Adiciona a Undergarden, uma dimensão subterrânea profunda.
    - Traz novos biomas, criaturas hostis, minérios e equipamentos.
    - Prepare bom equipamento antes de entrar; é uma dimensão perigosa.
 
 ## Fauna e criaturas
 
-183. **Critters and Companions** · [página](https://modrinth.com/mod/critters-and-companions)
+186. **Critters and Companions** · [página](https://modrinth.com/mod/critters-and-companions)
    - Adiciona novos animais pequenos e simpáticos ao mundo.
    - Inclui criaturas como lontras, furões, pandas-vermelhos e libélulas espalhadas pelos biomas.
    - Dá vida ao mundo sem alterar o foco técnico do pack; alguns animais podem ser domesticados.
-184. **Ecologics** · [página](https://modrinth.com/mod/ecologics)
+187. **Ecologics** · [página](https://modrinth.com/mod/ecologics)
    - Atualiza biomas vanilla com novos blocos, plantas e criaturas.
    - Adiciona árvores, comidas e animais como caranguejos-coco e pinguins em biomas existentes.
    - Deixa o mundo mais variado mantendo o visual vanilla.
-185. **Naturalist** · [página](https://modrinth.com/mod/naturalist)
+188. **Naturalist** · [página](https://modrinth.com/mod/naturalist)
    - Adiciona dezenas de animais com comportamentos e drops imersivos.
    - Inclui animais como ursos, cervos, cobras, pássaros e muitas variantes.
    - Deixa o mundo mais vivo; alguns animais são perigosos, então fique atento.
-186. **Spawn** · [página](https://modrinth.com/mod/spawn-mod)
+189. **Spawn** · [página](https://modrinth.com/mod/spawn-mod)
    - Adiciona vida nova ao mundo, principalmente nos oceanos, rios e praias.
    - Peixes como atum, arenque e peixe-lua, polvos, focas, peixe-boi, além de dodô, hamster e formigas.
    - Complementa o Naturalist e o Critters and Companions, com foco na vida aquática.
 
 ## Combate e desafios
 
-187. **Mekanism Turrets** · [página](https://modrinth.com/mod/mekanism-turrets)
+190. **Mekanism Turrets** · [página](https://modrinth.com/mod/mekanism-turrets)
    - Torretas laser do Mekanism que atiram nos mobs, com alvos configuráveis, e cercas elétricas.
    - Usam energia e aceitam os upgrades de Speed e Energy do Mekanism.
    - Boas para proteger a base e as fazendas à noite.
-188. **Mekanism: Weapons** · [página](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons)
+191. **Mekanism: Weapons** · [página](https://www.curseforge.com/minecraft/mc-mods/mekanism-weapons)
    - Addon não oficial do Mekanism com armas de alta tecnologia no estilo da MekaSuit.
    - Meka-Tana (katana que teletransporta), Meka-Bow e Meka-Gun (arma a laser), com módulos de dano e outros.
    - Usa energia e se melhora na Modification Station; exige a mesma versão do Mekanism do pack.
-189. **Simply Swords** · [página](https://modrinth.com/mod/simply-swords)
+192. **Simply Swords** · [página](https://modrinth.com/mod/simply-swords)
    - Adiciona várias armas novas, como lanças, glaives, katanas, rapieiras e martelos.
    - Inclui armas únicas com habilidades especiais encontradas no mundo.
    - Amplia as opções de combate; use as armas comuns de forma alinhada ao pack.
-190. **Training Dummy** · [página](https://www.curseforge.com/minecraft/mc-mods/training-dummy)
+193. **Training Dummy** · [página](https://www.curseforge.com/minecraft/mc-mods/training-dummy)
    - Boneco de treino fixo que pode vestir armaduras e equipamentos.
    - Serve para comparar armas, encantamentos e armaduras.
    - Combina com o Floating Damage Indicators.
 
 ## Veículos, mar e transporte
 
-191. **ElevatorMod** · [página](https://modrinth.com/mod/elevatormod)
+194. **ElevatorMod** · [página](https://modrinth.com/mod/elevatormod)
    - Adiciona elevadores simples inspirados no OpenBlocks.
    - Pule ou agache sobre um bloco de elevador para subir ou descer até outro na mesma coluna.
    - Prático para bases altas e fábricas em vários andares sem escadas.
-192. **Immersive Aircraft** · [página](https://modrinth.com/mod/immersive-aircraft)
+195. **Immersive Aircraft** · [página](https://modrinth.com/mod/immersive-aircraft)
    - Aeronaves rústicas para viajar, transportar e explorar.
    - Inclui biplano, aeronave a hélice, dirigível e outras máquinas voadoras.
    - Ótimo para explorar grandes distâncias; ampliado pelo Man of Many Planes.
-193. **Immersive Vehicles** · [página](https://modrinth.com/mod/immersive-vehicles)
+196. **Immersive Vehicles** · [página](https://modrinth.com/mod/immersive-vehicles)
    - Plataforma para veículos realistas como carros, aviões e decoração.
    - Sozinho traz pouco conteúdo; os veículos vêm de pacotes de conteúdo.
    - Usado com o Official Content Pack, que fornece carros, aviões e caminhões.
-194. **Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars** · [página](https://modrinth.com/mod/immersive-vehicles-official-content-pack)
+197. **Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars** · [página](https://modrinth.com/mod/immersive-vehicles-official-content-pack)
    - Pacote oficial de conteúdo do Immersive Vehicles.
    - Adiciona aviões, carros, tanques, helicópteros e caminhões.
    - Exige o Immersive Vehicles; os veículos são montados em bancadas próprias.
-195. **Iron Jetpacks** · [página](https://modrinth.com/mod/iron-jetpacks)
+198. **Iron Jetpacks** · [página](https://modrinth.com/mod/iron-jetpacks)
    - Jetpacks movidos a energia FE, totalmente configuráveis.
    - Traz jetpacks em vários níveis de material com velocidade e capacidade crescentes.
    - Carregue em uma máquina de energia antes de voar; ótimo para construir no alto.
-196. **Man of Many Planes** · [página](https://modrinth.com/mod/man-of-many-planes)
+199. **Man of Many Planes** · [página](https://modrinth.com/mod/man-of-many-planes)
    - Conjunto de aeronaves adicionais para o Immersive Aircraft.
    - Traz novos aviões pensados para combinar com o Create.
    - Requer o Immersive Aircraft; amplia as opções de transporte aéreo do pack.
-197. **Small Ships** · [página](https://modrinth.com/mod/small-ships)
+200. **Small Ships** · [página](https://modrinth.com/mod/small-ships)
    - Adiciona navios de madeira no estilo vanilla, movidos a vela e remos.
    - Os barcos carregam passageiros, carga e podem usar canhões.
    - Boa opção para explorar oceanos e transportar materiais por mar.
-198. **Waystones** · [página](https://modrinth.com/mod/waystones)
+201. **Waystones** · [página](https://modrinth.com/mod/waystones)
    - Adiciona waystones para teletransporte entre pontos descobertos.
    - Waystones geram nas vilas e também podem ser fabricadas e nomeadas.
    - Coloque uma em cada base para viajar rápido entre elas.
 
 ## Construção e decoração
 
-199. **Additional Lights** · [página](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
+202. **Additional Lights** · [página](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
    - Adiciona muitas luminárias decorativas, incluindo tochas e fogo em várias formas.
    - São mais de 200 variações de iluminação para construções.
    - Ótimo para iluminar bases e cidades sem depender só de tochas vanilla.
-200. **Amendments** · [página](https://modrinth.com/mod/amendments)
+203. **Amendments** · [página](https://modrinth.com/mod/amendments)
    - Traz várias mudanças e melhorias a blocos vanilla.
    - Inclui ajustes como lanternas na parede, caldeirões com mais usos e outros detalhes.
    - Complementa construções sem adicionar sistemas novos pesados.
-201. **Armor Poser** · [página](https://modrinth.com/mod/armor-poser)
+204. **Armor Poser** · [página](https://modrinth.com/mod/armor-poser)
    - Tela para posicionar os armor stands: braços, pernas, cabeça e rotação.
    - Permite mostrar ou esconder braços e base, e deixar o stand pequeno.
    - Útil para decorar salas de armaduras e vitrines.
-202. **Building Gadgets** · [página](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+205. **Building Gadgets** · [página](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
    - Coleção de ferramentas para construir estruturas grandes mais facilmente.
    - Inclui gadgets de construção, troca, cópia e colagem e destruição.
    - Usam energia FE; carregue-os antes de grandes obras.
-203. **Connected Glass** · [página](https://modrinth.com/mod/connected-glass)
+206. **Connected Glass** · [página](https://modrinth.com/mod/connected-glass)
    - Adiciona novos tipos de vidro com texturas conectadas.
    - Painéis e blocos de vidro se unem sem bordas visíveis.
    - Ideal para janelas grandes e estufas.
-204. **Construction Sticks** · [página](https://www.curseforge.com/minecraft/mc-mods/construction-sticks)
+207. **Construction Sticks** · [página](https://www.curseforge.com/minecraft/mc-mods/construction-sticks)
    - Varinhas que facilitam a construção.
    - Estendem a face de blocos colocando várias cópias de uma vez.
    - Acelera paredes e pisos grandes; varinhas melhores colocam mais blocos.
-205. **Factory Blocks [Forge/Fabric/NeoForge]** · [página](https://www.curseforge.com/minecraft/mc-mods/factory-blocks)
+208. **Factory Blocks [Forge/Fabric/NeoForge]** · [página](https://www.curseforge.com/minecraft/mc-mods/factory-blocks)
    - Addon de blocos decorativos com tema industrial.
    - Adiciona variações de blocos de fábrica para construção.
    - Combina com o visual tecnológico das bases do pack.
-206. **KleeSlabs** · [página](https://modrinth.com/mod/kleeslabs)
+209. **KleeSlabs** · [página](https://modrinth.com/mod/kleeslabs)
    - Ao quebrar uma laje dupla, só sai a metade para a qual você está olhando.
    - Evita refazer a laje inteira ao corrigir uma construção.
    - Não tem configuração nem receitas.
-207. **Laser Bridges & Doors** · [página](https://modrinth.com/mod/laser-bridges-and-doors)
+210. **Laser Bridges & Doors** · [página](https://modrinth.com/mod/laser-bridges-and-doors)
    - Adiciona fontes de laser que criam pontes e portas quando energizadas.
    - As plataformas e barreiras de laser aparecem ou somem com sinal de redstone.
    - Bom para bases com portas e passarelas controladas por redstone.
-208. **Mekanism Additions** · [página](https://modrinth.com/mod/mekanism-additions)
+211. **Mekanism Additions** · [página](https://modrinth.com/mod/mekanism-additions)
    - Módulo oficial do Mekanism com blocos de plástico em 16 cores: liso, brilhante, reforçado e escorregadio, além de escadas, lajes, cercas e estradas.
    - Também tem Glow Panels (painéis de luz), balões e a TNT de obsidiana.
    - Traz versões bebês de alguns mobs hostis (creeper, enderman, esqueletos), que podem ser desligadas na configuração.
-209. **Sawmill** · [página](https://modrinth.com/mod/universal-sawmill)
+212. **Sawmill** · [página](https://modrinth.com/mod/universal-sawmill)
    - Adiciona uma serraria que funciona como um cortador de pedras para madeira.
    - Gera automaticamente receitas para qualquer tipo de madeira, inclusive de outros mods.
    - Inclui o aldeão Carpinteiro; economiza madeira em escadas, lajes e blocos decorativos.
-210. **XyCraft: Override** · [página](https://www.curseforge.com/minecraft/mc-mods/xycraft-override)
+213. **XyCraft: Override** · [página](https://www.curseforge.com/minecraft/mc-mods/xycraft-override)
    - Modificações em blocos e itens vanilla no estilo XyCraft.
    - Traz ajustes visuais e de qualidade de vida com a estética sci-fi.
    - Depende do XyCraft: World e combina com bases futuristas.
-211. **Ytones** · [página](https://modrinth.com/mod/ytones)
+214. **Ytones** · [página](https://modrinth.com/mod/ytones)
    - Dezenas de conjuntos de blocos modernos e futuristas, cada um com 16 variações de padrão.
    - Faça o bloco base com o ingrediente-chave e use o cortador de pedras para escolher as variações.
    - Ideal para laboratórios, bases sci-fi e cidades modernas.
 
 ## Clima, estações e ambiente
 
-212. **AmbientSounds** · [página](https://modrinth.com/mod/ambientsounds)
+215. **AmbientSounds** · [página](https://modrinth.com/mod/ambientsounds)
    - Adiciona sons ambientes conforme o bioma, a hora e o clima.
    - Traz pássaros, vento, água, insetos e outros sons de natureza.
    - Mod só do cliente que deixa o mundo mais vivo; volume ajustável.
-213. **Better Days** · [página](https://modrinth.com/mod/betterdays)
+216. **Better Days** · [página](https://modrinth.com/mod/betterdays)
    - Permite configurar quanto tempo duram o dia e a noite.
    - No pack: dia de 30 minutos e noite de 10 (no Minecraft puro, 10 e 10).
    - A cama acelera o tempo até amanhecer, em vez de pular a noite de uma vez.
-214. **Serene Seasons** · [página](https://modrinth.com/mod/serene-seasons)
+217. **Serene Seasons** · [página](https://modrinth.com/mod/serene-seasons)
    - Adiciona estações do ano com mudança de cores e temperatura.
    - O crescimento das plantações varia conforme a estação e o tipo de cultura.
    - Planeje a agricultura e use estufas para colher fora de época.
-215. **Simple Weather** · [página](https://www.curseforge.com/minecraft/mc-mods/simple-weather)
+218. **Simple Weather** · [página](https://www.curseforge.com/minecraft/mc-mods/simple-weather)
    - Troca os efeitos visuais de chuva, neve e tempestade por versões mais bonitas.
    - As partículas e a aparência do clima ficam mais detalhadas.
    - Mod só visual: não muda a mecânica do clima do jogo.
 
 ## Ferramentas e utilidades
 
-216. **Accelerated Decay** · [página](https://modrinth.com/mod/accelerated-decay)
+219. **Accelerated Decay** · [página](https://modrinth.com/mod/accelerated-decay)
    - Acelera o desaparecimento das folhas depois que uma árvore é cortada.
    - As folhas soltas somem rapidamente, sem esperar o decaimento lento do vanilla.
    - Deixa o corte manual de árvores mais limpo e rápido no início do jogo.
-217. **Akashic Tome** · [página](https://modrinth.com/mod/akashic-tome)
+220. **Akashic Tome** · [página](https://modrinth.com/mod/akashic-tome)
    - Um livro que guarda os livros-guia dos mods num item só.
    - Shift + clique direito escolhe o livro; clique direito no ar abre; Shift + clique esquerdo no ar volta ao tomo.
    - No pack, todo personagem começa com um tomo no slot 1, já com os 24 livros-guia.
-218. **Almost Unified** · [página](https://modrinth.com/mod/almostunified)
+221. **Almost Unified** · [página](https://modrinth.com/mod/almostunified)
    - Unifica recursos repetidos entre mods, como lingotes, pós e minérios.
    - Faz receitas e drops resultarem em uma única variante de cada material.
    - Evita inventário cheio de cobre e estanho de mods diferentes.
-219. **Aperture Innovations - Portal Gun** · [página](https://modrinth.com/mod/aperture-innovations)
+222. **Aperture Innovations - Portal Gun** · [página](https://modrinth.com/mod/aperture-innovations)
    - Adiciona a Portal Gun dos jogos Portal 1 e 2, entre outros itens.
    - Crie dois portais ligados em paredes e atravesse entre eles.
    - Útil para deslocamento criativo e atalhos dentro da base.
-220. **Bridging Mod** · [página](https://modrinth.com/mod/bridging-mod)
+223. **Bridging Mod** · [página](https://modrinth.com/mod/bridging-mod)
    - Permite colocar blocos no estilo Bedrock, à frente ou abaixo do bloco onde você está.
    - Facilita construir pontes e bordas sem se agachar na beirada.
    - Mod do cliente que agiliza construções no alto.
-221. **Carry On** · [página](https://modrinth.com/mod/carry-on)
+224. **Carry On** · [página](https://modrinth.com/mod/carry-on)
    - Permite pegar e carregar blocos com conteúdo e mobs.
    - Baús, máquinas e animais podem ser movidos sem quebrar.
    - Muito prático para reorganizar a base sem perder itens.
-222. **Chunk Loaders** · [página](https://modrinth.com/mod/chunk-loaders)
+225. **Chunk Loaders** · [página](https://modrinth.com/mod/chunk-loaders)
    - Adiciona chunk loaders em diferentes níveis.
    - Mantém áreas carregadas mesmo quando você está longe.
    - Use para máquinas e fazendas continuarem funcionando em outras partes do mundo.
-223. **Chunky** · [página](https://modrinth.com/mod/chunky)
+226. **Chunky** · [página](https://modrinth.com/mod/chunky)
    - Pré-gera chunks de forma rápida e eficiente.
    - Gera o mundo antecipadamente por comando, reduzindo travadas ao explorar.
    - Rode antes de jogar para melhorar o desempenho em áreas novas.
-224. **Clean Swing Through Grass** · [página](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
+227. **Clean Swing Through Grass** · [página](https://www.curseforge.com/minecraft/mc-mods/clean-swing-through-grass)
    - Permite acertar inimigos através da grama e plantas.
    - O ataque atravessa vegetação sem quebrá-la.
    - Evita golpes perdidos ao lutar em campos e florestas.
-225. **Comforts** · [página](https://modrinth.com/mod/comforts)
+228. **Comforts** · [página](https://modrinth.com/mod/comforts)
    - Adiciona sacos de dormir e redes.
    - Sacos de dormir servem para viagens e redes passam o dia para a noite, sem mudar o spawn.
    - Útil em expedições longas sem perder o ponto de renascimento.
-226. **Cosmetic Armor Reworked** · [página](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+229. **Cosmetic Armor Reworked** · [página](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
    - Permite usar dois conjuntos de armadura: um visual e um funcional.
    - A armadura cosmética aparece por cima da real.
    - Mantenha a proteção sem abrir mão do visual.
-227. **Crafting on a Stick** · [página](https://modrinth.com/mod/crafting-on-a-stick)
+230. **Crafting on a Stick** · [página](https://modrinth.com/mod/crafting-on-a-stick)
    - Adiciona estações de crafting em um bastão.
    - Use mesa de crafting e outras estações direto do inventário.
    - Prático em explorações longe da base.
-228. **Easy Anvils** · [página](https://modrinth.com/mod/easy-anvils)
+231. **Easy Anvils** · [página](https://modrinth.com/mod/easy-anvils)
    - Reformula a bigorna com custos mais justos e itens que ficam guardados nela.
    - Remove a penalidade crescente de reparo e deixa os itens na bigorna ao fechar a tela.
    - Facilita manter ferramentas e armaduras em uso por muito tempo.
-229. **Easy Villagers** · [página](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
+232. **Easy Villagers** · [página](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)
    - Permite carregar aldeões como itens e usá-los em blocos compactos.
    - Traz blocos como comerciante automático, criador de aldeões e fazenda de ferro em um só bloco.
    - Ótimo para montar trocas e farms sem construir vilas inteiras.
    - O botão **Cycle Trades** (tecla X) troca as ofertas de aldeões novatos que ainda não negociaram, também dentro do Trader.
-230. **Enchanting Infuser** · [página](https://modrinth.com/mod/enchanting-infuser)
+233. **Enchanting Infuser** · [página](https://modrinth.com/mod/enchanting-infuser)
    - Substitui a aleatoriedade da mesa de encantamento por escolha direta.
    - O infusor permite escolher os encantamentos desejados pagando um custo justo em níveis.
    - Facilita equipar ferramentas sem depender de sorte ou de magia no pack.
-231. **Explorer's Compass** · [página](https://modrinth.com/mod/explorers-compass)
+234. **Explorer's Compass** · [página](https://modrinth.com/mod/explorers-compass)
    - Bússola que localiza estruturas em qualquer lugar do mundo.
    - Escolha o tipo de estrutura na interface e a bússola aponta para a mais próxima.
    - Útil para achar vilas, ruínas e estruturas de outros mods sem vagar às cegas.
-232. **FTB Chunks** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
+235. **FTB Chunks** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
    - Permite reivindicar chunks e mantê-los sempre carregados, direto por um mapa.
    - Chunks reivindicados ficam protegidos contra explosões e grief de mobs; até 25 podem ficar carregados.
    - Abra com Alt + M. O minimapa dele fica desligado, porque o pack usa o do Xaero.
-233. **FTB Essentials (Forge & Fabric)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
+236. **FTB Essentials (Forge & Fabric)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
    - Comandos utilitários essenciais como home, back, spawn e teletransporte.
    - Adiciona comandos de conveniência para movimentação e gestão do jogador.
    - No singleplayer ajuda a voltar à base ou ao ponto de morte rapidamente.
-234. **FTB Filter System** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system)
+237. **FTB Filter System** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-filter-system)
    - Sistema de filtragem de itens da FTB com editor gráfico.
    - Permite montar filtros por item, tag, mod e outras regras em uma interface amigável.
    - Usado por outros mods FTB quando há integração disponível.
-235. **FTB Ultimine (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
+238. **FTB Ultimine (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
    - Permite quebrar vários blocos conectados de uma vez.
    - Segure a tecla configurada para minerar veios inteiros ou cortar árvores de uma só vez.
    - Acelera muito mineração e limpeza de terreno para construções.
-236. **Fuel Goes Here** · [página](https://modrinth.com/mod/fuelgoeshere)
+239. **Fuel Goes Here** · [página](https://modrinth.com/mod/fuelgoeshere)
    - Faz o combustível ir para o espaço de combustível da fornalha.
    - Corrige o shift-clique que mandava itens queimáveis para o espaço de entrada.
    - Pequena melhoria de qualidade de vida ao abastecer fornalhas.
-237. **GraveStone Mod** · [página](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+240. **GraveStone Mod** · [página](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
    - Cria uma lápide com seus itens quando você morre.
    - Os itens ficam guardados na lápide em vez de se espalharem pelo chão.
    - Evita perder equipamentos em quedas ou acidentes durante a exploração.
-238. **Just Zoom** · [página](https://modrinth.com/mod/just-zoom)
+241. **Just Zoom** · [página](https://modrinth.com/mod/just-zoom)
    - Melhora a luneta e adiciona um modo de zoom independente.
    - Permite aproximar a visão com uma tecla, sem precisar segurar a luneta.
    - Ajuda a observar estruturas e terrenos distantes ao explorar.
-239. **Lootr** · [página](https://modrinth.com/mod/lootr)
+242. **Lootr** · [página](https://modrinth.com/mod/lootr)
    - Torna os baús de loot instanciados por jogador.
    - Cada jogador tem seu próprio conteúdo nos baús gerados, e eles têm visual diferenciado.
    - Ajuda a identificar baús de estruturas ainda não saqueados ao explorar.
-240. **Measurements** · [página](https://www.curseforge.com/minecraft/mc-mods/measurements)
+243. **Measurements** · [página](https://www.curseforge.com/minecraft/mc-mods/measurements)
    - Adiciona uma fita métrica para medir distâncias.
    - Marque dois pontos e veja a distância entre eles.
    - Útil para planejar construções e multiblocos grandes.
-241. **Mekanism Tools** · [página](https://modrinth.com/mod/mekanism-tools)
+244. **Mekanism Tools** · [página](https://modrinth.com/mod/mekanism-tools)
    - Ferramentas e armaduras feitas com materiais do Mekanism.
    - Adiciona sets de materiais como osmium, bronze, aço e obsidiana refinada.
    - Uma boa progressão de equipamento antes da armadura MekaSuit.
-242. **Mining Gadgets** · [página](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+245. **Mining Gadgets** · [página](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
    - Adiciona ferramentas de mineração a laser.
    - Os gadgets quebram vários blocos de uma vez e aceitam melhorias.
    - Ótimo para minerar áreas grandes rapidamente no meio do jogo.
-243. **Nature's Compass** · [página](https://modrinth.com/mod/natures-compass)
+246. **Nature's Compass** · [página](https://modrinth.com/mod/natures-compass)
    - Permite localizar biomas em qualquer lugar do mundo.
    - A bússola aponta e mostra a distância do bioma escolhido.
    - Muito útil para achar biomas específicos de recursos ou de outros mods.
-244. **Ore Hammer** · [página](https://modrinth.com/mod/ore-hammer)
+247. **Ore Hammer** · [página](https://modrinth.com/mod/ore-hammer)
    - Martelo do início do jogo que tritura minério em pó.
    - Minério bruto vira 2 pós, e o bloco de minério com Toque Suave vira 3.
    - No pack, um script estende o martelo para 12 metais dos mods, além de ferro, cobre, ouro e zinco.
-245. **Polymorph** · [página](https://modrinth.com/mod/polymorph)
+248. **Polymorph** · [página](https://modrinth.com/mod/polymorph)
    - Resolve conflitos de receitas entre mods.
    - Quando uma receita tem mais de um resultado, mostra botões para escolher qual fabricar.
    - Base do Polymorphic Energistics; essencial num pack com muitos mods.
-246. **Pylons** · [página](https://modrinth.com/mod/pylons)
+249. **Pylons** · [página](https://modrinth.com/mod/pylons)
    - Adiciona pilares que agem sozinhos num raio ao redor de onde são colocados.
    - Há pilares de colheita, de proteção, de bloqueio de mobs, de expulsão e de efeitos de poção.
    - Os filtros (bloco, mob, jogador, poção) definem o que cada pilar afeta.
-247. **Shrink.** · [página](https://www.curseforge.com/minecraft/mc-mods/shrink_)
+250. **Shrink.** · [página](https://www.curseforge.com/minecraft/mc-mods/shrink_)
    - Permite ao jogador mudar o próprio tamanho.
    - Usa um dispositivo para encolher e voltar ao tamanho normal.
    - Útil para passar por espaços apertados ou inspecionar máquinas de perto.
-248. **Simple Backups** · [página](https://modrinth.com/mod/simple-backups)
+251. **Simple Backups** · [página](https://modrinth.com/mod/simple-backups)
    - Cria backups automáticos do mundo em intervalos programados.
    - Mantém cópias compactadas e remove as mais antigas conforme a configuração.
    - Recomendado para não perder progresso em mundos longos de singleplayer.
-249. **Simple Magnets** · [página](https://modrinth.com/mod/simple-magnets)
+252. **Simple Magnets** · [página](https://modrinth.com/mod/simple-magnets)
    - Adiciona ímãs que puxam itens ao redor do jogador.
    - Os ímãs podem ser ligados e desligados, e há versão avançada com filtro e alcance maior.
    - Muito prático para coletar drops ao minerar ou limpar áreas.
-250. **Sophisticated Backpacks** · [página](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+253. **Sophisticated Backpacks** · [página](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
    - Mochilas que podem ser colocadas no mundo, tingidas e melhoradas.
    - Upgrades adicionam funções como coleta automática, filtros, crafting e alimentação.
    - Essencial para expedições longas; evolua os níveis conforme o progresso.
-251. **Tempad** · [página](https://modrinth.com/mod/tempad)
+254. **Tempad** · [página](https://modrinth.com/mod/tempad)
    - Permite abrir portais para qualquer lugar a partir de qualquer lugar.
    - O dispositivo Tempad salva locais e cria portais temporários até eles.
    - Excelente para viajar entre bases e pontos de mineração distantes.
-252. **Time in a bottle** · [página](https://modrinth.com/mod/time-in-a-bottle-universal)
+255. **Time in a bottle** · [página](https://modrinth.com/mod/time-in-a-bottle-universal)
    - Item que acelera o funcionamento de blocos.
    - Acumula tempo enquanto está no inventário e o gasta para acelerar máquinas e plantas.
    - Útil para acelerar processos lentos pontuais, mas sem exageros.
-253. **Tool Belt** · [página](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
+256. **Tool Belt** · [página](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
    - Adiciona um cinto de ferramentas que guarda várias ferramentas.
    - Uma tecla abre um menu radial para trocar a ferramenta na mão.
    - Libera espaço na hotbar para blocos e itens de construção.
-254. **TorchMaster** · [página](https://modrinth.com/mod/torchmaster)
+257. **TorchMaster** · [página](https://modrinth.com/mod/torchmaster)
    - Adiciona blocos para controlar o spawn de criaturas.
    - A Mega Torch impede spawns hostis em grande raio e a Dread Lamp bloqueia spawns passivos.
    - Ideal para proteger a base e áreas de construção de mobs.
-255. **Trash Cans** · [página](https://modrinth.com/mod/trash-cans)
+258. **Trash Cans** · [página](https://modrinth.com/mod/trash-cans)
    - Adiciona latas de lixo que destroem itens, líquidos e energia.
    - Cada lata aceita filtros para escolher o que descartar.
    - Útil para descartar sobras de fábricas e evitar entupimentos.
-256. **Utilitarian** · [página](https://www.curseforge.com/minecraft/mc-mods/utilitarian)
+259. **Utilitarian** · [página](https://www.curseforge.com/minecraft/mc-mods/utilitarian)
    - Coleção de utilidades em módulos que podem ser ativados ou desativados.
    - Inclui angel block, snad, funil de fluidos e relógio de redstone.
    - O angel block ajuda a construir no ar durante obras grandes.
-257. **XP Tome** · [página](https://modrinth.com/mod/xp-tome)
+260. **XP Tome** · [página](https://modrinth.com/mod/xp-tome)
    - Adiciona um livro que armazena experiência.
    - Guarda e devolve XP conforme a necessidade, com capacidade configurável.
    - Evita perder XP ao morrer e ajuda a guardar níveis para encantamentos.
 
 ## Interface e informação
 
-258. **3D Skin Layers** · [página](https://modrinth.com/mod/3dskinlayers)
+261. **3D Skin Layers** · [página](https://modrinth.com/mod/3dskinlayers)
    - Renderiza a segunda camada da skin do jogador em 3D.
    - Chapéus, mangas e jaquetas da skin ganham volume em vez de ficarem chapados.
    - Mod só visual do cliente; pode ser desativado sem afetar o mundo.
-259. **AE2 JEI Integration** · [página](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration)
+262. **AE2 JEI Integration** · [página](https://www.curseforge.com/minecraft/mc-mods/ae2-jei-integration)
    - Restaura a integração do Applied Energistics 2 com o JEI.
    - Permite transferir receitas e consultar itens do JEI nos terminais ME.
    - Essencial para montar padrões de autocrafting com facilidade.
-260. **AE2: Crafting Tree** · [página](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree)
+263. **AE2: Crafting Tree** · [página](https://www.curseforge.com/minecraft/mc-mods/ae2-crafting-tree)
    - Adiciona uma árvore de crafting visual ao Applied Energistics 2.
    - Mostra as etapas e ingredientes de uma receita complexa em forma de árvore.
    - Facilita planejar quais padrões faltam para um autocrafting completo.
-261. **AppleSkin** · [página](https://modrinth.com/mod/appleskin)
+264. **AppleSkin** · [página](https://modrinth.com/mod/appleskin)
    - Melhora a HUD de fome e comida.
    - Mostra saturação, quanto cada comida restaura e a exaustão atual.
    - Ajuda a escolher a melhor comida, principalmente com mods de culinária.
-262. **Bad Wither No Cookie - Reloaded** · [página](https://modrinth.com/mod/bad-wither-no-cookie)
+265. **Bad Wither No Cookie - Reloaded** · [página](https://modrinth.com/mod/bad-wither-no-cookie)
    - Localiza os sons de morte do Wither e do Ender Dragon.
    - Esses sons deixam de ser ouvidos no mundo inteiro.
    - Mod só do cliente; evita sustos e ruído ao usar fazendas de Wither.
-263. **Better Advanced Tooltips** · [página](https://modrinth.com/mod/better-advanced-tooltips)
+266. **Better Advanced Tooltips** · [página](https://modrinth.com/mod/better-advanced-tooltips)
    - Adiciona tags, componentes e outras informações às dicas dos itens no modo F3+H.
    - Mostra dados técnicos úteis ao inspecionar itens.
    - Útil para descobrir tags ao montar filtros e configurações.
-264. **Better Advancements** · [página](https://modrinth.com/mod/better-advancements)
+267. **Better Advancements** · [página](https://modrinth.com/mod/better-advancements)
    - Melhora a interface de conquistas (advancements).
    - A tela fica maior, redimensionável e mais fácil de navegar com muitos mods.
    - Facilita acompanhar o progresso de conquistas do pack.
-265. **Better Animations Collection** · [página](https://modrinth.com/mod/better-animations-collection)
+268. **Better Animations Collection** · [página](https://modrinth.com/mod/better-animations-collection)
    - Altera modelos do jogo para permitir animações melhores e efeitos sutis.
    - Mobs e elementos ganham movimentos mais naturais.
    - Mod visual do cliente; não muda a jogabilidade.
-266. **Better Third Person** · [página](https://modrinth.com/mod/better-third-person)
+269. **Better Third Person** · [página](https://modrinth.com/mod/better-third-person)
    - Câmera em terceira pessoa livre: você gira a câmera sem virar o personagem.
    - Ajuda a ver construções, naves e voos de jetpack.
    - Use a tecla de câmera do Minecraft (F5) para entrar no modo.
-267. **BetterF3** · [página](https://modrinth.com/mod/betterf3)
+270. **BetterF3** · [página](https://modrinth.com/mod/betterf3)
    - Substitui a tela de depuração F3 por uma HUD personalizável e mais legível.
    - Organiza coordenadas, bioma, FPS e outras informações com cores e módulos.
    - Configure quais módulos aparecem para manter a tela limpa.
-268. **Borderless Window** · [página](https://modrinth.com/mod/borderless-window)
+271. **Borderless Window** · [página](https://modrinth.com/mod/borderless-window)
    - Ativa o modo de tela cheia sem bordas (janela sem bordas).
    - Substitui a tela cheia padrão, facilitando alternar entre janelas.
    - Mod do cliente; útil para consultar guias fora do jogo.
-269. **Cherished Worlds** · [página](https://modrinth.com/mod/cherished-worlds)
+272. **Cherished Worlds** · [página](https://modrinth.com/mod/cherished-worlds)
    - Permite favoritar mundos na lista de seleção.
    - Mundos favoritos ficam no topo e não podem ser apagados por engano.
    - Proteção simples contra excluir seu mundo principal.
-270. **Colorful Hearts** · [página](https://modrinth.com/mod/colorful-hearts)
+273. **Colorful Hearts** · [página](https://modrinth.com/mod/colorful-hearts)
    - Substitui várias fileiras de corações por uma única fileira colorida.
    - Vida extra aparece como corações de cores diferentes.
    - Mod do cliente que deixa a HUD limpa com muita vida.
-271. **Command Keys** · [página](https://modrinth.com/mod/commandkeys)
+274. **Command Keys** · [página](https://modrinth.com/mod/commandkeys)
    - Mod de macros de comandos.
    - Permite vincular comandos e sequências a teclas.
    - Prático para comandos repetidos em singleplayer.
-272. **Configured** · [página](https://www.curseforge.com/minecraft/mc-mods/configured)
+275. **Configured** · [página](https://www.curseforge.com/minecraft/mc-mods/configured)
    - Tela de configuração dentro do jogo para todos os mods.
    - Abra pelo botão Mods do menu e clique no mod para mudar as opções sem editar arquivos.
    - Mostra só as opções que cada mod libera para o jogador.
-273. **Controlling** · [página](https://modrinth.com/mod/controlling)
+276. **Controlling** · [página](https://modrinth.com/mod/controlling)
    - Adiciona busca no menu de controles.
    - Permite encontrar e resolver conflitos de teclas rapidamente.
    - Essencial em pack grande com muitos atalhos.
-274. **Crafting Tweaks** · [página](https://modrinth.com/mod/crafting-tweaks)
+277. **Crafting Tweaks** · [página](https://modrinth.com/mod/crafting-tweaks)
    - Adiciona botões para girar, equilibrar ou limpar grades de crafting.
    - Funciona em mesas de crafting de vários mods.
    - Agiliza ajustes rápidos nas receitas.
-275. **Dark Mode Everywhere** · [página](https://modrinth.com/mod/dark-mode-everywhere)
+278. **Dark Mode Everywhere** · [página](https://modrinth.com/mod/dark-mode-everywhere)
    - Aplica um tema escuro às interfaces do jogo usando shaders.
    - Escurece menus, inventários e telas de máquinas, inclusive de outros mods.
    - Bom para longas sessões; pode ser ajustado ou desligado nas configurações se alguma tela ficar estranha.
-276. **Drippy Loading Screen** · [página](https://modrinth.com/mod/drippy-loading-screen)
+279. **Drippy Loading Screen** · [página](https://modrinth.com/mod/drippy-loading-screen)
    - Addon do FancyMenu para personalizar a tela de carregamento.
    - Permite trocar fundo, barra de progresso e elementos da tela inicial de carregamento.
    - Usado para dar identidade visual ao Iron Meridian durante o carregamento.
-277. **Durability Tooltip** · [página](https://modrinth.com/mod/durability-tooltip)
+280. **Durability Tooltip** · [página](https://modrinth.com/mod/durability-tooltip)
    - Mostra a durabilidade de itens na dica de ferramenta.
    - Ao passar o mouse sobre ferramentas e armaduras, exibe a durabilidade atual e máxima.
    - Ajuda a saber quando consertar ou trocar equipamentos antes que quebrem.
-278. **Enchantment Descriptions** · [página](https://modrinth.com/mod/enchantment-descriptions)
+281. **Enchantment Descriptions** · [página](https://modrinth.com/mod/enchantment-descriptions)
    - Mostra descrições dos encantamentos nas dicas de ferramenta.
    - Ao passar o mouse sobre livros e itens encantados, explica o que cada encantamento faz.
    - Útil para entender encantamentos de mods que você ainda não conhece.
-279. **Equipment Compare** · [página](https://modrinth.com/mod/equipment-compare)
+282. **Equipment Compare** · [página](https://modrinth.com/mod/equipment-compare)
    - Facilita comparar equipamentos com o que você já está usando.
    - Mostra uma dica lado a lado com o item equipado ao passar o mouse sobre outro.
    - Prático para decidir trocas de armadura e ferramentas; exige Iceberg.
-280. **Extreme sound muffler** · [página](https://modrinth.com/mod/extreme_sound_muffler)
+283. **Extreme sound muffler** · [página](https://modrinth.com/mod/extreme_sound_muffler)
    - Permite abafar sons específicos do jogo de forma seletiva.
    - Escolha sons individuais e reduza o volume deles sem mexer no resto.
    - Ótimo para calar máquinas barulhentas em fábricas grandes.
-281. **FancyMenu** · [página](https://modrinth.com/mod/fancymenu)
+284. **FancyMenu** · [página](https://modrinth.com/mod/fancymenu)
    - Ferramenta para personalizar os menus do jogo.
    - Permite editar o menu principal e outras telas com botões, imagens e textos.
    - Outros mods dependem dele: Drippy Loading Screen.
-282. **Floating Damage Indicators** · [página](https://modrinth.com/mod/floating-damage-indicators)
+285. **Floating Damage Indicators** · [página](https://modrinth.com/mod/floating-damage-indicators)
    - Mostra números de dano flutuando acima de cada mob que você acerta, e também o dano que você recebe.
    - As cores mudam com o tipo de dano: crítico, projétil, fogo, veneno, wither e outros.
    - Mod visual, sem teclas; tudo é configurável.
-283. **Inventory Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
+286. **Inventory Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/inventory-essentials)
    - Ajustes essenciais de inventário, agora com ordenação.
    - Inclui atalhos de shift-clique em massa, transferência rápida e organização de baús.
    - Agiliza o manuseio de itens em bases com muitos baús.
-284. **Inventory Tweaks - ReFoxed** · [página](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
+287. **Inventory Tweaks - ReFoxed** · [página](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-refoxed)
    - Inventory Tweaks para NeoForge com ordenação e reposição automática.
    - Organiza inventários e repõe ferramentas ou blocos quando acabam na mão.
    - Pode se sobrepor ao Inventory Essentials; ajuste os atalhos se houver conflito.
-285. **Iris & Oculus Search** · [página](https://modrinth.com/mod/irissearch)
+288. **Iris & Oculus Search** · [página](https://modrinth.com/mod/irissearch)
    - Adiciona barra de busca às telas do Iris.
    - Filtra rapidamente opções de shaders e pacotes de shader instalados.
    - Facilita ajustar shaders sem rolar menus longos.
-286. **Jade 🔍** · [página](https://modrinth.com/mod/jade)
+289. **Jade 🔍** · [página](https://modrinth.com/mod/jade)
    - Mostra uma janela com informações sobre o bloco ou entidade para onde você está olhando.
    - Exibe nome, mod de origem, progresso de máquinas, energia e conteúdo de inventários.
    - Essencial num pack grande para identificar de qual mod vem cada bloco.
-287. **JEI Stuff** · [página](https://www.curseforge.com/minecraft/mc-mods/jei-stuff)
+290. **JEI Stuff** · [página](https://www.curseforge.com/minecraft/mc-mods/jei-stuff)
    - Addon do JEI que adiciona categorias extras de receitas.
    - Mostra no JEI mecânicas vanilla que normalmente não aparecem como receita.
    - Ajuda a consultar processos do jogo base sem sair para a wiki.
-288. **Just Enough Archaeology** · [página](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology)
+291. **Just Enough Archaeology** · [página](https://www.curseforge.com/minecraft/mc-mods/just-enough-archaeology)
    - Addon do JEI e EMI dedicado à arqueologia vanilla.
    - Mostra o que pode sair de cada bloco de areia ou cascalho suspeito.
    - Facilita saber onde procurar fragmentos de cerâmica e outros achados.
-289. **Just Enough Breeding (JEBr)** · [página](https://modrinth.com/mod/justenoughbreeding)
+292. **Just Enough Breeding (JEBr)** · [página](https://modrinth.com/mod/justenoughbreeding)
    - Plugin para JEI, REI ou EMI que mostra informações de reprodução de animais.
    - Indica qual item usar para reproduzir cada criatura, inclusive de mods.
    - Prático com os vários animais novos do pack.
-290. **Just Enough Items (JEI)** · [página](https://modrinth.com/mod/jei)
+293. **Just Enough Items (JEI)** · [página](https://modrinth.com/mod/jei)
    - Visualizador de itens e receitas, o JEI.
    - Pesquise qualquer item e veja como fabricá-lo ou em que ele é usado.
    - Base de vários addons do pack, como AE2 JEI Integration, JER, JEP e integrações do Refined Storage.
-291. **Just Enough Mekanism Multiblocks** · [página](https://modrinth.com/mod/just-enough-mekanism-multiblocks)
+294. **Just Enough Mekanism Multiblocks** · [página](https://modrinth.com/mod/just-enough-mekanism-multiblocks)
    - Addon do JEI que calcula o custo dos multiblocos do Mekanism.
    - Mostra os materiais necessários para montar estruturas como tanques e reatores.
    - Use antes de construir multiblocos grandes para planejar os recursos.
-292. **Just Enough Professions (JEP)** · [página](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
+295. **Just Enough Professions (JEP)** · [página](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
    - Addon do JEI que mostra as estações de trabalho de cada profissão de aldeão.
    - Lista qual bloco define cada profissão, inclusive de mods.
    - Útil para montar salões de trocas com os aldeões certos.
-293. **Just Enough Resources (JER)** · [página](https://modrinth.com/mod/just-enough-resources-jer)
+296. **Just Enough Resources (JER)** · [página](https://modrinth.com/mod/just-enough-resources-jer)
    - Integração com o JEI que mostra dados sobre mobs, geração de mundo e aldeões.
    - Exibe drops de mobs, distribuição de minérios por altura e loot de baús.
    - Consulte para decidir em que camada minerar cada minério.
-294. **Keybind Atlas** · [página](https://modrinth.com/mod/keybind-atlas)
+297. **Keybind Atlas** · [página](https://modrinth.com/mod/keybind-atlas)
    - Mostra uma sobreposição com o que cada tecla faz no pack.
    - Exibe de forma visual as funções atribuídas a cada tecla do teclado.
    - Útil num pack com muitos mods para lembrar atalhos e achar conflitos.
-295. **KeyBind Bundles** · [página](https://www.curseforge.com/minecraft/mc-mods/keybind-bundles)
+298. **KeyBind Bundles** · [página](https://www.curseforge.com/minecraft/mc-mods/keybind-bundles)
    - Permite agrupar vários atalhos de teclado em um menu radial.
    - Você cria pacotes de teclas e acessa todos por uma única tecla.
    - Ajuda a liberar teclas quando há atalhos demais no pack.
-296. **KeybindsPurger** · [página](https://modrinth.com/mod/keybindspurger)
+299. **KeybindsPurger** · [página](https://modrinth.com/mod/keybindspurger)
    - Remove todas as atribuições de teclas para começar do zero.
    - Útil para eliminar conflitos de atalhos de vários mods de uma vez.
    - Use com cuidado, pois zera os atalhos e exige reconfigurar o que precisar.
-297. **LambDynamicLights - Dynamic Lights** · [página](https://modrinth.com/mod/lambdynamiclights)
+300. **LambDynamicLights - Dynamic Lights** · [página](https://modrinth.com/mod/lambdynamiclights)
    - Adiciona iluminação dinâmica ao jogo.
    - Tochas e itens luminosos na mão iluminam o ambiente ao redor enquanto você se move.
    - Ajuda a explorar cavernas sem precisar colocar tochas a todo momento.
-298. **More Overlays Updated** · [página](https://modrinth.com/mod/more-overlays-updated)
+301. **More Overlays Updated** · [página](https://modrinth.com/mod/more-overlays-updated)
    - Adiciona sobreposições de luz para spawn de mobs e de bordas de chunk.
    - Também inclui uma sobreposição de busca de itens do JEI.
    - Ajuda a iluminar a base corretamente e a alinhar construções com chunks.
-299. **Mouse Tweaks** · [página](https://modrinth.com/mod/mouse-tweaks)
+302. **Mouse Tweaks** · [página](https://modrinth.com/mod/mouse-tweaks)
    - Melhora o gerenciamento de inventário com funções extras do mouse.
    - Permite arrastar para distribuir ou mover itens rapidamente e rolar a roda para transferir.
    - Economiza muito tempo organizando baús e máquinas.
-300. **Not Enough Animations** · [página](https://modrinth.com/mod/not-enough-animations)
+303. **Not Enough Animations** · [página](https://modrinth.com/mod/not-enough-animations)
    - Traz animações de primeira pessoa para a visão em terceira pessoa.
    - Ações como comer, ler mapas e segurar itens ficam animadas no personagem.
    - Mod puramente visual, sem efeito na jogabilidade.
-301. **Oracle Index** · [página](https://modrinth.com/mod/oracle-index)
+304. **Oracle Index** · [página](https://modrinth.com/mod/oracle-index)
    - Visualizador de documentação no jogo, integrado às wikis do moddedmc.wiki.
    - Permite ler guias de mods sem sair do Minecraft.
    - Use para consultar a documentação dos mods de tecnologia do pack.
-302. **Overloaded Armor Bar** · [página](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+305. **Overloaded Armor Bar** · [página](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
    - Permite que a barra de armadura passe de 20 pontos com cores diferentes.
    - A barra se sobrepõe em camadas coloridas em vez de sumir da tela.
    - Útil com armaduras de mods melhores que diamante.
-303. **Pick Up Notifier** · [página](https://modrinth.com/mod/pick-up-notifier)
+306. **Pick Up Notifier** · [página](https://modrinth.com/mod/pick-up-notifier)
    - Mostra notificações dos itens que você acabou de coletar.
    - Exibe no canto da tela o nome e a quantidade dos itens pegos.
    - Ajuda a perceber drops e loot sem abrir o inventário.
-304. **Punchy!** · [página](https://modrinth.com/mod/punchy-fpa)
+307. **Punchy!** · [página](https://modrinth.com/mod/punchy-fpa)
    - Animações em primeira pessoa: as mãos aparecem mesmo vazias e se mexem ao bater, minerar e trocar de item.
    - Ferramentas e armas ganham animações próprias, e a tecla I inspeciona o item na mão.
    - Mod puramente visual, só no cliente; o menu dele abre com Shift + F8.
-305. **Rebind Narrator** · [página](https://modrinth.com/mod/rebind-narrator)
+308. **Rebind Narrator** · [página](https://modrinth.com/mod/rebind-narrator)
    - Permite trocar ou desativar a tecla do Narrador do Minecraft.
    - A combinação padrão deixa de ativar o narrador por acidente.
    - Configure nas opções de controles junto com as demais teclas.
-306. **Reese's Sodium Options** · [página](https://modrinth.com/mod/reeses-sodium-options)
+309. **Reese's Sodium Options** · [página](https://modrinth.com/mod/reeses-sodium-options)
    - Substitui o menu de opções de vídeo do Sodium por uma versão alternativa.
    - Organiza as configurações gráficas em abas mais fáceis de navegar.
    - Depende do Sodium e só melhora a interface, sem afetar o desempenho.
-307. **Shulker Box Tooltip** · [página](https://modrinth.com/mod/shulkerboxtooltip)
+310. **Shulker Box Tooltip** · [página](https://modrinth.com/mod/shulkerboxtooltip)
    - Mostra o conteúdo de caixas de shulker ao passar o mouse no inventário.
    - Exibe os itens guardados sem precisar colocar a caixa no mundo.
    - Facilita organizar e transportar materiais em caixas de shulker.
-308. **Simple Voice Chat** · [página](https://modrinth.com/mod/simple-voice-chat)
+311. **Simple Voice Chat** · [página](https://modrinth.com/mod/simple-voice-chat)
    - Adiciona chat de voz por proximidade ao Minecraft.
    - Jogadores próximos se ouvem com áudio posicional.
    - Em singleplayer tem pouco uso; serve se o mundo for aberto para amigos.
-309. **Smithing Template Viewer** · [página](https://modrinth.com/mod/smithing-template-viewer)
+312. **Smithing Template Viewer** · [página](https://modrinth.com/mod/smithing-template-viewer)
    - Mostra como os moldes de ferraria ficam aplicados nas armaduras.
    - A pré-visualização aparece pelo JEI ou EMI.
    - Ajuda a escolher acabamentos de armadura antes de gastar materiais.
-310. **Toast Control** · [página](https://www.curseforge.com/minecraft/mc-mods/toast-control)
+313. **Toast Control** · [página](https://www.curseforge.com/minecraft/mc-mods/toast-control)
    - Controla as notificações (toasts) no canto da tela.
    - Permite desativar ou filtrar avisos de receitas, conquistas e tutoriais.
    - Deixa a tela mais limpa em packs com muitas receitas.
-311. **TrashSlot** · [página](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+314. **TrashSlot** · [página](https://www.curseforge.com/minecraft/mc-mods/trashslot)
    - Adiciona um slot de lixo arrastável em todas as telas de inventário.
    - A tecla T ativa ou desativa o slot.
    - Prático para descartar itens indesejados rapidamente.
-312. **Universal Keybinds** · [página](https://modrinth.com/mod/just-universal-keybinds)
+315. **Universal Keybinds** · [página](https://modrinth.com/mod/just-universal-keybinds)
    - Salva suas teclas de atalho entre mods, versões e instâncias.
    - Restaura automaticamente as teclas configuradas em novos packs ou atualizações.
    - Evita reconfigurar os controles a cada atualização do pack.
-313. **WeatherForecast** · [página](https://modrinth.com/mod/weatherforecast)
+316. **WeatherForecast** · [página](https://modrinth.com/mod/weatherforecast)
    - Mostra na tela o clima atual e quanto tempo falta para ele mudar.
    - O painel liga e desliga por uma tecla (F6 no pack), que pode ser trocada em Controles.
    - Ajuda a planejar atividades que dependem de chuva, neve ou céu limpo.
-314. **Xaero's Minimap** · [página](https://modrinth.com/mod/xaeros-minimap)
+317. **Xaero's Minimap** · [página](https://modrinth.com/mod/xaeros-minimap)
    - Minimapa no canto da tela com terreno, jogadores e criaturas.
    - Permite criar waypoints para marcar locais importantes.
    - Marque bases, minérios e estruturas para voltar com facilidade.
-315. **Xaero's World Map** · [página](https://modrinth.com/mod/xaeros-world-map)
+318. **Xaero's World Map** · [página](https://modrinth.com/mod/xaeros-world-map)
    - Mapa-múndi em tela cheia com tudo o que você já explorou.
    - Funciona junto com o Xaero's Minimap, compartilhando waypoints.
    - Use para planejar rotas, ferrovias e expansões da base.
 
 ## Desempenho e correções
 
-316. **AI Improvements: Performance Tuning** · [página](https://modrinth.com/mod/ai-improvements)
+319. **AI Improvements: Performance Tuning** · [página](https://modrinth.com/mod/ai-improvements)
    - Otimiza a inteligência artificial dos mobs vanilla.
    - Permite desligar comportamentos de IA específicos para ganhar desempenho.
    - Ajuda o servidor interno a aguentar muitos mobs e fazendas.
-317. **AllTheLeaks (Memory Leak Fix)** · [página](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
+320. **AllTheLeaks (Memory Leak Fix)** · [página](https://www.curseforge.com/minecraft/mc-mods/alltheleaks)
    - Corrige vazamentos de memória do Minecraft, do NeoForge e de alguns mods.
    - Reduz o consumo de RAM em sessões longas.
    - Mod de bastidor; não precisa de configuração.
-318. **Alternate Current** · [página](https://modrinth.com/mod/alternate-current)
+321. **Alternate Current** · [página](https://modrinth.com/mod/alternate-current)
    - Reimplementa o pó de redstone de um jeito bem mais leve.
    - O comportamento continua o mesmo do Minecraft, só sem o lag de circuitos grandes.
    - Bom para fábricas com muita redstone.
-319. **AttributeFix** · [página](https://modrinth.com/mod/attributefix)
+322. **AttributeFix** · [página](https://modrinth.com/mod/attributefix)
    - Remove limites arbitrários do sistema de atributos do Minecraft.
    - Permite valores maiores de armadura, vida e outros atributos.
    - Corrige conflitos de mods que aumentam atributos; não precisa de configuração.
-320. **BadOptimizations** · [página](https://modrinth.com/mod/badoptimizations)
+323. **BadOptimizations** · [página](https://modrinth.com/mod/badoptimizations)
    - Otimiza partes do jogo fora da renderização, como iluminação, céu e tick do cliente.
    - Ganha FPS sem mudar o visual.
    - Não tem configuração necessária.
-321. **Clumps** · [página](https://modrinth.com/mod/clumps)
+324. **Clumps** · [página](https://modrinth.com/mod/clumps)
    - Agrupa orbes de experiência para reduzir lag.
    - Muitos orbes viram um só, com o mesmo total de XP.
    - Ajuda bastante em fazendas de mobs.
-322. **Colorwheel** · [página](https://modrinth.com/mod/colorwheel)
+325. **Colorwheel** · [página](https://modrinth.com/mod/colorwheel)
    - Permite usar shaders do Iris junto com o Flywheel.
    - Corrige a compatibilidade de shaders com contraptions do Create.
    - Necessário se você joga com shaders e Create.
-323. **Colorwheel Patcher** · [página](https://modrinth.com/mod/colorwheel-patcher)
+326. **Colorwheel Patcher** · [página](https://modrinth.com/mod/colorwheel-patcher)
    - Aplica automaticamente correções em shaderpacks para o Colorwheel.
    - Adapta shaderpacks suportados sem ajuste manual.
    - Complementa o Colorwheel no uso de shaders.
-324. **Connectivity** · [página](https://www.curseforge.com/minecraft/mc-mods/connectivity)
+327. **Connectivity** · [página](https://www.curseforge.com/minecraft/mc-mods/connectivity)
    - Corrige tempo limite de login, erros de tamanho de pacote e blocos fantasmas.
    - Reduz desconexões e erros de rede em packs grandes.
    - Mod de bastidor; não precisa de configuração.
-325. **Crash Assistant** · [página](https://modrinth.com/mod/crash-assistant)
+328. **Crash Assistant** · [página](https://modrinth.com/mod/crash-assistant)
    - Mostra uma interface após o jogo travar.
    - Analisa os logs e aponta os prováveis mods causadores.
    - Ajuda a diagnosticar crashes e compartilhar logs.
-326. **CreateBetterFps** · [página](https://modrinth.com/mod/createbetterfps)
+329. **CreateBetterFps** · [página](https://modrinth.com/mod/createbetterfps)
    - Até 50% mais FPS nas máquinas do Create quando o shader está ligado.
    - Otimiza a renderização das peças em movimento.
    - Sem configuração.
-327. **Dynamic FPS** · [página](https://modrinth.com/mod/dynamic-fps)
+330. **Dynamic FPS** · [página](https://modrinth.com/mod/dynamic-fps)
    - Reduz o uso de recursos quando o jogo está em segundo plano ou ocioso.
    - Diminui o FPS ao minimizar, perder o foco ou ficar parado, economizando CPU, GPU e bateria.
    - Útil ao deixar máquinas rodando com o jogo aberto em segundo plano.
-328. **Entity Culling** · [página](https://modrinth.com/mod/entityculling)
+331. **Entity Culling** · [página](https://modrinth.com/mod/entityculling)
    - Otimização que deixa de renderizar entidades e blocos-entidade não visíveis.
    - Usa cálculo assíncrono para esconder baús, mobs e máquinas atrás de paredes.
    - Ajuda bastante em bases grandes cheias de máquinas e baús.
-329. **Fast Async World Save[Forge/Neo/Fabric]** · [página](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
+332. **Fast Async World Save[Forge/Neo/Fabric]** · [página](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric)
    - Salva o mundo em segundo plano, sem travar o jogo.
    - Elimina as travadas do salvamento automático em mundos grandes.
    - Usa a biblioteca Cupboard.
-330. **FastFurnace** · [página](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+333. **FastFurnace** · [página](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
    - Melhora o desempenho das fornalhas.
    - Guarda em cache a receita atual para evitar buscas repetidas a cada tick.
    - Ajuda em bases com muitas fornalhas ativas ao mesmo tempo.
-331. **FastSuite** · [página](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
+334. **FastSuite** · [página](https://www.curseforge.com/minecraft/mc-mods/fastsuite)
    - Melhora o desempenho do sistema de receitas em JSON.
    - Acelera a busca de receitas, reduzindo travadas com muitas receitas carregadas.
    - Útil em packs grandes como este, com muitos mods de receitas.
-332. **FastWorkbench** · [página](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
+335. **FastWorkbench** · [página](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
    - Melhora o desempenho da mesa de fabricação.
    - Evita buscas repetidas de receita e acelera a fabricação em massa.
    - Deixa o shift-clique na mesa mais rápido em packs com muitas receitas.
-333. **FerriteCore** · [página](https://modrinth.com/mod/ferrite-core)
+336. **FerriteCore** · [página](https://modrinth.com/mod/ferrite-core)
    - Otimiza o uso de memória do jogo.
    - Reduz a RAM usada por estados de blocos e modelos sem mudar a jogabilidade.
    - Ajuda o pack a carregar e rodar com menos memória.
-334. **fix GPU memory leak** · [página](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
+337. **fix GPU memory leak** · [página](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
    - Corrige vazamentos de memória da placa de vídeo.
    - Ajuda em sessões longas com shader.
    - Complementa o AllTheLeaks; usa a biblioteca Cupboard.
-335. **FlickerFix** · [página](https://www.curseforge.com/minecraft/mc-mods/flickerfix)
+338. **FlickerFix** · [página](https://www.curseforge.com/minecraft/mc-mods/flickerfix)
    - Remove a piscada da visão noturna.
    - A tela deixa de piscar quando o efeito de visão noturna está acabando.
    - Mais confortável ao usar equipamentos que dão visão noturna.
-336. **Get It Together, Drops!** · [página](https://modrinth.com/mod/get-it-together-drops)
+339. **Get It Together, Drops!** · [página](https://modrinth.com/mod/get-it-together-drops)
    - Controla como itens soltos no chão se juntam.
    - Adiciona tags e opções de configuração para combinar drops próximos.
    - Reduz a quantidade de entidades de itens em farms e mineração.
-337. **Hey Berry! SHUT UP** · [página](https://modrinth.com/mod/heyberryshutup)
+340. **Hey Berry! SHUT UP** · [página](https://modrinth.com/mod/heyberryshutup)
    - Ajuste que evita dano de arbustos de frutas a aldeões.
    - Aldeões deixam de se machucar em arbustos, e os espinhos não ignoram mais armadura.
    - Pequena correção que evita perder aldeões e dano injusto.
-338. **I'm Fast** · [página](https://modrinth.com/mod/im-fast)
+341. **I'm Fast** · [página](https://modrinth.com/mod/im-fast)
    - Remove os limites de velocidade do jogador.
    - Elimina as mensagens e correções de movido rápido demais ou de forma errada.
    - Evita travadas ao usar jetpacks, aeronaves e veículos rápidos.
-339. **ImmediatelyFast** · [página](https://modrinth.com/mod/immediatelyfast)
+342. **ImmediatelyFast** · [página](https://modrinth.com/mod/immediatelyfast)
    - Acelera a renderização em modo imediato do jogo.
    - Melhora o desempenho de interfaces, textos, dicas e entidades de blocos.
    - Ajuda especialmente em telas cheias de itens e informações.
-340. **Iris Shaders** · [página](https://modrinth.com/mod/iris)
+343. **Iris Shaders** · [página](https://modrinth.com/mod/iris)
    - Carregador de shaders moderno compatível com pacotes do OptiFine.
    - Permite usar shaders para iluminação, sombras e água mais realistas.
    - Shaders pesam no desempenho; use pacotes leves em máquinas modestas.
-341. **Model Gap Fix** · [página](https://modrinth.com/mod/modelfix)
+344. **Model Gap Fix** · [página](https://modrinth.com/mod/modelfix)
    - Corrige pequenas frestas em modelos de blocos e itens.
    - Remove linhas e buracos visíveis nas bordas de alguns modelos.
    - Correção visual leve, sem efeito na jogabilidade.
-342. **ModernFix** · [página](https://modrinth.com/mod/modernfix)
+345. **ModernFix** · [página](https://modrinth.com/mod/modernfix)
    - Mod que melhora desempenho, reduz uso de memória e corrige bugs.
    - Acelera o carregamento do jogo e do mundo.
    - Importante num pack grande para reduzir tempo de carregamento e consumo de RAM.
-343. **NetherPortalFix** · [página](https://modrinth.com/mod/netherportalfix)
+346. **NetherPortalFix** · [página](https://modrinth.com/mod/netherportalfix)
    - Garante destinos corretos ao ir e voltar por portais do Nether.
    - Evita que você volte para um portal diferente do que usou.
    - Correção útil ao manter várias ligações entre Overworld e Nether.
-344. **No Chat Reports** · [página](https://modrinth.com/mod/no-chat-reports)
+347. **No Chat Reports** · [página](https://modrinth.com/mod/no-chat-reports)
    - Torna o chat não denunciável sempre que possível.
    - Remove as assinaturas de mensagens do chat.
    - Em singleplayer tem pouco efeito; serve para evitar avisos de chat.
-345. **No Villager Death Messages** · [página](https://modrinth.com/mod/no-villager-death-messages)
+348. **No Villager Death Messages** · [página](https://modrinth.com/mod/no-villager-death-messages)
    - Remove as mensagens de morte de aldeões do console.
    - Evita poluição no log quando aldeões morrem.
    - Útil com fazendas e salões de troca de aldeões.
-346. **Recipe Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
+349. **Recipe Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric)
    - Acelera o carregamento e a busca de receitas.
    - O pack tem milhares de receitas, e o JEI e o KubeJS sentem a diferença.
    - Usa a biblioteca Cupboard.
-347. **Server Performance - Smooth Chunk Save** · [página](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
+350. **Server Performance - Smooth Chunk Save** · [página](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save)
    - Distribui o salvamento dos chunks ao longo do tempo.
    - Evita travadas quando muitos chunks mudam ao mesmo tempo.
    - Usa a biblioteca Cupboard.
-348. **Sodium** · [página](https://modrinth.com/mod/sodium)
+351. **Sodium** · [página](https://modrinth.com/mod/sodium)
    - Motor de renderização alternativo de alto desempenho.
    - Aumenta muito o FPS e reduz travadas ao carregar o mundo.
    - Base do Iris Shaders e do Reese's Sodium Options no pack.
-349. **spark** · [página](https://modrinth.com/mod/spark)
+352. **spark** · [página](https://modrinth.com/mod/spark)
    - Profiler de desempenho para cliente e servidor.
    - Identifica o que está causando lag ou queda de TPS.
    - Use o comando /spark profiler para diagnosticar fábricas pesadas.
-350. **Structure Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
+353. **Structure Essentials** · [página](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)
    - Deixa a geração e a busca de estruturas mais leves.
    - Avisa no log quando dois conjuntos de estruturas podem se sobrepor.
    - Usa a biblioteca Cupboard.
-351. **Yeetus Experimentus** · [página](https://modrinth.com/mod/yeetus-experimentus)
+354. **Yeetus Experimentus** · [página](https://modrinth.com/mod/yeetus-experimentus)
    - Remove o aviso de configurações experimentais ao criar ou abrir um mundo.
    - Tira um clique toda vez que o mundo abre.
    - Não muda nada no jogo.
 
 ## Bibliotecas e APIs
 
-352. **Architectury API** · [página](https://modrinth.com/mod/architectury-api)
+355. **Architectury API** · [página](https://modrinth.com/mod/architectury-api)
    - API intermediária para facilitar mods multiplataforma.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por 16 mods do pack, como Accelerated Decay, Critters and Companions, DragonLib, FTB Filter System.
-353. **Athena** · [página](https://modrinth.com/mod/athena-ctm)
+356. **Athena** · [página](https://modrinth.com/mod/athena-ctm)
    - Biblioteca de texturas conectadas para blocos.
    - Permite que blocos de outros mods tenham texturas que se unem visualmente.
    - Exigida por Oritech.
-354. **Balm** · [página](https://modrinth.com/mod/balm)
+357. **Balm** · [página](https://modrinth.com/mod/balm)
    - Camada de abstração para mods multiloader da BlayTheNinth.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por 7 mods do pack, como Crafting Tweaks, Farming for Blockheads, Inventory Essentials e KleeSlabs.
-355. **Bookshelf** · [página](https://modrinth.com/mod/bookshelf-lib)
+358. **Bookshelf** · [página](https://modrinth.com/mod/bookshelf-lib)
    - Biblioteca de código aberto usada por mods da Darkhax.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por AttributeFix, Enchantment Descriptions.
-356. **Brandons Core** · [página](https://modrinth.com/mod/brandons-core)
+359. **Brandons Core** · [página](https://modrinth.com/mod/brandons-core)
    - Biblioteca usada pelos mods do brandon3055.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Draconic Evolution.
-357. **CB Multipart** · [página](https://modrinth.com/mod/cb-multipart)
+360. **CB Multipart** · [página](https://modrinth.com/mod/cb-multipart)
    - Biblioteca para ter várias coisas no mesmo espaço de bloco.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Translocators.
-358. **Cloth Config API** · [página](https://modrinth.com/mod/cloth-config)
+361. **Cloth Config API** · [página](https://modrinth.com/mod/cloth-config)
    - Biblioteca de telas de configuração para mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por BetterF3, Powah!.
-359. **CodeChicken Lib** · [página](https://modrinth.com/mod/codechicken-lib)
+362. **CodeChicken Lib** · [página](https://modrinth.com/mod/codechicken-lib)
    - Biblioteca com matemática 3D, renderização, rede e configs.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Brandons Core, CB Multipart, Draconic Evolution, Ender Storage, Translocators.
-360. **Common Capabilities** · [página](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)
+363. **Common Capabilities** · [página](https://www.curseforge.com/minecraft/mc-mods/common-capabilities)
    - Capacidades compartilhadas entre vários mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Integrated Crafting, Integrated Dynamics, Integrated Scripting, Integrated Terminals, Integrated Tunnels.
-361. **Common Storage Lib** · [página](https://modrinth.com/mod/common-storage-lib)
+364. **Common Storage Lib** · [página](https://modrinth.com/mod/common-storage-lib)
    - Biblioteca que abstrai armazenamento de itens, fluidos e energia.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Ad Astra.
-362. **Configured Defaults** · [página](https://modrinth.com/mod/configured-defaults)
+365. **Configured Defaults** · [página](https://modrinth.com/mod/configured-defaults)
    - Permite que modpacks definam configurações padrão.
    - Arquivos como configs e opções são criados se ainda não existirem.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-363. **ConnectedTexturesMod** · [página](https://www.curseforge.com/minecraft/mc-mods/ctm)
+366. **ConnectedTexturesMod** · [página](https://www.curseforge.com/minecraft/mc-mods/ctm)
    - Extensão de resource pack para texturas conectadas.
    - Não adiciona conteúdo jogável por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-364. **CreativeCore** · [página](https://modrinth.com/mod/creativecore)
+367. **CreativeCore** · [página](https://modrinth.com/mod/creativecore)
    - Biblioteca e core mod do CreativeMD.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por AmbientSounds.
-365. **Cryonic Config** · [página](https://modrinth.com/mod/cryonicconfig)
+368. **Cryonic Config** · [página](https://modrinth.com/mod/cryonicconfig)
    - Biblioteca leve de configuração usada por outros mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-366. **Cucumber Library** · [página](https://modrinth.com/mod/cucumber)
+369. **Cucumber Library** · [página](https://modrinth.com/mod/cucumber)
    - Biblioteca de código compartilhado do autor BlakeBr0.
    - Não adiciona conteúdo jogável relevante sozinha.
    - Exigida por 6 mods do pack, como Extended Crafting, Iron Jetpacks, Mystical Agriculture, Mystical Automation.
-367. **Cupboard** · [página](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+370. **Cupboard** · [página](https://www.curseforge.com/minecraft/mc-mods/cupboard)
    - Biblioteca com utilitários e estruturas de código para mods.
    - Não adiciona conteúdo jogável visível.
    - Exigida por Connectivity, Fast Async World Save[Forge/Neo/Fabric], fix GPU memory leak, Recipe Essentials, Server Performance - Smooth Chunk Save, Structure Essentials.
-368. **Curios API** · [página](https://modrinth.com/mod/curios)
+371. **Curios API** · [página](https://modrinth.com/mod/curios)
    - API de acessórios que cria espaços extras de equipamento no inventário.
    - Adiciona slots como anel, colar e cinto para itens compatíveis.
    - Exigida por Create Aeronautics x Curios API Compat, Refined Storage - Curios Integration.
-369. **Cyclops Core** · [página](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)
+372. **Cyclops Core** · [página](https://www.curseforge.com/minecraft/mc-mods/cyclops-core)
    - Biblioteca base dos mods de CyclopsMC.
    - Fornece código comum de configuração, rede e interface.
    - Exigida por 6 mods do pack, como Common Capabilities, Integrated Crafting, Integrated Dynamics, Integrated Scripting.
-370. **Deimos** · [página](https://modrinth.com/mod/deimos)
+373. **Deimos** · [página](https://modrinth.com/mod/deimos)
    - Biblioteca de configuração e geração de dados.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Laser Bridges & Doors.
-371. **DragonLib** · [página](https://modrinth.com/mod/dragonlib)
+374. **DragonLib** · [página](https://modrinth.com/mod/dragonlib)
    - Biblioteca com código comum aos mods do autor, empacotada junto com Architectury e Forge Config API Port.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Create Railways Navigator.
-372. **EdivadLib** · [página](https://modrinth.com/mod/edivadlib)
+375. **EdivadLib** · [página](https://modrinth.com/mod/edivadlib)
    - Biblioteca comum aos mods do autor Edivad.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por DimStorage, ExtraStorage.
-373. **FTB Library (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+376. **FTB Library (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
    - Biblioteca comum de interface dos mods FTB.
    - Fornece código de telas e configuração compartilhado.
    - Exigida por FTB Essentials (Forge & Fabric), FTB Filter System, FTB Teams (NeoForge), FTB Ultimine (NeoForge), FTB XMod Compat.
-374. **FTB Teams (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
+377. **FTB Teams (NeoForge)** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge)
    - Biblioteca de times para mods com progressão em equipe.
    - Gerencia times de jogadores, usada por outros mods FTB.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-375. **FTB XMod Compat** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat)
+378. **FTB XMod Compat** · [página](https://www.curseforge.com/minecraft/mc-mods/ftb-xmod-compat)
    - Integrações oficiais entre mods FTB e outros mods.
    - Conecta recursos dos mods FTB a mods de terceiros quando presentes.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-376. **Fusion (Connected Textures)** · [página](https://modrinth.com/mod/fusion-connected-textures)
+379. **Fusion (Connected Textures)** · [página](https://modrinth.com/mod/fusion-connected-textures)
    - Permite que pacotes de recursos usem texturas conectadas e outros modelos.
    - Adiciona suporte a novos tipos de textura e modelo para blocos.
    - Exigida por Connected Glass.
-377. **Fzzy Config** · [página](https://modrinth.com/mod/fzzy-config)
+380. **Fzzy Config** · [página](https://modrinth.com/mod/fzzy-config)
    - API de configuração com telas automáticas e validação.
    - Gera menus de configuração e sincroniza ajustes entre servidor e cliente.
    - Exigida por Simply Swords, Simply Tooltips.
-378. **Geckolib** · [página](https://modrinth.com/mod/geckolib)
+381. **Geckolib** · [página](https://modrinth.com/mod/geckolib)
    - Biblioteca de animações 3D para entidades, blocos, itens e armaduras.
    - Permite modelos animados mais complexos que os do jogo base.
    - Exigida por AdvancedAE, Aperture Innovations - Portal Gun, Critters and Companions, Oritech.
-379. **GlitchCore** · [página](https://modrinth.com/mod/glitchcore)
+382. **GlitchCore** · [página](https://modrinth.com/mod/glitchcore)
    - Biblioteca que abstrai carregadores de mods e oferece utilitários.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Serene Seasons.
-380. **Glodium** · [página](https://modrinth.com/mod/glodium)
+383. **Glodium** · [página](https://modrinth.com/mod/glodium)
    - Biblioteca de código para renderização, registro e rede.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por AE2 Network Analyser, Applied Flux, Extended AE.
-381. **GuideME** · [página](https://modrinth.com/mod/guideme)
+384. **GuideME** · [página](https://modrinth.com/mod/guideme)
    - Kit para criar livros-guia em jogo com markdown e cenas 3D.
    - Exibe guias interativos com estruturas e máquinas renderizadas.
    - Exigida por 8 mods do pack, como Applied Energistics 2, Applied Flux, Extended AE, Recursive AE2 Pattern Provider.
-382. **HammerLib** · [página](https://modrinth.com/mod/hammer-lib)
+385. **HammerLib** · [página](https://modrinth.com/mod/hammer-lib)
    - Biblioteca utilitária com código usado por vários mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Solar Flux Reborn.
-383. **Iceberg** · [página](https://modrinth.com/mod/iceberg)
+386. **Iceberg** · [página](https://modrinth.com/mod/iceberg)
    - Biblioteca com eventos, auxiliares e utilitários para mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Equipment Compare.
-384. **inzhefop's Core** · [página](https://www.curseforge.com/minecraft/mc-mods/inzhefop-core)
+387. **inzhefop's Core** · [página](https://www.curseforge.com/minecraft/mc-mods/inzhefop-core)
    - Mod núcleo com ferramentas de depuração e utilitários do autor.
    - Não adiciona conteúdo jogável relevante por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-385. **Konkrete** · [página](https://modrinth.com/mod/konkrete)
+388. **Konkrete** · [página](https://modrinth.com/mod/konkrete)
    - Biblioteca de uso geral do autor Keksuccino.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Drippy Loading Screen, FancyMenu, Just Zoom.
-386. **Kotlin for Forge** · [página](https://modrinth.com/mod/kotlin-for-forge)
+389. **Kotlin for Forge** · [página](https://modrinth.com/mod/kotlin-for-forge)
    - Carregador da linguagem Kotlin para mods de Forge e NeoForge.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Fzzy Config, Tempad.
-387. **KotlinLangForge** · [página](https://modrinth.com/mod/kotlin-lang-forge)
+390. **KotlinLangForge** · [página](https://modrinth.com/mod/kotlin-lang-forge)
    - Adaptador da linguagem Kotlin para Forge e NeoForge.
    - Não adiciona conteúdo jogável por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-388. **KubeJS** · [página](https://www.curseforge.com/minecraft/mc-mods/kubejs)
+391. **KubeJS** · [página](https://www.curseforge.com/minecraft/mc-mods/kubejs)
    - Mod de scripts em JavaScript para editar receitas, criar itens e programar eventos.
    - Permite ao modpack ajustar receitas e integrações entre mods sem código Java.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-389. **Lithostitched** · [página](https://modrinth.com/mod/lithostitched)
+392. **Lithostitched** · [página](https://modrinth.com/mod/lithostitched)
    - Biblioteca com opções de configuração e compatibilidade para geração de mundo.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por ChoiceTheorem's Overhauled Village, Regions Unexplored.
-390. **McJtyLib** · [página](https://modrinth.com/mod/mcjtylib)
+393. **McJtyLib** · [página](https://modrinth.com/mod/mcjtylib)
    - Biblioteca usada pelos mods de McJty, como RFTools e XNet.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por 6 mods do pack, como RFTools Base, RFTools Builder, RFTools Power, RFTools Storage.
-391. **Mechanicals Lib** · [página](https://modrinth.com/mod/mechanicals-lib)
+394. **Mechanicals Lib** · [página](https://modrinth.com/mod/mechanicals-lib)
    - Biblioteca de código para addons do Create.
    - Exigida por Create Mechanical Extruder.
    - Não adiciona conteúdo.
-392. **Melody** · [página](https://modrinth.com/mod/melody)
+395. **Melody** · [página](https://modrinth.com/mod/melody)
    - Biblioteca baseada em OpenAL para tocar música de fundo.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por FancyMenu.
-393. **Moog's Structure Lib (moogs_structures)** · [página](https://modrinth.com/mod/moogs-structure-lib)
+396. **Moog's Structure Lib (moogs_structures)** · [página](https://modrinth.com/mod/moogs-structure-lib)
    - Biblioteca da série de estruturas Moog's.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por MES - Moog's End Structures, MNS - Moog's Nether Structures, MSS - Moog's Soaring Structures, MVS - Moog's Voyager Structures.
-394. **Moonlight Lib** · [página](https://modrinth.com/mod/moonlight)
+397. **Moonlight Lib** · [página](https://modrinth.com/mod/moonlight)
    - Biblioteca com registro dinâmico, data packs, marcadores de mapa e outras funções.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Amendments, Sawmill.
-395. **Open Loader** · [página](https://modrinth.com/mod/open-loader)
+398. **Open Loader** · [página](https://modrinth.com/mod/open-loader)
    - Carregador de resource packs e data packs de código aberto.
    - Carrega pacotes automaticamente de uma pasta para todos os mundos.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-396. **Patchouli** · [página](https://modrinth.com/mod/patchouli)
+399. **Patchouli** · [página](https://modrinth.com/mod/patchouli)
    - Sistema de livros de documentação usado por mods e modpacks.
    - Gera manuais dentro do jogo para os mods que o utilizam.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-397. **Placebo** · [página](https://modrinth.com/mod/placebo)
+400. **Placebo** · [página](https://modrinth.com/mod/placebo)
    - Biblioteca usada pelos mods do autor Shadows_of_Fire.
    - Não adiciona conteúdo jogável relevante por conta própria.
    - Exigida por FastFurnace, FastSuite, FastWorkbench, Hostile Neural Networks, Toast Control.
-398. **PolyLib** · [página](https://www.curseforge.com/minecraft/mc-mods/polylib)
+401. **PolyLib** · [página](https://www.curseforge.com/minecraft/mc-mods/polylib)
    - Biblioteca usada pelos mods da CreeperHost.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Shrink.
-399. **Prickle** · [página](https://modrinth.com/mod/prickle)
+402. **Prickle** · [página](https://modrinth.com/mod/prickle)
    - Formato de arquivo de configuração baseado em JSON.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por AttributeFix, Enchantment Descriptions, Open Loader.
-400. **Prism** · [página](https://modrinth.com/mod/prism-lib)
+403. **Prism** · [página](https://modrinth.com/mod/prism-lib)
    - Biblioteca com funções relacionadas a cores para outros mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-401. **Puzzles Lib** · [página](https://modrinth.com/mod/puzzles-lib)
+404. **Puzzles Lib** · [página](https://modrinth.com/mod/puzzles-lib)
    - Biblioteca usada pelos mods do autor Fuzs.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Better Animations Collection, Easy Anvils, Enchanting Infuser, Pick Up Notifier.
-402. **Resourceful Config** · [página](https://modrinth.com/mod/resourceful-config)
+405. **Resourceful Config** · [página](https://modrinth.com/mod/resourceful-config)
    - Biblioteca para criar configurações compatíveis entre plataformas.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Ad Astra, Tempad.
-403. **Resourceful Lib** · [página](https://modrinth.com/mod/resourceful-lib)
+406. **Resourceful Lib** · [página](https://modrinth.com/mod/resourceful-lib)
    - Biblioteca base dos mods da equipe Terrarium.
    - Fornece código compartilhado, sem conteúdo jogável próprio.
    - Exigida por Ad Astra, Tempad.
-404. **RFTools Base** · [página](https://modrinth.com/mod/rftools-base)
+407. **RFTools Base** · [página](https://modrinth.com/mod/rftools-base)
    - Mod base dos mods de tecnologia de McJty.
    - Traz itens comuns como o Machine Frame e o Dimensional Shard usados nas receitas.
    - Exigida por RFTools Builder, RFTools Power, RFTools Storage, RFTools Utility, XNet.
-405. **Rhino** · [página](https://modrinth.com/mod/rhino)
+408. **Rhino** · [página](https://modrinth.com/mod/rhino)
    - Versão adaptada do motor JavaScript Rhino da Mozilla para mods.
    - Executa os scripts escritos para o KubeJS.
    - Exigida por KubeJS.
-406. **Sable** · [página](https://modrinth.com/mod/sable)
+409. **Sable** · [página](https://modrinth.com/mod/sable)
    - Biblioteca para estruturas de blocos móveis e interativas (sub-levels).
    - Permite que construções se movam como entidades mantendo a interação com blocos.
    - Exigida por Climbable Ropes for Create Aeronautics, Create Aeronautics, Create Aeronautics: FTB Chunks, Create Aeronautics: Mekanism Compatibility, Create Deep Seas [BETA], Create Stuff 'N Additions x Sable & Aeronautics Compat, Waystones: Sable (Create Aeronautics Addon).
-407. **Scalable Cat's Force** · [página](https://modrinth.com/mod/scalable-cats-force)
+410. **Scalable Cat's Force** · [página](https://modrinth.com/mod/scalable-cats-force)
    - Biblioteca que fornece a linguagem Scala para mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Nenhum mod do pack a exige diretamente; serve de suporte ou integração opcional.
-408. **Searchables** · [página](https://modrinth.com/mod/searchables)
+411. **Searchables** · [página](https://modrinth.com/mod/searchables)
    - Biblioteca para busca e filtragem de elementos em interfaces.
    - Oferece campos de busca prontos para outros mods.
    - Exigida por Controlling.
-409. **Simply Tooltips** · [página](https://modrinth.com/mod/simply-tooltips)
+412. **Simply Tooltips** · [página](https://modrinth.com/mod/simply-tooltips)
    - Biblioteca para renderização de tooltips orientada a dados.
    - Fornece tooltips estilizadas para outros mods.
    - Exigida por Simply Swords.
-410. **Sophisticated Core** · [página](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+413. **Sophisticated Core** · [página](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
    - Biblioteca dos mods Sophisticated.
    - Fornece o sistema de upgrades e inventários compartilhado.
    - Exigida por Sophisticated Backpacks, Sophisticated Storage.
-411. **SuperMartijn642's Config Lib** · [página](https://modrinth.com/mod/supermartijn642s-config-lib)
+414. **SuperMartijn642's Config Lib** · [página](https://modrinth.com/mod/supermartijn642s-config-lib)
    - Biblioteca de configuração dos mods de SuperMartijn642.
    - Facilita o uso de arquivos de configuração, sem conteúdo jogável.
    - Exigida por 7 mods do pack, como Chunk Loaders, Durability Tooltip, Entangled, Item Collectors.
-412. **SuperMartijn642's Core Lib** · [página](https://modrinth.com/mod/supermartijn642s-core-lib)
+415. **SuperMartijn642's Core Lib** · [página](https://modrinth.com/mod/supermartijn642s-core-lib)
    - Biblioteca base dos mods de SuperMartijn642.
    - Fornece código compartilhado entre versões do Minecraft.
    - Exigida por 7 mods do pack, como Chunk Loaders, Connected Glass, Entangled, Item Collectors.
-413. **Teal Lib** · [página](https://modrinth.com/mod/teallib)
+416. **Teal Lib** · [página](https://modrinth.com/mod/teallib)
    - Biblioteca de suporte com utilidades para mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Spawn.
-414. **Tesseract API** · [página](https://modrinth.com/mod/tesseract-api)
+417. **Tesseract API** · [página](https://modrinth.com/mod/tesseract-api)
    - Biblioteca para desenvolvedores de mods.
    - Não adiciona conteúdo jogável por conta própria.
    - Exigida por Extended Industrialization, Industrialization Overdrive, Little Big Redstone.
-415. **Titanium** · [página](https://modrinth.com/mod/titanium)
+418. **Titanium** · [página](https://modrinth.com/mod/titanium)
    - Biblioteca compartilhada dos mods da Innovative Online Industries.
    - Fornece código base de máquinas e interfaces.
    - Exigida por Functional Storage, Industrial Foregoing, Industrial Foregoing: Souls, Replication.
-416. **YetAnotherConfigLib (YACL)** · [página](https://modrinth.com/mod/yacl)
+419. **YetAnotherConfigLib (YACL)** · [página](https://modrinth.com/mod/yacl)
    - Biblioteca de configuração baseada em construtores.
    - Fornece telas de configuração para outros mods.
    - Exigida por Bridging Mod, Critters and Companions, Structurify.
-417. **YUNG's API** · [página](https://modrinth.com/mod/yungs-api)
+420. **YUNG's API** · [página](https://modrinth.com/mod/yungs-api)
    - Biblioteca dos mods de estruturas de YUNG.
    - Fornece código compartilhado para geração de estruturas.
    - Exigida por 10 mods do pack, como YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better End Island, YUNG's Better Jungle Temples.
-418. **ZeroCore 2** · [página](https://www.curseforge.com/minecraft/mc-mods/zerocore)
+421. **ZeroCore 2** · [página](https://www.curseforge.com/minecraft/mc-mods/zerocore)
    - Mod de utilidades e API para estruturas multibloco.
    - Fornece a base para máquinas multibloco de outros mods.
    - Exigida por Extreme Reactors.

@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **418 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **421 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 418 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 421 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -74,9 +74,9 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 
 ### Agricultura e recursos
 - **Mystical Agriculture**: Agradditions, Customization, Tiered Crystals, Mystical Automation
-- **Agritech: Evolved**, **Productive Metalworks**, **Infinite Water Block**, **Cobblegen Galore**
+- **Agritech: Evolved**, **GeOre** (geodos de minérios que fazem crescer cristais), **Productive Metalworks**, **Infinite Water Block**, **Cobblegen Galore**
 - **Ore Hammer**: martelo do início do jogo. Minério bruto vira **2 pós**, e o bloco de minério pego com Toque Suave vira **3 pós**. Vale para ferro, cobre, ouro e o zinco do Create e, por um script do pack, também para estanho, chumbo, prata, níquel, alumínio, urânio, ósmio, platina, antimônio, irídio, titânio e tungstênio.
-- **Farmer's Delight**, **Farming for Blockheads**
+- **Farmer's Delight** (com **Cultural Delights** e **Veggies Delight**: milho, abacate, berinjela, pepino, pimentão, brócolis, alho e outras), **Farming for Blockheads**
 - **Spice of Life: Carrot Edition**: cada alimento diferente que você come conta para ganhar **corações extras permanentes**. O progresso aparece no *Food Book*, que fica no Akashic Tome.
 
 ### Veículos e transporte

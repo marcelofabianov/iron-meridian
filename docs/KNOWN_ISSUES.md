@@ -15,6 +15,9 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
 - "Invalid path in pack: replication:textures/block/printer - Copy.png" do Replication: uma textura com nome inválido dentro do próprio mod, que o jogo ignora.
 - "Registering Runtime: jei:neoforge_gui is running and has taken 5 seconds so far" do JEI: só avisa que o JEI está demorando para montar a lista. Ele termina logo depois.
+- "Could not decode GlobalLootModifier ... veggiesdelight:add_loot_*" do Veggies Delight: o mod usa um formato antigo do Farmer's Delight, e as verduras dele não aparecem nos baús de vilas e minas. As plantas selvagens e as trocas com aldeões continuam.
+- "Failed to parse recipe 'veggiesdelight:compat/culturaldelight/...' ... Falling back to vanilla" do KubeJS: o KubeJS lê essas receitas do jeito padrão, e elas carregam.
+- "[EnderIO] Unable to inherit the cooking recipe with ID: geore:..._shard": o Ender IO não copia as receitas de forno dos cristais do GeOre para a Alloy Smelter. Os cristais continuam derretendo no forno e no alto-forno.
 
 ## Avisos que aparecem no chat
 

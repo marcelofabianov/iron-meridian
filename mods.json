@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.16",
+  "pack_version": "1.1.17",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -3962,6 +3962,54 @@
       "pw_file": "mods/cucumber.pw.toml"
     },
     {
+      "name": "Cultural Delights",
+      "source": "modrinth",
+      "project_id": "YttyNOFA",
+      "version_id": "ATlbGqEg",
+      "filename": "culturaldelights-1.21.1-0.19.7.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "2101132f518630afceed7b6b7d73ccbe955b746bfacbfb2187b9b3cd2d46db6f59c616cf6966592b7e0cab629e5d8e85040c845b264648ede94e28fa4ddc2a3e"
+      },
+      "mod_ids": {
+        "culturaldelights": "0.19.7"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.247,)"
+        },
+        {
+          "mod_id": "farmersdelight",
+          "type": "required",
+          "range": "[1.3.0,)"
+        },
+        {
+          "mod_id": "supplementaries",
+          "type": "optional",
+          "range": "[1.21.1,)"
+        },
+        {
+          "mod_id": "moonlight",
+          "type": "optional",
+          "range": "[1.21.1-3.6.3,)"
+        },
+        {
+          "mod_id": "appleskin",
+          "type": "optional",
+          "range": "[3.0.0,)"
+        },
+        {
+          "mod_id": "cookscollection",
+          "type": "incompatible",
+          "range": "*"
+        }
+      ],
+      "pw_file": "mods/cultural-delights.pw.toml"
+    },
+    {
       "name": "Cupboard",
       "source": "curseforge",
       "project_id": "326652",
@@ -5977,6 +6025,29 @@
         }
       ],
       "pw_file": "mods/generatorgalore.pw.toml"
+    },
+    {
+      "name": "GeOre",
+      "source": "curseforge",
+      "project_id": "530544",
+      "version_id": "7563411",
+      "filename": "GeOre-1.21.1-6.2.2.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "b69a23cd4ffb1bce2697fec358ca913ff085da36"
+      },
+      "mod_ids": {
+        "geore": "6.2.2"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.0.110-beta,)"
+        }
+      ],
+      "pw_file": "mods/geore.pw.toml"
     },
     {
       "name": "Get It Together, Drops!",
@@ -12157,6 +12228,34 @@
         }
       ],
       "pw_file": "mods/utilitarian.pw.toml"
+    },
+    {
+      "name": "Veggies Delight (A Farmer's Delight Add-on)",
+      "source": "modrinth",
+      "project_id": "emQ94xri",
+      "version_id": "9LiRnALb",
+      "filename": "VeggiesDelight-1.21.1-1.9.3.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "bd108223b38236c7cae2a02601e52c98d4f655a45f4f3a8c2f5d298aaa0ed0debbb2639bb08e11c5f33a0ae27242a3d4ff0aab9820915e3dadb1ce06a2763960"
+      },
+      "mod_ids": {
+        "veggiesdelight": "1.9.3"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.219,)"
+        },
+        {
+          "mod_id": "farmersdelight",
+          "type": "required",
+          "range": "[1.3.1,)"
+        }
+      ],
+      "pw_file": "mods/veggies-delight.pw.toml"
     },
     {
       "name": "Waystones: Sable (Create Aeronautics Addon)",

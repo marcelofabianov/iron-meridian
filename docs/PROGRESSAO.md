@@ -83,6 +83,7 @@ Para quem prefere **cultivar** recursos em vez de minerar.
 2. **Hostile Neural Networks:** simula mobs em modelos de dados e gera drops sem precisar de farm.
 3. **Mob Grinding Utils** e **Industrial Foregoing**, para farms de mobs e processamento.
 4. **Cobblegen Galore**, para pedregulho infinito e outras pedras (as do Create, basalto, netherrack, skystone).
+   - **GeOre:** explorando chunks novos, você pode achar **geodos de minérios** (ferro, cobre, ouro, diamante, estanho, ósmio e outros). Os blocos budding de dentro fazem crescer cristais que viram lingotes no forno, mas não saem do lugar: a fazenda fica onde o geodo nasceu.
 5. **Iron Farm** do Easy Villagers: com 1 aldeão dentro, gera 1 golem a cada 4 minutos (3 a 5 lingotes de ferro). Um funil embaixo leva o ferro para a rede.
 6. **Replication:** no fim do jogo, escaneie um item e replique-o a partir de matéria, que vem de desmontar outros itens.
 
