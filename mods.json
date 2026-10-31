@@ -1199,6 +1199,29 @@
       "pw_file": "mods/badoptimizations.pw.toml"
     },
     {
+      "name": "Bagus Lib",
+      "source": "modrinth",
+      "project_id": "95nSN4Rd",
+      "version_id": "VPif9tbA",
+      "filename": "bagus_lib-1.21.1-13.27.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "2691acbdbc62d750472fc63518129b2a190c430e4f1fc59df8b000b33e650d5061f2050bdb3b9f655434d6b25fcdf60079bcb3b30374233d9c43c100d03c7db3"
+      },
+      "mod_ids": {
+        "bagus_lib": "1.21.1-13.27.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.60,)"
+        }
+      ],
+      "pw_file": "mods/bagus-lib.pw.toml"
+    },
+    {
       "name": "Balm",
       "source": "modrinth",
       "project_id": "MBAkmtvl",
@@ -4324,6 +4347,34 @@
         }
       ],
       "pw_file": "mods/dyson-cube-project.pw.toml"
+    },
+    {
+      "name": "EarthMobs",
+      "source": "modrinth",
+      "project_id": "XXnAl6q1",
+      "version_id": "QXrDOYiN",
+      "filename": "earthmobsmod-1.21.1-19.3.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "0d7f4c0db79d033c1a498906cd665e753352833c6d153311400a619b2728484c8e7d70ed4a64fe86c149c289b9a4546ea1c02aaa1392367b2277e90ec5bfc0f7"
+      },
+      "mod_ids": {
+        "earthmobsmod": "1.21.1-19.3.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.1,)"
+        },
+        {
+          "mod_id": "bagus_lib",
+          "type": "required",
+          "range": "[1.21.1-13.3.0,)"
+        }
+      ],
+      "pw_file": "mods/earthmobs.pw.toml"
     },
     {
       "name": "Easy Anvils",
@@ -7737,6 +7788,50 @@
         }
       ],
       "pw_file": "mods/laser-bridges-and-doors.pw.toml"
+    },
+    {
+      "name": "[Let's Do] Meadow",
+      "source": "modrinth",
+      "project_id": "ra7o6Sl7",
+      "version_id": "7lmxOKYR",
+      "filename": "letsdo-meadow-neoforge-1.4.10.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "6f13b65eb9b1305c376af1409466946972830210a591f074d82c858d112de8c0f6fd420727f23b7c3c388b2192d90cd88c343e60e33403846f56e6309b50e40d"
+      },
+      "mod_ids": {
+        "meadow": "1.4.10",
+        "foundation": "1.0.9"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "architectury",
+          "type": "required",
+          "range": "[13.0.8,)"
+        },
+        {
+          "mod_id": "foundation",
+          "type": "required",
+          "range": "[1.0.9,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "architectury",
+          "type": "required",
+          "range": "[13.0.8,)"
+        }
+      ],
+      "pw_file": "mods/lets-do-meadow.pw.toml"
     },
     {
       "name": "Lithostitched",

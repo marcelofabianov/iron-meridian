@@ -2885,7 +2885,7 @@ hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_recipe_conflicts.js"
-hash = "c25e5f3e2c91815127a8f43ef1ba72b145517290b9938978b467cdc91e6d9d83"
+hash = "cca69546239d05114dcb1fac88bd686031bcca46c749e1221f3ccd870bd9aa28"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
@@ -3077,6 +3077,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/bagus-lib.pw.toml"
+hash = "74db917d8986ed96afda79aa13c8e35a5ee77b521d72fd19d89905dc58cf9f1f"
 metafile = true
 
 [[files]]
@@ -3557,6 +3562,11 @@ metafile = true
 [[files]]
 file = "mods/dyson-cube-project.pw.toml"
 hash = "1c8bced0d438028749bdae28d96647825ff469ec9780fb269e0ee421012aec64"
+metafile = true
+
+[[files]]
+file = "mods/earthmobs.pw.toml"
+hash = "6c95168ff0bf7992e87cb75030de82153021adbaaea3e51c44df8f56c23acdc6"
 metafile = true
 
 [[files]]
@@ -4092,6 +4102,11 @@ metafile = true
 [[files]]
 file = "mods/laser-bridges-and-doors.pw.toml"
 hash = "2b5a01588ed784a5cb3d2222b8a52e6befd3da08bdde52af752c4786ce92e182"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "afbfc94eff7adeb6ae6b6b8f1c1d1dc80f0ba9d0484e689754e14a8ca9081384"
 metafile = true
 
 [[files]]
