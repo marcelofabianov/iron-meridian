@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.19 — em preparação
+
+### Livros-guia
+- O **Akashic Tome** passa de 21 para **28 livros**: entram os guias do **Powah**, **Replication**, **Energy Meter**, **Extended Industrialization**, **Little Big Redstone**, **Logistics Network** (explica os filtros e o Stock) e **Training Dummy**.
+- Quem já tem o tomo recebe os livros novos **dentro do próprio tomo** na próxima vez que entrar no mundo, mesmo com o tomo transformado num dos livros.
+- O guia do **Replication** abria em "Page not found", porque o mod não define a página inicial. O pack inclui uma página inicial com o link para o guia.
+- Os 6 guias do GuideME usam o mesmo item, então todos têm o mesmo ícone; cada um ganhou um nome próprio ("Guia do Logistics Network" e os outros). O Powah usa o livro do próprio mod.
+
 ## 1.1.18 — 31/10/2026
 
 ### Início do jogo

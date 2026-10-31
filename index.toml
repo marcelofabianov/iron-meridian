@@ -2860,6 +2860,10 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/replication/guides/replication/main/index.md"
+hash = "4a515806e05460b0eb16d7757f9a9435e963f743d418d68cd149a83d092054e0"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -2893,7 +2897,7 @@ hash = "cb79516081754df7cad451adc1f96e145bfc0121f1ad470d074f0ed3dfe939f6"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "022adc2ed9371a9d7e550ebed228991b6c3b656f4c47213b280fa47c5617567b"
+hash = "c1d9e7733f28c97a359938d916025bc2b78ee1d195483f682a33b6f0b809252f"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"

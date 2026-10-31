@@ -950,7 +950,7 @@ Resumo em 3 linhas de cada um dos **424 mods** do pack, separados por categoria.
 222. **Akashic Tome** · [página](https://modrinth.com/mod/akashic-tome)
    - Um livro que guarda os livros-guia dos mods num item só.
    - Shift + clique direito escolhe o livro; clique direito no ar abre; Shift + clique esquerdo no ar volta ao tomo.
-   - No pack, todo personagem começa com o livro de boas-vindas no slot 1 e o tomo no slot 2, já com os 21 livros-guia.
+   - No pack, todo personagem começa com o livro de boas-vindas no slot 1 e o tomo no slot 2, já com os 28 livros-guia.
 223. **Almost Unified** · [página](https://modrinth.com/mod/almostunified)
    - Unifica recursos repetidos entre mods, como lingotes, pós e minérios.
    - Faz receitas e drops resultarem em uma única variante de cada material.
