@@ -4101,7 +4101,7 @@ metafile = true
 
 [[files]]
 file = "mods/laser-bridges-and-doors.pw.toml"
-hash = "2b5a01588ed784a5cb3d2222b8a52e6befd3da08bdde52af752c4786ce92e182"
+hash = "95be2d6251bfff5a017e5e520f78fb51406bee62e0fb07e5b75d53ab757dba5b"
 metafile = true
 
 [[files]]

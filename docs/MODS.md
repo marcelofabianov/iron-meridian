@@ -246,7 +246,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 238 | KotlinLangForge | `KotlinLangForge-2.17.0-k2.4.21-3.0+neoforge.jar` | [Modrinth](https://modrinth.com/mod/1vrSzlao) |
 | 239 | KubeJS | `kubejs-neoforge-2101.7.2-build.377.jar` | [CurseForge](https://www.curseforge.com/projects/238086) |
 | 240 | LambDynamicLights - Dynamic Lights | `lambdynamiclights-4.8.11+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/yBW8D80W) |
-| 241 | Laser Bridges & Doors | `laserbridges-1.21.1-neoforge-6.2.jar` | [Modrinth](https://modrinth.com/mod/wz31BboV) |
+| 241 | Laser Bridges & Doors | `laserbridges-1.21.1-neoforge-6.3.jar` | [Modrinth](https://modrinth.com/mod/wz31BboV) |
 | 242 | Lithostitched | `lithostitched-1.8.1-neoforge-21.1.jar` | [Modrinth](https://modrinth.com/mod/XaDC71GB) |
 | 243 | Little Big Redstone | `little-big-redstone-1.9.13-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/cdz2XZgU) |
 | 244 | Logistics Network | `logisticsnetworks-1.21.1-1.17.2.jar` | [CurseForge](https://www.curseforge.com/projects/1448257) |

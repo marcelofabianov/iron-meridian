@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.17",
+  "pack_version": "1.1.18",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -7765,15 +7765,15 @@
       "name": "Laser Bridges & Doors",
       "source": "modrinth",
       "project_id": "wz31BboV",
-      "version_id": "PyYZhWQL",
-      "filename": "laserbridges-1.21.1-neoforge-6.2.jar",
+      "version_id": "RFLXXZpa",
+      "filename": "laserbridges-1.21.1-neoforge-6.3.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "72e9835c64358b58b9a9268460afb81e4ee3825f0ca9120b093cf89d4e8b751c69f581f78b85efd0093c19c5fcbd6df30498a401721d282b8fde09bfe5416ab3"
+        "value": "abd2c6361292dd06b1b1c7ec4cf8ee08b1e0d42e2777ee14b44da95f316429d291e96fc7049136f0f27948d954ac062a1ca45e69f17a8be9d0e459cd755d944c"
       },
       "mod_ids": {
-        "laserbridges": "6.2"
+        "laserbridges": "6.3"
       },
       "dependencies": [
         {
