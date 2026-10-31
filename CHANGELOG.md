@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.1.17 — em preparação
+## 1.1.17 — 31/10/2026
 
 ### Mods novos
 - **Cultural Delights**: milho, abacate, berinjela, pepino, feijão e canela, com as comidas, para o Farmer's Delight.
@@ -8,6 +8,9 @@
 - **GeOre**: geodos de minérios. Os blocos budding de dentro fazem crescer cristais que viram lingotes ou gemas no forno. Além dos geodos vanilla, o pack liga os de **zinco, uraninita, black quartz, alumínio, chumbo, níquel, ósmio, platina, prata, estanho, tungstênio e urânio**, que vêm desligados por padrão. Só aparecem em chunks novos.
 - **Earth Mobs**: os bichos do Minecraft Earth, com mais de 20 variações de vaca, porco, galinha, ovelha e coelho (Muddy Pig, Wooly Cow, Fancy Chicken, Horned Sheep, Jumbo Rabbit e outros). Também traz mobs hostis novos, como o Bouldering Zombie e a Viler Witch. Usa a biblioteca **Bagus Lib**.
 - **[Let's Do] Meadow**: Water Buffalo, Highland Cattle, Umbra Cattle e Warped Cow, queijo (Cheese Press e fondue) e um bioma de prado com madeira de pinho. O **Woodcutter** dele foi removido, porque repete o Universal Sawmill; todos os itens dele também têm receita de mesa.
+
+### Atualizações
+- **3 mods** para a versão estável mais nova: Create: Applied Kinetics 1.5.5, Cyclops Core 1.30.1 e Integrated Crafting 1.8.1.
 
 ### Outros
 - O pack passa a ter **424 mods**.

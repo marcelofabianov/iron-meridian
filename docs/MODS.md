@@ -106,7 +106,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 98 | Create Railways Navigator | `createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6.jar` | [Modrinth](https://modrinth.com/mod/Dq3STxps) |
 | 99 | Create Stuff 'N Additions | `create-stuff-additions1.21.1_v2.1.4b.jar` | [Modrinth](https://modrinth.com/mod/aq9qUUQG) |
 | 100 | Create Stuff 'N Additions x Sable & Aeronautics Compat | `sable_sa_compat-1.0.4.jar` | [Modrinth](https://modrinth.com/mod/gsAqDfOu) |
-| 101 | Create: Applied Kinetics | `createappliedkinetics-1.5.4-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/mYGTCuZY) |
+| 101 | Create: Applied Kinetics | `createappliedkinetics-1.5.5-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/mYGTCuZY) |
 | 102 | Create: Aquatic Ambitions | `create_aquatic_ambitions-1.21.1-2.0.4.jar` | [Modrinth](https://modrinth.com/mod/9SyaPzp7) |
 | 103 | Create: Bells & Whistles | `bellsandwhistles-0.4.7-1.21.1.jar` | [Modrinth](https://modrinth.com/mod/gJ5afkVv) |
 | 104 | Create: Bionics | `createbionics-2.5.0.jar` | [Modrinth](https://modrinth.com/mod/lCwu0vBo) |
@@ -131,7 +131,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 123 | Cultural Delights | `culturaldelights-1.21.1-0.19.7.jar` | [Modrinth](https://modrinth.com/mod/YttyNOFA) |
 | 124 | Cupboard | `cupboard-1.21.1-4.2.jar` | [CurseForge](https://www.curseforge.com/projects/326652) |
 | 125 | Curios API | `curios-neoforge-9.5.1+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/vvuO3ImH) |
-| 126 | Cyclops Core | `cyclopscore-1.21.1-neoforge-1.30.0.jar` | [CurseForge](https://www.curseforge.com/projects/232758) |
+| 126 | Cyclops Core | `cyclopscore-1.21.1-neoforge-1.30.1.jar` | [CurseForge](https://www.curseforge.com/projects/232758) |
 | 127 | Dark Mode Everywhere | `darkmodeeverywhere-neoforge-1.21.1-1.4.0.jar` | [Modrinth](https://modrinth.com/mod/k3lrwGqk) |
 | 128 | Deimos | `deimos-1.21.1-neoforge-2.8.jar` | [Modrinth](https://modrinth.com/mod/WQaxNzFg) |
 | 129 | DimStorage | `DimStorage-1.21.1-9.1.1.jar` | [Modrinth](https://modrinth.com/mod/8lnmIJH7) |
@@ -213,7 +213,7 @@ Total: **424 mods** (314 do Modrinth e 110 do CurseForge).
 | 205 | Industrial Foregoing: Souls | `industrial-foregoing-souls-1.21.1-1.10.7.jar` | [Modrinth](https://modrinth.com/mod/R6YQjhwo) |
 | 206 | Industrialization Overdrive | `industrialization_overdrive-1.14.0+1.21.1.jar` | [Modrinth](https://modrinth.com/mod/FjBGB4sU) |
 | 207 | Infinite Water Block | `infinitewaterblock-1.0-SNAPSHOT.jar` | [Modrinth](https://modrinth.com/mod/BLE1Vhak) |
-| 208 | Integrated Crafting | `integratedcrafting-1.21.1-neoforge-1.8.0.jar` | [CurseForge](https://www.curseforge.com/projects/287357) |
+| 208 | Integrated Crafting | `integratedcrafting-1.21.1-neoforge-1.8.1.jar` | [CurseForge](https://www.curseforge.com/projects/287357) |
 | 209 | Integrated Dynamics | `integrateddynamics-1.21.1-neoforge-1.38.1.jar` | [CurseForge](https://www.curseforge.com/projects/236307) |
 | 210 | Integrated Scripting | `integratedscripting-1.21.1-neoforge-1.0.27.jar` | [CurseForge](https://www.curseforge.com/projects/889785) |
 | 211 | Integrated Terminals | `integratedterminals-1.21.1-neoforge-1.11.1.jar` | [CurseForge](https://www.curseforge.com/projects/295910) |

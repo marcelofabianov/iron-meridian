@@ -3346,7 +3346,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-applied-kinetics.pw.toml"
-hash = "b3b2c990023501cc95e4061ef73e541bcd6e54db6e392a8694147b6da75eee71"
+hash = "a8d1d4b99a72b13a777be7ced80daecb154d0e94d64dd84d9b09857e96b4e0d2"
 metafile = true
 
 [[files]]
@@ -3516,7 +3516,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "7fc9c417a6f55d7383fcb5deefd38cadcaecee0059c509a83d9ed88d2e18b2a6"
+hash = "101e8c9eeaf11cd5f046feab607584f714fa4dcceee02ac88027ee453008c439"
 metafile = true
 
 [[files]]
@@ -3931,7 +3931,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "e079cba28c49672cac3bfa4c2bf840571fdbb804d15c09e88e8eb5c9d1f4c976"
+hash = "f216fc44cb8e57799c979249ba39ba7aae7faa018aaa29bd0ca0b84545390b9f"
 metafile = true
 
 [[files]]

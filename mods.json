@@ -2786,15 +2786,15 @@
       "name": "Create: Applied Kinetics",
       "source": "modrinth",
       "project_id": "mYGTCuZY",
-      "version_id": "Sk7TlTkT",
-      "filename": "createappliedkinetics-1.5.4-1.21.1.jar",
+      "version_id": "qeGh796M",
+      "filename": "createappliedkinetics-1.5.5-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "1542a8395c91ff8de610206484c3a7acd2b0519854bc3a07e13a0d1230917e4f60a10cc3178de4bd01df733dca05d0a1ccdbf9f855c3252297cf0bbfb23a37ff"
+        "value": "c1d38607d7a8d7944c4c59123f08287f800b90f8295478715f8a8d3bb25ee29659adb1dd2bde8ee9eb764dec15dd87b72cab9dd201db0e12781097c724f0c29f"
       },
       "mod_ids": {
-        "createappliedkinetics": "1.5.4-1.21.1"
+        "createappliedkinetics": "1.5.5-1.21.1"
       },
       "dependencies": [
         {
@@ -4076,15 +4076,15 @@
       "name": "Cyclops Core",
       "source": "curseforge",
       "project_id": "232758",
-      "version_id": "8859263",
-      "filename": "cyclopscore-1.21.1-neoforge-1.30.0.jar",
+      "version_id": "9383688",
+      "filename": "cyclopscore-1.21.1-neoforge-1.30.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "1eab17f360da5c8523d984e51351ee35d7573699"
+        "value": "e6241bbce9c59cfd46602b35a435cba1267aa13b"
       },
       "mod_ids": {
-        "cyclopscore": "1.30.0"
+        "cyclopscore": "1.30.1"
       },
       "dependencies": [
         {
@@ -6702,15 +6702,15 @@
       "name": "Integrated Crafting",
       "source": "curseforge",
       "project_id": "287357",
-      "version_id": "9219633",
-      "filename": "integratedcrafting-1.21.1-neoforge-1.8.0.jar",
+      "version_id": "9383656",
+      "filename": "integratedcrafting-1.21.1-neoforge-1.8.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "d6ffe69bf6799b4b56d7355bd351aa46c97f5e7e"
+        "value": "6aa31c305dcc6f0f6c2ccef1ad2eec62646a4fc8"
       },
       "mod_ids": {
-        "integratedcrafting": "1.8.0"
+        "integratedcrafting": "1.8.1"
       },
       "dependencies": [
         {
