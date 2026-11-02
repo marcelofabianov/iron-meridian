@@ -1,0 +1,13 @@
+name = "Industrial Foregoing Wrench Compat"
+filename = "Industrial Foregoing Wrench Compat-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3vhwmtjb/versions/27H6bboN/Industrial%20Foregoing%20Wrench%20Compat-1.3.0.jar"
+hash-format = "sha512"
+hash = "e2cfa375a67165f3a5b398996ae9374d0ba73d760307a7055b89ba355109e419ada07a5304fe071bb3537e8f1fd98bf141add89cebf9287566f243e5806811a9"
+
+[update]
+[update.modrinth]
+mod-id = "3vhwmtjb"
+version = "27H6bboN"

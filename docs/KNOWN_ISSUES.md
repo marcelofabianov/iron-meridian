@@ -18,6 +18,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - "Could not decode GlobalLootModifier ... veggiesdelight:add_loot_*" do Veggies Delight: o mod usa um formato antigo do Farmer's Delight, e as verduras dele não aparecem nos baús de vilas e minas. As plantas selvagens e as trocas com aldeões continuam.
 - "Failed to parse recipe 'veggiesdelight:compat/culturaldelight/...' ... Falling back to vanilla" do KubeJS: o KubeJS lê essas receitas do jeito padrão, e elas carregam.
 - "[EnderIO] Unable to inherit the cooking recipe with ID: geore:..._shard": o Ender IO não copia as receitas de forno dos cristais do GeOre para a Alloy Smelter. Os cristais continuam derretendo no forno e no alto-forno.
+- Loot tables `dndecor:blocks/<cor>_*` (amber, aqua, beige, teal e outras) do Create: Design n' Decor: são as cores extras do Dye Depot, que não está no pack. Os blocos dessas cores não existem; as cores normais funcionam. O mesmo mod avisa "File design_decor:sounds/large_chain/... does not exist", e só a corrente grande fica sem som.
 
 ## Avisos que aparecem no chat
 

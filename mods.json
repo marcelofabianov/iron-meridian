@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "1.1.19",
+  "pack_version": "1.1.20",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -127,6 +127,44 @@
         }
       ],
       "pw_file": "mods/actually-harvest.pw.toml"
+    },
+    {
+      "name": "Ad-Astra: Giselle Addon",
+      "source": "modrinth",
+      "project_id": "XQDxCBVw",
+      "version_id": "ACL2XPNJ",
+      "filename": "Ad-Astra-Giselle-Addon-neoforge-1.21.1-8.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "f87db7faf700c8b4f8ee7090060ca2f9999bab34ec384600d8daa4b80d861d5ed5d750a96a318ae1872a8891221cdc22c99265e6ecf6ec91f624a58795ced598"
+      },
+      "mod_ids": {
+        "ad_astra_giselle_addon": "8.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.229,)"
+        },
+        {
+          "mod_id": "common_storage_lib",
+          "type": "required",
+          "range": "[0.0.9,)"
+        },
+        {
+          "mod_id": "ad_astra",
+          "type": "required",
+          "range": "[1.16.0,)"
+        },
+        {
+          "mod_id": "resourcefulconfig",
+          "type": "required",
+          "range": "[3.0.11,)"
+        }
+      ],
+      "pw_file": "mods/ad-astra-giselle-addon.pw.toml"
     },
     {
       "name": "Ad Astra",
@@ -1163,6 +1201,44 @@
         }
       ],
       "pw_file": "mods/attributefix.pw.toml"
+    },
+    {
+      "name": "Backpack Side GUI",
+      "source": "modrinth",
+      "project_id": "I99J8sr3",
+      "version_id": "nJo8qx0P",
+      "filename": "backpack_side_gui-1.4.2-neoforge-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "6f9370c426abc4527b4df1cdfbf5fb7180e429983bc1e0d553209eb9dc065c5e8770ba52a591371767e64d7a738a91dbbb6e7b0ea787c221701dcdf7d8a651c7"
+      },
+      "mod_ids": {
+        "backpack_side_gui": "1.4.2-neoforge-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,21.2)"
+        },
+        {
+          "mod_id": "sophisticatedbackpacks",
+          "type": "required",
+          "range": "[3.25.0,)"
+        },
+        {
+          "mod_id": "curios",
+          "type": "optional",
+          "range": "[0,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[0,)"
+        }
+      ],
+      "pw_file": "mods/backpack-side-gui.pw.toml"
     },
     {
       "name": "Bad Wither No Cookie - Reloaded",
@@ -3138,6 +3214,44 @@
       "pw_file": "mods/create-deep-seas.pw.toml"
     },
     {
+      "name": "Create: Design n' Decor",
+      "source": "modrinth",
+      "project_id": "x49wilh8",
+      "version_id": "uQsIRky8",
+      "filename": "Design-n-Decor-1.21.1-2.2b.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "d888553c8a254c3654f8da2ae2cae0bb642594546c71988739c93bf6b18668145e0ce5b1c20ae0544b9b6019f17e4da944bd5bc17e4c6b73e7f1374cfa2c9db9"
+      },
+      "mod_ids": {
+        "dndecor": "2.2b"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.200,)"
+        },
+        {
+          "mod_id": "flywheel",
+          "type": "required",
+          "range": "[1.0.0,2.0)"
+        },
+        {
+          "mod_id": "ponder",
+          "type": "required",
+          "range": "[0.8,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.4,)"
+        }
+      ],
+      "pw_file": "mods/create-design-n-decor.pw.toml"
+    },
+    {
       "name": "Create: Diesel Generators",
       "source": "modrinth",
       "project_id": "ZM3tt6p1",
@@ -3792,6 +3906,44 @@
         }
       ],
       "pw_file": "mods/createaddition.pw.toml"
+    },
+    {
+      "name": "Create: Addon Compatibility",
+      "source": "modrinth",
+      "project_id": "QgrK9rtJ",
+      "version_id": "tL1Tayuh",
+      "filename": "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "dd00b322526454c60c088e1e50e9473fa3a3eb3bcb5fbaf2cd9b0ba41121d4b0458b49ecca15c0f0fa0b863bd2775741362da249eca11422955648c2722d99c3"
+      },
+      "mod_ids": {
+        "createaddoncompatibility": "1.0.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.219,)"
+        },
+        {
+          "mod_id": "almostunified",
+          "type": "required",
+          "range": "[1.21.1-1.3.0,)"
+        },
+        {
+          "mod_id": "create",
+          "type": "required",
+          "range": "[6.0.9,6.1.0)"
+        },
+        {
+          "mod_id": "tfmg",
+          "type": "optional",
+          "range": "[1.2.0,)"
+        }
+      ],
+      "pw_file": "mods/createaddoncompatibility.pw.toml"
     },
     {
       "name": "CreateBetterFps",
@@ -6605,6 +6757,34 @@
       "pw_file": "mods/industrial-foregoing-souls.pw.toml"
     },
     {
+      "name": "Industrial Foregoing Wrench Compat",
+      "source": "modrinth",
+      "project_id": "3vhwmtjb",
+      "version_id": "27H6bboN",
+      "filename": "Industrial Foregoing Wrench Compat-1.3.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "e2cfa375a67165f3a5b398996ae9374d0ba73d760307a7055b89ba355109e419ada07a5304fe071bb3537e8f1fd98bf141add89cebf9287566f243e5806811a9"
+      },
+      "mod_ids": {
+        "ifwc": "1.3.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.0,)"
+        },
+        {
+          "mod_id": "industrialforegoing",
+          "type": "optional",
+          "range": ""
+        }
+      ],
+      "pw_file": "mods/industrial-foregoing-wrench-compat.pw.toml"
+    },
+    {
       "name": "Industrial Foregoing",
       "source": "modrinth",
       "project_id": "lWxpUd04",
@@ -9338,6 +9518,74 @@
         }
       ],
       "pw_file": "mods/oceans-delight.pw.toml"
+    },
+    {
+      "name": "Omni Upgrades",
+      "source": "modrinth",
+      "project_id": "jaXalC9h",
+      "version_id": "yMfRAaz4",
+      "filename": "omni_upgrades-1.0.4-1.21.1.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "300cbe7da9db2a613cb791dab573bae727765eda7fed6342f46b63788ec9825c24ba9f5215af9673d1d7f3fd5fa578c26cc15e2a8e35c17d0f74cd3441e92239"
+      },
+      "mod_ids": {
+        "omni_upgrades": "1.0.4-1.21.1"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.215,)"
+        },
+        {
+          "mod_id": "mekanism",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "industrialforegoing",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "productivebees",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "productivebeesgenesis",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "pneumaticcraft",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "extendedae",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "advanced_ae",
+          "type": "optional",
+          "range": "*"
+        },
+        {
+          "mod_id": "mekanism_extras",
+          "type": "optional",
+          "range": "*"
+        }
+      ],
+      "pw_file": "mods/omni-upgrades.pw.toml"
     },
     {
       "name": "Open Loader",

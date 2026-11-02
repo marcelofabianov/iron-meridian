@@ -56,7 +56,7 @@ O Iron Meridian foi montado a partir do pack **Technoverse Frontier V8 + ATM Tec
    3. Deeper and Darker.
    4. Twilight Forest.
    5. Mining Dimension.
-   6. Ad Astra da versão de origem, com o Giselle Addon. O **Ad Astra 1.16.26** voltou depois, sem o addon.
+   6. Ad Astra da versão de origem, com o Giselle Addon. O **Ad Astra 1.16.26** voltou depois, sem o addon. O **Giselle Addon 8.1** voltou na 1.1.20.
 3. **Conflitos e funções repetidas (regra 3):**
    1. Dungeon Crawl, que conflitava com o YUNG's Better Dungeons.
    2. Cristel Lib.

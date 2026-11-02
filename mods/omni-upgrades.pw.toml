@@ -1,0 +1,13 @@
+name = "Omni Upgrades"
+filename = "omni_upgrades-1.0.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jaXalC9h/versions/yMfRAaz4/omni_upgrades-1.0.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "300cbe7da9db2a613cb791dab573bae727765eda7fed6342f46b63788ec9825c24ba9f5215af9673d1d7f3fd5fa578c26cc15e2a8e35c17d0f74cd3441e92239"
+
+[update]
+[update.modrinth]
+mod-id = "jaXalC9h"
+version = "yMfRAaz4"

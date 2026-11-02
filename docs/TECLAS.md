@@ -81,6 +81,7 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
 | 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
 | 51 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
+| 52 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
 
 ### Sem tecla, de propósito
 
@@ -94,6 +95,7 @@ Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
+- Preenchimento sequencial do Omni Upgrades: vinha no **Shift + N**, que é o Show Description do Mekanism.
 - Ajuste fino de animações do Punchy! (eixos, alvos, aumentar/diminuir, salvar): é ferramenta de quem cria animações e vinha no **R**, no **F6**, no **F7**, nas setas e no teclado numérico.
 
 ### Teclas livres
@@ -187,6 +189,12 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | Shift esquerdo | Modifier for Mouse-Wheel Items | Jogo |
 | Ctrl esquerdo | Place Parts on Opposite Side | Jogo |
+
+### Backpack Side GUI
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| G | Quick Transfer Backpack Item (manda o item sob o mouse para a mochila) | Tela |
 
 ### Bridging Mod
 
@@ -508,6 +516,13 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | F9 | Toggle Chunk Boundaries | Jogo |
 | F7 | Toggle Light Overlay | Jogo |
+
+### Omni Upgrades
+
+| Tecla | Ação | Onde |
+|---|---|---|
+| Shift + O | Toggle Enabled (instalação em lote) | Jogo |
+| — | Toggle Sequential Fill | Jogo |
 
 ### Oracle Index
 

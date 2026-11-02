@@ -91,3 +91,5 @@ key_key.punchy.tuning.print:key.keyboard.unknown
 key_key.punchy.tuning.save_session:key.keyboard.unknown
 key_key.punchy.tuning.toggle_pivot:key.keyboard.unknown
 key_key.punchy.open_main_menu:key.keyboard.f8:SHIFT
+key_key.omni_upgrades.toggle_enabled:key.keyboard.o:SHIFT
+key_key.omni_upgrades.toggle_sequential_fill:key.keyboard.unknown

@@ -2845,7 +2845,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1e3434193f056a529e7eae2bbb53710332c66ce26a273aae7c565ff2247a3f2b"
+hash = "d61296ce11ec43a67591bd06673a5e2cf7aa17a7e22d370a6e80850342576115"
 
 [[files]]
 file = "configureddefaults/shaderpacks/ComplementaryReimagined_r5.6.1 + Clrwl_1.0.5.zip.txt"
@@ -2921,6 +2921,11 @@ metafile = true
 [[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "55e42a2bc361c0319990d362aa3f2a92fec0ca1dcbf567c94481aca169991496"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "76b0b436c7a47689c9a9eaf1b064dfb27b3a79347323839e4be0d78a3296d705"
 metafile = true
 
 [[files]]
@@ -3071,6 +3076,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/backpack-side-gui.pw.toml"
+hash = "5a1b6bd5e090eaa5809a0b69cfd6c27398f51d7de22dee31fac9583313965da8"
 metafile = true
 
 [[files]]
@@ -3389,6 +3399,11 @@ hash = "9a55301a424d2e98adc9a41869c99ee139425a3d05ccfda50e1d45c0d39aae52"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
@@ -3466,6 +3481,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "046a80051e21c0bab042ad1b7e27d42a7456fd36cfabf0454e9110ec345078fd"
 metafile = true
 
 [[files]]
@@ -3916,6 +3936,11 @@ metafile = true
 [[files]]
 file = "mods/industrial-foregoing-souls.pw.toml"
 hash = "642f8cb70bf81192f9039dc2a76e6c3c0dbb934120e2858b867afaaccf95bf39"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing-wrench-compat.pw.toml"
+hash = "7b16989da4e06cc88c2ae67a7d9170c455d87a73acc8aa1288b4e2d727e38690"
 metafile = true
 
 [[files]]
@@ -4371,6 +4396,11 @@ metafile = true
 [[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
+metafile = true
+
+[[files]]
+file = "mods/omni-upgrades.pw.toml"
+hash = "4d34d8179e91c53e48284e7af56ebb9a41a9327052abcd3e137e1d29518e8006"
 metafile = true
 
 [[files]]
