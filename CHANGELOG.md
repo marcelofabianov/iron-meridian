@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.1.20 — 02/11/2026
+
+### Mods novos
+- **Omni Upgrades**: Shift + botão direito com um upgrade instala o item **em lote** em todas as máquinas iguais conectadas (Mekanism, Industrial Foregoing, AE2, ExtendedAE, AdvancedAE e PneumaticCraft), com prévia destacada. **Shift + O** liga e desliga o modo.
+- **Industrial Foregoing Wrench Compat**: Shift + botão direito com uma wrench de outro mod desmonta máquinas do Industrial Foregoing direto para o inventário. Os fluidos dos tanques da máquina são apagados.
+- **Ad Astra: Giselle Addon**: Oxygen Can (enche o oxigênio da armadura e do Scuba Tank do Mekanism), **Fuel Loader** para foguetes e rovers, NASA Workbench automatizável e chave para trancar portas. Tinha saído junto com o Ad Astra antigo e volta agora que o Ad Astra está no pack.
+- **Create: Design n' Decor**: blocos de decoração industrial para as fábricas do Create.
+- **Create: Addon Compatibility**: ajusta tags entre addons do Create, como os Copycats do Create: Connected, e as de plástico e óleo do PneumaticCraft.
+- **Backpack Side GUI**: a mochila do Sophisticated Backpacks num painel lateral, ao lado de qualquer inventário. A tecla **G**, dentro de uma tela, manda o item sob o mouse para a mochila.
+
+### Atualizações
+- **13 mods** para a versão estável mais nova: Amendments 2.2.7, Applied Oritech 1.0.5, Colorwheel 1.3.1, Energy Meter 0.6.0, ExtendedAE 2.2.43, Integrated Scripting 1.1.0, Iris & Oculus Search 1.8.4, Keybind Atlas 2.3.0, KubeJS build.381, Mekanism: More Machine 1.4.2, Modern Industrialization 2.5.12, Not Enough Animations 1.12.7 e Tesseract API 1.12.20.
+
+### Teclas
+- O "Toggle Sequential Fill" do Omni Upgrades vem sem tecla, porque o padrão dele (Shift + N) é o Show Description do Mekanism. Quem já tinha o jogo instalado pode apagar essa tecla em **Opções → Controles**.
+
+### Outros
+- O pack passa a ter **430 mods**.
+- Guia dos mods com a contagem por categoria corrigida, mapa de teclas, problemas conhecidos e lista de mods atualizados.
+
 ## 1.1.19 — 31/10/2026
 
 ### Livros-guia
