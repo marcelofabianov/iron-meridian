@@ -70,7 +70,7 @@ QUAL = {"alpha": -5, "a": -5, "beta": -4, "b": -4, "milestone": -3, "m": -3, "rc
 
 
 def _toks(v):
-    out = [(1, int(t)) if t.isdigit() else (0, QUAL.get(t, -0.5))
+    out = [(1, int(t)) if t.isdigit() else (0, QUAL.get(t, 2))
            for t in re.findall(r"\d+|[a-z]+", v.split("+")[0].lower())]
     while out and out[-1] == (1, 0):
         out.pop()
@@ -78,7 +78,12 @@ def _toks(v):
 
 
 def vcmp(a, b):
-    for x, y in zip_longest(_toks(a), _toks(b), fillvalue=(1, 0)):
+    for x, y in zip_longest(_toks(a), _toks(b)):
+        # Lado que acabou: vale 0 diante de número e "release" diante de qualificador (Maven).
+        if x is None:
+            x = (1, 0) if y[0] == 1 else (0, 0)
+        if y is None:
+            y = (1, 0) if x[0] == 1 else (0, 0)
         if x != y:
             return -1 if x < y else 1
     return 0

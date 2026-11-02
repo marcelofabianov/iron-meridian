@@ -831,15 +831,15 @@
       "name": "Amendments",
       "source": "modrinth",
       "project_id": "6iTJugQR",
-      "version_id": "Fjkt65h2",
-      "filename": "amendments-1.21-2.2.5-neoforge.jar",
+      "version_id": "w19mjFoT",
+      "filename": "amendments-1.21-2.2.7-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "21bee4729e0e761e746344fb58e79f15adf4d84097027bdf7e45d1d2ed3f09e644cdf8f694b16be63b059f0db6330590ccb18457f813778f09c2b6eb00ae3076"
+        "value": "e244c23cd46a188b84b0f9a807d600da846f8f2d216dbee5809caa566c9f4270f0b9da49c426115e5097b4fc92d228ac1a0adee71fcc7cf3a25c74d042f0e6d8"
       },
       "mod_ids": {
-        "amendments": "1.21-2.2.5"
+        "amendments": "1.21-2.2.7"
       },
       "dependencies": [
         {
@@ -1061,15 +1061,15 @@
       "name": "Applied Oritech",
       "source": "curseforge",
       "project_id": "1686167",
-      "version_id": "8944224",
-      "filename": "applied_oritech-1.0.4+1.21.1.jar",
+      "version_id": "9397094",
+      "filename": "applied_oritech-1.0.5-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "31b39d0440b77dc6b59a9090586cd8e52944c196"
+        "value": "82f60899e495414bc5641cd4fc402bb5286f8919"
       },
       "mod_ids": {
-        "applied_oritech": "1.0.4+1.21.1"
+        "applied_oritech": "1.0.5+1.21.1"
       },
       "dependencies": [
         {
@@ -1080,12 +1080,12 @@
         {
           "mod_id": "oritech",
           "type": "required",
-          "range": "[1.2.12,)"
+          "range": "[1.2.13,)"
         },
         {
           "mod_id": "ae2",
           "type": "required",
-          "range": "[19.2.0,)"
+          "range": "[19.2.18,)"
         },
         {
           "mod_id": "extendedae",
@@ -2066,15 +2066,15 @@
       "name": "Colorwheel",
       "source": "modrinth",
       "project_id": "BzHgFoGz",
-      "version_id": "8rq5KP4U",
-      "filename": "colorwheel-neoforge-1.3.0+mc1.21.1.jar",
+      "version_id": "oiCkoAAk",
+      "filename": "colorwheel-neoforge-1.3.1+mc1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "1d2088d41f57cef08b8b9692a5f95427c34cf218e0e0fe20bc335e7a5cab9e37cea414b786070cc29947fbbe9e9dba1a4134f722c35b9ccbef60e2a075e352aa"
+        "value": "f29269ecda044c35c5f3d1a83b53bd1139edb7d75fd440a0f90e548cdd8a346a7c86f771a41b864bf67cbbd0eaf3e29e6c0ed86595406e951f0227b225faee83"
       },
       "mod_ids": {
-        "colorwheel": "1.3.0+mc1.21.1"
+        "colorwheel": "1.3.1+mc1.21.1"
       },
       "dependencies": [
         {
@@ -4884,15 +4884,15 @@
       "name": "Energy Meter",
       "source": "modrinth",
       "project_id": "MbejSZ2E",
-      "version_id": "rKdSZwE2",
-      "filename": "energymeter-neoforge-1.21.1-0.5.3.jar",
+      "version_id": "wrLe1pXk",
+      "filename": "energymeter-neoforge-1.21.1-0.6.0.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "1fc6c79a0ec35c3847aab7511b97f52c8bb4c1ba7171ae70162f1ef57ab0b412fc80f5bbeab90dd07b31ee27175bd084173952acb7153303bf11799cf0b955ca"
+        "value": "cad4eca26c779fb5b0b2510a5cdf1d6dc6e3fc67235813eb183839694538ad3db412d2ca5cefe1695ae5aabb9e263660a53b490225098fd277713def229ef3b2"
       },
       "mod_ids": {
-        "energymeter": "1.21.1-0.5.3"
+        "energymeter": "1.21.1-0.6.0"
       },
       "dependencies": [
         {
@@ -5023,15 +5023,15 @@
       "name": "ExtendedAE",
       "source": "curseforge",
       "project_id": "892005",
-      "version_id": "9305327",
-      "filename": "ExtendedAE-1.21-2.2.42-neoforge.jar",
+      "version_id": "9391213",
+      "filename": "ExtendedAE-1.21-2.2.43-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "dc4c1e06d3b844261744896bf0173ec6780d565d"
+        "value": "fa23f057d44cd66c49271f7f0e503e5c9dd5bf14"
       },
       "mod_ids": {
-        "extendedae": "1.21-2.2.42-neoforge",
+        "extendedae": "1.21-2.2.43-neoforge",
         "ae2wtlib_api": "19.2.0"
       },
       "dependencies": [
@@ -6969,21 +6969,21 @@
       "name": "Integrated Scripting",
       "source": "curseforge",
       "project_id": "889785",
-      "version_id": "8813526",
-      "filename": "integratedscripting-1.21.1-neoforge-1.0.27.jar",
+      "version_id": "9393701",
+      "filename": "integratedscripting-1.21.1-neoforge-1.1.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "de18d01b3bb059e7a09b1c12b0c5d7540aa509a2"
+        "value": "42f61de23d3c982cf044db5aa950057f9507c3c0"
       },
       "mod_ids": {
-        "integratedscripting": "1.0.27"
+        "integratedscripting": "1.1.0"
       },
       "dependencies": [
         {
           "mod_id": "cyclopscore",
           "type": "required",
-          "range": "[1.25.5,)"
+          "range": "[1.30.0,)"
         },
         {
           "mod_id": "commoncapabilities",
@@ -7269,15 +7269,15 @@
       "name": "Iris & Oculus Search",
       "source": "modrinth",
       "project_id": "bkAgg84v",
-      "version_id": "yCrvbRUo",
-      "filename": "IrisSearch-1.8.3-neoforge.jar",
+      "version_id": "CSSRafns",
+      "filename": "IrisSearch-1.8.4-neoforge.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "ee154f8d0e1b8818f50439bf6a14971e6bca500afc1132c17cc4793ab58c8e133fd432d40c525da423d90407e284db5a5fa19b60fedc40b8d0c494a86c1030a3"
+        "value": "787f177ede95dfa71b88abee82f03a0181023e3fb5de1e9ed31a21197b78db0e00b902e16d58a3bcca84851c8b2e34915928860e0610f13514c7a5477c8ae977"
       },
       "mod_ids": {
-        "iris_search": "1.8.3-neoforge"
+        "iris_search": "1.8.4-neoforge"
       },
       "dependencies": [
         {
@@ -7685,15 +7685,15 @@
       "name": "Keybind Atlas",
       "source": "modrinth",
       "project_id": "fokFjwwh",
-      "version_id": "EVcbkSpX",
-      "filename": "KeybindAtlas-v2.1.1-mc1.21.1-neoforge.jar",
+      "version_id": "K68qjYLd",
+      "filename": "KeybindAtlas-v2.3.0-mc1.21.1-neoforge.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "41aff64521288192af39fa08b8fa276f7fce0c78faa924dd0a9b130c5d0ce7c8be84c21639b8a57d1e5730a5e06322247c4bc5dc22b5ce0b7fc7e62ff856a764"
+        "value": "826808a5820a918056c089219b2cbca69118d4f775a9996047fce18b3c49b8bdacbc10ba39964aca57d3562265d4f1af67cf988ade3438b337eae4ae2968d261"
       },
       "mod_ids": {
-        "keybindatlas": "2.1.1"
+        "keybindatlas": "2.3.0"
       },
       "dependencies": [
         {
@@ -7833,15 +7833,15 @@
       "name": "KubeJS",
       "source": "curseforge",
       "project_id": "238086",
-      "version_id": "8843626",
-      "filename": "kubejs-neoforge-2101.7.2-build.377.jar",
+      "version_id": "9396059",
+      "filename": "kubejs-neoforge-2101.7.2-build.381.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "150c5d6efc09b969ac350ea205128dff832e0850"
+        "value": "c795402c73988ed0c03ce61767f9606aa1d606d8"
       },
       "mod_ids": {
-        "kubejs": "2101.7.2-build.377",
+        "kubejs": "2101.7.2-build.381",
         "betteradvancedtooltips": "2101.1.0-build.1"
       },
       "dependencies": [
@@ -8553,15 +8553,15 @@
       "name": "Mekanism:More Machine",
       "source": "modrinth",
       "project_id": "qDJXZJTz",
-      "version_id": "RYVVOm3d",
-      "filename": "mekmm-1.21.1-1.4.1.jar",
+      "version_id": "l1cANyIJ",
+      "filename": "mekmm-1.21.1-1.4.2.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "ac2ac122e6c0a22b95a7715f334d789ae75e0f012742dd96b2869e051a404435e1b88055d97ba05b6d3ba212f645fdbb2d65cf6f193270422b82f2f2b2eec037"
+        "value": "3e5ecd1cbdb43d60af6b25db6b1ba7313307e87f558e70981c5415bfbff9e81f695221c884171478121d69c39b0c8081d267576db20d9b8ad123c65b8438625d"
       },
       "mod_ids": {
-        "mekmm": "1.4.1"
+        "mekmm": "1.4.2"
       },
       "dependencies": [
         {
@@ -8858,15 +8858,15 @@
       "name": "Modern Industrialization",
       "source": "modrinth",
       "project_id": "Gov5Dboq",
-      "version_id": "hN58r67E",
-      "filename": "Modern-Industrialization-2.5.11.jar",
+      "version_id": "xGrDqc07",
+      "filename": "Modern-Industrialization-2.5.12.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "bc76a314d26278c1e77292c883f342cf3d9dfcefc03378addf0a560de434caa99d6b1f11608cbc2e6b99d217902dc39a2f4dc829bfc5e7ab9d556ef938be9cd6"
+        "value": "c4816b70ab2530cd087f9aef2b97723ff6e2cdf63163c5c27c1b6ee8153d0826ae8cf413d00a4ac96f8ece2da781409cddb6d8f1f93fc88f255b10be3a6437bc"
       },
       "mod_ids": {
-        "modern_industrialization": "2.5.11",
+        "modern_industrialization": "2.5.12",
         "grandpower": "3.0.0"
       },
       "dependencies": [
@@ -9437,16 +9437,16 @@
       "name": "Not Enough Animations",
       "source": "modrinth",
       "project_id": "MPCX6s5C",
-      "version_id": "VCuMsK45",
-      "filename": "notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+      "version_id": "f9RkhlA0",
+      "filename": "notenoughanimations-neoforge-1.12.7-mc1.21.1.jar",
       "side": "client",
       "hash": {
         "format": "sha512",
-        "value": "2b392f770cac669abcc796e836fc86579e29c1c70174f773fadbb747d8a49763fefd938835aeef8681a384aee9a7b6a8fa4684aaa1961159ccddea680e936acd"
+        "value": "0d0a2080c14a513962e9183aae028649b0d40514881481735141d7e137a3e9d5751f6c5468ace369bde09f81c15c06f76e3f8f5785f8c783fce2c26a4f3c4fbf"
       },
       "mod_ids": {
-        "notenoughanimations": "1.12.6",
-        "transition": "1.0.25",
+        "notenoughanimations": "1.12.7",
+        "transition": "1.0.28",
         "trender": "1.0.17"
       },
       "dependencies": [
@@ -12126,15 +12126,15 @@
       "name": "Tesseract API",
       "source": "modrinth",
       "project_id": "pHNT1iyc",
-      "version_id": "84xLgpze",
-      "filename": "tesseract-api-neoforge-1.12.19-1.21.1.jar",
+      "version_id": "6vPblZTq",
+      "filename": "tesseract-api-neoforge-1.12.20-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "2a81cb0a5ad1c0c5fe5ea1758368e8403a9fba265206d663abe4d89ecdf5c01ec7282d3db61d3c30d3cc548dd0d84e633918afba25f0d46c7d787c361926453b"
+        "value": "720345b77f554db86af25f395b68ca93410d840329ed597a7377207d68e870e41288812b61a270e629e2c21d17481fa565943eba9cac74698630b2fe7cb59820"
       },
       "mod_ids": {
-        "tesseract_api": "1.12.19-1.21.1"
+        "tesseract_api": "1.12.20-1.21.1"
       },
       "dependencies": [
         {
@@ -12145,7 +12145,7 @@
         {
           "mod_id": "modern_industrialization",
           "type": "optional",
-          "range": "[2.5.11-, 2.6-)"
+          "range": "[2.5.12-, 2.6-)"
         },
         {
           "mod_id": "guideme",

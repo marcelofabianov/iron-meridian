@@ -3025,7 +3025,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "aef2b0ee3884d9da84c099557f8f7529f965513d269d450f1f9f8e8cc78b5a47"
+hash = "d6c2790cc195eb3620ef71248c0f30b747eb654b24e55ada7eb35af531594c5e"
 metafile = true
 
 [[files]]
@@ -3055,7 +3055,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-oritech.pw.toml"
-hash = "c052e14507aeb80442793c56fd62d2acbd47d7c97f421faaea6b45af127f7ccc"
+hash = "eaaf150f64b9cd9a09a263869f8dfc1639bda31c4e9479c5a72067290db72386"
 metafile = true
 
 [[files]]
@@ -3245,7 +3245,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "6867922a8ccface85edc8df2268e4996c6ab6867b9da34258b6bf6efc0bc2efa"
+hash = "48d92eb61acf8e2b6b1a659765d6ee1386bf439cf32f8de0dfa6eb0d737f7778"
 metafile = true
 
 [[files]]
@@ -3645,7 +3645,7 @@ metafile = true
 
 [[files]]
 file = "mods/energymeter.pw.toml"
-hash = "26aebc91ddb06fc37eb5e2d64f332ac6e28af74b01bbca740494d9480110817e"
+hash = "5260ff606ba2cb066b68d535a45e1a8bad6dee3aaa93a68f517601637d53cbf0"
 metafile = true
 
 [[files]]
@@ -3665,7 +3665,7 @@ metafile = true
 
 [[files]]
 file = "mods/ex-pattern-provider.pw.toml"
-hash = "9cb28f80dbca7495978b03760c372d41c97a8675dcfb4093277737f6ba106fe3"
+hash = "34060f845cd0e451231f2ca2f9d702b890f06cf98267275ff62324f20d85dd38"
 metafile = true
 
 [[files]]
@@ -3970,7 +3970,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-scripting.pw.toml"
-hash = "9d74cefcacecc3dccf385e557153db931593bb615f9e052e86f8dc7175817735"
+hash = "ddee19c847c3e3841ef998c3908b1ad08e6d3c4116f4544f2eacabde00aeb29f"
 metafile = true
 
 [[files]]
@@ -4010,7 +4010,7 @@ metafile = true
 
 [[files]]
 file = "mods/irissearch.pw.toml"
-hash = "aa393a30005c65c5a95189fcff10761d2726de97e9ef42395664ea59bc51dca0"
+hash = "9fbe82360c07c00ac9798054d7ca81535310619326db66088493d2cb8b6885d3"
 metafile = true
 
 [[files]]
@@ -4085,7 +4085,7 @@ metafile = true
 
 [[files]]
 file = "mods/keybind-atlas.pw.toml"
-hash = "7d616049652f72d0e93284824c02b37c702146b100ab223e5fbcd49a6c467059"
+hash = "2ad2e06ba3f138e92cf0088822324d3f521f9a116a7df079c282f7d05fc11efc"
 metafile = true
 
 [[files]]
@@ -4120,7 +4120,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "00bacfc5a98d9b0dff90bbad503def28abf970a2061c9456f721e442bc32ab29"
+hash = "031e809b62d4d70a66be3e68ab7deeffba17027bb785c83b95c6dcfd4a4e6a8d"
 metafile = true
 
 [[files]]
@@ -4220,7 +4220,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanismmoremachine.pw.toml"
-hash = "2998025f99be79a3b4813b687c83e7c4964cbc1a424c4a35dd20e08a7a594b51"
+hash = "2c1e7a0861992ce38acacf427feaafc0f3524f0a5f37ece3495b705245cf5317"
 metafile = true
 
 [[files]]
@@ -4280,7 +4280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "a4471ea61bcf68554e9595c3abda91ddc847bbb1060ccec491d7e231cf1858d8"
+hash = "6503d1b46cf996bbf1f80c785dbd587684fc7abb46e1cc9287ed53f4fa4490fe"
 metafile = true
 
 [[files]]
@@ -4385,7 +4385,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e0f1cef5482844e62c6fc3c7771fc9ef8385c47092248f76aa1fa271220b24e8"
+hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
 
 [[files]]
@@ -4820,7 +4820,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "40d1b1f68164a2692ce268e2c418897cb8d5ff172bc398bc783ed0ec17366be0"
+hash = "c26dc9ddb8d21609db19e2594216121975730f2817984b2f0f4f117095904f36"
 metafile = true
 
 [[files]]
