@@ -2376,6 +2376,10 @@ file = "kubejs/assets/replication/guides/replication/main/index.md"
 hash = "4a515806e05460b0eb16d7757f9a9435e963f743d418d68cd149a83d092054e0"
 
 [[files]]
+file = "kubejs/client_scripts/iron_meridian_hidden.js"
+hash = "a634c29aaef18db4579145bb5ee638a7cf7f2ddceecf8effa0e7af645d2665ec"
+
+[[files]]
 file = "kubejs/client_scripts/main.js"
 hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
 
@@ -2406,6 +2410,10 @@ hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_recipe_conflicts.js"
 hash = "0bf864f4f8a3ffb2cc1b60406ae0329ff2bf1684b1de75066566384dc714ad07"
+
+[[files]]
+file = "kubejs/server_scripts/iron_meridian_recipe_fixes.js"
+hash = "c40b270323f2264795337b4e10cf08148ad2cc05b4bce17b250cf2f8333faaba"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_sag.js"
