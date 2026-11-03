@@ -3722,34 +3722,6 @@
       "pw_file": "mods/extreme_sound_muffler.pw.toml"
     },
     {
-      "name": "Factory Blocks [Forge/Fabric/NeoForge]",
-      "source": "curseforge",
-      "project_id": "640001",
-      "version_id": "6266334",
-      "filename": "factory_blocks-neoforge-1.4.0+mc1.21.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "51fa93c3b0978f4f7e3b801bea6822ec72522e50"
-      },
-      "mod_ids": {
-        "factory_blocks": "1.4.0+mc1.21.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[0,)"
-        },
-        {
-          "mod_id": "architectury",
-          "type": "required",
-          "range": "[0,)"
-        }
-      ],
-      "pw_file": "mods/factory-blocks.pw.toml"
-    },
-    {
       "name": "FancyMenu",
       "source": "modrinth",
       "project_id": "Wq5SjeWM",

@@ -3118,11 +3118,6 @@ hash = "7a60a9640f09e527a7d2bef362ee0e950dc5047a549a2afcb802f266818b7cd4"
 metafile = true
 
 [[files]]
-file = "mods/factory-blocks.pw.toml"
-hash = "f8890e55be67dddba9789c5913e934ae06c2f0c3af83c231916c0ef305a16ff5"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "26975365054fadd972780c02ec9c5e7b394abcf3fc9f75d59ed3f7e5ead8f3e7"
 metafile = true
