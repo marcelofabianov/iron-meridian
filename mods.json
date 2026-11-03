@@ -223,29 +223,6 @@
       "pw_file": "mods/additional-enchanted-miner.pw.toml"
     },
     {
-      "name": "Additional Lights",
-      "source": "curseforge",
-      "project_id": "384991",
-      "version_id": "6841545",
-      "filename": "additional_lights-neoforge-1.21-2.1.10.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "8dc485146437e8ac40dd29e10747601fd4e372ca"
-      },
-      "mod_ids": {
-        "additional_lights": "2.1.10"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.0-beta,)"
-        }
-      ],
-      "pw_file": "mods/additional-lights.pw.toml"
-    },
-    {
       "name": "AdvancedAE",
       "source": "modrinth",
       "project_id": "rxYaglEe",

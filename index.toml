@@ -2543,11 +2543,6 @@ hash = "d260f829723d6c30fde70798bbc372ebabdea435a95f3bf8e30af42585dcde0b"
 metafile = true
 
 [[files]]
-file = "mods/additional-lights.pw.toml"
-hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
-metafile = true
-
-[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
 metafile = true

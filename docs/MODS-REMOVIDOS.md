@@ -105,6 +105,7 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 93 | Immersive Vehicles | `Immersive Vehicles-1.21.1-24.0.0.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. O Immersive Aircraft continua | [Modrinth](https://modrinth.com/mod/BCzBuhJ5) |
 | 94 | Immersive Vehicles - Official Content Pack | `MTS Official Pack-1.21.1-V29.jar` | até 1.1.20 | 2.0.0 | Exigia o Immersive Vehicles | [Modrinth](https://modrinth.com/mod/C7TiPPJz) |
 | 95 | Factory Blocks | `factory_blocks-neoforge-1.4.0+mc1.21.1.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. As variações do mod dependiam do Chipped, que já tinha saído | [CurseForge](https://www.curseforge.com/projects/640001) |
+| 96 | Additional Lights | `additional_lights-neoforge-1.21-2.1.10.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor | [CurseForge](https://www.curseforge.com/projects/384991) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 
