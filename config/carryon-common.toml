@@ -37,9 +37,9 @@
 	#Allow babies to be carried even when adult mob is blacklisted (or not whitelisted)
 	allowBabies = false
 	#Use Whitelist instead of Blacklist for Blocks
-	useWhitelistBlocks = false
+	useWhitelistBlocks = true
 	#Use Whitelist instead of Blacklist for Entities
-	useWhitelistEntities = false
+	useWhitelistEntities = true
 	#Use Whitelist instead of Blacklist for Stacking
 	useWhitelistStacking = false
 	#Whether the player can hit blocks and entities while carrying or not
@@ -66,9 +66,9 @@
 [whitelist]
 	#Whitelist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config
 	#Entities that CAN be picked up (useWhitelistEntities must be true)
-	allowedEntities = []
+	allowedEntities = ["minecraft:cow", "minecraft:mooshroom", "minecraft:sheep", "minecraft:pig", "minecraft:chicken", "minecraft:rabbit", "minecraft:horse", "minecraft:donkey", "minecraft:mule", "minecraft:llama", "minecraft:trader_llama", "minecraft:goat", "minecraft:cat", "minecraft:ocelot", "minecraft:wolf", "minecraft:fox", "minecraft:parrot", "minecraft:panda", "minecraft:polar_bear", "minecraft:turtle", "minecraft:frog", "minecraft:tadpole", "minecraft:axolotl", "minecraft:bee", "minecraft:armadillo", "minecraft:cod", "minecraft:salmon", "minecraft:tropical_fish", "minecraft:pufferfish", "minecraft:squid", "minecraft:glow_squid", "minecraft:dolphin", "earthmobsmod:*", "crittersandcompanions:*", "ecologics:*", "naturalist:*", "spawn:*", "meadow:*"]
 	#Blocks that CAN be picked up (useWhitelistBlocks must be true)
-	allowedBlocks = []
+	allowedBlocks = ["#c:chests", "#c:barrels", "*shulker_box", "sophisticatedstorage:*chest*", "sophisticatedstorage:*barrel*"]
 	#Entities that CAN have other entities stacked on top of them (useWhitelistStacking must be true)
 	allowedStacking = []
 
