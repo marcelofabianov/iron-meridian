@@ -5,7 +5,7 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Ofertas `farmingforblockheads:market/*`: ofertas do mercado para mods que não estão no pack.
 - "Couldn't load vanilla shader" do Veil: shaders de mods CodeChicken (Draconic, EnderStorage, CB Multipart) e do Mekasuit.
 - Loot tables internas do `mekmm`, `create_connected`, `sfm`, `extendedae` e `createdieselgenerators`: bugs desses próprios mods.
-- Duas receitas do Agritech com Oh The Biomes We've Gone, e a textura do *Infused Farmland*: bugs do próprio Agritech.
+- A textura do *Infused Farmland*: bug do próprio Agritech.
 - "no onnxruntime" do Oracle Index: só desliga a busca inteligente do livro-guia.
 - "[GeckoLib] Unable to parse animation: idle/attack/sit": arquivos de animação de alguns mobs têm uma expressão que o GeckoLib não entende. No máximo, uma animação daquele mob não toca.
 - Receitas `createbionics:organ_*` e "has not defined synched data value" do Shark, Stalker, Organ e Golem do Create: Bionics: são partes ainda em desenvolvimento, que o próprio autor deixou desligadas. Só a lista de mobs do JER não consegue mostrá-las.
@@ -15,12 +15,10 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - Mixins do Polymorph para o JEI (`polymorph-compatibility.mixins.json:jei`): o JEI mudou essas classes. Só o botão "+" do JEI pode escolher outra receita quando dois mods têm receitas iguais; o seletor do Polymorph na mesa funciona.
 - "Invalid path in pack: replication:textures/block/printer - Copy.png" do Replication: uma textura com nome inválido dentro do próprio mod, que o jogo ignora.
 - "Registering Runtime: jei:neoforge_gui is running and has taken 5 seconds so far" do JEI: só avisa que o JEI está demorando para montar a lista. Ele termina logo depois.
-- "Could not decode GlobalLootModifier ... veggiesdelight:add_loot_*" do Veggies Delight: o mod usa um formato antigo do Farmer's Delight, e as verduras dele não aparecem nos baús de vilas e minas. As plantas selvagens e as trocas com aldeões continuam.
+- "Could not decode GlobalLootModifier ... tempad:tempad_loot_modifier" do Tempad: um ajuste de loot do próprio mod não carrega, e o resto dele funciona.
 - "Failed to parse recipe 'veggiesdelight:compat/culturaldelight/...' ... Falling back to vanilla" do KubeJS: o KubeJS lê essas receitas do jeito padrão, e elas carregam.
 - "[EnderIO] Unable to inherit the cooking recipe with ID: geore:..._shard": o Ender IO não copia as receitas de forno dos cristais do GeOre para a Alloy Smelter. Os cristais continuam derretendo no forno e no alto-forno.
-- "Parsing error loading recipe ore_hammer:compat/..." do Ore Hammer: receitas para metais do Create, do Create: Ironworks e do Create: More Additions, que não estão no pack. Os metais do pack continuam com receita.
 - "Cannot call getFullPath() on non-file config ... smallships-server.toml" do Small Ships, seguido de "Uncaught exception in server thread": acontece ao fechar o mundo, depois de salvar.
-- "Parsing error loading recipe treetap:id_menril" do Tree Tap: a receita de resina de Menril usa um formato antigo, e a torneira não extrai dessa árvore. O Integrated Dynamics tem o caminho próprio dele.
 - "FTBQuestsJEIIntegration ... NoClassDefFoundError" do FTB XMod Compat: é a integração com o FTB Quests, que não está no pack. O resto do mod funciona.
 - "Cannot invoke MachineRecipeType.getPath()" e "Caught an error getting an Ingredient's tooltip" com o Processing Array: o Tesseract API falha ao montar a dica desse item no JEI.
 - "Couldn't load advancements: dungeons_arise:..." do When Dungeons Arise: duas conquistas do próprio mod não carregam.

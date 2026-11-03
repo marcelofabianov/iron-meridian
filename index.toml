@@ -2396,6 +2396,114 @@ file = "kubejs/config/web_server.json"
 hash = "9e16d0d8aa1b5012a324dee66a458396213934919a4ed0d1839906a712beccc1"
 
 [[files]]
+file = "kubejs/data/mekaweapons/recipe/bow_limb.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create/zinc_duplication.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create/zinc_duplication_deepslate.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create/zinc_dust_blasting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create/zinc_dust_recipe.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create/zinc_dust_smelting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_ironworks/tin_duplication.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_ironworks/tin_duplication_deepslate.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_ironworks/tin_dust_blasting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_ironworks/tin_dust_recipe.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_ironworks/tin_dust_smelting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_more_additions/silver_duplication.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_more_additions/silver_duplication_deepslate.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_more_additions/silver_dust_blasting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_more_additions/silver_dust_recipe.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/ore_hammer/recipe/compat/create_more_additions/silver_dust_smelting.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/treetap/recipe/id_menril.json"
+hash = "ea5498c123113b75c6838fbe79b8de4360ae8c9d54202bf7e3b283547211b9b5"
+
+[[files]]
+file = "kubejs/data/treetap/recipe/id_menril_tfc.json"
+hash = "cb88c36b0ea93961cfc1cc2fb10f74f70954e93a708ed3fa8e73ed977d6f96be"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_abandoned_mineshaft.json"
+hash = "de7e7bec6c5553f20bcf7177647e58441fc3ef5bd375b42df74c576dc430b332"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_pillager_outpost.json"
+hash = "ed8f8002d34bf1bd780dbd4f012614dfaaeff3ea446dea51d2c56abd5bcb7284"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_shipwreck_supply.json"
+hash = "b4c4c552c397465a73ab8964a3bfede66c30f73fc2d218cc4c00adae8ab1d87b"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_simple_dungeon.json"
+hash = "411abe51318232de67f04cde1bde8129d9cc62c065e13e8f4c3b408eac20f4c6"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_village_desert_house.json"
+hash = "ec870a450b410b9ecd3db29322f29712b17d9a80193e8731a7eb2ae4998dea65"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_village_plains_house.json"
+hash = "fd18fc238f5c358799a7f771b36be40f10e16fe7e1f11ae87977d1de9a873ef7"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_village_savanna_house.json"
+hash = "138fd35542adfe4fb591738c4a59d0cc55d0be515da415fb234d7539a96f83e7"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_village_snowy_house.json"
+hash = "3cda4f82bc1ec29997d7763aa1920c7c198c9a7cb23f3e9df71fbd880014df02"
+
+[[files]]
+file = "kubejs/data/veggiesdelight/loot_modifiers/add_loot_village_taiga_house.json"
+hash = "119254c36c7d5a67555701b37051715a278d21730c32b6b610458a041876dd83"
+
+[[files]]
 file = "kubejs/server_scripts/flexible_item_tags.js"
 hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 
