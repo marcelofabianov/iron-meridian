@@ -77,10 +77,6 @@ file = "config/Mekanism/tools.toml"
 hash = "7fd1efea867a63578696dbcd2c54c0e3e9499376abc895b777037df9db558931"
 
 [[files]]
-file = "config/Mekanism/world-1.toml.bak"
-hash = "bd928491488fc80eb803150fc83dff0487fe3218fc638dbe683dc597f91cd11f"
-
-[[files]]
 file = "config/Mekanism/world.toml"
 hash = "c9d7275f6b5c03eb3518ffa5e96c142d4f7b7864ba72b086ef2efe55d875c771"
 
@@ -209,20 +205,8 @@ file = "config/almostunified/unification/materials.json"
 hash = "ec37bbefee800d4e313c50050398142d04232e4daeee6a8eaefaf324cb9133a2"
 
 [[files]]
-file = "config/amendments-client-1.toml.bak"
-hash = "6e6191f325cc8c81c94e0db35b46a62574ce356b2116f34c62b0d1ace6625a8d"
-
-[[files]]
-file = "config/amendments-client-2.toml.bak"
-hash = "6784f78c4074e7f1e7b946435c41da115624436f09a87ff91178f2f7e00009d7"
-
-[[files]]
 file = "config/amendments-client.toml"
 hash = "ba00e8251ebcbd77596576b385970c9e48ddc5e35c60eabff7bcd06ed8093c7f"
-
-[[files]]
-file = "config/amendments-common-1.toml.bak"
-hash = "103e0787b745271e47594c4ac376eb7595329f4fe2d74e9410a08b3e64d0491f"
 
 [[files]]
 file = "config/amendments-common.toml"
@@ -537,12 +521,8 @@ file = "config/carryon-client.toml"
 hash = "865a366143df5f4d92941058c823ea48deb8445f6444b45e870331b16a444f0f"
 
 [[files]]
-file = "config/carryon-common-1.toml.bak"
-hash = "858e1897963babd54b05a16aca41739c8b1877372dc9b5f05dfcdb754a5c89b2"
-
-[[files]]
 file = "config/carryon-common.toml"
-hash = "17b80baf696d0eb38255944ec1427d342f07661d520360d12af3c4a35b823f3d"
+hash = "334c9c869b08c96265abfdd85b4126ae64e12d96c8a62a5ec4c4c076bc956410"
 
 [[files]]
 file = "config/ccl.cfg"
@@ -1221,10 +1201,6 @@ file = "config/infinitewaterblock-common.toml"
 hash = "9557c2c81f3a3b708215e696df490e3b3176159cb1bc4651de39a4309632eaba"
 
 [[files]]
-file = "config/integratedcrafting-common-1.toml.bak"
-hash = "e5de8239e0659787bd5ab5514547fd46f867e7ff7c68a243e4442910c7f92f5c"
-
-[[files]]
 file = "config/integratedcrafting-common.toml"
 hash = "1d6c74b1bcc9519114a792802fdee036c1c5c4575fbae598596055578f1d735f"
 
@@ -1239,10 +1215,6 @@ hash = "bf536dde07b33cb27b2d1442fe3b4952b41cdc0c57b2a845716decce112892b2"
 [[files]]
 file = "config/integratedscripting-common.toml"
 hash = "10708c95a7925688d9fe6f4ab512ca18430861808dab22dd0e62d4a726469cf3"
-
-[[files]]
-file = "config/integratedterminals-common-1.toml.bak"
-hash = "e2ea2b5e9a3a5924ffca1d1803ab0f1adf597fe089ba4301a5a51f4d36b36b76"
 
 [[files]]
 file = "config/integratedterminals-common.toml"
@@ -1434,15 +1406,7 @@ file = "config/jei/ingredient-list-mod-sort-order.ini"
 hash = "b59bbf616e1047f1298ee59d09225a1afad78c2b643faab13fd1261f7cdfb2e9"
 
 [[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini.bak.1"
-hash = "b59bbf616e1047f1298ee59d09225a1afad78c2b643faab13fd1261f7cdfb2e9"
-
-[[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "a819a4db88bdb2d795928d91f8a1f853e2205d0d6ec86953c6799af6c9e1393e"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini.bak.1"
 hash = "a819a4db88bdb2d795928d91f8a1f853e2205d0d6ec86953c6799af6c9e1393e"
 
 [[files]]
@@ -1451,15 +1415,7 @@ hash = "c07eeef91a795fe730c8f6667a84cb5d3cd1cb9ead509163b3c7b6fe38551c67"
 preserve = true
 
 [[files]]
-file = "config/jei/jei-client.ini.bak.1"
-hash = "2271fcfd80edc8983bd5d9ef4a16025074315d4d89617416f397e88ba3ccf321"
-
-[[files]]
 file = "config/jei/jei-colors.ini"
-hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
-
-[[files]]
-file = "config/jei/jei-colors.ini.bak.1"
 hash = "e4bc0c5fce5a7536bce14c94b30e30482e65d63792b29db0ad59d4fa9eb4d1a5"
 
 [[files]]
@@ -1467,23 +1423,11 @@ file = "config/jei/jei-debug.ini"
 hash = "5de3969a31149d8974d96bfebb8a1c160d6d5e93fd54fed8e95f6d8ea48427c3"
 
 [[files]]
-file = "config/jei/jei-debug.ini.bak.1"
-hash = "5de3969a31149d8974d96bfebb8a1c160d6d5e93fd54fed8e95f6d8ea48427c3"
-
-[[files]]
 file = "config/jei/jei-mod-id-format.ini"
 hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
-file = "config/jei/jei-mod-id-format.ini.bak.1"
-hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
-
-[[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "2cc0501005571af79be617edb1aaaab51cedb24fecc63faf631bc76d74d633b0"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini.bak.1"
 hash = "2cc0501005571af79be617edb1aaaab51cedb24fecc63faf631bc76d74d633b0"
 
 [[files]]
@@ -1509,10 +1453,6 @@ hash = "0710298d40ea38aab9d6b3ea61d6268a7481c2941b4f4b7f629018071e4e8f0e"
 [[files]]
 file = "config/jei/world/server/77_175_67_132_25565 (77_175_67_132)/lookupHistory.json"
 hash = "e830f6b39b21ac93ec93621880ea2178abe2e04f09264fdd2754758afd4334bb"
-
-[[files]]
-file = "config/jei_mekanism_multiblocks-client-1.toml.bak"
-hash = "cf4a43f7679644e3a919655e1fee8b18462d8f87229acc29074d6f38c44de981"
 
 [[files]]
 file = "config/jei_mekanism_multiblocks-client.toml"
@@ -1583,16 +1523,8 @@ file = "config/little_big_redstone-client.toml"
 hash = "a67d47543fffebb06ffe20d4742ba2aefa36e32d04e4d9c45100ac4b65cd4825"
 
 [[files]]
-file = "config/logistics-network/client-1.toml.bak"
-hash = "077c069f5675d6c8e6f784605c24f80b3429d6e33fc049570fd27782bb44da54"
-
-[[files]]
 file = "config/logistics-network/client.toml"
 hash = "93f301becffc64a7e123fd23a8790629a230a6c74b6783e182a8677194c9a9d8"
-
-[[files]]
-file = "config/logistics-network/common-1.toml.bak"
-hash = "611bca0b53fc0b560f5654ee50966abbaeeb47b48256f98dd4feebe890568059"
 
 [[files]]
 file = "config/logistics-network/common.toml"
@@ -1603,16 +1535,8 @@ file = "config/logistics-network/upgrades.json"
 hash = "92007df50b9d773e4196e6d3ff45521ba2e254bcb0f748622d498a1936249f23"
 
 [[files]]
-file = "config/lootr-client-1.toml.bak"
-hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
-
-[[files]]
 file = "config/lootr-client.toml"
 hash = "357f0894238cfe86e6804acfa41184b6293d161747db411535f81a746b31a8b2"
-
-[[files]]
-file = "config/lootr-common-1.toml.bak"
-hash = "46f41bc157ac77f9a96b4a89a7652668cf910885e4fe868d46b42221377d4d35"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -1683,24 +1607,12 @@ file = "config/modelfix-client.toml"
 hash = "cbd78c279e725045596be0de7132bed98920aa044528439d18e37091d324b077"
 
 [[files]]
-file = "config/modern_industrialization-client-1.toml.bak"
-hash = "d6ab273d821f47feab4eb00b7f184ad8aa164879b6577c807cb7f7369b110a2c"
-
-[[files]]
 file = "config/modern_industrialization-client.toml"
 hash = "d833876960cd999ac5c318d4f0c2c4c8c21ab887c42668f17a898667c480f495"
 
 [[files]]
-file = "config/modern_industrialization-server-1.toml.bak"
-hash = "aa57943a7c0edc242de06fc0a3d008b081259ce1e8ee6ed4d8a51af076185aa7"
-
-[[files]]
 file = "config/modern_industrialization-server.toml"
 hash = "a3893913598790869c13eb1f699dec05e9e0150915a0e460f5696a2b51e07c3c"
-
-[[files]]
-file = "config/modern_industrialization-startup-1.toml.bak"
-hash = "9f2b01937fa935fc32f0440f0a4c5aa89723b802a22ca529bec61bc74ab867d7"
 
 [[files]]
 file = "config/modern_industrialization-startup.toml"
@@ -1725,10 +1637,6 @@ hash = "980a4c63a0a10855cdf973a10a23c5b83a58bcb3c45cb2ed32390e86378cd532"
 [[files]]
 file = "config/moogs_structures.json"
 hash = "db860fe96eacfed4d731e6b129ef189aaec81faf2df88f978f5bcbc4d7fc99d8"
-
-[[files]]
-file = "config/moonlight-client-1.toml.bak"
-hash = "dce19661acd04241ac6d04fd2baa02c5a59cf1672c52ec07cfeeccd9a4e7ea62"
 
 [[files]]
 file = "config/moonlight-client.toml"
