@@ -70,18 +70,17 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 38 | **Shift + C** | Grade de crafting num bloco | Translocators |
 | 39 | **Shift + V** | Pegar aldeão | Easy Villagers |
 | 40 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 41 | **Shift + G** | Óculos | Advanced Peripherals |
-| 42 | **Shift + H** | HUD da chave | Logistics Networks |
-| 43 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 44 | **;** | Tela de aumentos | Oritech |
-| 45 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 46 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 47 | **F12** | Ligar/desligar o shader | Iris |
-| 48 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
-| 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
-| 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
-| 51 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
-| 52 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
+| 41 | **Shift + H** | HUD da chave | Logistics Networks |
+| 42 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 43 | **;** | Tela de aumentos | Oritech |
+| 44 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 45 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 46 | **F12** | Ligar/desligar o shader | Iris |
+| 47 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 48 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 49 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 50 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
+| 51 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
 
 ### Sem tecla, de propósito
 
@@ -164,13 +163,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | Alt + F | Toggle Suit Flight | Jogo |
-
-### Advanced Peripherals
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Shift + G | glasses hotkey | Jogo |
-| Ctrl esquerdo | Show Description | Jogo |
 
 ### Aperture Innovations - Portal Gun
 

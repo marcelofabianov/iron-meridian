@@ -246,54 +246,6 @@
       "pw_file": "mods/additional-lights.pw.toml"
     },
     {
-      "name": "Advanced Peripherals",
-      "source": "curseforge",
-      "project_id": "431725",
-      "version_id": "8805548",
-      "filename": "AdvancedPeripherals-1.21.1-0.8.1a.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "d56e548fde2fed47e96ed32a37310d88765d3df0"
-      },
-      "mod_ids": {
-        "advancedperipherals": "1.21.1-0.8.1a"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.238,)"
-        },
-        {
-          "mod_id": "computercraft",
-          "type": "required",
-          "range": "[1.119.0,)"
-        },
-        {
-          "mod_id": "ae2",
-          "type": "optional",
-          "range": "[19.2.13,)"
-        },
-        {
-          "mod_id": "minecolonies",
-          "type": "optional",
-          "range": "[1.1.1300-1.21.1-snapshot,)"
-        },
-        {
-          "mod_id": "patchouli",
-          "type": "optional",
-          "range": "[1.21-88,)"
-        },
-        {
-          "mod_id": "mekanism",
-          "type": "optional",
-          "range": "[1.21.1-10.7.15.81,)"
-        }
-      ],
-      "pw_file": "mods/advanced-peripherals.pw.toml"
-    },
-    {
       "name": "AdvancedAE",
       "source": "modrinth",
       "project_id": "rxYaglEe",

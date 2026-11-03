@@ -42,7 +42,6 @@ key_key.scc.settings:key.keyboard.unknown
 key_key.scc.job_details:key.keyboard.k:ALT
 key_key.easy_villagers.pick_up:key.keyboard.v:SHIFT
 key_key.toolbelt.slot:key.keyboard.r:SHIFT
-key_keybind.advancedperipherals.glasses_hotkey:key.keyboard.g:SHIFT
 key_key.logisticsnetworks.toggle_wrench_hud:key.keyboard.h:SHIFT
 key_key.commandkeys.main.edit:key.keyboard.k:SHIFT
 key_key.scc.hole:key.keyboard.delete:ALT

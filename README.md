@@ -1,7 +1,7 @@
 # Iron Meridian
 
 > Modpack de **tecnologia e construção** para **Minecraft 1.21.1 / NeoForge 21.1.265**, sem magia, para jogar sozinho.
-> **374 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
+> **373 mods** · distribuído com [packwiz](https://packwiz.infra.link/) · atualização automática
 
 [![Última versão](https://img.shields.io/github/v/release/marcelofabianov/iron-meridian?label=vers%C3%A3o)](https://github.com/marcelofabianov/iron-meridian/releases/latest)
 
@@ -13,7 +13,7 @@
    ```
    https://github.com/marcelofabianov/iron-meridian/releases/latest/download/IronMeridian-Prism.zip
    ```
-2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 374 mods.
+2. Abra a instância. Na primeira vez, o **packwiz-installer** baixa os 373 mods.
 3. Um mod, o **SCC**, exige download manual. O instalador mostra o link. Veja os detalhes no [INSTALL.md](INSTALL.md).
 
 Depois disso, o pack se **atualiza sozinho** a cada vez que você abre o jogo.
@@ -69,7 +69,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 - **Sophisticated Backpacks e Storage**, **Functional Storage**, **Pocket Storage**, **Ender Storage**, **DimStorage**, **Entangled**
 
 ### Redstone e computação
-- **CC: Tweaked** e **Advanced Peripherals**, **More Red** (com compatibilidade CC), **Little Big Redstone**, **Redstone Pen**
+- **CC: Tweaked**, **More Red** (com compatibilidade CC), **Little Big Redstone**, **Redstone Pen**
 
 ### Agricultura e recursos
 - **Productive Bees**: abelhas que produzem recursos, com **Mystian Apiary** (apiário multibloco), **Centrifuge Tiers: Reproduced** (centrífugas multibloco) e integração com o **Productive Metalworks**
@@ -120,7 +120,7 @@ A lista completa, com links, está em [docs/MODS.md](docs/MODS.md). Um resumo de
 | Exceções do Entity Culling: `mts:builder_existing`, `mts:builder_rendering`, `mts:builder_seat` | `config/entityculling.json` | Sem elas, o Entity Culling esconde os veículos do Immersive Vehicles |
 | Modelos de sala do Compact Machines | `config/openloader/packs/compactmachines_basic_templates` | Carrega os modelos que já vêm no mod em todos os mundos, inclusive nos novos |
 | Logistics Networks 1.16.3 ou mais nova (hoje 1.17.2) | `mods/` | A versão 1.13.0 não tinha a classe que o SCC usa para se integrar |
-| Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `givePlayerBookOnJoin` (Advanced Peripherals), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics), `giveManualsOnJoin` (Immersive Vehicles) | `config/` | Os livros ficam só no Akashic Tome |
+| Livros soltos ao entrar desligados: `spawnWithGuideBook`/`respawnWithGuideBook` (MI), `giveGuidebookOnFirstJoin` (MFFS), `obtainOnSpawn` (Integrated Dynamics), `giveManualsOnJoin` (Immersive Vehicles) | `config/` | Os livros ficam só no Akashic Tome |
 | Configuração inicial do jogo: escala da interface **2**, brilho **máximo**, shader Complementary, **sombras de entidades desligadas** no shader (o maior custo de FPS medido com o spark), o [mapa de teclas](docs/TECLAS.md) e a **hora do jogo** embaixo do minimapa do Xaero | `configureddefaults/options.txt`, `configureddefaults/config/iris.properties`, `configureddefaults/config/xaero/` | O Configured Defaults aplica isso na primeira abertura, quando ainda não existe `options.txt`. Depois, você pode mudar nas opções do jogo, e a escolha é mantida. O `options.txt` padrão precisa da linha `version:`: sem ela, o jogo descarta o arquivo na primeira abertura. |
 | Livro de boas-vindas e Akashic Tome inicial | `kubejs/server_scripts/iron_meridian_tome.js` | Na primeira entrada do personagem em cada mundo, coloca no slot 1 o livro de boas-vindas (agradecimento e o link do GitHub) e no slot 2 um Akashic Tome com todos os livros-guia (Patchouli, guias do GuideME e guias próprios, incluindo os manuais do Immersive Vehicles), e remove os livros soltos. Quando a lista de guias cresce, o tomo de quem já joga ganha os livros que faltam. Quem já tinha recebido o tomo recebe só o livro, no inventário. Uma segunda varrida, 10 segundos depois, remove livros que algum mod entregue atrasado. |
 | Martelo para os metais dos mods | `kubejs/server_scripts/iron_meridian_hammer.js` | Estende o martelo do Ore Hammer para 12 metais dos mods, com as mesmas regras (bruto 2 pós, minério 3). O pó sai pela prioridade do Almost Unified. |

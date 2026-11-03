@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Advancedperipherals/general.toml"
-hash = "63ad4a8da1e61a8b35c6b9058e4056b13072f2c86a10d2f0d8d9b84d4ddd5899"
-
-[[files]]
-file = "config/Advancedperipherals/metaphysics.toml"
-hash = "39ab4ab00bd9486c935d66456579089574955842b1676d98c5bfba9b75c28163"
-
-[[files]]
-file = "config/Advancedperipherals/peripherals.toml"
-hash = "b7a08595ccd59023ab32681c661cfd20e327ccf0042a31f3bd5870da7b8efe1a"
-
-[[files]]
-file = "config/Advancedperipherals/world.toml"
-hash = "b9dcc5e7c2cbb453d11a4324b99341e6b08ad57e042151bf3e4b6c4336edd010"
-
-[[files]]
 file = "config/EnderStorage.cfg"
 hash = "50f8a5bee199a9f544ad1c87441e424ad768195b3fa95eb1d8372de18c7da346"
 
@@ -2357,7 +2341,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "bdc0fc6a19989f6df8ef5c8adc32ec202fce259e770de7dcde9efa668c68db20"
+hash = "1e1ba0eb0b08d4db82fca6799a44d9f3acbdf8b182cb69dd0fe45e0479df4f3b"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -2569,11 +2553,6 @@ metafile = true
 [[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
-metafile = true
-
-[[files]]
-file = "mods/advanced-peripherals.pw.toml"
-hash = "9554839248a8a90229737e18cb2410aeb27d7b195c1e0758d1bb9dd042d1760c"
 metafile = true
 
 [[files]]
