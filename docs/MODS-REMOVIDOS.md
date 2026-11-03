@@ -102,6 +102,8 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 90 | Small Ships | `smallships-neoforge-1.21.1-2.0.2.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. Dava erro ao fechar o mundo, e o pack fica sem navios | [Modrinth](https://modrinth.com/mod/rGWEHQrP) |
 | 91 | Pylons | `pylons-1.21.1-5.4.2.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor | [Modrinth](https://modrinth.com/mod/pylons) |
 | 92 | Advanced Peripherals | `AdvancedPeripherals-1.21.1-0.8.1a.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. O CC: Tweaked continua no pack | [CurseForge](https://www.curseforge.com/projects/431725) |
+| 93 | Immersive Vehicles | `Immersive Vehicles-1.21.1-24.0.0.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. O Immersive Aircraft continua | [Modrinth](https://modrinth.com/mod/BCzBuhJ5) |
+| 94 | Immersive Vehicles - Official Content Pack | `MTS Official Pack-1.21.1-V29.jar` | até 1.1.20 | 2.0.0 | Exigia o Immersive Vehicles | [Modrinth](https://modrinth.com/mod/C7TiPPJz) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 

@@ -730,7 +730,7 @@ hash = "e10707e6340c39a57cb6c0d70bbacb9187edc403cce3d1736b5a3136e1f824cc"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "4cb14286e81d8365e9c6c19c8f1ca0d41d4953173e7a5643e17230344ac114d8"
+hash = "ed2e38f7aba6ed2b9a1ede1fb3daa36ee18fa0757dc9c4a4919096a194d66943"
 
 [[files]]
 file = "config/equipmentcompare.toml"
@@ -1383,7 +1383,7 @@ hash = "e64349cae34367965848d7fb390dcd6a52d23c012c4711005a70084d958cee67"
 
 [[files]]
 file = "config/jei/client/recipe-category-sort-order.ini"
-hash = "fdf362e861cddead03ed96dbefc367b32094591f9551891d319ea380e8350892"
+hash = "558d274eb5fd5d1f112bb3d1865c7dfeec0e140229d37547dc5bb8da0f25d66f"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
@@ -1412,7 +1412,7 @@ hash = "4eb3a3eb280558bdd2665fb4792d32551cb6dddc468776e66afc1c3ea981781e"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "61132ae6f74dd8feefe3bcd04bc088dcc764008f7c5bd84709a5675c9074aeb0"
+hash = "1bf3fdae58d599c38d87132b4cb852af669b046217accc832dfe96f5ced4c126"
 
 [[files]]
 file = "config/jei/server/world/default/jei-server.ini"
@@ -1633,14 +1633,6 @@ hash = "efda469aaf01179f06dd723fe6a7585732fd325dc601d82db49be222a2474cdd"
 [[files]]
 file = "config/morered-server.toml"
 hash = "19a0eea3f0999ccaff8d26769d4157193ae2b7910d7ceb5890b510848e80cf96"
-
-[[files]]
-file = "config/mtsconfig.json"
-hash = "318d3b9609925609104161f742815eddeb39c5b54a12d50e64a42be6a3224d91"
-
-[[files]]
-file = "config/mtsconfigclient.json"
-hash = "d35bf087bbf8d2ef45798363116d019213d0fc2cf712a9c395999f6b03019c9f"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -2509,7 +2501,7 @@ hash = "52351d825b82c19ba5436f33a82d74cc1773d3332abd7112af19c02e333d09c4"
 
 [[files]]
 file = "kubejs/server_scripts/iron_meridian_tome.js"
-hash = "c1d9e7733f28c97a359938d916025bc2b78ee1d195483f682a33b6f0b809252f"
+hash = "397f2f51f4a3d9fe0c9486d6d8478d078ff5ffe52bc5f4888a20f8f1aa6601e5"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -3328,16 +3320,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "60bc5f39269cc9b2f93611526c62a0ce8600dd211c5b683f485e6e921e352686"
-metafile = true
-
-[[files]]
-file = "mods/immersive-vehicles-official-content-pack.pw.toml"
-hash = "3dd8cb8ebd8db5946da9bb635ab1e427000435fcf712f1385214e88d9ebd9ae1"
-metafile = true
-
-[[files]]
-file = "mods/immersive-vehicles.pw.toml"
-hash = "e54cb242884e03c1b2e5971fe010adedbf2e1ae5dc161cf428d82301c6b4b38f"
 metafile = true
 
 [[files]]

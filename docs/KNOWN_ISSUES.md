@@ -20,7 +20,6 @@ Estes erros aparecem no log, mas não afetam o jogo:
 
 ## Avisos que aparecem no chat
 
-- **"IV HAS DETECTED THAT ENTITY CULLING MOD IS PRESENT"**: o aviso aparece sempre, mas as exceções para os veículos do Immersive Vehicles já estão em `config/entityculling.json`.
 - **"... is not compatible with HUD batching / font atlas resizing"** do ImmediatelyFast: o Default Dark Mode muda o shader do texto, e o ImmediatelyFast desliga essas duas otimizações da interface. O jogo funciona normal; só o HUD fica um pouco mais pesado. Desative o pacote em Opções → Pacotes de recursos se preferir o desempenho.
 - **"Ender IO is in alpha"** e avisos de versão nova de algum mod: só informativos.
 - **Janela "não está respondendo" no Linux (GNOME)** durante o carregamento: o jogo continua carregando normalmente. Para tirar o aviso, aumente o tempo limite do GNOME com `gsettings set org.gnome.mutter check-alive-timeout 60000`.
