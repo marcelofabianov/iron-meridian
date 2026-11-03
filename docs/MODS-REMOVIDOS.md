@@ -100,6 +100,7 @@ Estavam numa versão lançada e saíram numa versão seguinte.
 | 88 | Steam 'n' Rails Neoforge | `railways-0.2.1+neoforge-mc1.21.1.jar` | até 1.1.20 | 2.0.0 | Saída do Create e do ecossistema dele | [Modrinth](https://modrinth.com/mod/L3Jv0QZI) |
 | 89 | Waystones: Sable (Create Aeronautics Addon) | `waystonessable-1.0.7.jar` | até 1.1.20 | 2.0.0 | Integração com o Sable | [Modrinth](https://modrinth.com/mod/BxhPGfcK) |
 | 90 | Small Ships | `smallships-neoforge-1.21.1-2.0.2.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor. Dava erro ao fechar o mundo, e o pack fica sem navios | [Modrinth](https://modrinth.com/mod/rGWEHQrP) |
+| 91 | Pylons | `pylons-1.21.1-5.4.2.jar` | até 1.1.20 | 2.0.0 | Saiu por escolha do mantenedor | [Modrinth](https://modrinth.com/mod/pylons) |
 
 A cópia duplicada do **CC: Tweaked** 1.113.1 também saiu na 1.1.0. O mod continua no pack, na versão 1.120.2.
 

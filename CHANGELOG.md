@@ -18,7 +18,7 @@
 - **Centrifuge Tiers: Reproduced**: centrífugas multibloco em 4 tiers. As receitas do mod exigem o AllTheCompressed, então o pack traz receitas com blocos de ferro, ouro, diamante e esmeralda.
 
 ### Mods removidos
-- Além dos blocos acima: **Cryonic Config** (build para o Minecraft 1.21.11), **inzhefop's Core** e **Prism** (bibliotecas sem uso), **Simple Voice Chat** e **No Chat Reports** (sem função no singleplayer). **Small Ships**, por escolha do mantenedor: o pack fica sem navios. A lista completa está em [MODS-REMOVIDOS](docs/MODS-REMOVIDOS.md).
+- Além dos blocos acima: **Cryonic Config** (build para o Minecraft 1.21.11), **inzhefop's Core** e **Prism** (bibliotecas sem uso), **Simple Voice Chat** e **No Chat Reports** (sem função no singleplayer). **Small Ships**, por escolha do mantenedor: o pack fica sem navios. **Pylons**, também por escolha do mantenedor. A lista completa está em [MODS-REMOVIDOS](docs/MODS-REMOVIDOS.md).
 
 ### Correções
 - **Instalação nova:** o `options.txt` padrão era descartado na primeira abertura, e o mapa de teclas e a escala da interface não valiam. Agora valem.
@@ -36,7 +36,7 @@
 ### Outros
 - **Shader:** o pack volta a usar o Complementary Reimagined sem patch, já ativo na primeira abertura. Em instâncias antigas, escolha-o em **Opções → Vídeo → Shader Packs**.
 - Nova [política de versionamento](docs/VERSIONAMENTO.md), e a linha 1.x fica na branch `v1`.
-- O pack passa a ter **375 mods**.
+- O pack passa a ter **374 mods**.
 
 ## 1.1.20 — 02/11/2026
 

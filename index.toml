@@ -1876,10 +1876,6 @@ file = "config/productivemetalworks-common.toml"
 hash = "5d6d2287ff2a02163989e9a1f44aafa35e8641a8421058a278fb4546f354e580"
 
 [[files]]
-file = "config/pylons-server.toml"
-hash = "643abd56606dc9727a754ec707b73005de34db5946b75fce7e14d5e934634b76"
-
-[[files]]
 file = "config/quarryplus.toml"
 hash = "b0e6731a5fccea846a4b91b3f08061c5ca3b6cdb317792568b930557c0fe9e35"
 
@@ -3898,11 +3894,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "d465abcc806c0d4fdeefb6a5e774cca4fff0ffd27d7c75954ab4688f4c9eaf05"
-metafile = true
-
-[[files]]
-file = "mods/pylons.pw.toml"
-hash = "a503bf930c565cec29590565c5fb07a81d61e818d39a592042d484c37cacc42a"
 metafile = true
 
 [[files]]
