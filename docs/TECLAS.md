@@ -1,6 +1,6 @@
 # Mapa de teclas do Iron Meridian
 
-O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidiam, para cada tecla fazer **uma coisa** no mundo. Ele vale para quem instala o pack a partir da 1.1.9; quem já tinha o jogo instalado pode copiar as mudanças em **Opções → Controles** (veja *Como aplicar numa instância antiga*).
+O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidiam, para cada tecla fazer **uma coisa** no mundo. Ele vale para quem instala o pack a partir da 2.0.0 (nas versões 1.x, a instalação nova descartava o `options.txt` padrão); quem já tinha o jogo instalado pode copiar as mudanças em **Opções → Controles** (veja *Como aplicar numa instância antiga*).
 
 ## Como o mapa funciona
 
@@ -87,11 +87,9 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 
 Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 
-- **Simple Voice Chat** (menu, grupo, mutar, desativar, ícones): não tem uso no singleplayer.
 - Salvar e carregar barra de ferramentas (Minecraft), opções do Just Zoom.
 - Depuração de drone do capacete pneumático, recarregar shaders, Kubedex do KubeJS, gravar GIF de tooltip.
-- Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
-- Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
+- Rádio do Ad Astra e a tela de chunk loaders.
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
@@ -211,12 +209,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | G | Settings Menu | Jogo |
 | U | Undo | Jogo |
 
-### Climbable Ropes for Create Aeronautics
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Lock Rope Camera | Jogo |
-
 ### Command Keys
 
 | Tecla | Ação | Onde |
@@ -238,37 +230,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | K | Compress Stack | Tela |
 | Ctrl + Tab | Refill Last | Tela |
 | Tab | Refill Last Stack | Tela |
-
-### Create
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Access Nearby Toolboxes | Jogo |
-| Alt esquerdo | Alt Modifier | Jogo |
-| Ctrl esquerdo | Ctrl Modifier | Jogo |
-| Alt esquerdo | Focus Schematic Overlay | Jogo |
-| W | Ponder | Tela |
-| Shift esquerdo | Shift Modifier | Jogo |
-
-### Create Aeronautics
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Tab | Physics Staff Rotate Mode | Jogo |
-
-### Create Stuff 'N Additions
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| ↓ | Decrease Drone Reach | Jogo |
-| Espaço | Flying | Jogo |
-| ↑ | Increase Drone Reach | Jogo |
-
-### Create: Hypertubes
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Shift esquerdo | Hypertube Escape Button | Jogo |
 
 ### Curios API
 
@@ -619,13 +580,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Botão do meio do mouse | Sort Storage/Backpack | Tela |
 | ] | Transfer to Inventory | Tela |
 | [ | Transfer to Storage | Tela |
-
-### Steam 'n' Rails Neoforge
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Open Bogey Menu | Jogo |
-| Alt esquerdo | Open Cycle Menu | Jogo |
 
 ### Super Factory Manager
 

@@ -58,10 +58,10 @@ Depois de aplicar, **teste** (seção 6) antes do `git push`.
 1. **Confira as regras:** NeoForge 1.21.1, sem magia, sem conflito ou duplicidade, e **versão estável mais nova** (regra 9), mesmo que você tenha o `.jar` de outro pack, como o ATM10.
    - Veja antes se o mod não está em `docs/MODS-REMOVIDOS.md`. Mods que já saíram por escolha ou por problema não voltam sem um motivo novo.
 2. **Adicione ao pack:**
-   - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`. As dependências que ele adiciona sozinho vêm da página do Modrinth, que às vezes pede algo que **repete** um mod do pack (por exemplo, o *Iris & Oculus Flywheel Compat* faz o mesmo que o Colorwheel). Confira no `neoforge.mods.toml` do mod se a dependência é mesmo obrigatória antes de aceitar.
+   - **Modrinth:** `packwiz modrinth add --project-id <id> --version-id <id> -y`. Confira em seguida, no `git status`, se ele mexeu em outros `.pw.toml`. As dependências que ele adiciona sozinho vêm da página do Modrinth, que às vezes pede algo que **repete** um mod do pack (já aconteceu com o *Iris & Oculus Flywheel Compat*). Confira no `neoforge.mods.toml` do mod se a dependência é mesmo obrigatória antes de aceitar.
    - **CurseForge:** coloque o `.jar` em `mods/` e rode `packwiz curseforge detect`. Ele cria o `.pw.toml` e apaga o `.jar`.
 3. **Veja se o CurseForge permite download automático.** Instale o pack numa instância de teste (seção 6). Se o instalador pedir download manual, acrescente o mod em `scripts/manual-downloads.json` e documente no INSTALL.
-   - **Licença de distribuição:** leia a página do mod. O **Create: Bionics** só permite o uso em packs que **não estejam no CurseForge**. Se um dia o Iron Meridian for publicado lá, ele precisa sair.
+   - **Licença de distribuição:** leia a página do mod. Alguns só permitem o uso em packs fora do CurseForge.
 4. **Gere a lista de novo:** `python3 scripts/mods.py sync`, que atualiza o `mods.json` e o `docs/MODS.md`.
 5. **Documente:** destaque no README (se fizer sentido), o total de mods no README e no INSTALL, o resumo de 3 linhas no `docs/GUIA-DOS-MODS.md` (na categoria certa, renumerando) e uma linha no `PENDENTES.txt`.
 
@@ -117,7 +117,9 @@ O script abre a página oficial do arquivo certo, espera o download, confere o h
 
 ## 9. Publicar uma versão
 
-1. **Durante o ciclo:** cada mudança vai para o `main`, e quem já instalou recebe na próxima abertura. Anote tudo no `PENDENTES.txt`.
+A casa da versão (MAJOR, MINOR ou PATCH) e o uso das branches seguem a [política de versionamento](VERSIONAMENTO.md).
+
+1. **Durante o ciclo:** nas versões MINOR e PATCH, cada mudança vai para o `main`, e quem já instalou recebe na próxima abertura. **MAJOR nunca é feito direto no `main`:** fica numa `release/X.0.0` até passar nos testes. Anote tudo no `PENDENTES.txt`.
 2. **Ao fechar a versão:**
    - escreva a seção da versão no `CHANGELOG.md` a partir do `PENDENTES.txt`, organizada por assunto;
    - confira o `version` do `pack.toml`;
@@ -128,6 +130,8 @@ O script abre a página oficial do arquivo certo, espera o download, confere o h
      O arquivo sai em `dist/IronMeridian-Prism.zip`.
    - publique:
      ```bash
+     git tag -a vX.Y.Z -m "Iron Meridian X.Y.Z"
+     git push origin vX.Y.Z
      gh release create vX.Y.Z --title "Iron Meridian X.Y.Z" --notes-file notas.md dist/IronMeridian-Prism.zip
      ```
 3. **Abra o próximo ciclo:** suba o `version` do `pack.toml`, rode `packwiz refresh`, zere o `PENDENTES.txt` e faça o commit.

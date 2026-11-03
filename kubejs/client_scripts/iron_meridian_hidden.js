@@ -3,6 +3,7 @@
 RecipeViewerEvents.removeEntries('item', event => {
   event.remove([
     'ironfurnaces:allthemodium_furnace', 'ironfurnaces:vibranium_furnace', 'ironfurnaces:unobtainium_furnace',
-    'ironfurnaces:upgrade_allthemodium', 'ironfurnaces:upgrade_vibranium', 'ironfurnaces:upgrade_unobtainium'
+    'ironfurnaces:upgrade_allthemodium', 'ironfurnaces:upgrade_vibranium', 'ironfurnaces:upgrade_unobtainium',
+    'irongenerators:allthemodium_generator', 'irongenerators:allthemodium_to_vibranium_generator_upgrade', 'irongenerators:netherite_to_allthemodium_generator_upgrade', 'irongenerators:unobtainium_generator', 'irongenerators:vibranium_generator', 'irongenerators:vibranium_to_unobtainium_generator_upgrade'
   ])
 })

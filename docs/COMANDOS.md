@@ -72,7 +72,7 @@ Os meteoros do SCC nunca caem em chunks reivindicados.
 
 ## Pré-gerar o mundo 🔒 (Chunky)
 
-Gerar os chunks com antecedência **reduz muito o lag** ao explorar, principalmente voando com o Create Aeronautics.
+Gerar os chunks com antecedência **reduz muito o lag** ao explorar, principalmente voando.
 
 | Comando | O que faz |
 |---|---|
@@ -116,7 +116,6 @@ Os backups automáticos já acontecem sozinhos, na pasta `simplebackups` da inst
 | Tecla | O que faz |
 |---|---|
 | **R** / **U** no JEI | Receita do item / onde o item é usado |
-| **W** sobre um item do Create | Mostra a *ponder*, uma animação que explica o item |
 | **K** | **Keybind Atlas**: mapa visual de todas as teclas |
 | **F6** | **WeatherForecast**: mostra ou esconde o painel de previsão do tempo. Em instâncias instaladas antes da v1.1.7, a tecla pode estar no **H**, que também abre o *Oracle Index* do Oritech e do MFFS. Troque em **Opções → Controles**. |
 | **Shift + clique direito** no Akashic Tome | Escolhe um livro-guia. Depois, **clique direito no ar** abre o livro. |

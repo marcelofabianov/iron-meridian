@@ -145,11 +145,12 @@ const AD_ASTRA_MI = [
   { old: 'macerator/cheese_ore', type: 'macerator', duration: 800, input: { item: 'ad_astra:moon_cheese_ore' }, output: 'ad_astra:cheese', count: 4 }
 ]
 
-// Iron Furnaces: estes itens exigem materiais do AllTheModium, que não está no pack.
+// Iron Furnaces e Iron Generators: estes itens exigem materiais do AllTheModium, que não está no pack.
 // Os itens também somem do JEI, em client_scripts/iron_meridian_hidden.js.
-const IRON_FURNACES_HIDDEN = [
+const ATM_HIDDEN = [
   'ironfurnaces:allthemodium_furnace', 'ironfurnaces:vibranium_furnace', 'ironfurnaces:unobtainium_furnace',
-  'ironfurnaces:upgrade_allthemodium', 'ironfurnaces:upgrade_vibranium', 'ironfurnaces:upgrade_unobtainium'
+  'ironfurnaces:upgrade_allthemodium', 'ironfurnaces:upgrade_vibranium', 'ironfurnaces:upgrade_unobtainium',
+  'irongenerators:allthemodium_generator', 'irongenerators:allthemodium_to_vibranium_generator_upgrade', 'irongenerators:netherite_to_allthemodium_generator_upgrade', 'irongenerators:unobtainium_generator', 'irongenerators:vibranium_generator', 'irongenerators:vibranium_to_unobtainium_generator_upgrade'
 ]
 
 ServerEvents.recipes(event => {
@@ -176,5 +177,5 @@ ServerEvents.recipes(event => {
     }).id(`iron_meridian:fixes/ad_astra_${r.old.replace('/', '_')}`)
   })
 
-  IRON_FURNACES_HIDDEN.forEach(item => event.remove({ output: item }))
+  ATM_HIDDEN.forEach(item => event.remove({ output: item }))
 })

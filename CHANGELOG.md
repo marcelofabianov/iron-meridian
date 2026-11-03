@@ -1,5 +1,43 @@
 # Changelog
 
+## 2.0.0 — em preparação
+
+> ⚠️ **Versão que quebra mundos.** Esta versão remove o Create e o Mystical Agriculture. Máquinas, naves, trens, decoração, plantações e minérios desses mods **somem** dos mundos 1.x.
+> - Recomendado: **começar um mundo novo**.
+> - Para continuar no mundo antigo, fique na linha 1.x. Veja *Continuar na versão 1.x* no [INSTALL.md](INSTALL.md).
+> - Se for abrir um mundo 1.x mesmo assim, **faça backup antes** (Simple Backups ou copiando a pasta `saves`).
+
+### Mudanças que quebram mundos
+- Sai o **Create** e todo o ecossistema: 47 mods, entre addons, Aeronautics, Sable, integrações e bibliotecas que ficaram sem uso.
+- O **Mystical Agriculture** e os 4 addons dele dão lugar ao **Productive Bees**. A regra "sem magia" passa a valer sem exceções.
+- O **zinco** sai do pack, porque o Create era a única fonte. O geodo de zinco do GeOre foi desligado.
+
+### Mods novos
+- **Productive Bees**: abelhas que produzem recursos, com ninhos, cruzamento, colmeias e centrífugas.
+- **Mystian Apiary**: apiário multibloco com 27 vagas de abelha.
+- **Centrifuge Tiers: Reproduced**: centrífugas multibloco em 4 tiers. As receitas do mod exigem o AllTheCompressed, então o pack traz receitas com blocos de ferro, ouro, diamante e esmeralda.
+
+### Mods removidos
+- Além dos blocos acima: **Cryonic Config** (build para o Minecraft 1.21.11), **inzhefop's Core** e **Prism** (bibliotecas sem uso), **Simple Voice Chat** e **No Chat Reports** (sem função no singleplayer). A lista completa está em [MODS-REMOVIDOS](docs/MODS-REMOVIDOS.md).
+
+### Correções
+- **Instalação nova:** o `options.txt` padrão era descartado na primeira abertura, e o mapa de teclas e a escala da interface não valiam. Agora valem.
+- **Carry On:** só carrega animais, baús, barris e Shulker Boxes. Shift + botão direito no aldeão volta a ser do Easy Villagers, e máquinas não podem mais ser carregadas, o que evita perder uma Digital Miner.
+- **Meka-Bow:** a receita do Bow Limb vinha quebrada no mod e foi recriada.
+- **Ad Astra no Modern Industrialization:** 8 receitas de Desh, Ostrum, Calorite, Ice Shard e Cheese voltam a funcionar.
+- **Veggies Delight:** as verduras voltam aos baús de vilas, minas e outras estruturas, e 5 receitas alternativas foram corrigidas.
+- **Tree Tap:** a torneira volta a extrair resina de Menril.
+- **Iron Furnaces e Iron Generators:** os itens de AllTheModium, Vibranium e Unobtainium, cujos materiais não existem no pack, saem do JEI.
+- Receitas sem alvo foram desativadas, e o log ficou mais limpo.
+
+### Teclas
+- Saem as teclas do Create, do Aeronautics, do Steam 'n' Rails e do Simple Voice Chat.
+
+### Outros
+- **Shader:** o pack volta a usar o Complementary Reimagined sem patch, já ativo na primeira abertura. Em instâncias antigas, escolha-o em **Opções → Vídeo → Shader Packs**.
+- Nova [política de versionamento](docs/VERSIONAMENTO.md), e a linha 1.x fica na branch `v1`.
+- O pack passa a ter **376 mods**.
+
 ## 1.1.20 — 02/11/2026
 
 ### Mods novos

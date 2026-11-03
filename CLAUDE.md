@@ -1,6 +1,6 @@
 # Iron Meridian
 
-Modpack de **tecnologia e construção** para **Minecraft 1.21.1 NeoForge**, singleplayer. Sem magia, exceto **Mystical Agriculture** e seus addons. É distribuído com **packwiz** a partir de `github.com/marcelofabianov/iron-meridian`, público e com licença MIT. O repositório **não tem nenhum `.jar`**.
+Modpack de **tecnologia e construção** para **Minecraft 1.21.1 NeoForge**, singleplayer, sem magia. É distribuído com **packwiz** a partir de `github.com/marcelofabianov/iron-meridian`, público e com licença MIT. O repositório **não tem nenhum `.jar`**.
 
 O usuário fala português. Responda, documente e escreva os commits em português.
 
@@ -9,12 +9,12 @@ O usuário fala português. Responda, documente e escreva os commits em portugu�
 As regras completas estão no `README.md`, em *Regras de construção do pack*.
 
 1. **Compatibilidade:** o mod precisa ter versão para **NeoForge 1.21.1**.
-2. **Sem magia:** a única exceção é o Mystical Agriculture com seus addons.
+2. **Sem magia:** sem exceções.
 3. **Sem conflitos nem duplicidade:** não adicione um mod que repete a função de outro que o pack já tem.
 4. **Dependências primeiro:** só remova um mod se nenhum outro depender dele. Confira com `python3 scripts/mods.py who-needs <modId>`.
 5. **Qualidade:** prefira mods bem avaliados e **mantidos**, com versão recente para a 1.21.1. Um mod abandonado não entra, mesmo que seja popular.
 6. **Verificação:** antes de adicionar, confira as dependências e a faixa de versão no `neoforge.mods.toml` do jar. Depois, **teste numa instância temporária**.
-7. **Fontes:** **Modrinth primeiro**, com o hash conferido. Use o CurseForge só se o mod não existir no Modrinth.
+7. **Fontes:** **Modrinth primeiro**, com o hash conferido. Use o CurseForge se o mod não existir no Modrinth ou se a versão estável mais nova só estiver lá (regra 9).
 8. **Pasta limpa:** durante os testes, os mods removidos ficam como `.disabled`, e são apagados depois que a mudança é aprovada.
 9. **Sempre a versão estável mais nova:** use a release mais recente para a 1.21.1. Beta ou alpha só entram se o mod não tiver nenhuma versão estável.
 
@@ -27,8 +27,9 @@ Ao sugerir mods:
 ## Fluxo de trabalho
 
 - **Anote no `PENDENTES.txt`.** Toda mudança é registrada nesse arquivo na raiz, que é local e fica fora do git e do pack.
+- **Versão:** toda mudança define a casa da versão pelo `docs/VERSIONAMENTO.md`. Uma versão com mudanças de vários tipos fica com a casa mais alta.
 - **Release só quando pedirem.** Nunca crie tag ou release por conta própria. O processo está na seção 9 de `docs/MANUTENCAO.md`.
-- **Commit e push só quando pedirem.** Cada mudança vai para o `main`, e quem já instalou recebe na próxima abertura.
+- **Commit e push só quando pedirem.** MINOR e PATCH vão para o `main`, e quem já instalou recebe na próxima abertura. **MAJOR nunca entra direto no `main`:** fica numa `release/X.0.0` até passar nos testes. A linha 1 está congelada na branch `v1` (1.1.20).
 - **Listas numeradas:** numere sempre as listas de mods, porque o usuário escolhe pelo número.
 - **Uma instância por vez:** ao pedir "nova instância", crie uma só. Mantenha uma instância aberta por vez.
 
@@ -47,6 +48,7 @@ python3 scripts/mods.py who-needs <modId>
 
 - O `packwiz` não está no PATH. Use `~/go/bin/packwiz`.
 - **Não use `packwiz curseforge add -y` nem `packwiz update --all`.** Eles trocam a origem das dependências e duplicam entradas.
+- Depois de `packwiz modrinth add`, confira o `git status`: ele também pode trocar a origem de uma dependência ou criar uma entrada duplicada (aconteceu com o Sophisticated Backpacks e o Productive Bees).
 - Para deixar um mod de fora das atualizações, coloque o nome e o motivo em `scripts/update-ignore.json`.
 - O `mods.py check` só compara com a mesma fonte do `.pw.toml`. Ele não avisa quando o outro site tem uma versão mais nova.
 - Use a API do Modrinth (`api.modrinth.com/v2`) com `loaders=["neoforge"]` e `game_versions=["1.21.1"]` para achar a versão estável e as dependências.
@@ -72,6 +74,7 @@ python3 scripts/mods.py who-needs <modId>
   - na tabela de principais teclas;
   - em *Sem tecla, de propósito*;
   - na seção do mod, em ordem alfabética.
+- O `configureddefaults/options.txt` precisa manter a linha `version:` no topo. Sem ela, o jogo descarta o arquivo em instalações novas.
 - O `configureddefaults/` só vale para instalações novas. Para mudar a instância do usuário, edite com o jogo fechado o `options.txt` dela **e** o perfil do Universal Keybinds, em `~/.config/JustKeybinds/profiles/default/keybinds.json`. Sem o perfil, o mod reverte as teclas.
 - Ids que começam com `gui.` (por exemplo, `gui.xaero_*`) podem ser ações no mundo, não de tela.
 - Ações que só funcionam dentro de telas não colidem com as do mundo.
@@ -98,10 +101,12 @@ O procedimento completo está na seção 6 de `docs/MANUTENCAO.md`.
 | O quê | Onde |
 |---|---|
 | Repositório | `~/Workspace/projects/iron-meridian` |
-| Instância de jogo do usuário | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-Prism/`. Mundo `saves/2026-10-21`, player "Zennd". |
+| Instância de jogo do usuário (1.x) | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-Prism/`, travada na tag `v1.1.20`. Mundo `saves/2026-10-21`, player "Zennd". |
+| Instância da 2.0 | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-2.0/`, seguindo a branch `release/2.0.0`. Mundo `saves/20261003-IM2`. |
 | Java para o javap | `~/.local/share/PrismLauncher/java/java-runtime-delta/bin/` |
 | Leitor de NBT (save, região, `level.dat`) | `~/.cache/iron-meridian/nbt.py`, com as funções `load`, `World`, `find` e `todict` |
 
+- As duas instâncias dividem o perfil global do Universal Keybinds.
 - O save só reflete o jogo depois que ele salva (Esc ou sair do mundo).
 - Não mexa na instância do usuário com o jogo aberto.
 - Não investigue dispositivos de entrada (`/dev/input`) sem pedir.
@@ -113,7 +118,7 @@ O procedimento completo está na seção 6 de `docs/MANUTENCAO.md`.
 
 - `pack.toml` e `index.toml` definem o pack.
 - `mods/*.pw.toml` tem um arquivo por mod.
-- `config/`, `defaultconfigs/` e `kubejs/` guardam configurações e scripts do pack.
+- `config/`, `defaultconfigs/` e `kubejs/` guardam configurações e scripts do pack. `kubejs/data/` substitui arquivos de dados dos mods (receitas e loot).
 - `configureddefaults/` tem padrões que só valem na primeira abertura.
 - Configurações de preferência do jogador recebem `preserve = true` no `index.toml`.
 - `scripts/`, `release/`, `docs/`, `mods.json` e este arquivo ficam no `.packwizignore`, fora do download do jogador.
