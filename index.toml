@@ -1419,26 +1419,6 @@ file = "config/jei/server/world/default/jei-server.ini"
 hash = "729cd9f0817c7870e5c22d77b4db4b5f98d78c86c6f3214dcb777f5e720ee703"
 
 [[files]]
-file = "config/jei/world/local/2026-10-21_FrontierATM/lookupHistory.json"
-hash = "58865d1d2c2aaff8092f7c1e831f04d6a400169d1110e89851cd1e89a3d5c92b"
-
-[[files]]
-file = "config/jei/world/local/2026-10-21_Technoverse/lookupHistory.json"
-hash = "0cca4ff56e4872b8aa2ec13433220bae6b8e8ef176e4d35bca0408b7675b4a62"
-
-[[files]]
-file = "config/jei/world/local/New World/lookupHistory.json"
-hash = "76f97f50aaaf5c8e07153e60afc1deaa1c7122eb6d6a92777d3a947ebe941ee3"
-
-[[files]]
-file = "config/jei/world/server/77_175_67_132_25565 (77_175_67_132)/bookmarks.json"
-hash = "0710298d40ea38aab9d6b3ea61d6268a7481c2941b4f4b7f629018071e4e8f0e"
-
-[[files]]
-file = "config/jei/world/server/77_175_67_132_25565 (77_175_67_132)/lookupHistory.json"
-hash = "e830f6b39b21ac93ec93621880ea2178abe2e04f09264fdd2754758afd4334bb"
-
-[[files]]
 file = "config/jei_mekanism_multiblocks-client.toml"
 hash = "a894dd4e86208c8c679d85078dbeaa71939fa0280dda2e4f3414658fc0f07ee6"
 
