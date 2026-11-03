@@ -1738,6 +1738,34 @@
       "pw_file": "mods/cc-tweaked.pw.toml"
     },
     {
+      "name": "Centrifuge Tiers: Reproduced",
+      "source": "modrinth",
+      "project_id": "kdj4UZE7",
+      "version_id": "GlyVB2Ru",
+      "filename": "centrifugetiersreproduced-1.21.1-0.2.5.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "9d71584c3e4f4ecabd12f3ab98481c668c32b0e00b0e0cf97386a736532761ca121fa5487fbaffeaeacaf60d2fd1c59e14d698804fefe2ac0fbc4ba5aff77137"
+      },
+      "mod_ids": {
+        "centrifugetiersreproduced": "1.21.1-0.2.5"
+      },
+      "dependencies": [
+        {
+          "mod_id": "productivebees",
+          "type": "required",
+          "range": "[1.21.1-13.6.11,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21,)"
+        }
+      ],
+      "pw_file": "mods/centrifuge-tiers-reproduced.pw.toml"
+    },
+    {
       "name": "Charging Gadgets",
       "source": "curseforge",
       "project_id": "399757",
@@ -7383,6 +7411,54 @@
       "pw_file": "mods/mss-moogs-soaring-structures.pw.toml"
     },
     {
+      "name": "Mystian Apiary",
+      "source": "modrinth",
+      "project_id": "4YKkzsCe",
+      "version_id": "M0uMLPwS",
+      "filename": "mystianapiary-neoforge-1.10.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha512",
+        "value": "f8887d87b292b1cfa622ef3e1aaa18f98927ea2840f902417dca23ba50ebd27823225910c13b1c9430eb5e569f62905f3f1cf58ce3ae0b16b2224826a08496bc"
+      },
+      "mod_ids": {
+        "mystianapiary": "1.10"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1,)"
+        },
+        {
+          "mod_id": "jei",
+          "type": "optional",
+          "range": "[19.25.0.319,20)"
+        },
+        {
+          "mod_id": "ae2",
+          "type": "optional",
+          "range": "[19,20)"
+        },
+        {
+          "mod_id": "productivelib",
+          "type": "required",
+          "range": "[1.21.0,)"
+        },
+        {
+          "mod_id": "productivebees",
+          "type": "required",
+          "range": "[1.21.1-13.10.0,)"
+        },
+        {
+          "mod_id": "patchouli",
+          "type": "optional",
+          "range": "[1.21.1-93,)"
+        }
+      ],
+      "pw_file": "mods/mystian-apiary.pw.toml"
+    },
+    {
       "name": "Naturalist",
       "source": "modrinth",
       "project_id": "F8BQNPWX",
@@ -8106,29 +8182,6 @@
         }
       ],
       "pw_file": "mods/prickle.pw.toml"
-    },
-    {
-      "name": "Prism",
-      "source": "modrinth",
-      "project_id": "1OE8wbN0",
-      "version_id": "kMcz2lDj",
-      "filename": "Prism-1.21.1-neoforge-1.0.11.jar",
-      "side": "client",
-      "hash": {
-        "format": "sha512",
-        "value": "b3539b5dba6414b5f6db126dd703a0923984c1fa11a53e50090eb1b03ec3ef3a09fc048ae2d03b8241e4d182ec4e942cc905d0f3e7366608fd8a0bb2509f55f4"
-      },
-      "mod_ids": {
-        "prism": "1.0.11"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.60,)"
-        }
-      ],
-      "pw_file": "mods/prism-lib.pw.toml"
     },
     {
       "name": "Productive Bees",

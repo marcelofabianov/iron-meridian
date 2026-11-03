@@ -2416,6 +2416,10 @@ file = "kubejs/server_scripts/flexible_item_tags.js"
 hash = "9dee624cdcf8fe00feb71857becccba728d5364379c1b6aff2ca496f4a75ca71"
 
 [[files]]
+file = "kubejs/server_scripts/iron_meridian_centrifuge_tiers.js"
+hash = "a9e31dc3e20c14b594a18b9f2e6335c399b1de5361f4dfef3ff5763d130f601a"
+
+[[files]]
 file = "kubejs/server_scripts/iron_meridian_hammer.js"
 hash = "53b10081d3b18f200c6791b05404e8787c705b0965eacc711d9427b62edcf4a2"
 
@@ -2708,6 +2712,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
+metafile = true
+
+[[files]]
+file = "mods/centrifuge-tiers-reproduced.pw.toml"
+hash = "8a833c898851cab8b40c5d3417494372888d7d3eb8c880237460bfb1750eb569"
 metafile = true
 
 [[files]]
@@ -3651,6 +3660,11 @@ hash = "ec031be91f9ae72994f066978921c8e5185b73497113087b6624eaa712b72737"
 metafile = true
 
 [[files]]
+file = "mods/mystian-apiary.pw.toml"
+hash = "7c32f4c215315d7482a687ef33d34675b5d9c110c8fe4c306238c592fcf15af3"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "607da40a1b301721af35c07c3ee5eb06f82c2a13722037d0cd7d2584ab2dbe57"
 metafile = true
@@ -3768,11 +3782,6 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
-metafile = true
-
-[[files]]
-file = "mods/prism-lib.pw.toml"
-hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
