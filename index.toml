@@ -113,22 +113,6 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
 file = "config/actuallyadditions-client.toml"
 hash = "dd5947fd245a9fbafd38aa3c5808ad636f2f762adc6e47e3e33ac009fc73d2df"
 
@@ -2360,30 +2344,6 @@ file = "config/utilitarian-server.toml"
 hash = "fa52ff50699321ce158ec4e063511030dafd4417281b6ede92d965c1abb8c7e0"
 
 [[files]]
-file = "config/voicechat/category-volumes.properties"
-hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
-
-[[files]]
-file = "config/voicechat/player-volumes.properties"
-hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
-
-[[files]]
-file = "config/voicechat/translations.properties"
-hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
-hash = "6a0d02e39e8c514d97f73e06e4641d900e29ccf70cc503c27759054dc7841d07"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "987c83fb0abec10cf4a08b1a20c89442329384a06b33e4dc22397e16d3a119a4"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "e7eeb8e5f31bd5390125a4aa266037abff3597ec117176869c7ea4bece9f0450"
 
@@ -2513,7 +2473,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "9ee1ef47d385db10d5385625502d0866fe0b0a12cb1fbd036730f30c5a6bd57b"
+hash = "10c2c52e431d6d56deb46fc0e02fde831997f9ded5b80fd072d09759d5dae7c9"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -2975,11 +2935,6 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
-metafile = true
-
-[[files]]
-file = "mods/cryonicconfig.pw.toml"
-hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
 metafile = true
 
 [[files]]
@@ -3463,11 +3418,6 @@ hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
 
 [[files]]
-file = "mods/inzhefop-core.pw.toml"
-hash = "665097b4474d7971726fc5e49a3ecede737cf18bb66da00fbccc98e620532ed0"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -3808,11 +3758,6 @@ hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
-metafile = true
-
-[[files]]
 file = "mods/no-villager-death-messages.pw.toml"
 hash = "0f3ae87b3983787763e80b37a34608a6671e762f9b6e0fc0fb496ce26acad848"
 metafile = true
@@ -3920,6 +3865,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
+file = "mods/productive-bees.pw.toml"
+hash = "668fee9b5c83dcc80ed92ebb4d7b35cc7462b1f12682ddb9ef3511f71c25dd5c"
 metafile = true
 
 [[files]]
@@ -4095,11 +4045,6 @@ metafile = true
 [[files]]
 file = "mods/simple-magnets.pw.toml"
 hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
 metafile = true
 
 [[files]]

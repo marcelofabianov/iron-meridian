@@ -2453,29 +2453,6 @@
       "pw_file": "mods/critters-and-companions.pw.toml"
     },
     {
-      "name": "Cryonic Config",
-      "source": "modrinth",
-      "project_id": "oEhQIkOs",
-      "version_id": "GW2YX76Y",
-      "filename": "cryonicconfig-neoforge-1.0.0+mc1.21.11.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "f81f268fdc5e2bd3e9e4976bbfed7faa56512870dfefdff273c2d506f45773a6e2aa083cd7947af48fbefd54b25c701bcfb9b00d551398b7e1311f07d765ab12"
-      },
-      "mod_ids": {
-        "cryonicconfig": "1.0.0+mc1.21.11"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": ""
-        }
-      ],
-      "pw_file": "mods/cryonicconfig.pw.toml"
-    },
-    {
       "name": "ChoiceTheorem's Overhauled Village",
       "source": "modrinth",
       "project_id": "fgmhI8kH",
@@ -5521,29 +5498,6 @@
       "pw_file": "mods/inventory-tweaks-refoxed.pw.toml"
     },
     {
-      "name": "inzhefop's Core",
-      "source": "curseforge",
-      "project_id": "434516",
-      "version_id": "8702521",
-      "filename": "inzhefopcore-1.0.0-neoforge-1.21.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha1",
-        "value": "2cdcb8688a42571d36764307a9e30b70eb853c8c"
-      },
-      "mod_ids": {
-        "inzhefopcore": "1.0.0"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.232,)"
-        }
-      ],
-      "pw_file": "mods/inzhefop-core.pw.toml"
-    },
-    {
       "name": "Iris Shaders",
       "source": "modrinth",
       "project_id": "YL57xq9U",
@@ -7508,29 +7462,6 @@
       "pw_file": "mods/netherportalfix.pw.toml"
     },
     {
-      "name": "No Chat Reports",
-      "source": "modrinth",
-      "project_id": "qQyHxfxd",
-      "version_id": "ZV8eL55E",
-      "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "292a3623b5addb17e9f15681a4f2534562e9882ef809e504f49da4778fafc12e21a71995b5d05554d435201f401ace1e86af50e6e26f6ce9d203a5896a1ece21"
-      },
-      "mod_ids": {
-        "nochatreports": "1.21.1-v2.9.1"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.0,)"
-        }
-      ],
-      "pw_file": "mods/no-chat-reports.pw.toml"
-    },
-    {
       "name": "No Villager Death Messages",
       "source": "modrinth",
       "project_id": "NEipHNYm",
@@ -8198,6 +8129,45 @@
         }
       ],
       "pw_file": "mods/prism-lib.pw.toml"
+    },
+    {
+      "name": "Productive Bees",
+      "source": "curseforge",
+      "project_id": "377897",
+      "version_id": "8987967",
+      "filename": "productivebees-1.21.1-13.14.0.jar",
+      "side": "both",
+      "hash": {
+        "format": "sha1",
+        "value": "55cd26599e128242da4863c7396116ae7eadbfaa"
+      },
+      "mod_ids": {
+        "productivebees": "1.21.1-13.14.0",
+        "productivelib": "1.21.1-0.2.0"
+      },
+      "dependencies": [
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.214,)"
+        },
+        {
+          "mod_id": "productivelib",
+          "type": "required",
+          "range": "[1.21.1-0.2.0,1.21.1-0.3.0)"
+        },
+        {
+          "mod_id": "geckolib",
+          "type": "optional",
+          "range": "[4.6.6,)"
+        },
+        {
+          "mod_id": "neoforge",
+          "type": "required",
+          "range": "[21.1.193,)"
+        }
+      ],
+      "pw_file": "mods/productive-bees.pw.toml"
     },
     {
       "name": "Productive Metalworks",
@@ -9244,35 +9214,6 @@
         }
       ],
       "pw_file": "mods/simple-magnets.pw.toml"
-    },
-    {
-      "name": "Simple Voice Chat",
-      "source": "modrinth",
-      "project_id": "9eGKb6K1",
-      "version_id": "2s7zUspF",
-      "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "309e3b18e299b2bccf9128dbb05c2603a9860f7cd68858d23f8fdb8265ea85ec7fb1655c95b87c0a9522ae1fd6380b26e4a4c31207f9c7af80870fcc6207abad"
-      },
-      "mod_ids": {
-        "voicechat": "1.21.1-2.6.22",
-        "voicechat_api": "2.6.20"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.0.0-beta,)"
-        },
-        {
-          "mod_id": "cloth_config",
-          "type": "optional",
-          "range": "[15.0.127,)"
-        }
-      ],
-      "pw_file": "mods/simple-voice-chat.pw.toml"
     },
     {
       "name": "Simple Weather",
