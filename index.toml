@@ -2361,7 +2361,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "a32a9e2588a2e81eaa276afd06868746d08cad589baa6201d809103b32b567e4"
+hash = "bdc0fc6a19989f6df8ef5c8adc32ec202fce259e770de7dcde9efa668c68db20"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
@@ -4073,11 +4073,6 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "bb5dc8ac909aee1955532a65145f7ebfc3a88289610298e821a974fdda5f1822"
-metafile = true
-
-[[files]]
-file = "mods/small-ships.pw.toml"
-hash = "921d02a072ec9644b1557eece1a090f0be59fae479e652b1ba9c5cd16afba8f7"
 metafile = true
 
 [[files]]

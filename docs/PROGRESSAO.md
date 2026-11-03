@@ -87,7 +87,7 @@ Para quem quer sair da base.
 2. **Regions Unexplored:** biomas com madeiras e plantas novas. A fauna vem do **Naturalist**, do **Critters and Companions**, do **Spawn** e do **Ecologics**.
 3. **The Undergarden:** portal de **tijolos de pedra** ativado com o **Catalyst**. Lá há minérios novos: cloggrum, froststeel, utherium e regalium.
 4. **Ad Astra:** **NASA Workbench** → foguete **Tier 1** (aço) → **Lua**. Tiers maiores levam a **Marte**, **Vênus e Mercúrio** e **Glacio**. Leve o **traje espacial** com oxigênio. O guia é a **Astrodux**, que fica no tomo.
-5. **Veículos:** **Immersive Vehicles** (carros e aviões, manuais no tomo), **Immersive Aircraft** e **Iron Jetpacks**. No mar, **Small Ships** para navegar rápido e encarar os navios do **Seven Seas**.
+5. **Veículos:** **Immersive Vehicles** (carros e aviões, manuais no tomo), **Immersive Aircraft** e **Iron Jetpacks**.
 6. **Combate:** as armas do **Simply Swords** e do **Mekanism: Weapons**, e as torretas do **Mekanism Turrets** para proteger a base. O **Training Dummy** e os números de dano do **Floating Damage Indicators** ajudam a comparar armas. Com o **Hostile Neural Networks**, dá para automatizar os drops dos mobs depois.
 
 ---

@@ -9363,35 +9363,6 @@
       "pw_file": "mods/simply-tooltips.pw.toml"
     },
     {
-      "name": "Small Ships",
-      "source": "modrinth",
-      "project_id": "rGWEHQrP",
-      "version_id": "2iLK0Wz6",
-      "filename": "smallships-neoforge-1.21.1-2.0.2.jar",
-      "side": "both",
-      "hash": {
-        "format": "sha512",
-        "value": "3ca7ec4a9f6800a5e9f90cb273e8495c5919c2d9a0707160a1d4391fa11c5525e3f76038f877023929d3e3104b3df79e8afc1138de0f7df64530649cb3b76d20"
-      },
-      "mod_ids": {
-        "smallships": "2.0.2",
-        "forgeconfigapiport": "21.1.0"
-      },
-      "dependencies": [
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21,)"
-        },
-        {
-          "mod_id": "neoforge",
-          "type": "required",
-          "range": "[21.1.0,)"
-        }
-      ],
-      "pw_file": "mods/small-ships.pw.toml"
-    },
-    {
       "name": "Smithing Template Viewer",
       "source": "modrinth",
       "project_id": "oJsYTCP3",

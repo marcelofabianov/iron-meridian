@@ -14,7 +14,6 @@ Estes erros aparecem no log, mas não afetam o jogo:
 - "Could not decode GlobalLootModifier ... tempad:tempad_loot_modifier" do Tempad: um ajuste de loot do próprio mod não carrega, e o resto dele funciona.
 - "Failed to parse recipe 'veggiesdelight:compat/culturaldelight/...' ... Falling back to vanilla" do KubeJS: o KubeJS lê essas receitas do jeito padrão, e elas carregam.
 - "[EnderIO] Unable to inherit the cooking recipe with ID: geore:..._shard": o Ender IO não copia as receitas de forno dos cristais do GeOre para a Alloy Smelter. Os cristais continuam derretendo no forno e no alto-forno.
-- "Cannot call getFullPath() on non-file config ... smallships-server.toml" do Small Ships, seguido de "Uncaught exception in server thread": acontece ao fechar o mundo, depois de salvar.
 - "FTBQuestsJEIIntegration ... NoClassDefFoundError" do FTB XMod Compat: é a integração com o FTB Quests, que não está no pack. O resto do mod funciona.
 - "Cannot invoke MachineRecipeType.getPath()" e "Caught an error getting an Ingredient's tooltip" com o Processing Array: o Tesseract API falha ao montar a dica desse item no JEI.
 - "Couldn't load advancements: dungeons_arise:..." do When Dungeons Arise: duas conquistas do próprio mod não carregam.

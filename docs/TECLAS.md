@@ -48,7 +48,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 23 | **Alt + H** | Pairar | Iron Jetpacks |
 | 24 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
 | 25 | **Alt + B** | Impulso | Immersive Aircraft |
-| 26 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
+| 26 | **Alt + R** | Desmontar (avião) | Immersive Aircraft |
 | 27 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
 | 28 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
 | 29 | **F4** | Calculadora (item sob o cursor). Fica numa tecla que não se digita: dentro das telas o SCC ignora o Alt, e o C abria a calculadora no meio de caixas de texto (Flux Networks, Logistics Network). | SCC |
@@ -556,13 +556,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Tecla | Ação | Onde |
 |---|---|---|
 | G | Cycle Tooltip Tab | Jogo |
-
-### Small Ships
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| F | cannon barrel enter | Jogo |
-| Alt + R | Toggle Sail | Jogo |
 
 ### Sophisticated Backpacks
 
