@@ -2043,34 +2043,6 @@ file = "config/mtsconfigclient.json"
 hash = "d35bf087bbf8d2ef45798363116d019213d0fc2cf712a9c395999f6b03019c9f"
 
 [[files]]
-file = "config/mysticalagradditions-common.toml"
-hash = "f2e58b537a0fc500633555d19641cbd3746dcc62eb6e3b4461e4af8b451607bb"
-
-[[files]]
-file = "config/mysticalagriculture-common.toml"
-hash = "5f70c9de37c320ec97211d46d91117139466587a4fa7593a89686cbed11a4895"
-
-[[files]]
-file = "config/mysticalcustomization/configure-augments.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-crops.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-mobsoultypes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-tiers.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/mysticalcustomization/configure-types.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/naturescompass-client.toml"
 hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
 
@@ -4331,31 +4303,6 @@ metafile = true
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
 hash = "ec031be91f9ae72994f066978921c8e5185b73497113087b6624eaa712b72737"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agradditions.pw.toml"
-hash = "c21a30355023622d42ba9386ce24fa814473a651ff0f9abd949946f32e1ef86c"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture-tiered-crystals.pw.toml"
-hash = "6ebdd8055c2b920b60c5c7734e7ada08f42f76d36d2d157cdfab2e4275152986"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "27f1f04ff481189d2c1d725a07c791f2f19e10b5c68a0180a4e61a07e2d5a636"
-metafile = true
-
-[[files]]
-file = "mods/mystical-automation.pw.toml"
-hash = "a092b8ae171eb9c7d690d4de5abdc7da701c0406e59ceebfafa4eb896b524524"
-metafile = true
-
-[[files]]
-file = "mods/mystical-customization.pw.toml"
-hash = "219ff3a5001c0ec619f7cc8ef5eb3aa6a836e3738e734c384c6376efeacfbf21"
 metafile = true
 
 [[files]]
