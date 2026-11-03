@@ -1543,14 +1543,6 @@ file = "config/lootr-common.toml"
 hash = "8fd21bdb52b2aebee4df8cacfadbe2c6b3383060a5770b9f2c7df0de3e6f1715"
 
 [[files]]
-file = "config/matc-client.toml"
-hash = "80e4aa92bc76bc1d9465697cff88d61256fd23aac737a78f539a0115c6aed882"
-
-[[files]]
-file = "config/matc-server.toml"
-hash = "441a7aaba6a3d0967467e736b40a8593ebe47886300089a8e31c320d9fc1f81d"
-
-[[files]]
 file = "config/mcjtylib-client.toml"
 hash = "d34e86af26ba1cca1c9326bb84e866a9805834689cb01aa4d40b9fe142e3a71a"
 
@@ -1689,10 +1681,6 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
-
-[[files]]
-file = "config/offroad-server.toml"
-hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
 file = "config/openloader/options.json"
@@ -2056,14 +2044,6 @@ file = "config/simplytooltips/config.toml"
 hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 
 [[files]]
-file = "config/simulated-client.toml"
-hash = "aaeeaedb8179a8e2404a468c0b62fee76dd5becb6c87d870f206733e20009991"
-
-[[files]]
-file = "config/simulated-server.toml"
-hash = "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243"
-
-[[files]]
 file = "config/skinlayers.json"
 hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
 
@@ -2381,7 +2361,7 @@ hash = "7f51e96494d1af178d28eb6e5f998384334bbec0910d36766dc2dd9ec4e4e6c3"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "10c2c52e431d6d56deb46fc0e02fde831997f9ded5b80fd072d09759d5dae7c9"
+hash = "a32a9e2588a2e81eaa276afd06868746d08cad589baa6201d809103b32b567e4"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"

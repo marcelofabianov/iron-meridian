@@ -1,3 +1,4 @@
+version:3955
 guiScale:2
 gamma:1.0
 key_key.saveToolbarActivator:key.keyboard.unknown
@@ -9,7 +10,6 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_key.simplytooltips.capture_gif:key.keyboard.unknown
 key_key.ad_astra.open_radio:key.keyboard.unknown
-key_key.squatgrow.toggle:key.keyboard.unknown
 key_key.ftbultimine:key.mouse.4
 key_key.scc.wireless:key.keyboard.2:ALT
 key_key.toolbelt.open:key.keyboard.r
