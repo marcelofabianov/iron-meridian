@@ -2956,11 +2956,6 @@ hash = "97eb9bc2577a142d8696698c0cf77842abbace3b3817b75bce4f60905928b8cf"
 metafile = true
 
 [[files]]
-file = "mods/aeronautic-additions-and-chunkloader.pw.toml"
-hash = "635e8da6d8112f61a30aa59cceaf2acbaa4b1e366283ef724c3e19f1850fc4c3"
-metafile = true
-
-[[files]]
 file = "mods/agritech-evolved.pw.toml"
 hash = "2928c9df964b541a2304705acca240bd10514c6e3c5de1a976aae17a10f6ae7d"
 metafile = true
@@ -3073,11 +3068,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
-metafile = true
-
-[[files]]
-file = "mods/bellsandwhistles.pw.toml"
-hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
@@ -3211,16 +3201,6 @@ hash = "3f6e74711a0c2677548ec3a5ef36a3fbf79b5a9f2b406aab73b1ca678fc518f9"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel-patcher.pw.toml"
-hash = "caab0399294fca902849b8eb653f56840bc107d5dbd0b0cbaab3d60ca4cc01f9"
-metafile = true
-
-[[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "48d92eb61acf8e2b6b1a659765d6ee1386bf439cf32f8de0dfa6eb0d737f7778"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
@@ -3276,11 +3256,6 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
-metafile = true
-
-[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
@@ -3298,171 +3273,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "f13994485d9005720181e64c20c8b20204edea6749030877fdcbe0b6fd6de443"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-automated-logistics.pw.toml"
-hash = "39c088076ac598ef07bb287d525160504cb3f6aad61931a45beecd7cf4d9b7c2"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-climbable-rope.pw.toml"
-hash = "914f2efb2afa0113d5936b0e721fb5c291abb9c2e66944f33fc33be8e33c8a89"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-ftb-chunks.pw.toml"
-hash = "97ed9e6dd94e736065bd8706c4a87724968c841c4178ac8ff10c227d4ed15b5a"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-mekanism-compatibility.pw.toml"
-hash = "ee6117ffe4f55e4d01eae338487ec52295ab6703d82809ce56fd76c8c1e4e3a9"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
-hash = "f48e510a46ac7eb43449bce349474e671b534e9a700ad4ccdf56ca21c5241fce"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
-metafile = true
-
-[[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "a8d1d4b99a72b13a777be7ced80daecb154d0e94d64dd84d9b09857e96b4e0d2"
-metafile = true
-
-[[files]]
-file = "mods/create-aquatic-ambitions.pw.toml"
-hash = "ad732ada7e42c44f0d5eaf45f5edfb7e90bc615ba6e50a3bb974250dfb36e83f"
-metafile = true
-
-[[files]]
-file = "mods/create-bionics.pw.toml"
-hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
-metafile = true
-
-[[files]]
-file = "mods/create-central-kitchen.pw.toml"
-hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
-metafile = true
-
-[[files]]
-file = "mods/create-configurable-crushing-wheel.pw.toml"
-hash = "7aaabe2566cff6ce0fc4c5570844040a96f5e48cdbd28786b77a85c3e10ea34e"
-metafile = true
-
-[[files]]
-file = "mods/create-connected.pw.toml"
-hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
-metafile = true
-
-[[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "9a55301a424d2e98adc9a41869c99ee139425a3d05ccfda50e1d45c0d39aae52"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
-metafile = true
-
-[[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
-metafile = true
-
-[[files]]
-file = "mods/create-dragons-plus.pw.toml"
-hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
-metafile = true
-
-[[files]]
-file = "mods/create-encased.pw.toml"
-hash = "cf8533b0310f49fc8db0a22bb56f6de8684ac817cc42ac195997abe91d37c99b"
-metafile = true
-
-[[files]]
-file = "mods/create-enchantment-industry.pw.toml"
-hash = "b8ba73d545a0deb9716610ebd1e6fb1cb6c4eae3f234aa7c1e43105eff0d4bc6"
-metafile = true
-
-[[files]]
-file = "mods/create-mechanical-companion.pw.toml"
-hash = "bb0261a22d16696bcd0b86b937b00dd49a8fe9fd8df08c7ba2818fc74d408004"
-metafile = true
-
-[[files]]
-file = "mods/create-mechanical-extruder.pw.toml"
-hash = "6e064a3988937e06dfa307c8c395c73461819f9135197bc30563c6f13d1f1da4"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
-metafile = true
-
-[[files]]
-file = "mods/create-ore-excavation.pw.toml"
-hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
-metafile = true
-
-[[files]]
-file = "mods/create-pattern-schematics.pw.toml"
-hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader.pw.toml"
-hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
-metafile = true
-
-[[files]]
-file = "mods/create-railways-navigator.pw.toml"
-hash = "572ec7a57be68aa913863f4fa3be7208ae3dbb846043f3c5890a290976b41f90"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "84cff9a09538552608e32a14b4f7f37d5ac0f4cface3953e68c3af5104217554"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "2244c6c580c41f432e02bc82a6f78af0b1777de42400d1e5b702208376c56c6f"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-n-additions-x-sable-aeronautics-compat.pw.toml"
-hash = "f14ab00e7678ba29914b0d1a45a9e200ced324886dc41f2a3f1001a7a80ae67d"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
-metafile = true
-
-[[files]]
-file = "mods/createaddoncompatibility.pw.toml"
-hash = "046a80051e21c0bab042ad1b7e27d42a7456fd36cfabf0454e9110ec345078fd"
-metafile = true
-
-[[files]]
-file = "mods/createbetterfps.pw.toml"
-hash = "b6a535a801939a78f255203f7b28319773becca20cc88348f8764f4078816300"
 metafile = true
 
 [[files]]
@@ -3533,11 +3343,6 @@ metafile = true
 [[files]]
 file = "mods/draconic-evolution.pw.toml"
 hash = "5b37e4a80e6785314d459c9763ea2c3cf22d197376a52f2e881f7ecc85777617"
-metafile = true
-
-[[files]]
-file = "mods/dragonlib.pw.toml"
-hash = "7c811f8e9168cabfadc3a37cd995a5faf25962032d86f85e49a30b635da76b76"
 metafile = true
 
 [[files]]
@@ -3871,11 +3676,6 @@ hash = "84c5f4cd596d3e74c8044920140016c7467589080df966ff0dde9208e0ecdbb5"
 metafile = true
 
 [[files]]
-file = "mods/hypertube.pw.toml"
-hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
@@ -4146,11 +3946,6 @@ hash = "5634fdbd968dfd9fd3bce683f3474d34dc5d7753ed87574d713c15b41f88e8f9"
 metafile = true
 
 [[files]]
-file = "mods/mechanicals-lib.pw.toml"
-hash = "c9e181185e3177d43fc9bd8d919288ac1bc0ce6b85e7049890f3eb231f5be10d"
-metafile = true
-
-[[files]]
 file = "mods/mega-cells.pw.toml"
 hash = "e551caa3f5272461a2c64b948499434fad21854f5edc6750ed9e432174d9d33f"
 metafile = true
@@ -4333,11 +4128,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
-metafile = true
-
-[[files]]
-file = "mods/numismatics.pw.toml"
-hash = "840eb517a83c586b9f543ab9781d4c8529b6fedf2d679f411577c7a583e50fe5"
 metafile = true
 
 [[files]]
@@ -4571,11 +4361,6 @@ hash = "673de9cae75d2ad02796368939384de0d7238cf5c782975d71848a2187f753e7"
 metafile = true
 
 [[files]]
-file = "mods/sable.pw.toml"
-hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
-metafile = true
-
-[[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "9d7d8336694339b4b2146fc183456744f646d1a050ae17f9b9f0b510f33debb5"
 metafile = true
@@ -4666,11 +4451,6 @@ hash = "6e22a8b883d01b32bfde11ea4cfbcf5d1343dad493f2eac95af98f5cf6295a37"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "6876c183b8154953471a24e47efc66b02fa88e9bf88b5ce910093d72d817fd45"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "8a6203521324d8359947340a6b39466e266d95998ebca7db3781d4439ad4fafe"
 metafile = true
@@ -4678,16 +4458,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "de0d3c65a2a8c796dce223b73e76677d3976de19491ba0cb8d801fc6b45f002d"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-create-integration.pw.toml"
-hash = "3d71ac9484fbf77d941c272d87ccd7c9e87364574a167c338b7bcacd1e1063f6"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "ad8578b80fa7acd34676059f0eb1bf8b7ae30da9512bb3b24928260ea8f430b2"
 metafile = true
 
 [[files]]
@@ -4853,11 +4623,6 @@ metafile = true
 [[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "03787f92417875e7e43a959a9eb07c2c20edbddaa7cbda50205f2c388f8b8c81"
-metafile = true
-
-[[files]]
-file = "mods/waystones-sable.pw.toml"
-hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
 metafile = true
 
 [[files]]
