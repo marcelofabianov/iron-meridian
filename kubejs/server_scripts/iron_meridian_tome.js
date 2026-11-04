@@ -24,8 +24,6 @@ const EXTRA_GUIDES = [
   'integrateddynamics:on_the_dynamics_of_integration',
   'modern_industrialization:guidebook',
   'powah:book',
-  'mts:mts.handbook_car',
-  'mts:mts.handbook_plane',
   'rftoolsbase:manual',
   'scc:guide',
   'solcarrot:food_book'

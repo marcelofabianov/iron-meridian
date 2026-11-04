@@ -3,7 +3,7 @@
 // 1 pó garantido + 80% de chance de um segundo pó. A saída usa a tag c:dusts/<metal>,
 // e o Almost Unified escolhe qual pó aparece.
 
-const SAG_METALS = ['antimony', 'nickel', 'platinum', 'silver', 'tungsten', 'zinc', 'iridium', 'titanium']
+const SAG_METALS = ['antimony', 'nickel', 'platinum', 'silver', 'tungsten', 'iridium', 'titanium']
 
 ServerEvents.recipes(event => {
   SAG_METALS.forEach(metal => {

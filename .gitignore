@@ -12,3 +12,6 @@ PENDENTES.txt
 
 # Saída do build-instance-zip.sh
 dist/
+
+# Dados por mundo e servidor do JEI, gerados em cada instalação
+config/jei/world/

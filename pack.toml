@@ -1,12 +1,12 @@
 name = "Iron Meridian"
 author = "marcelofabianov"
-version = "1.1.21"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f55387df097b57a032ff84a4b1578a212ea8aa1037c71aaa72f977369880159a"
+hash = "401b870626f257eda48b0bff747b632ec785b3522c666f39cadd6523b6333770"
 
 [versions]
 minecraft = "1.21.1"

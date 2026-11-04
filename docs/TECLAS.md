@@ -1,6 +1,6 @@
 # Mapa de teclas do Iron Meridian
 
-O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidiam, para cada tecla fazer **uma coisa** no mundo. Ele vale para quem instala o pack a partir da 1.1.9; quem já tinha o jogo instalado pode copiar as mudanças em **Opções → Controles** (veja *Como aplicar numa instância antiga*).
+O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidiam, para cada tecla fazer **uma coisa** no mundo. Ele vale para quem instala o pack a partir da 2.0.0 (nas versões 1.x, a instalação nova descartava o `options.txt` padrão); quem já tinha o jogo instalado pode copiar as mudanças em **Opções → Controles** (veja *Como aplicar numa instância antiga*).
 
 ## Como o mapa funciona
 
@@ -48,7 +48,7 @@ O pack tem mais de 450 ações com tecla. Este mapa organiza as que mais colidia
 | 23 | **Alt + H** | Pairar | Iron Jetpacks |
 | 24 | **Alt + ,** | Diminuir a potência | Iron Jetpacks |
 | 25 | **Alt + B** | Impulso | Immersive Aircraft |
-| 26 | **Alt + R** | Desmontar (avião) / vela (navio) | Immersive Aircraft, Small Ships |
+| 26 | **Alt + R** | Desmontar (avião) | Immersive Aircraft |
 | 27 | **Alt + U** | Opções da armadura pneumática | PneumaticCraft |
 | 28 | **Alt + G** | Bolso estelar (toque: guardar, segurar: pegar) | SCC |
 | 29 | **F4** | Calculadora (item sob o cursor). Fica numa tecla que não se digita: dentro das telas o SCC ignora o Alt, e o C abria a calculadora no meio de caixas de texto (Flux Networks, Logistics Network). | SCC |
@@ -70,28 +70,25 @@ As peças de armadura, os voos e os veículos dividem a mesma combinação porqu
 | 38 | **Shift + C** | Grade de crafting num bloco | Translocators |
 | 39 | **Shift + V** | Pegar aldeão | Easy Villagers |
 | 40 | **Shift + R** | Abrir os espaços do cinto | Tool Belt |
-| 41 | **Shift + G** | Óculos | Advanced Peripherals |
-| 42 | **Shift + H** | HUD da chave | Logistics Networks |
-| 43 | **Shift + K** | Editar o perfil de comandos | Command Keys |
-| 44 | **;** | Tela de aumentos | Oritech |
-| 45 | **F8** | HUD da armadura e dos itens | Mekanism |
-| 46 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
-| 47 | **F12** | Ligar/desligar o shader | Iris |
-| 48 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
-| 49 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
-| 50 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
-| 51 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
-| 52 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
+| 41 | **Shift + H** | HUD da chave | Logistics Networks |
+| 42 | **Shift + K** | Editar o perfil de comandos | Command Keys |
+| 43 | **;** | Tela de aumentos | Oritech |
+| 44 | **F8** | HUD da armadura e dos itens | Mekanism |
+| 45 | **F10** | Livro-guia Oracle Index | Oritech e MFFS |
+| 46 | **F12** | Ligar/desligar o shader | Iris |
+| 47 | **AltGr** | Menu radial de teclas | KeyBind Bundles |
+| 48 | **Alt + T** | Abrir o terminal portátil | Integrated Terminals |
+| 49 | **Shift + X** | Usar as melhorias de interação da mochila | Sophisticated Backpacks |
+| 50 | **Shift + F8** | Menu do Punchy! (animações em primeira pessoa) | Punchy! |
+| 51 | **Shift + O** | Ligar/desligar a instalação de upgrades em lote | Omni Upgrades |
 
 ### Sem tecla, de propósito
 
 Continuam disponíveis em **Opções → Controles**, se você quiser usar:
 
-- **Simple Voice Chat** (menu, grupo, mutar, desativar, ícones): não tem uso no singleplayer.
 - Salvar e carregar barra de ferramentas (Minecraft), opções do Just Zoom.
 - Depuração de drone do capacete pneumático, recarregar shaders, Kubedex do KubeJS, gravar GIF de tooltip.
-- Rádio do Ad Astra, opções de rota do Create Railways Navigator e a tela de chunk loaders.
-- Typewriter remoto do Create Aeronautics x Curios API Compat: vinha no **Y**, que é a mineração 3x3 do Modern Industrialization.
+- Rádio do Ad Astra e a tela de chunk loaders.
 - Lista de mods do Configured: a tela também abre pelo botão **Mods** do menu.
 - Configurações do SCC: a tela abre pelo botão "SCC settings" na barra do terminal do SCC, ou com F7 dentro dele.
 - Voz do Mekanism Additions: vinha no **U**, que é o desfazer do Building Gadgets, e o servidor de voz só serve em multiplayer.
@@ -167,13 +164,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | Alt + F | Toggle Suit Flight | Jogo |
 
-### Advanced Peripherals
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Shift + G | glasses hotkey | Jogo |
-| Ctrl esquerdo | Show Description | Jogo |
-
 ### Aperture Innovations - Portal Gun
 
 | Tecla | Ação | Onde |
@@ -211,12 +201,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | G | Settings Menu | Jogo |
 | U | Undo | Jogo |
 
-### Climbable Ropes for Create Aeronautics
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Lock Rope Camera | Jogo |
-
 ### Command Keys
 
 | Tecla | Ação | Onde |
@@ -238,37 +222,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | K | Compress Stack | Tela |
 | Ctrl + Tab | Refill Last | Tela |
 | Tab | Refill Last Stack | Tela |
-
-### Create
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Access Nearby Toolboxes | Jogo |
-| Alt esquerdo | Alt Modifier | Jogo |
-| Ctrl esquerdo | Ctrl Modifier | Jogo |
-| Alt esquerdo | Focus Schematic Overlay | Jogo |
-| W | Ponder | Tela |
-| Shift esquerdo | Shift Modifier | Jogo |
-
-### Create Aeronautics
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Tab | Physics Staff Rotate Mode | Jogo |
-
-### Create Stuff 'N Additions
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| ↓ | Decrease Drone Reach | Jogo |
-| Espaço | Flying | Jogo |
-| ↑ | Increase Drone Reach | Jogo |
-
-### Create: Hypertubes
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Shift esquerdo | Hypertube Escape Button | Jogo |
 
 ### Curios API
 
@@ -596,13 +549,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 |---|---|---|
 | G | Cycle Tooltip Tab | Jogo |
 
-### Small Ships
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| F | cannon barrel enter | Jogo |
-| Alt + R | Toggle Sail | Jogo |
-
 ### Sophisticated Backpacks
 
 | Tecla | Ação | Onde |
@@ -619,13 +565,6 @@ Todas as ações **com tecla**, agrupadas por mod. *Tela* indica ação que só 
 | Botão do meio do mouse | Sort Storage/Backpack | Tela |
 | ] | Transfer to Inventory | Tela |
 | [ | Transfer to Storage | Tela |
-
-### Steam 'n' Rails Neoforge
-
-| Tecla | Ação | Onde |
-|---|---|---|
-| Alt esquerdo | Open Bogey Menu | Jogo |
-| Alt esquerdo | Open Cycle Menu | Jogo |
 
 ### Super Factory Manager
 

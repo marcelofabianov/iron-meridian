@@ -11,6 +11,7 @@ docs/
 
 # Arquivos gerados pelos mods em tempo de execução
 config/almostunified/debug.json
+config/jei/world/
 PENDENTES.txt
 config/brandon3055/ResourceCache/
 config/brandon3055/contributors.json

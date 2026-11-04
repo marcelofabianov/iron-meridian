@@ -1,10 +1,6 @@
+version:3955
 guiScale:2
 gamma:1.0
-key_key.voice_chat:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
-key_key.disable_voice_chat:key.keyboard.unknown
-key_key.hide_icons:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.easy_villagers.cycle_trades:key.keyboard.x
@@ -14,8 +10,6 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.unknown
 key_key.simplytooltips.capture_gif:key.keyboard.unknown
 key_key.ad_astra.open_radio:key.keyboard.unknown
-key_key.createrailwaysnavigator.route_overlay_options:key.keyboard.unknown
-key_key.squatgrow.toggle:key.keyboard.unknown
 key_key.ftbultimine:key.mouse.4
 key_key.scc.wireless:key.keyboard.2:ALT
 key_key.toolbelt.open:key.keyboard.r
@@ -48,7 +42,6 @@ key_key.scc.settings:key.keyboard.unknown
 key_key.scc.job_details:key.keyboard.k:ALT
 key_key.easy_villagers.pick_up:key.keyboard.v:SHIFT
 key_key.toolbelt.slot:key.keyboard.r:SHIFT
-key_keybind.advancedperipherals.glasses_hotkey:key.keyboard.g:SHIFT
 key_key.logisticsnetworks.toggle_wrench_hud:key.keyboard.h:SHIFT
 key_key.commandkeys.main.edit:key.keyboard.k:SHIFT
 key_key.scc.hole:key.keyboard.delete:ALT
@@ -62,7 +55,6 @@ key_gui.xaero_enlarge_map:key.keyboard.z:SHIFT
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_key.craftingGrid:key.keyboard.c:SHIFT
 key_key.oritech.augment_screen:key.keyboard.semicolon
-key_key.smallships.ship_sail:key.keyboard.r:ALT
 key_key.integratedterminals.terminal.portable.open:key.keyboard.t:ALT
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.x:SHIFT
 key_key.weather_forecast.toggle:key.keyboard.f6
@@ -74,7 +66,6 @@ key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomOut:key.keyboard.unknown
 resourcePacks:["vanilla","mod_resources","file/Vanilla-Experience-Plus-2.0.zip","file/Fancy Crops v1.3.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip"]
-key_key.aeronautics_curios_compat.remote_use:key.keyboard.unknown
 key_key.mekanismadditions.voice:key.keyboard.unknown
 key_key.punchy.tuning.axis_x:key.keyboard.unknown
 key_key.punchy.tuning.axis_y:key.keyboard.unknown
