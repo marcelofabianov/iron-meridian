@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.0.0 — em preparação
+## 2.0.0 — 03/11/2026
 
 > ⚠️ **Versão que quebra mundos.** Esta versão remove o Create e o Mystical Agriculture. Máquinas, naves, trens, decoração, plantações e minérios desses mods **somem** dos mundos 1.x.
 > - Recomendado: **começar um mundo novo**.
