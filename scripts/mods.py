@@ -96,7 +96,7 @@ def in_range(v, r):
         return True
     parts = re.findall(r"[\[\(][^\]\)]*[\]\)]", r)
     if not parts:
-        return vcmp(v, r) >= 0
+        return True  # versão sem colchetes é só recomendação no Maven e aceita qualquer uma
     for p in parts:
         body = p[1:-1]
         if "," not in body:

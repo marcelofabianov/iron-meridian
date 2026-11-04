@@ -1,5 +1,16 @@
 # Changelog
 
+## 2.1.0 — 03/11/2026
+
+### Mundo
+- **Ecologics 2.3.9:** adiciona árvores de bordo (Maple) em florestas, com xarope. Aparecem só em chunks novos.
+
+### Atualizações
+- **10 mods** para a versão estável mais nova: Agritech: Evolved 1.1.0.6, Applied Oritech 1.0.6, Balm 21.0.67, Ecologics 2.3.9, Extended Industrialization 1.16.5, KeyBind Bundles 1.5.0, Moonlight Lib 3.8.0, Sawmill 1.9.0, Sophisticated Core 1.5.25.2451 e Sophisticated Storage 1.6.15.2219.
+
+### Outros
+- `scripts/mods.py`: faixa de versão sem colchetes conta como recomendação, como no NeoForge.
+
 ## 2.0.0 — 03/11/2026
 
 > ⚠️ **Versão que quebra mundos.** Esta versão remove o Create e o Mystical Agriculture. Máquinas, naves, trens, decoração, plantações e minérios desses mods **somem** dos mundos 1.x.

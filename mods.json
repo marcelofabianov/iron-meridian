@@ -1,6 +1,6 @@
 {
   "pack": "Iron Meridian",
-  "pack_version": "2.0.0",
+  "pack_version": "2.1.0",
   "minecraft": "1.21.1",
   "loader": {
     "name": "neoforge",
@@ -510,21 +510,21 @@
       "name": "Agritech: Evolved (ATE)",
       "source": "modrinth",
       "project_id": "4dvZSdWl",
-      "version_id": "EISUJRjn",
-      "filename": "agritechevolved-1.1.0.5+mc-1.21.1.jar",
+      "version_id": "C0jolDHX",
+      "filename": "agritechevolved-1.1.0.6+mc-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "929579c619c672c13d56bfd30c90828917cf381e979580cf066566423be37b45065cc90c52d03076f63bca30abc51aca632343d54c7fc7ee91ac22cf92f716ff"
+        "value": "2e207c687cb86ac98e1fca49ec5d7328275b5c8299e0b772bb0c090e8243a95053f94c6ebc87406e8b2976dae8159f0e0790f538aa2ad3bf11e3924d0d8a4dc1"
       },
       "mod_ids": {
-        "agritechevolved": "1.1.0.5+mc-1.21.1"
+        "agritechevolved": "1.1.0.6+mc-1.21.1"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.250,)"
+          "range": "[21.1.265,)"
         }
       ],
       "pw_file": "mods/agritech-evolved.pw.toml"
@@ -961,15 +961,15 @@
       "name": "Applied Oritech",
       "source": "curseforge",
       "project_id": "1686167",
-      "version_id": "9397094",
-      "filename": "applied_oritech-1.0.5-1.21.1.jar",
+      "version_id": "9404074",
+      "filename": "applied_oritech-1.0.6-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "82f60899e495414bc5641cd4fc402bb5286f8919"
+        "value": "772a3c8d6fc2085df1e8ea0395e57c1b66d82b42"
       },
       "mod_ids": {
-        "applied_oritech": "1.0.5+1.21.1"
+        "applied_oritech": "1.0.6+1.21.1"
       },
       "dependencies": [
         {
@@ -1201,15 +1201,15 @@
       "name": "Balm",
       "source": "modrinth",
       "project_id": "MBAkmtvl",
-      "version_id": "CquiaiDj",
-      "filename": "balm-neoforge-1.21.1-21.0.66.jar",
+      "version_id": "gMedgtzL",
+      "filename": "balm-neoforge-1.21.1-21.0.67.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "0262d51c0e931d10c3dccefb3b5426a1622edecab243d4b15dce07a23309641370184776739765067d292d808242d088c6fbf249762689824eff9ba42c2d1e63"
+        "value": "ad4f4df829b1195446486df818c2c1f0bf6738cb1b30cfdbf9eae4855ce62a66b00f2dc5e0a87409f25ce4eba9bd5c94e1b10d1940af451d5ef7dd7f4b3d8ebd"
       },
       "mod_ids": {
-        "balm": "21.0.66",
+        "balm": "21.0.67",
         "kuma_api": "21.0.8"
       },
       "dependencies": [
@@ -2905,21 +2905,31 @@
       "name": "Ecologics",
       "source": "modrinth",
       "project_id": "NCKpPR0Z",
-      "version_id": "62SFTuDx",
-      "filename": "ecologics-1.21.1-2.3.8.jar",
+      "version_id": "SJySxVHt",
+      "filename": "Ecologics-NeoForge-1.21.1-2.3.9.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "995d0a255b7882cf3288c1d174fde923bd88ef0ad02f750e0c2f1b88bae01f721c9a64a02b12b27ba23c4fe968a0297c8a926b2c5da4d69392987a41b686aacf"
+        "value": "7985e33f4b261ec6693ceebef18223ec95fc88dc84a7f83bdd53b83ddb1675e0802abf3b4208c88a43718b8c40246defb682844c269f87ac1a89f4bc75d4fb87"
       },
       "mod_ids": {
-        "ecologics": "2.3.8"
+        "ecologics": "2.3.9"
       },
       "dependencies": [
         {
           "mod_id": "neoforge",
           "type": "required",
-          "range": "[21.1.264,)"
+          "range": "[21.1.264,22)"
+        },
+        {
+          "mod_id": "farmersdelight",
+          "type": "optional",
+          "range": "1.21.1"
+        },
+        {
+          "mod_id": "vanillabackport",
+          "type": "optional",
+          "range": "1.21.1"
         }
       ],
       "pw_file": "mods/ecologics.pw.toml"
@@ -3532,15 +3542,15 @@
       "name": "Extended Industrialization",
       "source": "modrinth",
       "project_id": "CCM0U9YU",
-      "version_id": "rtmKKvYg",
-      "filename": "extended-industrialization-1.16.4-1.21.1.jar",
+      "version_id": "5yzbZ1iI",
+      "filename": "extended-industrialization-1.16.5-1.21.1.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "1fd57b1ebb67e81fa40e212b04a7b340ad6cc76750130c2583fbc1cb8b000d0f71284fc10273d9db5b491aa48c99809bcd30b3a3c3fb6bbb8ba5c529600bbdab"
+        "value": "5d4adf2a592434be51e563ec67de8be8a328b777ddab595f37ef45c10012e4b6a944233c776171794608cf56e03b43930bfcda7b07ab6180573e844ec8ebb908"
       },
       "mod_ids": {
-        "extended_industrialization": "1.16.4-1.21.1"
+        "extended_industrialization": "1.16.5-1.21.1"
       },
       "dependencies": [
         {
@@ -3551,7 +3561,7 @@
         {
           "mod_id": "modern_industrialization",
           "type": "required",
-          "range": "[2.5.10-, 2.6-)"
+          "range": "[2.5.12-, 2.6-)"
         },
         {
           "mod_id": "emi",
@@ -3561,7 +3571,7 @@
         {
           "mod_id": "tesseract_api",
           "type": "required",
-          "range": "[1.12.18-, 1.13-)"
+          "range": "[1.12.20-, 1.13-)"
         },
         {
           "mod_id": "accessories",
@@ -5875,15 +5885,15 @@
       "name": "KeyBind Bundles",
       "source": "curseforge",
       "project_id": "1172594",
-      "version_id": "7508312",
-      "filename": "keybindbundles-1.4.0.jar",
+      "version_id": "9425844",
+      "filename": "keybindbundles-1.5.0.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "02a9c2a3faf06eb46a0ec56cc2df7302e568ce27"
+        "value": "afa2e96a75ade331588528ddf63983951f788e87"
       },
       "mod_ids": {
-        "keybindbundles": "1.4.0"
+        "keybindbundles": "1.5.0"
       },
       "dependencies": [
         {
@@ -7116,15 +7126,15 @@
       "name": "Moonlight Lib",
       "source": "modrinth",
       "project_id": "twkfQtEc",
-      "version_id": "fAIfWX6M",
-      "filename": "moonlight-1.21.1-3.7.2-neoforge.jar",
+      "version_id": "6F5EyGym",
+      "filename": "moonlight-1.21.1-3.8.0-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "b4e8efba91e5f46729928335cce8952ad70af3e33b851e8cf4887a24346f7bbdfe3609f8cc482f76a715aa050bf39e7048ee97b33183e5c358f149bc3678183c"
+        "value": "102431d72458139836b6ddbd8bbae009ea2d13b7eeb4d9b72b4630aac0a0b75839a5dc5598129051339b821fb9e5f1441b18df3535f0c4ce03610820fd06bbae"
       },
       "mod_ids": {
-        "moonlight": "1.21.1-3.7.2",
+        "moonlight": "1.21.1-3.8.0",
         "codecui": "1.21.1-1.4.7"
       },
       "dependencies": [
@@ -9377,15 +9387,15 @@
       "name": "Sophisticated Core",
       "source": "curseforge",
       "project_id": "618298",
-      "version_id": "9385313",
-      "filename": "sophisticatedcore-1.21.1-1.5.23.2446.jar",
+      "version_id": "9409247",
+      "filename": "sophisticatedcore-1.21.1-1.5.25.2451.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "bcac56c7b5ca2795923982de590eaf0c73468ae8"
+        "value": "3b6d2e72d6b4b62f743f91c736c0f4c16ca19f6a"
       },
       "mod_ids": {
-        "sophisticatedcore": "1.5.23"
+        "sophisticatedcore": "1.5.25"
       },
       "dependencies": [
         {
@@ -9405,21 +9415,21 @@
       "name": "Sophisticated Storage",
       "source": "curseforge",
       "project_id": "619320",
-      "version_id": "9385611",
-      "filename": "sophisticatedstorage-1.21.1-1.6.13.2216.jar",
+      "version_id": "9409326",
+      "filename": "sophisticatedstorage-1.21.1-1.6.15.2219.jar",
       "side": "both",
       "hash": {
         "format": "sha1",
-        "value": "d826985029b8eab3fd31448334fe7b3626a010fa"
+        "value": "2dc332fb7f84f7654a21f925a48fc54b8eced7ed"
       },
       "mod_ids": {
-        "sophisticatedstorage": "1.6.13"
+        "sophisticatedstorage": "1.6.15"
       },
       "dependencies": [
         {
           "mod_id": "sophisticatedcore",
           "type": "required",
-          "range": "[1.5.23,)"
+          "range": "[1.5.25,)"
         },
         {
           "mod_id": "jei",
@@ -10210,15 +10220,15 @@
       "name": "Sawmill",
       "source": "modrinth",
       "project_id": "WRaRZdTd",
-      "version_id": "vX4jdWHb",
-      "filename": "sawmill-1.21-1.8.1-neoforge.jar",
+      "version_id": "ZMKDCsBW",
+      "filename": "sawmill-1.21-1.9.0-neoforge.jar",
       "side": "both",
       "hash": {
         "format": "sha512",
-        "value": "8531d70d8d79f975ad772d42cf487f5164584c6cb62c106b136b97c42802d9b00c37a6d70e66e3c035d54320aa6e8178b897aea47e038f578734070a514530ab"
+        "value": "4ac8346900b13dd08088acc0f66b295118a89dbf2fe5b5d15d34dd61c967a79aa09db5b20916a059b1c09e491db1831fd8c13490021179ab9c833f5626d55f26"
       },
       "mod_ids": {
-        "sawmill": "1.21-1.8.1"
+        "sawmill": "1.21-1.9.0"
       },
       "dependencies": [
         {

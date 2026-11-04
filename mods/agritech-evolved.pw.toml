@@ -1,13 +1,13 @@
 name = "Agritech: Evolved (ATE)"
-filename = "agritechevolved-1.1.0.5+mc-1.21.1.jar"
+filename = "agritechevolved-1.1.0.6+mc-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4dvZSdWl/versions/EISUJRjn/agritechevolved-1.1.0.5%2Bmc-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/4dvZSdWl/versions/C0jolDHX/agritechevolved-1.1.0.6%2Bmc-1.21.1.jar"
 hash-format = "sha512"
-hash = "929579c619c672c13d56bfd30c90828917cf381e979580cf066566423be37b45065cc90c52d03076f63bca30abc51aca632343d54c7fc7ee91ac22cf92f716ff"
+hash = "2e207c687cb86ac98e1fca49ec5d7328275b5c8299e0b772bb0c090e8243a95053f94c6ebc87406e8b2976dae8159f0e0790f538aa2ad3bf11e3924d0d8a4dc1"
 
 [update]
 [update.modrinth]
 mod-id = "4dvZSdWl"
-version = "EISUJRjn"
+version = "C0jolDHX"
