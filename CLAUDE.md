@@ -102,7 +102,7 @@ O procedimento completo está na seção 6 de `docs/MANUTENCAO.md`.
 |---|---|
 | Repositório | `~/Workspace/projects/iron-meridian` |
 | Instância de jogo do usuário (1.x) | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-Prism/`, travada na tag `v1.1.20`. Mundo `saves/2026-10-21`, player "Zennd". |
-| Instância da 2.0 | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-2.0/`, seguindo a branch `release/2.0.0`. Mundo `saves/20261003-IM2`. |
+| Instância da 2.0 | Prism, `~/.local/share/PrismLauncher/instances/IronMeridian-2.0/`, seguindo o `main`. Mundo `saves/20261003-IM2`. |
 | Java para o javap | `~/.local/share/PrismLauncher/java/java-runtime-delta/bin/` |
 | Leitor de NBT (save, região, `level.dat`) | `~/.cache/iron-meridian/nbt.py`, com as funções `load`, `World`, `find` e `todict` |
 
